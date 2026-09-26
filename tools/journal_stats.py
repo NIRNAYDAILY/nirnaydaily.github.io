@@ -44,13 +44,14 @@ def stats(month):
 
     # Judgments & orders digest
     dig = [(k, e) for k, e in editions(load("digest.json"), load("digest-archive.json", [])) if inm(k)]
-    per_day = collections.Counter(); courts = collections.Counter(); kinds = collections.Counter()
+    per_day = collections.Counter(); courts = collections.Counter(); kinds = collections.Counter(); tags = collections.Counter()
     sc = hc = dc = 0; cases = []
     for k, e in dig:
         for ch in e.get("chapters", []):
             for p in ch.get("pages", []):
                 for it in p.get("items", []):
                     per_day[k] += 1; kinds[it.get("kind", "")] += 1
+                    for t in (it.get("tag") or "Other").split(" / ")[:1]: tags[t.strip()] += 1
                     if ch["id"] == "sc": sc += 1; courts["Supreme Court"] += 1
                     elif ch["id"] == "hc": hc += 1; courts[(p.get("court") or "High Court") + " HC"] += 1
                     else: dc += 1
@@ -58,7 +59,7 @@ def stats(month):
             cases.append({"date": k, "court": h.get("court"), "caseName": h.get("caseName"), "text": h.get("text")})
     S["digest"] = {"editions": len(dig), "items": sc + hc + dc, "supremeCourt": sc, "highCourts": hc, "districtCourts": dc,
                    "highCourtsCovered": len([c for c in courts if c.endswith(" HC")]),
-                   "byCourt": courts.most_common(), "byKind": kinds.most_common(),
+                   "byCourt": courts.most_common(), "byKind": kinds.most_common(), "byArea": tags.most_common(),
                    "perDay": {k: per_day[k] for k in sorted(per_day)}, "highlights": cases}
 
     # Tribunals

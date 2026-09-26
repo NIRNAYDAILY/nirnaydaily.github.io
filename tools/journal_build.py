@@ -1,34 +1,41 @@
 #!/usr/bin/env python3
-"""Build the Nirnay Daily Monthly Journal.
+"""Build the Nirnay Daily Monthly Journal – a law-only newspaper of 10+ pages.
 
-  python3 tools/journal_build.py 2026-09 [--ig OUT.html]
+  python3 tools/journal_build.py 2026-09 [--restat]
 
-Reads  data/journal/<month>.json   (articles written by the editor; see SCHEMA below)
-Adds   the month's numbers from tools/journal_stats.py (saved into the JSON the first time, so
-       a re-build later shows the same figures even after archives are trimmed)
-Writes journal/<month>.html        (newspaper page on the website)
-       journal/index.html          (list of all issues)
-       --ig OUT.html               (1080x1350 Instagram slides, rendered to PNG by journal_render.js)
+Reads  data/journal/<month>.json  (written by the editor – SCHEMA below)
+Adds   the month's law statistics from tools/journal_stats.py (stored in the JSON the first time)
+Writes journal/<month>.html  – every page is 1080x1350 (Instagram 4:5). The same file is
+       shown on the website, printed to PDF, and cut into Instagram slides by journal_render.js.
+       journal/index.html   – list of issues
 
-SCHEMA of data/journal/<month>.json
+Page order: cover (lead landmark) → lead continued → articles in the order given (landmark
+judgments first, then Supreme Court, High Courts, district courts, tribunals) → Law & Policy →
+two pictograph pages → In Brief → back page (email + Instagram only).
+
+SCHEMA of data/journal/<month>.json – LAW CONTENT ONLY (nothing about the website)
 { "month":"2026-09", "issue":"Vol. I · No. 1", "published":"2026-10-01",
-  "lead":{"kicker":"…","headline":"…","deck":"…","body":["para", …]},
-  "articles":[{"section":"Supreme Court","headline":"…","body":["para", …],
-               "cases":[{"name":"X v. Y","note":"one line","src":"url"}]}],
-  "editor":{"headline":"…","body":["para"]},
-  "ahead":["what readers can expect next month", …] }
+  "lead":    ARTICLE,                       # the month's most important judgment
+  "articles":[ARTICLE, …],                  # ordered by importance, landmark ones first (6–10)
+  "policy":  [{"cat":"Legislature|Executive & Government|Judiciary|Bar & Bar Councils|Legal Education & Careers|Other Legal News",
+               "region":"…","headline":"…","text":"2–3 sentences","src":"url","srcName":"…"}],
+  "briefs":  [{"court":"…","caseName":"…","note":"one sentence","src":"url"}] }
+ARTICLE = {"kicker":"Landmark Judgment · Supreme Court", "landmark":true|false, "court":"Supreme Court of India",
+  "caseName":"X v. Y", "citation":"…", "caseNo":"…", "coram":"…", "date":"Decided 24 Sep 2026",
+  "area":"POCSO / Family", "headline":"…", "deck":"one sentence",
+  "body":["para", …],        # 220–330 words in total (cover lead: 380–480 words, split over 2 pages)
+  "held":"what the court held, one or two sentences", "why":"why it matters, one sentence",
+  "src":"url", "srcName":"LiveLaw"}
 """
 import json, os, sys, html, calendar, glob, importlib.util
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = lambda *a: os.path.join(ROOT, *a)
 E = lambda s: html.escape(str(s if s is not None else ""), quote=True)
-SITE = "https://nirnaydaily.github.io/"
-IG = "https://www.instagram.com/nirnay_daily_/"
+IG_HANDLE, IG = "@nirnay_daily_", "https://www.instagram.com/nirnay_daily_/"
 MAIL = "nirnaydaily@gmail.com"
-# categorical palette (validated: lightness, chroma, CVD, contrast on #FBF7EF)
-C_SC, C_HC, C_DC = "#9E2A2B", "#1F6FA8", "#B7791F"
-RAMP = ["#F4E3DD", "#E6B8AE", "#D48A7E", "#B85750", "#9E2A2B", "#6E1A1C"]  # sequential, one hue
+C_SC, C_HC, C_DC = "#9E2A2B", "#1F6FA8", "#B7791F"      # validated categorical trio on #FBF7EF
+RAMP = ["#F4E3DD", "#E6B8AE", "#D48A7E", "#B85750", "#9E2A2B", "#6E1A1C"]   # one-hue sequential
 
 spec = importlib.util.spec_from_file_location("js", P("tools", "journal_stats.py"))
 js = importlib.util.module_from_spec(spec); spec.loader.exec_module(js)
@@ -36,304 +43,304 @@ js = importlib.util.module_from_spec(spec); spec.loader.exec_module(js)
 ICON = {
  "gavel": '<path d="M14 3l7 7-3 3-7-7zM9 8l7 7M4 20l7-7M2 22h9" stroke-linecap="round"/>',
  "court": '<path d="M3 10h18M5 10v8M9.5 10v8M14.5 10v8M19 10v8M2 21h20M12 3l9 5H3z" stroke-linejoin="round"/>',
+ "scale": '<path d="M12 3v18M5 7h14M5 7l-3 7h6zM19 7l-3 7h6zM8 21h8"/>',
  "news": '<rect x="3" y="4" width="15" height="16" rx="1"/><path d="M18 8h3v10a2 2 0 0 1-2 2M6 8h9M6 12h9M6 16h5"/>',
- "tribunal": '<path d="M12 3v18M5 7h14M5 7l-3 7h6zM19 7l-3 7h6zM8 21h8"/>',
  "scroll": '<path d="M7 3h11a2 2 0 0 1 2 2v2h-4M7 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V7M9 9h6M9 13h6M9 17h4"/>',
- "book": '<path d="M4 4h6a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4zM20 4h-6a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h7z"/>',
- "brief": '<rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 13h18"/>',
- "archive": '<rect x="3" y="4" width="18" height="5" rx="1"/><path d="M5 9v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V9M10 13h4"/>',
- "cal": '<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',
+ "check": '<circle cx="12" cy="12" r="9"/><path d="M8 12.5l3 3 5-6"/>',
+ "bell": '<path d="M6 16V11a6 6 0 1 1 12 0v5l2 2H4zM10 21h4"/>',
+ "pause": '<circle cx="12" cy="12" r="9"/><path d="M10 9v6M14 9v6"/>',
+ "clock": '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+ "split": '<path d="M12 3v18M5 8l-3 4 3 4M19 8l3 4-3 4"/>',
+ "refer": '<path d="M4 12h13M13 7l5 5-5 5"/>',
+ "ig": '<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/>',
+ "mail": '<rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/>',
 }
-ico = lambda k, s=28, c="currentColor": f'<svg width="{s}" height="{s}" viewBox="0 0 24 24" fill="none" stroke="{c}" stroke-width="1.7" aria-hidden="true">{ICON[k]}</svg>'
+ico = lambda k, s=28, c="currentColor", w=1.7: f'<svg width="{s}" height="{s}" viewBox="0 0 24 24" fill="none" stroke="{c}" stroke-width="{w}" aria-hidden="true">{ICON[k]}</svg>'
+KIND_ICON = {"Held": "check", "Notice": "bell", "Reserved": "pause", "Pending": "clock", "Split": "split", "Referred": "refer"}
+KIND_LABEL = {"Held": "decided", "Notice": "notice issued", "Reserved": "verdict reserved", "Pending": "interim orders", "Split": "split verdicts", "Referred": "referred to larger bench"}
 
 
-def tiles(S):
-    d, t, n, c, l, b, a = S["digest"], S["tribunals"], S["news"], S["careers"], S["library"], S["bareActs"], S["newsArchive"]
-    T = [("gavel", d["items"], "court judgments & orders summarised"),
-         ("court", 1 + d["highCourtsCovered"], "courts covered: the Supreme Court and High Courts"),
-         ("tribunal", t["items"], "tribunal rulings reported"),
-         ("news", n["items"], "Legal News stories in the 10 AM & 6 PM editions"),
-         ("scroll", l["total"], f"full Supreme Court judgments in the library (+{l['addedThisMonth']} this month)"),
-         ("book", b["central"] + b["maharashtra"], "Bare Acts, Central and Maharashtra"),
-         ("brief", c["openNow"], "career openings, exams and LLM admissions listed"),
-         ("archive", a["stories"], "stories in the News Archive since 2021")]
-    return "".join(f'<div class="tile">{ico(k)}<b>{v:,}</b><span>{E(lbl)}</span></div>' for k, v, lbl in T)
+def section_icon(a):
+    c = (a.get("court") or "").lower()
+    return "court" if "supreme" in c else ("scale" if "tribunal" in c or "nclt" in c else "gavel")
 
 
-def bars(pairs, color, n=8, w=460, label_w=170, title="", rh=26):
+# ---------------------------------------------------------------- charts
+def bars(pairs, color, n=8, w=900, label_w=300, rh=44, title=""):
     pairs = [(k, v) for k, v in pairs if v][:n]
-    if not pairs: return '<p class="empty">Nothing to show this month.</p>'
-    mx = max(v for _, v in pairs); h = rh * len(pairs) + 6; bw = w - label_w - 50; bh = round(rh * .54)
+    if not pairs: return '<p class="empty">None reported this month.</p>'
+    mx = max(v for _, v in pairs); h = rh * len(pairs) + 6; bw = w - label_w - 60; bh = round(rh * .5)
     rows = []
     for i, (k, v) in enumerate(pairs):
-        y = i * rh + 4; L = max(4, round(bw * v / mx))
-        rows.append(f'<g><title>{E(k)}: {v}</title><text x="{label_w-10}" y="{y+bh*.8+2}" text-anchor="end" class="bl">{E(k)}</text>'
-                    f'<rect x="{label_w}" y="{y+2}" width="{L}" height="{bh}" rx="3" fill="{color}"/>'
-                    f'<text x="{label_w+L+8}" y="{y+bh*.8+2}" class="bv">{v}</text></g>')
+        y = i * rh + 4; L = max(6, round(bw * v / mx))
+        rows.append(f'<g><title>{E(k)}: {v}</title><text x="{label_w-12}" y="{y+bh*.82+1}" text-anchor="end" class="bl">{E(k)}</text>'
+                    f'<rect x="{label_w}" y="{y+1}" width="{L}" height="{bh}" rx="4" fill="{color}"/>'
+                    f'<text x="{label_w+L+10}" y="{y+bh*.82+1}" class="bv">{v}</text></g>')
     return f'<svg class="chart" viewBox="0 0 {w} {h}" role="img" aria-label="{E(title)}">{"".join(rows)}</svg>'
 
 
 def icon_array(d):
     parts = [(d["supremeCourt"], C_SC, "Supreme Court"), (d["highCourts"], C_HC, "High Courts"), (d["districtCourts"], C_DC, "District courts")]
     total = sum(p[0] for p in parts)
-    if not total: return ""
-    per = 1 if total <= 120 else (2 if total <= 240 else 5)
+    if not total: return '<p class="empty">No rulings reported.</p>'
+    per = next(x for x in (1, 2, 5, 10, 20, 50) if total / x <= 150)
     cells = []
-    for n, col, lbl in parts:
-        cells += [(col, lbl)] * -(-n // per)
-    cols = 20; s = 14; g = 3; rows = -(-len(cells) // cols)
-    rects = "".join(f'<rect x="{(i%cols)*(s+g)}" y="{(i//cols)*(s+g)}" width="{s}" height="{s}" rx="3" fill="{c}"><title>{E(l)}</title></rect>' for i, (c, l) in enumerate(cells))
-    W = cols * (s + g); H = rows * (s + g)
+    for n, col, lbl in parts: cells += [(col, lbl)] * -(-n // per)
+    cols = 25; s = 28; g = 6; rows = -(-len(cells) // cols)
+    rects = "".join(f'<rect x="{(i%cols)*(s+g)}" y="{(i//cols)*(s+g)}" width="{s}" height="{s}" rx="6" fill="{c}"><title>{E(l)}</title></rect>' for i, (c, l) in enumerate(cells))
     legend = "".join(f'<span><i style="background:{c}"></i>{E(l)}&nbsp;<b>{n}</b></span>' for n, c, l in parts if n)
-    return (f'<svg class="chart" viewBox="0 0 {W} {H}" role="img" aria-label="Judgments and orders by court level">{rects}</svg>'
-            f'<div class="legend">{legend}</div><p class="note">Each square = {per} judgment{"s" if per > 1 else ""} or order{"s" if per > 1 else ""}.</p>')
+    return (f'<svg class="chart" viewBox="0 0 {cols*(s+g)} {rows*(s+g)}" role="img" aria-label="Rulings by court level">{rects}</svg>'
+            f'<div class="legend">{legend}</div><p class="note">Each square = {per} judgment{"s" if per > 1 else ""} or order{"s" if per > 1 else ""} reported.</p>')
 
 
 def month_calendar(S):
     y, m = map(int, S["month"].split("-")); per = S["digest"]["perDay"]
-    news_days = {}
-    for h in S["news"]["headlines"]:
-        news_days[h["edition"][:10]] = news_days.get(h["edition"][:10], 0) + 1
-    mx = max(list(per.values()) + [1]); s = 44; g = 5
-    first, days = calendar.monthrange(y, m)  # Monday=0
-    out = [f'<text x="{i*(s+g)+s/2}" y="12" text-anchor="middle" class="dw">{d}</text>' for i, d in enumerate("MTWTFSS")]
+    mx = max(list(per.values()) + [1]); s = 62; g = 8
+    first, days = calendar.monthrange(y, m)
+    out = [f'<text x="{i*(s+g)+s/2}" y="16" text-anchor="middle" class="dw">{d}</text>' for i, d in enumerate("MTWTFSS")]
     for day in range(1, days + 1):
-        idx = first + day - 1; x = (idx % 7) * (s + g); yy = 20 + (idx // 7) * (s + g)
-        iso = f"{S['month']}-{day:02d}"; v = per.get(iso, 0)
+        idx = first + day - 1; x = (idx % 7) * (s + g); yy = 26 + (idx // 7) * (s + g)
+        v = per.get(f"{S['month']}-{day:02d}", 0)
         fill = "#EFE6D6" if not v else RAMP[min(len(RAMP) - 1, 1 + int((len(RAMP) - 2) * v / mx))]
         ink = "#fff" if v and RAMP.index(fill) >= 3 else "#3B332A"
-        dot = f'<circle cx="{x+s-8}" cy="{yy+8}" r="3.5" fill="{C_HC}"/>' if news_days.get(iso) else ""
-        out.append(f'<g><title>{day} {calendar.month_abbr[m]}: {v} judgments & orders{", Legal News edition" if news_days.get(iso) else ""}</title>'
-                   f'<rect x="{x}" y="{yy}" width="{s}" height="{s}" rx="5" fill="{fill}"/><text x="{x+6}" y="{yy+15}" class="dn" fill="{ink}">{day}</text>'
-                   + (f'<text x="{x+s/2}" y="{yy+35}" text-anchor="middle" class="dv" fill="{ink}">{v}</text>' if v else "") + dot + "</g>")
-    rows = -(-(first + days) // 7); W = 7 * (s + g); H = 20 + rows * (s + g)
-    return (f'<svg class="chart" viewBox="0 0 {W} {H}" role="img" aria-label="Judgments and orders summarised on each day">{"".join(out)}</svg>'
-            f'<div class="legend"><span>Fewer</span>{"".join(f"<i style=background:{c}></i>" for c in RAMP[1:])}<span>More</span>'
-            f'<span style="margin-left:10px"><i style="background:{C_HC};border-radius:50%"></i>Legal News edition</span></div>')
+        out.append(f'<g><title>{day} {calendar.month_abbr[m]}: {v} rulings</title><rect x="{x}" y="{yy}" width="{s}" height="{s}" rx="8" fill="{fill}"/>'
+                   f'<text x="{x+8}" y="{yy+19}" class="dn" fill="{ink}">{day}</text>'
+                   + (f'<text x="{x+s/2}" y="{yy+50}" text-anchor="middle" class="dv" fill="{ink}">{v}</text>' if v else "") + "</g>")
+    rows = -(-(first + days) // 7)
+    return (f'<svg class="chart" viewBox="0 0 {7*(s+g)} {26+rows*(s+g)}" role="img" aria-label="Rulings reported each day">{"".join(out)}</svg>'
+            f'<div class="legend"><span>Fewer</span>{"".join(f"<i style=background:{c}></i>" for c in RAMP[1:])}<span>More rulings</span></div>')
 
 
+def kinds_row(d):
+    k = dict(d["byKind"])
+    return "".join(f'<div class="kind">{ico(KIND_ICON.get(n, "check"), 46, C_SC)}<b>{k[n]}</b><span>{E(KIND_LABEL.get(n, n))}</span></div>'
+                   for n in ["Held", "Notice", "Reserved", "Pending", "Split", "Referred"] if k.get(n))
+
+
+# ---------------------------------------------------------------- page parts
 def paras(body, cap=False):
     out = []
     for i, p in enumerate(body or []):
-        if i == 0 and cap and p:
-            out.append(f'<p><span class="cap">{E(p[0])}</span>{E(p[1:])}</p>')
-        else:
-            out.append(f"<p>{E(p)}</p>")
+        out.append(f'<p><span class="cap">{E(p[0])}</span>{E(p[1:])}</p>' if (i == 0 and cap and p) else f"<p>{E(p)}</p>")
     return "".join(out)
 
 
-def cases(cs):
-    if not cs: return ""
-    li = "".join(f'<li><b>{E(c.get("name"))}</b>{(" — " + E(c["note"])) if c.get("note") else ""}'
-                 f'{(" <a href=" + chr(34) + E(c["src"]) + chr(34) + " target=_blank rel=noopener>source</a>") if c.get("src") else ""}</li>' for c in cs)
-    return f'<ul class="cases">{li}</ul>'
+def casebox(a):
+    bits = [("Court", a.get("court")), ("Case", a.get("caseName")), ("Citation", a.get("citation")), ("Case No.", a.get("caseNo")),
+            ("Bench", a.get("coram")), ("Date", a.get("date")), ("Area", a.get("area"))]
+    return '<dl class="casebox">' + "".join(f"<dt>{k}</dt><dd>{E(v)}</dd>" for k, v in bits if v) + "</dl>"
+
+
+def heldbox(a):
+    h = (f'<div class="held"><div class="hk">{ico("check", 26, C_SC)}What the court held</div><p>{E(a["held"])}</p></div>' if a.get("held") else "")
+    w = (f'<div class="why"><div class="hk">Why it matters</div><p>{E(a["why"])}</p></div>' if a.get("why") else "")
+    s = (f'<p class="src">Source: {E(a.get("srcName") or "")} · <a href="{E(a["src"])}">{E(a["src"])}</a></p>' if a.get("src") else "")
+    return h + w + s
+
+
+def fs(body):
+    w = sum(len(p.split()) for p in (body or []))
+    return "21.5px" if w < 170 else ("20px" if w < 240 else "19px")
+
+
+def run_head(J, label):
+    return f'<div class="rh"><span>NIRNAY DAILY · निर्णय</span><span>{E(label)}</span><span>{E(J["stats"]["monthName"])}</span></div>'
+
+
+def run_foot(J, n):
+    return f'<div class="rf"><span>The Monthly Journal · {E(J.get("issue",""))}</span><span class="pn">{n}</span></div>'
 
 
 CSS = """
-:root{--ink:#221E1B;--ink2:#4A423A;--ink3:#7A6E5E;--paper:#FBF7EF;--rule:#D9CCB3;--stamp:#9E2A2B;--gold:#B7791F;
---display:"Libre Caslon Display",Georgia,serif;--serif:"Libre Caslon Text",Georgia,serif;--official:"Cinzel",Georgia,serif;
---sans:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",monospace;--deva:"Tiro Devanagari Hindi",serif}
-*{box-sizing:border-box}html{background:#E9E1D2}
-body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.65 var(--serif);max-width:1180px;margin:0 auto;box-shadow:0 0 40px rgba(60,40,10,.18)}
-a{color:var(--stamp)}
-.top{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:10px 28px;background:#221E1B;color:#fff;font:12px var(--mono)}
-.top a{color:#F3C46B;text-decoration:none}
-.mast{text-align:center;padding:26px 28px 10px;border-bottom:4px double var(--ink)}
-.mast .kick{font:600 12px var(--official);letter-spacing:.32em;color:var(--stamp)}
-.mast h1{font:400 clamp(44px,8vw,92px)/1 var(--display);margin:8px 0 4px;letter-spacing:.01em}
-.mast h1 span{font-family:var(--deva);color:var(--stamp);font-size:.6em;margin-left:.15em}
-.mast .sub{font:italic 16px var(--serif);color:var(--ink2)}
-.dateline{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:8px 28px;border-bottom:1px solid var(--ink);font:12px var(--mono);letter-spacing:.06em;text-transform:uppercase}
-main{padding:24px 28px 10px}
-.lead{display:grid;grid-template-columns:1.7fr 1fr;gap:34px;border-bottom:1px solid var(--rule);padding-bottom:24px}
-.kicker{font:600 11.5px var(--official);letter-spacing:.24em;color:var(--stamp);text-transform:uppercase;margin-bottom:6px}
-.lead h2{font:400 clamp(32px,4.4vw,52px)/1.05 var(--display);margin:0 0 10px}
-.deck{font:italic 19px/1.5 var(--serif);color:var(--ink2);margin:0 0 14px}
-.cols{column-count:2;column-gap:28px;column-rule:1px solid var(--rule)}
-.cols p,.art p{margin:0 0 12px;text-align:justify;hyphens:auto}
-.cap{float:left;font:400 64px/.8 var(--display);color:var(--stamp);margin:6px 8px 0 0}
-.panel{border:1px solid var(--rule);background:#fff;padding:16px 16px 12px}
-.panel h3,.sec h3{font:600 12px var(--official);letter-spacing:.2em;text-transform:uppercase;color:var(--stamp);margin:0 0 10px;border-bottom:1px solid var(--rule);padding-bottom:6px}
-.numbers{margin:24px 0;border-top:3px solid var(--ink);border-bottom:1px solid var(--ink);padding:16px 0}
-.numbers h3{font:600 13px var(--official);letter-spacing:.26em;text-align:center;margin:0 0 14px;text-transform:uppercase}
-.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
-.tile{display:grid;grid-template-columns:auto 1fr;grid-template-rows:auto auto;column-gap:10px;padding:10px 14px;border-left:1px solid var(--rule);color:var(--stamp)}
-.tile:nth-child(4n+1){border-left:0}
-.tile svg{grid-row:span 2;align-self:center}
-.tile b{font:400 34px/1 var(--display);color:var(--ink)}
-.tile span{font:13px/1.35 var(--sans);color:var(--ink2)}
-.pictos{display:grid;grid-template-columns:1.1fr 1fr 1fr;gap:18px;margin-bottom:24px}
+:root{--ink:#221E1B;--ink2:#4A423A;--ink3:#7A6E5E;--paper:#FBF7EF;--rule:#D9CCB3;--stamp:#9E2A2B}
+*{box-sizing:border-box}
+html{background:#E6DDCC}body{margin:0;font-family:"Libre Caslon Text",Georgia,serif;color:var(--ink)}
+.bar{position:sticky;top:0;z-index:5;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:10px 16px;background:#221E1B;color:#fff;font:13px "IBM Plex Mono",monospace}
+.bar a{color:#F3C46B;text-decoration:none}
+.stack{padding:18px 12px 40px;display:grid;gap:18px;justify-content:center}
+.pw{width:min(1080px,calc(100vw - 24px));aspect-ratio:1080/1350;position:relative;overflow:hidden;box-shadow:0 10px 30px -12px rgba(60,40,10,.45)}
+.pg{width:1080px;height:1350px;position:absolute;top:0;left:0;transform-origin:top left;transform:scale(var(--s,1));background:var(--paper);overflow:hidden}
+.pg .frame{position:absolute;inset:28px;border:3px double var(--ink);pointer-events:none}
+.pg .in{position:absolute;inset:52px 60px 96px;overflow:hidden;display:flex;flex-direction:column}
+.rh{display:flex;justify-content:space-between;font:600 15px "Cinzel",serif;letter-spacing:.18em;color:var(--ink3);border-bottom:1px solid var(--ink);padding-bottom:8px;margin-bottom:22px;flex:none}
+.rf{position:absolute;left:60px;right:60px;bottom:48px;display:flex;justify-content:space-between;border-top:1px solid var(--rule);padding-top:10px;font:15px "IBM Plex Mono",monospace;color:var(--ink3)}
+.rf .pn{font:600 18px "Cinzel",serif;color:var(--stamp)}
+.kick{font:600 17px "Cinzel",serif;letter-spacing:.24em;color:var(--stamp);text-transform:uppercase}
+.kline{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.lm{display:inline-block;margin:0 !important;background:var(--stamp);color:#fff;font:600 14px "Cinzel",serif;letter-spacing:.2em;padding:5px 12px;margin-bottom:10px}
+h2{font:400 56px/1.06 "Libre Caslon Display",serif;margin:8px 0 12px}
+.deck{font:italic 24px/1.45 "Libre Caslon Text",serif;color:var(--ink2);margin:0 0 16px}
+.cols{column-count:2;column-gap:36px;column-rule:1px solid var(--rule);font-size:19.5px;line-height:1.6}
+.cols p{margin:0 0 12px;text-align:justify;hyphens:auto}
+.cap{float:left;font:400 84px/.8 "Libre Caslon Display",serif;color:var(--stamp);margin:8px 10px 0 0}
+.casebox{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;margin:0 0 16px;padding:12px 16px;border:1px solid var(--rule);border-left:5px solid var(--stamp);background:#fff;font:16px/1.4 "IBM Plex Sans",sans-serif}
+.casebox dt{font:600 12px "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);padding-top:3px}
+.casebox dd{margin:0;color:var(--ink)}
+.held,.why{padding:14px 18px;margin-top:14px;font-size:19px;line-height:1.5}
+.held{background:#fff;border:1px solid var(--rule);border-top:4px solid var(--stamp)}
+.why{background:#221E1B;color:#EDE5D6}
+.hk{display:flex;align-items:center;gap:8px;font:600 14px "Cinzel",serif;letter-spacing:.2em;text-transform:uppercase;color:var(--stamp);margin-bottom:6px}
+.why .hk{color:#F3C46B}
+.held p,.why p{margin:0}
+.src{font:13px/1.4 "IBM Plex Mono",monospace;color:var(--ink3);margin:12px 0 0;word-break:break-all}.src a{color:var(--ink3)}
+.wm{position:absolute;right:70px;top:430px;opacity:.06;pointer-events:none}
+.push{margin-top:auto}
+/* cover */
+.mast{text-align:center;border-bottom:5px double var(--ink);padding-bottom:14px;margin-bottom:18px}
+.mast .k{font:600 18px "Cinzel",serif;letter-spacing:.34em;color:var(--stamp)}
+.mast h1{font:400 112px/1 "Libre Caslon Display",serif;margin:8px 0 4px}.mast h1 span{font-family:"Tiro Devanagari Hindi",serif;color:var(--stamp);font-size:.55em;margin-left:12px}
+.mast .sub{font:italic 22px "Libre Caslon Text",serif;color:var(--ink2)}
+.mast .d{display:flex;justify-content:space-between;font:17px "IBM Plex Mono",monospace;letter-spacing:.06em;text-transform:uppercase;border-top:1px solid var(--ink);padding-top:10px;margin-top:12px}
+.cover-grid{display:grid;grid-template-columns:1.55fr 1fr;gap:28px;min-height:0;flex:1}
+.cover-grid .cols{column-count:1;font-size:19.5px}
+.inside{border-left:1px solid var(--rule);padding-left:22px}
+.inside h3{font:600 16px "Cinzel",serif;letter-spacing:.24em;color:var(--stamp);margin:0 0 10px;text-transform:uppercase}
+.inside ol{list-style:none;margin:0;padding:0;font:17px/1.35 "Libre Caslon Text",serif}
+.inside li{display:grid;grid-template-columns:1fr auto;gap:10px;padding:9px 0;border-bottom:1px dotted var(--rule)}
+.inside li b{font:600 17px "Cinzel",serif;color:var(--stamp)}
+.inside li small{display:block;font:12px "IBM Plex Mono",monospace;letter-spacing:.06em;color:var(--ink3);text-transform:uppercase}
+/* policy + briefs */
+.plist{display:grid;gap:14px}
+.pitem{display:grid;grid-template-columns:230px 1fr;gap:16px;padding:14px 0;border-bottom:1px solid var(--rule)}
+.pitem .tag{font:600 12px "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:#fff;background:var(--c,#9E2A2B);padding:4px 8px;height:max-content;border-radius:3px;text-align:center;justify-self:start;max-width:230px}
+.pitem h4{font:400 27px/1.15 "Libre Caslon Display",serif;margin:0 0 6px}
+.pitem p{margin:0;font-size:18px;line-height:1.5;color:var(--ink2)}
+.pitem .meta{font:13px "IBM Plex Mono",monospace;color:var(--ink3);margin-top:6px}
+.briefs{column-count:2;column-gap:34px;column-rule:1px solid var(--rule)}
+.brief{break-inside:avoid;padding:0 0 14px;margin-bottom:14px;border-bottom:1px dotted var(--rule)}
+.brief .ct{font:600 12px "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--stamp)}
+.brief b{display:block;font:700 18px/1.3 "Libre Caslon Text",serif;margin:3px 0}
+.brief p{margin:0;font-size:17px;line-height:1.45;color:var(--ink2)}
+h3.sec{font:400 50px/1.05 "Libre Caslon Display",serif;margin:4px 0 16px}
+/* pictographs */
+.panel{border:1px solid var(--rule);background:#fff;padding:18px 20px;margin-bottom:18px}
+.panel h4{font:600 15px "Cinzel",serif;letter-spacing:.22em;text-transform:uppercase;color:var(--stamp);margin:0 0 12px}
 .chart{width:100%;height:auto;display:block}
-.chart .bl{font:12px var(--sans);fill:#3B332A}.chart .bv{font:600 12px var(--mono);fill:#3B332A}
-.chart .dw{font:600 10px var(--mono);fill:#7A6E5E}.chart .dn{font:600 10px var(--mono)}.chart .dv{font:400 15px var(--display)}
-.legend{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font:12px var(--sans);color:var(--ink2);margin-top:8px}
-.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.chart .bl{font:22px "IBM Plex Sans",sans-serif;fill:#3B332A}.chart .bv{font:600 22px "IBM Plex Mono",monospace;fill:#3B332A}
+.chart .dw{font:600 14px "IBM Plex Mono",monospace;fill:#7A6E5E}.chart .dn{font:600 14px "IBM Plex Mono",monospace}.chart .dv{font:400 24px "Libre Caslon Display",serif}
+.legend{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:center;font:17px "IBM Plex Sans",sans-serif;color:var(--ink2);margin-top:10px}
+.legend i{display:inline-block;width:18px;height:18px;border-radius:4px;margin-right:7px;vertical-align:-3px}
 .legend span{display:inline-flex;align-items:center}
-.note{font:12px var(--sans);color:var(--ink3);margin:6px 0 0}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--ink)}
-.art{padding:16px 18px 10px;border-left:1px solid var(--rule)}
-.art:nth-child(3n+1){border-left:0;padding-left:0}
-.art .kicker{margin-top:2px}
-.art h4{font:400 25px/1.12 var(--display);margin:0 0 8px}
-.art p{font-size:15.5px;line-height:1.6}
-.cases{margin:4px 0 10px;padding-left:18px;font:14px/1.5 var(--serif);color:var(--ink2)}
-.cases li{margin-bottom:4px}.cases a{font:12px var(--sans)}
-.side{display:grid;grid-template-columns:1fr 1fr 1fr;gap:18px;margin:10px 0 22px}
-.editor{background:#221E1B;color:#EDE5D6;padding:22px 26px;margin:6px 0 20px;display:grid;grid-template-columns:1.6fr 1fr;gap:28px}
-.editor h4{font:400 26px/1.15 var(--display);margin:0 0 8px;color:#fff}
-.editor p{margin:0 0 10px;font-size:15.5px}
-.editor .kicker{color:#F3C46B}
-.editor ul{margin:0;padding-left:18px;font-size:15px}
-.foot{border-top:4px double var(--ink);padding:14px 28px 24px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font:12.5px var(--sans);color:var(--ink2)}
-.empty{font:13px var(--sans);color:var(--ink3)}
-.noprint{}
-@media (max-width:900px){.lead,.pictos,.side,.editor{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.art{border-left:0;padding-left:0;border-top:1px solid var(--rule)}
- .tiles{grid-template-columns:repeat(2,1fr)}.tile:nth-child(odd){border-left:0}.tile:nth-child(4n+1){border-left:0}.cols{column-count:1}}
-@media (max-width:560px){main,.top,.dateline,.foot{padding-left:16px;padding-right:16px}.mast{padding:20px 16px 8px}.tile b{font-size:28px}.tile{padding:10px 8px}.editor{padding:18px 16px}}
-@media print{html{background:#fff}body{box-shadow:none}.top,.noprint{display:none}a{color:inherit;text-decoration:none}}
+.note,.empty{font:15px "IBM Plex Sans",sans-serif;color:var(--ink3);margin:6px 0 0}
+.kinds{display:flex;flex-wrap:wrap;gap:0}
+.kind{flex:1;min-width:150px;display:grid;justify-items:center;text-align:center;padding:10px 6px;border-left:1px solid var(--rule)}.kind:first-child{border-left:0}
+.kind b{font:400 50px/1 "Libre Caslon Display",serif;margin-top:6px}.kind span{font:15px "IBM Plex Sans",sans-serif;color:var(--ink2)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+/* back page */
+.back{background:#221E1B;color:#EDE5D6}.back .frame{border-color:#F3C46B}
+.back .in{justify-content:center;text-align:center;align-items:center}
+.back h1{font:400 110px/1 "Libre Caslon Display",serif;color:#fff;margin:14px 0 6px}.back h1 span{font-family:"Tiro Devanagari Hindi",serif;color:#F3C46B;font-size:.55em;margin-left:12px}
+.back .k{font:600 18px "Cinzel",serif;letter-spacing:.34em;color:#F3C46B}
+.back .q{font:italic 26px/1.5 "Libre Caslon Text",serif;max-width:760px;margin:22px auto 0;color:#D8CDBA}
+.contact{position:absolute;left:60px;right:60px;bottom:96px;display:flex;justify-content:center;gap:48px;border-top:1px solid rgba(243,196,107,.5);padding-top:22px;font:26px "IBM Plex Mono",monospace;color:#fff}
+.contact a{color:#fff;text-decoration:none;display:inline-flex;align-items:center;gap:12px}
+.back .rf{border-color:rgba(243,196,107,.3);color:#A89A84}
+@media print{@page{size:1080px 1350px;margin:0}html,body{background:#fff}.bar{display:none}.stack{padding:0;gap:0;display:block}
+ .pw{width:1080px;aspect-ratio:auto;height:1350px;box-shadow:none;break-after:page}.pg{transform:none}}
 """
 
-HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title}</title><meta name="description" content="{desc}">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Tiro+Devanagari+Hindi&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<script>window.NIRNAY_GA_ID="G-5Q7X36D16B";</script><script src="../assets/analytics.js"></script>
-<style>{css}</style></head><body>"""
+FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Tiro+Devanagari+Hindi&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">'
+SCALE = "<script>function fit(){document.querySelectorAll('.pw').forEach(w=>w.style.setProperty('--s',w.clientWidth/1080))}addEventListener('resize',fit);fit();</script>"
+
+
+def pages(J):
+    S = J["stats"]; L = J["lead"]; A = J.get("articles", []); out = []
+    pol = J.get("policy", []); br = J.get("briefs", [])
+    # plan page numbers for the contents box
+    n_pol = -(-len(pol) // 5) if pol else 0
+    n_br = -(-len(br) // 12) if br else 0
+    first_art = 3
+    toc = [(a.get("kicker", ""), a.get("headline", ""), first_art + i) for i, a in enumerate(A)]
+    p_pol = first_art + len(A); p_pic = p_pol + n_pol; p_br = p_pic + 2
+    if pol: toc.append(("Law & Policy", "Parliament, Government, Bar and legal education", p_pol))
+    toc.append(("The Month in Law", "Pictographs of the month's rulings", p_pic))
+    if br: toc.append(("In Brief", "More rulings of the month", p_br))
+    lb = L.get("body", []); cut, wc = 0, 0
+    for para in lb:
+        wc += len(para.split())
+        if cut and wc > 150: break
+        cut += 1
+    # 1 cover
+    out.append(f"""<div class="in"><header class="mast"><div class="k">The Monthly Journal of</div><h1>Nirnay Daily<span>निर्णय</span></h1>
+<div class="sub">India's courts and laws, month by month</div><div class="d"><span>{E(J.get("issue",""))}</span><span>{E(S["monthName"])}</span></div></header>
+<div class="cover-grid"><div><div class="kline">{'<span class="lm">Landmark</span>' if L.get("landmark") else ''}<span class="kick">{E(L.get("kicker"))}</span></div><h2>{E(L.get("headline"))}</h2>
+<p class="deck">{E(L.get("deck"))}</p><div class="cols">{paras(lb[:cut], cap=True)}</div><p class="note">Continued on page 2 →</p></div>
+<aside class="inside"><h3>Inside this issue</h3><ol>{"".join(f'<li><span><small>{E(k)}</small>{E(h)}</span><b>{p}</b></li>' for k, h, p in toc[:9])}</ol></aside></div></div>""")
+    # 2 lead continued
+    out.append(f"""<div class="in">{run_head(J, "Lead story")}<div class="kick">{E(L.get("kicker"))} · continued</div><h2 style="font-size:44px">{E(L.get("headline"))}</h2>
+{casebox(L)}<div class="cols" style="font-size:{fs(lb[cut:])}">{paras(lb[cut:])}</div><div class="push">{heldbox(L)}</div></div>""")
+    # articles
+    for a in A:
+        out.append(f"""<div class="in">{run_head(J, (a.get("kicker") or "").split("·")[-1].strip() or "Judgment")}
+<div class="kline">{ico(section_icon(a), 30, "#9E2A2B")}{'<span class="lm">Landmark</span>' if a.get("landmark") else ''}<span class="kick">{E(a.get("kicker"))}</span></div><h2>{E(a.get("headline"))}</h2>
+<p class="deck">{E(a.get("deck"))}</p>{casebox(a)}<div class="cols" style="font-size:{fs(a.get("body"))}">{paras(a.get("body"), cap=True)}</div><div class="push">{heldbox(a)}</div></div>""")
+    # law & policy
+    colr = {"Legislature": C_HC, "Executive & Government": "#5B4B8A", "Judiciary": C_SC, "Bar & Bar Councils": C_DC,
+            "Legal Education & Careers": "#2F7D4F", "Other Legal News": "#6B6254"}
+    for i in range(0, len(pol), 5):
+        items = "".join(f'<div class="pitem"><span class="tag" style="--c:{colr.get(x.get("cat"), "#6B6254")}">{E(x.get("cat"))}</span><div>'
+                        f'<h4>{E(x.get("headline"))}</h4><p>{E(x.get("text"))}</p><div class="meta">{E(x.get("region") or "All India")} · Source: {E(x.get("srcName"))}</div></div></div>'
+                        for x in pol[i:i + 5])
+        out.append(f'<div class="in">{run_head(J, "Law & Policy")}<div class="kick">Parliament · Government · Bar · Legal education</div><h3 class="sec">Law &amp; Policy</h3><div class="plist">{items}</div></div>')
+    # pictographs
+    d = S["digest"]
+    out.append(f"""<div class="in">{run_head(J, "The Month in Law")}<div class="kick">Pictograph</div><h3 class="sec">The month in law</h3>
+<div class="panel"><h4>Where the rulings came from · {d["items"]} judgments &amp; orders</h4>{icon_array(d)}</div>
+<div class="panel"><h4>How the cases stood</h4><div class="kinds">{kinds_row(d)}</div></div>
+<div class="panel"><h4>Rulings reported each day</h4><div style="width:64%">{month_calendar(S)}</div></div></div>""")
+    hcs = [(c.replace(" HC", ""), v) for c, v in d["byCourt"] if c.endswith(" HC")]
+    out.append(f"""<div class="in">{run_head(J, "The Month in Law")}<div class="kick">Pictograph</div><h3 class="sec">Subjects, courts and tribunals</h3>
+<div class="panel"><h4>Areas of law in the month's rulings</h4>{bars(d["byArea"], C_SC, 8, label_w=330, rh=40)}</div>
+<div class="two"><div class="panel"><h4>Busiest High Courts</h4>{bars(hcs, C_HC, 7, w=440, label_w=190, rh=40)}</div>
+<div class="panel"><h4>Tribunal rulings</h4>{bars(S["tribunals"]["byTribunal"], C_DC, 7, w=440, label_w=130, rh=40)}</div></div>
+<div class="panel"><h4>Legal developments by subject</h4>{bars(S["news"]["byCategory"], "#5B4B8A", 6, label_w=380, rh=40)}</div></div>""")
+    # briefs
+    for i in range(0, len(br), 12):
+        items = "".join(f'<div class="brief"><div class="ct">{E(x.get("court"))}</div><b>{E(x.get("caseName"))}</b><p>{E(x.get("note"))}</p></div>' for x in br[i:i + 12])
+        out.append(f'<div class="in">{run_head(J, "In Brief")}<div class="kick">More rulings of the month</div><h3 class="sec">In brief</h3><div class="briefs">{items}</div></div>')
+    # back page
+    out.append(f"""<div class="in"><div class="k">The Monthly Journal of</div><h1>Nirnay Daily<span>निर्णय</span></h1>
+<div class="k" style="letter-spacing:.2em">{E(S["monthName"])} · {E(J.get("issue",""))}</div>
+<p class="q">निर्णय — a decision; a judgment.</p></div>
+<div class="contact"><a href="{IG}">{ico("ig", 34, "#F3C46B")} {IG_HANDLE}</a><a href="mailto:{MAIL}">{ico("mail", 34, "#F3C46B")} {MAIL}</a></div>""")
+    html_pages = []
+    for i, body in enumerate(out, 1):
+        cls = "pg back" if i == len(out) else "pg"
+        foot = run_foot(J, i) if i > 1 else run_foot(J, 1)
+        html_pages.append(f'<div class="pw"><section class="{cls}" id="p{i}"><div class="frame"></div>{body}{foot}</section></div>')
+    return html_pages
 
 
 def page(J):
-    S = J["stats"]; mn = S["monthName"]; L = J["lead"]
-    arts = "".join(f'<article class="art"><div class="kicker">{E(a.get("section"))}</div><h4>{E(a.get("headline"))}</h4>'
-                   f'{paras(a.get("body"))}{cases(a.get("cases"))}</article>' for a in J.get("articles", []))
-    ed = J.get("editor") or {}
-    ahead = "".join(f"<li>{E(x)}</li>" for x in J.get("ahead", []))
-    trib = S["tribunals"]["byTribunal"]; cats = S["news"]["byCategory"]
-    return (HEAD.format(title=E(f"{mn} · Nirnay Daily Monthly Journal"), desc=E(L.get("deck", "")), css=CSS) + f"""
-<div class="top"><a href="../">← Nirnay Daily website</a><span><a href="./">All issues</a> · <a href="#" onclick="print();return false">Print / save as PDF</a></span></div>
-<header class="mast"><div class="kick">The Monthly Journal of</div><h1>Nirnay Daily<span lang="hi">निर्णय</span></h1>
-<div class="sub">India's courts, read and explained, month by month</div></header>
-<div class="dateline"><span>{E(J.get("issue",""))}</span><span>{E(mn)} issue</span><span>Free · nirnaydaily.github.io</span></div>
-<main>
-<section class="lead"><div><div class="kicker">{E(L.get("kicker"))}</div><h2>{E(L.get("headline"))}</h2><p class="deck">{E(L.get("deck"))}</p>
-<div class="cols">{paras(L.get("body"), cap=True)}</div></div>
-<aside class="panel"><h3>Where the judgments came from</h3>{icon_array(S["digest"])}</aside></section>
-<section class="numbers"><h3>The month in numbers</h3><div class="tiles">{tiles(S)}</div></section>
-<section class="pictos">
-<div class="panel"><h3>Every day's digest</h3>{month_calendar(S)}</div>
-<div class="panel"><h3>Busiest courts</h3>{bars(S["digest"]["byCourt"], C_SC, 9, title="Judgments and orders by court")}</div>
-<div class="panel"><h3>Legal News by subject</h3>{bars(cats, C_HC, 6, label_w=200, title="Legal News stories by category")}
-<h3 style="margin-top:14px">Tribunal rulings</h3>{bars(trib, C_DC, 6, label_w=120, title="Tribunal rulings by tribunal")}</div>
-</section>
-<section class="grid">{arts}</section>
-<section class="editor"><div><div class="kicker">From the editor's desk</div><h4>{E(ed.get("headline"))}</h4>{paras(ed.get("body"))}</div>
-<div><div class="kicker">Coming up</div><ul>{ahead}</ul></div></section>
-</main>
-<footer class="foot"><span>© {S["month"][:4]} Nirnay Daily · निर्णय · Figures are counted from the editions published on nirnaydaily.github.io; case summaries link to their sources.</span>
-<span>Instagram <a href="{IG}">@nirnay_daily_</a> · <a href="mailto:{MAIL}">{MAIL}</a></span></footer>
-</body></html>""")
-
-
-IG_CSS = """
-*{box-sizing:border-box}body{margin:0;background:#333}
-.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#FBF7EF;color:#221E1B;font-family:"Libre Caslon Text",Georgia,serif;margin:0 0 20px}
-.s .frame{position:absolute;inset:34px;border:3px double #221E1B}
-.s .in{position:absolute;inset:64px 70px}
-.kick{font:600 22px "Cinzel",serif;letter-spacing:.3em;color:#9E2A2B;text-transform:uppercase}
-.mh{text-align:center;border-bottom:5px double #221E1B;padding-bottom:18px}
-.mh h1{font:400 118px/1 "Libre Caslon Display",serif;margin:10px 0 6px}.mh h1 span{font-family:"Tiro Devanagari Hindi",serif;color:#9E2A2B;font-size:.55em;margin-left:14px}
-.mh .d{display:flex;justify-content:space-between;font:22px "IBM Plex Mono",monospace;letter-spacing:.06em;text-transform:uppercase;border-top:1px solid #221E1B;padding-top:12px;margin-top:12px}
-h2{font:400 70px/1.04 "Libre Caslon Display",serif;margin:28px 0 16px}
-h3{font:400 58px/1.05 "Libre Caslon Display",serif;margin:14px 0 18px}
-.deck{font:italic 32px/1.45 "Libre Caslon Text",serif;color:#4A423A;margin:0}
-p.b{font-size:31px;line-height:1.55;margin:0 0 20px;color:#2E2822}
-.tiles{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-top:26px;border-top:3px solid #221E1B}
-.tile{display:grid;grid-template-columns:auto 1fr;column-gap:18px;align-items:center;padding:22px 10px;border-bottom:1px solid #D9CCB3;color:#9E2A2B}
-.tile:nth-child(odd){border-right:1px solid #D9CCB3}
-.tile b{font:400 64px/1 "Libre Caslon Display",serif;color:#221E1B;display:block}
-.tile span{font:22px/1.3 "IBM Plex Sans",sans-serif;color:#4A423A}
-.tile svg{width:52px;height:52px;grid-row:span 2}
-.chart{width:100%;height:auto}.chart .bl{font:14px "IBM Plex Sans";fill:#3B332A}.chart .bv{font:600 14px "IBM Plex Mono";fill:#3B332A}
-.chart .dw{font:600 11px "IBM Plex Mono";fill:#7A6E5E}.chart .dn{font:600 11px "IBM Plex Mono"}.chart .dv{font:400 16px "Libre Caslon Display"}
-.legend{display:flex;flex-wrap:wrap;gap:8px 20px;font:22px "IBM Plex Sans";color:#4A423A;margin-top:14px}.legend i{display:inline-block;width:20px;height:20px;border-radius:4px;margin-right:8px;vertical-align:-3px}
-.note{font:20px "IBM Plex Sans";color:#7A6E5E}
-.cases{font:27px/1.45 "Libre Caslon Text",serif;color:#3B332A;padding-left:30px;margin:10px 0}.cases li{margin-bottom:12px}.cases a{display:none}
-.foot{position:absolute;left:70px;right:70px;bottom:62px;display:flex;justify-content:space-between;font:21px "IBM Plex Mono",monospace;color:#7A6E5E;border-top:1px solid #D9CCB3;padding-top:12px}
-.pg{font:600 20px "Cinzel",serif;letter-spacing:.2em;color:#9E2A2B}
-.end{background:#221E1B;color:#fff}.end .frame{border-color:#F3C46B}.end h2{color:#fff}.end p.b{color:#EDE5D6}.end .kick{color:#F3C46B}
-.in{display:flex;flex-direction:column}
-.pic{margin-top:auto;border-top:3px solid #221E1B;padding-top:22px;margin-bottom:40px}
-.pic.two{display:grid;grid-template-columns:1fr 1fr;gap:20px}
-.ph{font:600 20px "Cinzel",serif;letter-spacing:.2em;color:#9E2A2B;text-transform:uppercase;margin-bottom:14px}
-.pstat{display:grid;grid-template-columns:auto 1fr;column-gap:22px;align-items:center}
-.pstat svg{grid-row:span 2}.pstat b{font:400 96px/1 "Libre Caslon Display",serif;color:#221E1B}.pstat span{font:24px/1.35 "IBM Plex Sans";color:#4A423A}
-.pic .chart .bl{font:26px "IBM Plex Sans"}.pic .chart .bv{font:600 26px "IBM Plex Mono"}
-.mini{display:grid;grid-template-columns:repeat(3,1fr);margin-top:40px;border-top:3px solid #221E1B;border-bottom:1px solid #221E1B}
-.mini div{display:grid;justify-items:center;text-align:center;padding:22px 8px;border-left:1px solid #D9CCB3}.mini div:first-child{border-left:0}
-.mini b{font:400 72px/1.05 "Libre Caslon Display",serif}.mini span{font:22px "IBM Plex Sans";color:#4A423A}
-.seal{margin-top:auto;margin-bottom:40px;text-align:center}
-.tile{padding:32px 10px}
-.big{font:400 50px/1.3 "IBM Plex Mono",monospace;color:#F3C46B;margin:14px 0 30px}
-"""
-
-
-def section_picto(sec, S):
-    k = (sec or "").lower(); d = S["digest"]
-    stat = lambda icon, n, lbl: (f'<div class="pic"><div class="pstat">{ico(icon, 70, "#9E2A2B")}<b>{n:,}</b><span>{E(lbl)}</span></div></div>')
-    if "supreme" in k: return stat("gavel", d["supremeCourt"], "Supreme Court judgments and orders summarised this month")
-    if "high" in k:
-        hcs = [(c.replace(" HC", ""), v) for c, v in d["byCourt"] if c.endswith(" HC")]
-        return f'<div class="pic"><div class="ph">Busiest High Courts in the digest</div>{bars(hcs, C_HC, 6, w=900, label_w=300, rh=46)}</div>'
-    if "tribunal" in k: return f'<div class="pic"><div class="ph">Tribunal rulings reported</div>{bars(S["tribunals"]["byTribunal"], C_DC, 6, w=900, label_w=200, rh=46)}</div>'
-    if "news" in k:
-        a = S["newsArchive"]
-        return f'<div class="pic"><div class="pstat">{ico("archive", 70, "#9E2A2B")}<b>{a["stories"]:,}</b><span>stories in the News Archive, October 2021 to date</span></div></div>'
-    if "librar" in k or "bare" in k:
-        l, b = S["library"], S["bareActs"]
-        return (f'<div class="pic two"><div class="pstat">{ico("scroll", 60, "#9E2A2B")}<b>{l["total"]}</b><span>full Supreme Court judgments</span></div>'
-                f'<div class="pstat">{ico("book", 60, "#9E2A2B")}<b>{b["central"] + b["maharashtra"]}</b><span>Bare Acts: {b["central"]} Central, {b["maharashtra"]} Maharashtra</span></div></div>')
-    if "career" in k:
-        return f'<div class="pic"><div class="ph">Openings listed, by type</div>{bars(S["careers"]["bySection"], C_SC, 5, w=900, label_w=430, rh=46)}</div>'
-    return ""
-
-
-def ig(J):
-    S = J["stats"]; mn = S["monthName"]; L = J["lead"]; slides = []
-    foot = lambda i: f'<div class="foot"><span>NIRNAY DAILY · {E(mn.upper())}</span><span class="pg">{i}</span></div>'
-    slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="mh"><div class="kick">The Monthly Journal of</div>
-<h1>Nirnay Daily<span>निर्णय</span></h1><div class="d"><span>{E(J.get("issue",""))}</span><span>{E(mn)}</span></div></div>
-<div class="kick" style="margin-top:34px">{E(L.get("kicker"))}</div><h2>{E(L.get("headline"))}</h2><p class="deck">{E(L.get("deck"))}</p>
-<div class="mini">{"".join(f'<div>{ico(k, 54, "#9E2A2B")}<b>{v:,}</b><span>{E(t)}</span></div>' for k, v, t in [("gavel", S["digest"]["items"], "judgments & orders"), ("news", S["news"]["items"], "news stories"), ("brief", S["careers"]["openNow"], "career openings")])}</div>
-<div class="seal">{ico("court", 150, "#E7D8BC")}</div></div>{foot("SWIPE →")}</section>""")
-    slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">{E(mn)}</div><h3>The month in numbers</h3>
-<div class="tiles">{tiles(S)}</div></div>{foot(2)}</section>""")
-    slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">Pictograph</div><h3>Where the judgments came from</h3>
-<div style="margin-top:30px">{icon_array(S["digest"])}</div><div class="kick" style="margin-top:40px">Every day's digest</div>
-<div style="width:72%;margin-top:14px">{month_calendar(S)}</div></div>{foot(3)}</section>""")
-    n = 4
-    for a in J.get("articles", [])[:5]:
-        body = "".join(f'<p class="b">{E(p)}</p>' for p in (a.get("body") or [])[:2])
-        cs = "".join(f"<li><b>{E(c.get('name'))}</b>{(' — ' + E(c['note'])) if c.get('note') else ''}</li>" for c in (a.get("cases") or [])[:3])
-        slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">{E(a.get("section"))}</div><h3>{E(a.get("headline"))}</h3>
-{body}{f'<ul class="cases">{cs}</ul>' if cs else ''}{section_picto(a.get("section"), S)}</div>{foot(n)}</section>"""); n += 1
-    slides.append(f"""<section class="s end"><div class="frame"></div><div class="in"><div class="kick">Read the full journal</div>
-<h2>Every judgment, every day. Free.</h2><p class="b">Daily judgments and orders, full Supreme Court judgments, Bare Acts, Legal News at 10 AM and 6 PM, and a Careers Portal for law students.</p>
-<div class="big">nirnaydaily.github.io</div><p class="b">Instagram @nirnay_daily_<br>{MAIL}</p><div class="seal">{ico("court", 190, "#5A4B3A")}</div></div>{foot(n)}</section>""")
-    return f'<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Tiro+Devanagari+Hindi&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"><style>{IG_CSS}</style></head><body>{"".join(slides)}</body></html>'
+    S = J["stats"]; pg = pages(J)
+    title = f'{S["monthName"]} · Nirnay Daily Monthly Journal'
+    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
+            f'<title>{E(title)}</title><meta name="description" content="{E(J["lead"].get("headline"))}">{FONTS}'
+            f'<script>window.NIRNAY_GA_ID="G-5Q7X36D16B";</script><script src="../assets/analytics.js"></script><style>{CSS}</style></head><body>'
+            f'<div class="bar"><a href="../">← Nirnay Daily</a><span>{len(pg)} pages · <a href="./">All issues</a> · <a href="#" onclick="print();return false">Save as PDF</a></span></div>'
+            f'<main class="stack">{"".join(pg)}</main>{SCALE}</body></html>')
 
 
 def index_page():
     issues = []
     for f in sorted(glob.glob(P("data", "journal", "????-??.json")), reverse=True):
         J = json.load(open(f))
-        issues.append(f'<li><a href="{E(J["month"])}.html"><span class="kicker">{E(J.get("issue",""))}</span><b>{E(J["stats"]["monthName"])}</b>'
-                      f'<span>{E(J["lead"].get("headline"))}</span></a></li>')
-    body = "".join(issues) or '<li class="empty">The first issue will be published on 1 October 2026.</li>'
-    css = CSS + """.issues{list-style:none;padding:0;margin:20px 0;display:grid;gap:12px}.issues a{display:grid;gap:4px;padding:16px 18px;border:1px solid var(--rule);background:#fff;text-decoration:none;color:var(--ink)}
-.issues b{font:400 30px var(--display)}.issues a span:last-child{font:italic 17px var(--serif);color:var(--ink2)}"""
-    return (HEAD.format(title="Monthly Journal · Nirnay Daily", desc="Every month's work of Nirnay Daily, told as a newspaper.", css=css) +
-            f"""<div class="top"><a href="../">← Nirnay Daily website</a><span>Published on the 1st of every month</span></div>
-<header class="mast"><div class="kick">The Monthly Journal of</div><h1>Nirnay Daily<span lang="hi">निर्णय</span></h1><div class="sub">All issues</div></header>
-<main><ul class="issues">{body}</ul></main><footer class="foot"><span>© Nirnay Daily · निर्णय</span><span><a href="{IG}">@nirnay_daily_</a> · <a href="mailto:{MAIL}">{MAIL}</a></span></footer></body></html>""")
+        issues.append(f'<li><a href="{E(J["month"])}.html"><small>{E(J.get("issue",""))}</small><b>{E(J["stats"]["monthName"])}</b><span>{E(J["lead"].get("headline"))}</span></a></li>')
+    body = "".join(issues) or '<li class="soon">The first issue will be published on 1 October 2026.</li>'
+    css = """body{margin:0;background:#FBF7EF;color:#221E1B;font-family:"Libre Caslon Text",Georgia,serif}
+.bar{display:flex;justify-content:space-between;padding:10px 16px;background:#221E1B;font:13px "IBM Plex Mono",monospace;color:#fff}.bar a{color:#F3C46B;text-decoration:none}
+header{text-align:center;padding:30px 16px 14px;border-bottom:5px double #221E1B;max-width:900px;margin:0 auto}
+header .k{font:600 14px "Cinzel",serif;letter-spacing:.32em;color:#9E2A2B}header h1{font:400 clamp(48px,10vw,88px)/1 "Libre Caslon Display",serif;margin:8px 0}
+header h1 span{font-family:"Tiro Devanagari Hindi",serif;color:#9E2A2B;font-size:.55em;margin-left:10px}
+ul{list-style:none;padding:0 16px;margin:24px auto;max-width:900px;display:grid;gap:12px}
+li a{display:grid;gap:4px;padding:18px 20px;background:#fff;border:1px solid #D9CCB3;border-left:5px solid #9E2A2B;text-decoration:none;color:#221E1B}
+li small{font:600 12px "Cinzel",serif;letter-spacing:.2em;color:#9E2A2B}li b{font:400 32px "Libre Caslon Display",serif}li span{font-style:italic;color:#4A423A}
+.soon{text-align:center;font-style:italic;color:#4A423A;padding:30px}
+footer{text-align:center;padding:20px;font:14px "IBM Plex Mono",monospace;color:#7A6E5E}footer a{color:#9E2A2B}"""
+    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
+            f'<title>Monthly Journal · Nirnay Daily</title>{FONTS}<script>window.NIRNAY_GA_ID="G-5Q7X36D16B";</script><script src="../assets/analytics.js"></script><style>{css}</style></head><body>'
+            f'<div class="bar"><a href="../">← Nirnay Daily</a><span>A new issue on the 1st of every month</span></div>'
+            f'<header><div class="k">The Monthly Journal of</div><h1>Nirnay Daily<span>निर्णय</span></h1></header><ul>{body}</ul>'
+            f'<footer><a href="{IG}">{IG_HANDLE}</a> · <a href="mailto:{MAIL}">{MAIL}</a></footer></body></html>')
 
 
 def main():
@@ -343,13 +350,11 @@ def main():
         J["stats"] = js.stats(month)
         json.dump(J, open(src, "w"), ensure_ascii=False, indent=1)
     os.makedirs(P("journal"), exist_ok=True)
-    open(P("journal", f"{month}.html"), "w").write(page(J))
+    out = page(J)
+    assert "�" not in out
+    open(P("journal", f"{month}.html"), "w").write(out)
     open(P("journal", "index.html"), "w").write(index_page())
-    if "--ig" in sys.argv:
-        open(sys.argv[sys.argv.index("--ig") + 1], "w").write(ig(J))
-    for f in [P("journal", f"{month}.html")]:
-        assert "�" not in open(f).read()
-    print("built", month)
+    print("built", month, "pages:", out.count('class="pw"'))
 
 
 if __name__ == "__main__":
