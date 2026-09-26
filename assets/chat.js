@@ -207,6 +207,5 @@
     bot(`<p><b>Namaste! I'm Nirnay Mitra.</b> I can help you find anything on Nirnay Daily: a case or judgment, a Bare Act or a specific section, today's court and tribunal updates, or jobs, exams and LLM admissions.</p><p>Type your question, or try one of these:</p>`,null,
       ["Section 103 BNS","Article 21 Constitution","Latest Supreme Court judgments","Judiciary exams open now","Right to privacy","Maharashtra Rent Control Act","Jobs closing soon"]);
   }
-  function start(){ mount(); if(/[?&]mitra=1\b/.test(location.search)){ toggle(true); try{ history.replaceState(null,"",location.pathname+location.hash); }catch(e){} } }
-  if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",start); else start();
+  if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",mount); else mount();
 })();
