@@ -1,7 +1,747 @@
 {
  "year": 2024,
- "count": 24,
+ "count": 97,
  "items": [
+  {
+   "date": "2024-12-26",
+   "cat": "Other Legal News",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI constitutes committee to frame responsible AI framework for financial sector",
+   "text": "The Reserve Bank of India constituted a committee chaired by Dr. Pushpak Bhattacharyya to recommend a framework for the responsible and ethical use of artificial intelligence.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-20",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Winter Session concludes: four Bills introduced, one passed by both Houses",
+   "text": "The Winter Session of Parliament, held from November 25 to December 20, 2024, concluded with four Bills introduced. Only one Bill, the Bharatiya Vayuyan Vidheyak, 2024, was passed by both Houses.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-20",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Law and Justice",
+   "headline": "Conduct of Election Rules amended to limit public inspection of certain election papers",
+   "text": "The Ministry of Law and Justice issued the Conduct of Elections (Second Amendment) Rules, 2024, amending the Conduct of Election Rules, 1961 framed under the Representation of the People Act, 1951. The amendment changes which election papers are open to public inspection.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-20",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Bharatiya Vayuyan Vidheyak, 2024 to replace the Aircraft Act, 1934",
+   "text": "The Bharatiya Vayuyan Vidheyak, 2024, which seeks to replace the Aircraft Act, 1934, was passed by both Houses of Parliament during the Winter Session that concluded on December 20, 2024. It was the only Bill passed in the session.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-20",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Lok Sabha",
+   "headline": "Coastal Shipping Bill and Merchant Shipping Bill, 2024 introduced in Lok Sabha",
+   "text": "During the Winter Session that ended on December 20, 2024, the Coastal Shipping Bill, 2024 was introduced in Lok Sabha to regulate vessels trading in Indian coastal waters, and the Merchant Shipping Bill, 2024 was introduced to replace the Merchant Shipping Act, 1958.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-18",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Securities and Exchange Board of India",
+   "headline": "SEBI board approves changes to SME listing framework and other decisions",
+   "text": "At its board meeting, SEBI approved decisions relating to the framework for SME listings, governance of AI tools used by regulated entities, and thresholds applicable to debt-listed entities.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-17",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Lok Sabha",
+   "headline": "Constitution (129th Amendment) Bill for simultaneous elections introduced, sent to JPC",
+   "text": "The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, which provides for simultaneous elections to the Lok Sabha and State Legislative Assemblies, was introduced in Lok Sabha. It was referred to a 39-member Joint Parliamentary Committee chaired by P.P. Chaudhary.",
+   "why": "First formal legislative step towards 'One Nation, One Election'.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-17",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Lok Sabha",
+   "headline": "Union Territories Laws (Amendment) Bill, 2024 introduced to align UT assembly polls",
+   "text": "The Union Territories Laws (Amendment) Bill, 2024 was introduced in Lok Sabha to amend three laws governing Union Territory legislatures so that their elections can be held simultaneously. It has been referred to the same Joint Parliamentary Committee as the Constitution amendment Bill.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-17",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Public Liability Insurance (Amendment) Rules, 2024 raise insurer liability and relief amounts",
+   "text": "The Environment Ministry notified the Public Liability Insurance (Amendment) Rules, 2024, increasing the liability limits of insurers and specifying the relief amounts payable to victims of accidents involving hazardous substances.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Education",
+   "headline": "RTE Rules amended to permit holding back students in central government schools",
+   "text": "The Ministry of Education notified the Right of Children to Free and Compulsory Education (Amendment) Rules, 2024, which allow students in schools run by the central government to be held back in certain classes, altering the earlier no-detention approach.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-12-09",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Draft Solid Waste Management Rules, 2024 released for public comment",
+   "text": "The Environment Ministry released the draft Solid Waste Management Rules, 2024 and invited comments until February 7, 2025.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-11-26",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Coal",
+   "headline": "Coal Ministry releases draft Coal Bearing Areas (Acquisition and Development) Amendment Bill, 2024",
+   "text": "The Ministry of Coal released draft amendments to the Coal Bearing Areas (Acquisition and Development) Act. The draft provides lifetime leases for operational coal mines, integrates rehabilitation norms drawn from the 2013 land acquisition law, and creates a mechanism to denotify land for alternative uses.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-11-25",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Winter Session of Parliament begins, scheduled to run till December 20, 2024",
+   "text": "The Winter Session of Parliament commenced on November 25, 2024 with 19 sittings planned up to December 20, 2024. Bills listed for consideration included the Banking Laws (Amendment), Boilers, Bharatiya Vayuyan Vidheyak and Waqf (Amendment) Bills; Bills listed for introduction included the Merchant Shipping, Coastal Shipping and Indian Ports Bills.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-11-13",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court lays down directions on demolition of properties of accused persons",
+   "text": "In Writ Petition (Civil) No. 295 of 2022, the Supreme Court held that authorities must be satisfied that demolition is the only available option and must give the affected party at least 15 days' prior notice specifying the unauthorised construction and the grounds. The directions do not cover structures in public places or demolitions ordered by a court.",
+   "why": "Sets procedural safeguards against so-called punitive 'bulldozer' demolitions.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-11-13",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Central Electricity Regulatory Commission",
+   "headline": "CERC releases draft regulations for trading carbon credit certificates on power exchanges",
+   "text": "The Central Electricity Regulatory Commission released draft Regulations on the trading of carbon credit certificates, enabling such certificates to be traded on power exchanges. Comments were invited until December 15, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-11-08",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court (Constitution Bench)",
+   "headline": "Five-judge SC bench: government entities cannot unilaterally appoint arbitrators",
+   "text": "In Civil Appeal Nos. 9486-9487 of 2019, a five-judge bench of the Supreme Court held that clauses allowing a government entity to unilaterally appoint arbitrators in public-private contracts violate the guarantee of equality and equal protection before law under Article 14 of the Constitution.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-11-08",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Seven-judge bench lays down test for minority status (Aligarh Muslim University v. Naresh Agarwal)",
+   "text": "A seven-judge bench in Aligarh Muslim University v. Naresh Agarwal (C.A. No. 2286/2006) laid down the criteria for deciding whether an educational institution is a minority institution under Article 30, and left the question of AMU's status to a regular bench.",
+   "src": "https://www.sci.gov.in/view-pdf/?diary_no=92872006&type=j&order_date=2024-11-08&from=latest_judgements_order",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2024-11-05",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Nine-judge bench on 'material resources of the community' under Article 39(b)",
+   "text": "In Property Owners Association v. State of Maharashtra (C.A. No. 1012/2002) a nine-judge bench held by majority that not every privately owned resource is a 'material resource of the community' under Article 39(b).",
+   "src": "https://www.sci.gov.in/view-pdf/?diary_no=786291992&type=j&order_date=2024-11-05&from=latest_judgements_order",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2024-10-23",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Nine-judge bench on States' power over industrial alcohol (State of U.P. v. Lalta Prasad Vaish)",
+   "text": "A nine-judge bench of the Supreme Court in State of U.P. v. M/s Lalta Prasad Vaish and Sons (C.A. No. 151/2007) ruled on the power of States to regulate industrial alcohol, holding by majority that States retain legislative competence over it.",
+   "src": "https://www.sci.gov.in/view-pdf/?diary_no=129962005&type=j&order_date=2024-10-23&from=latest_judgements_order",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2024-10-17",
+   "cat": "Judiciary",
+   "region": "Assam",
+   "body": "Supreme Court",
+   "headline": "Section 6A of the Citizenship Act upheld (In re: Section 6A of the Citizenship Act, 1955)",
+   "text": "A Constitution Bench of the Supreme Court decided the challenge to Section 6A of the Citizenship Act, 1955, the special citizenship provision for migrants to Assam (W.P.(C) No. 274/2009), and upheld its validity.",
+   "src": "https://www.sci.gov.in/view-pdf/?diary_no=161132009&type=j&order_date=2024-10-17&from=latest_judgements_order",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2024-10-03",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Caste-based discrimination in prisons struck down (Sukanya Shantha v. Union of India)",
+   "text": "In Sukanya Shantha v. Union of India (W.P.(C) No. 1404/2023) the Supreme Court held caste-based segregation and allocation of work in prisons unconstitutional and directed States to revise their prison manuals.",
+   "src": "https://www.sci.gov.in/landmark-judgment-summaries/?judgment_year=2024",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2024-09-23",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "SC: viewing or storing child sexual abuse material is an offence under POCSO",
+   "text": "In Just Rights for Children Alliance v. S Harish, the Supreme Court set aside a Madras High Court judgment and held that possession of child sexual abuse material is an offence under the POCSO Act, 2012 even without intent to share it.",
+   "why": "Clarifies criminal liability for possessing CSAM.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-09-20",
+   "cat": "Judiciary",
+   "region": "Maharashtra",
+   "body": "Bombay High Court",
+   "headline": "Bombay High Court strikes down fact check unit provision in IT Rules",
+   "text": "In Kunal Kamra v. Union of India, the Bombay High Court struck down the 2023 amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 that set up a government fact check unit, holding it violated free speech.",
+   "why": "Significant for online speech regulation.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-09-13",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health and Family Welfare",
+   "headline": "Draft rules require anti-tobacco warnings on OTT platforms",
+   "text": "The Health Ministry issued draft amendments to the Cigarettes and Other Tobacco Products Rules, 2004 requiring non-skippable anti-tobacco messages in OTT content published after September 1, 2023. Comments were due by October 13, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-09-01",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Law and Justice",
+   "headline": "23rd Law Commission of India constituted for 2024-2027",
+   "text": "The Ministry of Law and Justice constituted the 23rd Law Commission of India for the period September 1, 2024 to August 31, 2027. The Chairperson and Members were yet to be appointed.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-28",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Telecommunications",
+   "headline": "Draft Rules on interception, suspension and cybersecurity under Telecommunications Act, 2023",
+   "text": "The DoT invited comments until September 27, 2024 on draft Rules under the Telecommunications Act, 2023 covering interception of communications, temporary suspension of services, telecom cybersecurity and designation of critical telecom infrastructure.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Draft Remediation of Contaminated Sites Rules, 2024 released",
+   "text": "The Environment Ministry released the draft Remediation of Contaminated Sites Rules, 2024 under the Environment (Protection) Act, 1986, laying down procedures for remediating sites contaminated by hazardous substances. Comments were due by October 20, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-20",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court constitutes National Task Force on safety of medical professionals",
+   "text": "The Supreme Court set up a National Task Force to recommend measures to ensure the safety of medical professionals and safe working conditions, with an interim report due on September 10 and a final report by October 20, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Finance",
+   "headline": "FEMA Non-debt Instruments Rules amended to allow equity swaps",
+   "text": "The Foreign Exchange Management (Non-debt Instruments) Rules, 2019 were amended to allow equity swaps and to permit 100% foreign investment in white label ATM operations.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-14",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Mines",
+   "headline": "Offshore Areas Mineral Trust and Auction Rules, 2024 notified",
+   "text": "The Mines Ministry notified the Offshore Areas Mineral Trust Rules, 2024 (August 9) and the Offshore Areas Mineral (Auction) Rules, 2024 (August 14) under the Offshore Areas Mineral (Development and Regulation) Act, 2002.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-09",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "First Budget Session of 18th Lok Sabha concludes with 11 Bills introduced",
+   "text": "The Budget Session, which began on July 22, 2024, concluded after 15 sittings. Eleven Bills were introduced, including the Waqf (Amendment) Bill, 2024, the Bharatiya Vayuyan Vidheyak, 2024, the Disaster Management (Amendment) Bill, 2024 and the Banking Laws (Amendment) Bill, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-09",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Lok Sabha passes Bharatiya Vayuyan Vidheyak, 2024 to replace Aircraft Act, 1934",
+   "text": "The Lok Sabha passed the Bharatiya Vayuyan Vidheyak, 2024, which replaces the Aircraft Act, 1934. It adds regulation of aircraft design, retains DGCA, BCAS and AAIB, and provides a two-tier appeal mechanism.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-09",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha / Ministry of Minority Affairs",
+   "headline": "Waqf (Amendment) Bill, 2024 introduced during Budget Session; JPC seeks comments",
+   "text": "The Waqf (Amendment) Bill, 2024, introduced in the Lok Sabha during the Budget Session, limits waqf creation to persons practising Islam for at least five years, removes waqf by user and revises board composition. The Mussalman Wakf (Repeal) Bill, 2024 was also introduced; the JPC invited comments by September 11.",
+   "why": "Among the most debated Bills of the year.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-09",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha / Ministry of Home Affairs",
+   "headline": "Disaster Management (Amendment) Bill, 2024 introduced in Lok Sabha",
+   "text": "The Disaster Management (Amendment) Bill, 2024, introduced during the Budget Session, empowers States to constitute Urban Disaster Management Authorities and State Disaster Response Forces.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-09",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha / Ministry of Finance",
+   "headline": "Banking Laws (Amendment) Bill, 2024 introduced in Lok Sabha",
+   "text": "The Banking Laws (Amendment) Bill, 2024, introduced during the Budget Session, amends five banking-related Acts, including provisions on the definition of cash reserves and the tenure of directors of cooperative banks.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-09",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Ministry of Ports, Shipping and Waterways",
+   "headline": "Bills to replace colonial-era shipping laws introduced in Lok Sabha",
+   "text": "The Carriage of Goods by Sea Bill, 2024 and the Bills of Lading Bill, 2024 were introduced in the Lok Sabha during the Budget Session to replace the Indian Carriage of Goods by Sea Act, 1925 and the Indian Bills of Lading Act, 1856. The Boilers Bill, 2024 was introduced in the Rajya Sabha to replace the Boilers Act, 1923.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-08-05",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Rajya Sabha / Ministry of Petroleum and Natural Gas",
+   "headline": "Oilfields (Regulation and Development) Amendment Bill, 2024 introduced in Rajya Sabha",
+   "text": "The Oilfields (Regulation and Development) Amendment Bill, 2024 expands the definition of mineral oils, introduces a petroleum lease, and decriminalises offences by replacing them with fines.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-30",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI issues Directions on treatment of wilful and large defaulters",
+   "text": "The RBI (Treatment of Wilful Defaulters and Large Defaulters) Directions, 2024 cover borrowers or guarantors with wilful default of Rs 25 lakh or more, and set an identification committee, show-cause and review committee process with a personal hearing.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-25",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court (8:1) upholds States' power to tax mineral-bearing land",
+   "text": "In Mineral Area Development Authority v. Steel Authority of India, a nine-judge bench held 8:1 that royalty is not a tax and that State legislatures can tax mineral-bearing land under Entry 50 of the State List. The MMDR Act, 1957 does not limit this power.",
+   "why": "A major ruling on Centre-State taxation powers.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-23",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Ministry of Finance",
+   "headline": "Union Budget 2024-25 presented in Parliament",
+   "text": "The Union Budget 2024-25 was presented on July 23, 2024, estimating total expenditure of Rs 48,20,512 crore and targeting a fiscal deficit of 4.9% of GDP.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-22",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Budget Session 2024 begins; Economic Survey 2023-24 tabled",
+   "text": "The Budget Session of Parliament began on July 22, 2024 and was scheduled to run till August 12 with 16 sittings; five Bills apart from Finance and Appropriation Bills were listed. The Economic Survey 2023-24 was tabled the same day.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-18",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Telecommunications",
+   "headline": "Draft Telecommunications (Adjudication and Appeal) Rules, 2024 released",
+   "text": "The draft rules implement the adjudication framework of the Telecommunications Act, 2023: officers of joint secretary rank would conclude inquiries within 90 days (max 120), with appeals within 30 days to a Designated Appeals Committee.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-18",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Draft amendments to Environment (Protection) Rules to give effect to Jan Vishwas Act",
+   "text": "Comments were invited on draft amendments to the Environment (Protection) Rules, 1986 to give effect to the decriminalisation provisions of the Jan Vishwas (Amendment of Provisions) Act, 2023.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-15",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI releases revised Master Directions on fraud risk management",
+   "text": "The RBI issued three revised Master Directions on Fraud Risk Management applicable to banks and NBFCs.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-08",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "TRAI",
+   "headline": "TRAI amends regulatory framework for broadcasting and cable services",
+   "text": "TRAI amended its tariff, interconnection and quality of service regulations for broadcasting and cable services.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-07-04",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Telecommunications",
+   "headline": "Draft Digital Bharat Nidhi Rules under Telecommunications Act, 2023 released",
+   "text": "The draft Telecommunications (Digital Bharat Nidhi) Rules, 2024 would operationalise the fund replacing the Universal Service Obligation Fund, financing telecom access in underserved areas and R&D. Comments were due by August 3, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-27",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / President of India",
+   "headline": "President Droupadi Murmu addresses joint sitting of Parliament",
+   "text": "President Droupadi Murmu addressed a joint sitting of both Houses at the start of the 18th Lok Sabha, outlining the government's policy agenda across infrastructure, defence, the economy and development.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-27",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "SEBI",
+   "headline": "SEBI board bars unregistered persons from inducing investments, mandates cybersecurity framework",
+   "text": "At its board meeting SEBI decided to restrict unregistered persons from inducing securities investments, exempt certain university funds from FPI disclosure norms, and require regulated entities to adopt a cybersecurity framework by April 1, 2025.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-26",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Lok Sabha",
+   "headline": "First session of 18th Lok Sabha opens; Om Birla elected Speaker",
+   "text": "The first session of the 18th Lok Sabha ran from June 24 to July 3, 2024, alongside the 264th session of the Rajya Sabha. Om Birla was elected Speaker on June 26, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-22",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Education",
+   "headline": "High-level committee set up on examination reform and restructuring of NTA",
+   "text": "A high-level committee chaired by Dr. K. Radhakrishnan was constituted to recommend reforms in the examination process, data security and the structure of the National Testing Agency, with its report due in August 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-20",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Consumer Affairs",
+   "headline": "Draft guidelines to curb unsolicited commercial calls and messages released",
+   "text": "The Department of Consumer Affairs released draft guidelines to prevent unsolicited business communication through calls, SMS and social media, based on consent and DND registry compliance. Comments were invited until July 21, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-14",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "CERC",
+   "headline": "CERC notifies new regulations for inter-state transmission licences",
+   "text": "The CERC (Procedure, Terms and Conditions for grant of Transmission Licence) Regulations, 2024 replaced the 2009 regulations, exempting distribution licensees and bulk consumers from licensing for lines connecting to the inter-state system.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-07",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Information and Broadcasting",
+   "headline": "Cinematograph (Adjudication of Penalty) Rules, 2024 notified",
+   "text": "The Cinematograph (Adjudication of Penalty) Rules, 2024 were notified under the Cinematograph Act, 1952. They set the procedure for authorised officers to levy penalties for exhibition violations, with appellate oversight and powers of entry and evidence collection.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-06",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Mines",
+   "headline": "Offshore Areas (Existence of Mineral Resources) Rules, 2024 notified",
+   "text": "The Offshore Areas (Existence of Mineral Resources) Rules, 2024 set criteria for identifying offshore mineral-bearing areas for grant of production leases and composite licences, based on exploration and geological reports.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-04",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha / Election Commission",
+   "headline": "New Union government formed after 2024 Lok Sabha general elections",
+   "text": "Results of the general elections to the 18th Lok Sabha were declared, with members from 41 parties elected. The National Democratic Alliance formed the government, with the BJP winning 240 seats.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-06-04",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Finance",
+   "headline": "Draft Central Excise Bill, 2024 released to replace Central Excise Act, 1944",
+   "text": "The Finance Ministry released the draft Central Excise Bill, 2024 for comments. It would replace the Central Excise Act, 1944 on the levy and collection of excise duty on goods made in India, with self-assessment and appeals to the High Court.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-05-30",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI notifies framework for self-regulatory organisations in FinTech",
+   "text": "The RBI notified the Framework for Self-Regulatory Organisation(s) in the FinTech Sector, laying down eligibility criteria and operational standards for SROs, with the RBI remaining the apex regulator.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-05-29",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "IRDAI",
+   "headline": "IRDAI master circular on health insurance supersedes 55 earlier circulars",
+   "text": "IRDAI issued the Master Circular on Health Insurance Business, superseding 55 earlier circulars. It requires insurers to offer products for all categories of individuals and to provide customer information sheets.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-05-28",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "National Dam Safety Authority",
+   "headline": "Dam Safety Authority notifies regulations on surveillance and inspection of specified dams",
+   "text": "The National Dam Safety Authority notified the Surveillance, Inspection and Hydrometeorological Station of Specified Dams Regulation, 2024, mandating dam monitoring, pre- and post-monsoon inspections and hydrometeorological stations.",
+   "why": "Operationalises the Dam Safety Act, 2021.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-05-24",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "SEBI",
+   "headline": "SEBI restricts sharing of real-time price data by market infrastructure institutions",
+   "text": "SEBI issued norms under which market infrastructure institutions may share real-time price data with third parties only where needed for orderly market functioning or regulatory compliance.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-05-17",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "SEBI",
+   "headline": "SEBI consults on mutual fund investments in overseas funds with Indian exposure",
+   "text": "SEBI issued a consultation paper proposing that Indian mutual funds be allowed to invest in overseas funds that have exposure to Indian securities, capped at 20% of their assets.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-05-03",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI draft prudential framework for project finance",
+   "text": "The RBI released draft directions on a prudential framework for project finance, covering exposure limits, stress resolution and provisioning for infrastructure and commercial real estate projects.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-30",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "SEBI",
+   "headline": "SEBI board approves higher NRI/OCI participation in IFSC FPIs and anti-market abuse norms for AMCs",
+   "text": "At its board meeting SEBI approved allowing NRIs and OCIs up to 100% participation in FPIs based in IFSCs, and approved a mechanism for asset management companies to deter market abuse, among other decisions.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-29",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI issues draft directions for electronic trading platforms",
+   "text": "Draft RBI directions propose authorisation requirements for electronic trading platforms dealing in eligible securities and derivatives, including three years of infrastructure experience and minimum net worth of Rs 5 crore.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-29",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Commerce and Industry",
+   "headline": "Draft Explosives Bill, 2024 released to replace Explosives Act, 1884",
+   "text": "The draft Explosives Bill, 2024 was put out for public feedback to replace the Explosives Act, 1884. It revises penalties, including raising fines for illegal manufacture, import or export from Rs 5,000 to Rs 1 lakh, and updates licensing.",
+   "why": "Would replace a colonial-era law.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-26",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court rejects pleas for return to paper ballots or 100% VVPAT verification",
+   "text": "The Supreme Court dismissed petitions seeking a return to paper ballots or full VVPAT slip verification. It directed that symbol loading units be sealed and stored with EVMs for at least 45 days after results, and allowed checks for tampering on 5% of EVMs on request.",
+   "why": "Sets safeguards on EVM use in elections.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-26",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI circular lays down route for small finance banks to become universal banks",
+   "text": "An RBI circular permits voluntary conversion of small finance banks into universal banks subject to conditions such as five years of satisfactory performance, listed shares, a minimum net worth of Rs 1,000 crore and recent profitability.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-26",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI draft guidelines on transparency in digital loan aggregation",
+   "text": "The RBI released draft guidelines requiring lending service providers that aggregate loan offers to display unbiased offers from multiple lenders and avoid dark patterns that could mislead borrowers.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-24",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI issues Asset Reconstruction Companies Directions, 2024",
+   "text": "The RBI issued the RBI (Asset Reconstruction Companies) Directions, 2024, setting registration requirements including minimum net owned funds of Rs 300 crore and governance standards for entities that acquire stressed assets from lenders.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-24",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "TRAI",
+   "headline": "TRAI recommends wider sharing of telecom infrastructure and spectrum",
+   "text": "TRAI recommended permitting sharing of passive and active infrastructure among telecom licensees, with restrictions on core network elements, and mandatory sharing of government-funded infrastructure.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Law and Justice",
+   "headline": "Law Ministry sets up committee on welfare measures for queer persons",
+   "text": "The Ministry of Law and Justice constituted a committee chaired by the Cabinet Secretary to recommend welfare measures for queer persons. This follows the Supreme Court's October 2023 judgment in the challenge relating to the Special Marriage Act, 1954.",
+   "why": "Implements a Supreme Court direction from the same-sex marriage case.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI draft directions bring offline payment aggregators under regulation",
+   "text": "The RBI invited comments on draft directions extending regulation to offline payment aggregators, requiring authorisation by March 31, 2025, with minimum net worth of Rs 15 crore initially rising to Rs 25 crore by 2028.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-04-12",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "TRAI",
+   "headline": "TRAI recommends regulatory sandbox framework for telecom",
+   "text": "TRAI recommended a regulatory sandbox allowing innovative telecom services to be tested for up to 12 months, with oversight arrangements and funding proposed through the Digital Bharat Nidhi.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2024",
+   "srcName": "PRS Legislative Research"
+  },
   {
    "date": "2024-03-21",
    "cat": "Judiciary",
