@@ -1,4 +1,4 @@
-/* Ask Nirnay: a search assistant for everything published on Nirnay Daily.
+/* Nirnay Mitra (निर्णय मित्र): a search assistant for everything published on Nirnay Daily.
    It runs entirely in the reader's browser and only searches this site's own content. */
 (function(){
   const $ = s => document.querySelector(s);
@@ -190,10 +190,10 @@
   function toggle(open){ const o=open===undefined?panel.hidden:open; panel.hidden=!o; fab.setAttribute("aria-expanded",o); if(o) setTimeout(()=>input.focus(),50); }
 
   function mount(){
-    fab=document.createElement("button"); fab.className="nx-fab"; fab.type="button"; fab.setAttribute("aria-label","Ask Nirnay: search the site"); fab.setAttribute("aria-expanded","false");
-    fab.innerHTML=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4V5z"/><circle cx="11" cy="10" r="2.6"/><path d="M13 12l2.2 2.2"/></svg><span class="nx-lbl">Ask Nirnay</span><span class="nx-dot"></span>`;
-    panel=document.createElement("section"); panel.className="nx-panel"; panel.hidden=true; panel.setAttribute("aria-label","Ask Nirnay");
-    panel.innerHTML=`<div class="nx-head"><svg class="nx-seal" viewBox="0 0 400 400"><use href="#seal-mark"/></svg><div><b>ASK NIRNAY</b><small>Find judgments, Acts, sections & careers</small></div><button class="nx-close" type="button" aria-label="Close">×</button></div>
+    fab=document.createElement("button"); fab.className="nx-fab"; fab.type="button"; fab.setAttribute("aria-label","Nirnay Mitra: search the site"); fab.setAttribute("aria-expanded","false");
+    fab.innerHTML=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4V5z"/><circle cx="11" cy="10" r="2.6"/><path d="M13 12l2.2 2.2"/></svg><span class="nx-lbl">Nirnay Mitra</span><span class="nx-dot"></span>`;
+    panel=document.createElement("section"); panel.className="nx-panel"; panel.hidden=true; panel.setAttribute("aria-label","Nirnay Mitra");
+    panel.innerHTML=`<div class="nx-head"><svg class="nx-seal" viewBox="0 0 400 400"><use href="#seal-mark"/></svg><div><b>NIRNAY MITRA <span class="nx-dv">निर्णय मित्र</span></b><small>Your guide to judgments, Acts, sections & careers</small></div><button class="nx-close" type="button" aria-label="Close">×</button></div>
       <div class="nx-log" role="log" aria-live="polite"></div>
       <form class="nx-form"><input type="text" placeholder="e.g. section 318 BNS, Puttaswamy, LLM admission" aria-label="Ask a question" autocomplete="off"><button type="submit">Ask</button></form>
       <div class="nx-note">Searches Nirnay Daily's own pages. Not legal advice.</div>`;
@@ -202,7 +202,7 @@
     fab.onclick=()=>toggle(); panel.querySelector(".nx-close").onclick=()=>toggle(false);
     panel.querySelector("form").onsubmit=ev=>{ ev.preventDefault(); const t=input.value; input.value=""; if(t.trim()) ask(t); };
     document.addEventListener("keydown",ev=>{ if(ev.key==="Escape"&&!panel.hidden) toggle(false); });
-    bot(`<p><b>Namaste!</b> I can help you find anything on Nirnay Daily: a case or judgment, a Bare Act or a specific section, today's court and tribunal updates, or jobs, exams and LLM admissions.</p><p>Type your question, or try one of these:</p>`,null,
+    bot(`<p><b>Namaste! I'm Nirnay Mitra.</b> I can help you find anything on Nirnay Daily: a case or judgment, a Bare Act or a specific section, today's court and tribunal updates, or jobs, exams and LLM admissions.</p><p>Type your question, or try one of these:</p>`,null,
       ["Section 103 BNS","Article 21 Constitution","Latest Supreme Court judgments","Judiciary exams open now","Right to privacy","Maharashtra Rent Control Act","Jobs closing soon"]);
   }
   if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",mount); else mount();
