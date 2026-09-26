@@ -47,6 +47,13 @@ p{margin:0}
 .strip{background:var(--band-deep);color:var(--band-ink);font:12px var(--mono);letter-spacing:.04em}
 .strip .wrap{display:flex;justify-content:space-between;gap:16px;padding-block:8px;flex-wrap:wrap}
 .strip b{color:var(--band-accent);font-weight:500}
+.strip-r{display:inline-flex;align-items:center;gap:12px;flex-wrap:wrap}
+.refresh{font:600 11.5px var(--mono);letter-spacing:.04em;color:#221E1B;background:#F3C46B;border:0;border-radius:999px;padding:4px 12px;cursor:pointer}
+.refresh:hover{background:#FFD98A}
+nav.main a.nw{color:#1F6F6A}
+.newscat{font:600 10.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:3px;color:#fff;background:var(--nc,#6E1E22)}
+.newsmeta{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;font:12px var(--mono);color:var(--ink-3)}
+.news-slot{display:inline-block;font:600 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:#1F6F6A;margin-left:6px}
 .mast{position:relative;overflow:hidden;color:#fff;background:#2A1A12;padding-top:46px}
 .shelf{position:absolute;inset:0;width:100%;height:100%;display:block}
 .mast-veil{position:absolute;inset:0;background:radial-gradient(60% 75% at 50% 45%,rgba(20,10,8,.72),rgba(20,10,8,.35) 60%,rgba(20,10,8,.1));pointer-events:none}
@@ -419,7 +426,7 @@ footer a{text-decoration:none}footer a:hover{text-decoration:underline}
 
 <div class="strip"><div class="wrap">
   <span><b>●</b> <span id="today"></span></span>
-  <span>Judgments & orders daily · Careers every Saturday</span>
+  <span class="strip-r"><span>Judgments daily · Legal news 10 AM & 6 PM · Careers every Saturday</span><button type="button" class="refresh" id="refresh" title="Load the latest version of the website">↻ Refresh</button></span>
 </div></div>
 
 <header class="mast">
@@ -462,6 +469,7 @@ footer a{text-decoration:none}footer a:hover{text-decoration:underline}
   <a href="#high-courts" data-r="high-courts">High Courts</a>
   <a href="#district-courts" data-r="district-courts">District Courts</a>
   <a href="#tribunals" data-r="tribunals">Tribunals</a>
+  <a href="#news" data-r="news" class="nw"><svg class="ico"><use href="#i-news"/></svg>Legal News</a>
   <a href="#careers" data-r="careers" class="careers"><svg class="ico"><use href="#i-brief"/></svg>Careers Portal</a>
 </div></nav>
 
@@ -474,7 +482,7 @@ footer a{text-decoration:none}footer a:hover{text-decoration:underline}
   </div>
   <div>
     <span class="label">Sections</span>
-    <ul><li><a href="#landmarks">Landmark Judgments</a></li><li><a href="#library">Full Judgments</a></li><li><a href="#bare-acts">Bare Acts</a></li><li><a href="#supreme-court">Supreme Court</a></li><li><a href="#high-courts">High Courts</a></li><li><a href="#district-courts">District Courts</a></li><li><a href="#tribunals">Tribunals</a></li><li><a href="#careers">Careers Portal</a></li></ul>
+    <ul><li><a href="#landmarks">Landmark Judgments</a></li><li><a href="#library">Full Judgments</a></li><li><a href="#bare-acts">Bare Acts</a></li><li><a href="#supreme-court">Supreme Court</a></li><li><a href="#high-courts">High Courts</a></li><li><a href="#district-courts">District Courts</a></li><li><a href="#tribunals">Tribunals</a></li><li><a href="#news">Legal News</a></li><li><a href="#careers">Careers Portal</a></li></ul>
   </div>
   <div>
     <span class="label">Notice</span>
@@ -862,15 +870,15 @@ function home(){
 }
 
 /* ---------- LIVE DATA (latest editions first, then archive) ---------- */
-let POOL=null, DIG=null, CAR=null, TRI=null, DIG_AR=[], CAR_AR=[], TRI_AR=[], LOADED=false;
+let NEWS=null, NEWS_AR=[], POOL=null, DIG=null, CAR=null, TRI=null, DIG_AR=[], CAR_AR=[], TRI_AR=[], LOADED=false;
 async function getJSON(p){ const r=await fetch(p,{cache:"no-store"}); if(!r.ok) throw new Error(p); return r.json(); }
 async function loadData(){
   if(window.NIRNAY_MODE){ try{ ACTS=await getJSON("data/bare-acts.json"); }catch(e){} LOADED=true; render(); return; }
-  const names=["digest","careers","tribunals","digest-archive","careers-archive","tribunals-archive","careers-pool","sc-library","bare-acts"];
+  const names=["digest","careers","tribunals","digest-archive","careers-archive","tribunals-archive","careers-pool","sc-library","bare-acts","news","news-archive"];
   const res=await Promise.allSettled(names.map(n=>getJSON(`data/${n}.json`)));
   const v=i=>res[i].status==="fulfilled"?res[i].value:null;
   DIG=v(0); CAR=v(1); TRI=v(2);
-  POOL=v(6); LIB=v(7); ACTS=v(8); DIG_AR=Array.isArray(v(3))?v(3):[]; CAR_AR=Array.isArray(v(4))?v(4):[]; TRI_AR=Array.isArray(v(5))?v(5):[];
+  POOL=v(6); LIB=v(7); ACTS=v(8); NEWS=v(9); NEWS_AR=Array.isArray(v(10))?v(10):[]; DIG_AR=Array.isArray(v(3))?v(3):[]; CAR_AR=Array.isArray(v(4))?v(4):[]; TRI_AR=Array.isArray(v(5))?v(5):[];
   LOADED=true; render();
 }
 const loadingView = () => `<div class="view"><p class="empty">${LOADED?"This section could not be loaded right now. Please refresh the page.":"Loading the latest edition…"}</p></div>`;
@@ -953,6 +961,33 @@ function trPage(){
     chips=`<div class="chips" role="group" aria-label="Filter by tribunal"><button class="chip" data-f="all" aria-pressed="${state.f==="all"}">All tribunals</button>${[...g].sort().map(k=>`<button class="chip" data-f="${esc(k)}" aria-pressed="${state.f===k}">${esc(k)}</button>`).join("")}</div>`; }
   return `<div class="view">${pageHead("Daily judgments & orders","Tribunals","Today's orders of NCLAT, NCLT, NGT, ITAT, CESTAT, CAT, CCI and other tribunals first, then earlier editions.")}${chips}
   ${withArchive(TRI,TRI_AR,trBody,"No tribunal orders were reported in this edition.")}${landmarkStrip("tr","Tribunals")}</div>`; }
+
+/* ---------- LEGAL NEWS (10 AM and 6 PM editions) ---------- */
+const NEWS_CATS=["Judiciary","Bar & Bar Councils","Legislature","Executive & Government","Legal Education & Careers","Other Legal News"];
+const NEWS_COL={"Judiciary":"#6E1E22","Bar & Bar Councils":"#B7791F","Legislature":"#7B3F8C","Executive & Government":"#1F6F6A","Legal Education & Careers":"#2F7D4F","Other Legal News":"#5B4636"};
+function newsCard(it){
+  return `<article class="story">
+    <div class="newsmeta"><span class="newscat" style="--nc:${NEWS_COL[it.cat]||"#5B4636"}">${esc(it.cat||"Legal news")}</span>${it.region?`<span>${esc(it.region)}</span>`:""}${it.date?`<span>${esc(it.date)}</span>`:""}</div>
+    <h3>${esc(it.headline||"")}</h3>
+    ${it.body?`<div class="cit">${esc(it.body)}</div>`:""}
+    <p class="sum">${esc(it.text||"")}</p>
+    ${it.why?`<p class="why"><b>Why it matters.</b> ${esc(it.why)}</p>`:""}
+    ${it.src?`<div class="src"><a href="${esc(it.src)}" target="_blank" rel="noopener">${esc(it.srcName||"Source")} ↗</a></div>`:""}
+  </article>`;
+}
+function newsBody(d){
+  const q=state.q.trim().toLowerCase();
+  const its=(d.items||[]).filter(x=>state.f==="all"||x.cat===state.f).filter(x=>!q||[x.headline,x.text,x.cat,x.region,x.body,x.srcName,x.why].join(" ").toLowerCase().includes(q));
+  let html=""; NEWS_CATS.concat([...new Set(its.map(x=>x.cat))].filter(c=>!NEWS_CATS.includes(c))).forEach(c=>{ const g=its.filter(x=>(x.cat||"Other Legal News")===c); if(g.length) html+=`<h4 class="subhead">${esc(c)}</h4>`+g.map(newsCard).join(""); });
+  return {html,n:its.length};
+}
+function newsPage(){
+  let chips="";
+  if(NEWS){ const all=[NEWS,...NEWS_AR].flatMap(d=>d.items||[]); const cats=NEWS_CATS.filter(c=>all.some(x=>x.cat===c));
+    chips=`<div class="chips" role="group" aria-label="Filter news"><button class="chip" data-f="all" aria-pressed="${state.f==="all"}">All news</button>${cats.map(c=>`<button class="chip" data-f="${esc(c)}" aria-pressed="${state.f===c}">${esc(c)}</button>`).join("")}</div>`; }
+  return `<div class="view">${pageHead("Legal news · twice daily","Legal News","Law news from across India: the judiciary, Bar Councils, Parliament and State Legislatures, and the Government. The 10 AM edition covers 4 PM the previous day to 10 AM; the 6 PM edition covers 10 AM to 4 PM. Latest edition first; earlier editions and search below.")}${chips}
+  ${NEWS?withArchive(NEWS,NEWS_AR,newsBody,"No news items in this edition."):(LOADED?`<p class="empty">The first Legal News edition will appear here at the next update (10 AM or 6 PM IST).</p>`:loadingView())}</div>`;
+}
 
 /* ---------- LANDMARKS ---------- */
 function landmarkPage(){
@@ -1325,7 +1360,7 @@ if(MODE){
 
 /* ---------- ROUTER ---------- */
 const app=document.getElementById("app");
-const ROUTES={home:home,landmarks:landmarkPage,library:libraryPage,"supreme-court":scPage,"high-courts":hcPage,"district-courts":dcPage,tribunals:trPage,careers:careersPage,"bare-acts":bareActsPage};
+const ROUTES={home:home,landmarks:landmarkPage,library:libraryPage,"supreme-court":scPage,"high-courts":hcPage,"district-courts":dcPage,tribunals:trPage,careers:careersPage,"bare-acts":bareActsPage,news:newsPage};
 function render(){
   let r=(location.hash||"#home").slice(1); let jslug=null;
   let aslug=null;
@@ -1346,6 +1381,9 @@ function render(){
 }
 window.addEventListener("hashchange",()=>{state.q="";state.f="all";state.cat="all";state.theme="all";state.lcourt="all";state.more=3;render();
   const nav=document.querySelector("nav.main"); if(window.scrollY>nav.offsetTop) window.scrollTo({top:nav.offsetTop,behavior:"smooth"});});
+document.getElementById("refresh").onclick=()=>{ try{ window.nirnayTrack&&window.nirnayTrack("refresh_click",{}); }catch(e){}
+  location.replace(location.pathname+"?r="+Date.now()+location.hash); };
+if(/[?&]r=\d+/.test(location.search)){ try{ history.replaceState(null,"",location.pathname+location.search.replace(/[?&]r=\d+/,"").replace(/^&/,"?")+location.hash); }catch(e){} }
 render();
 loadData();
 </script>

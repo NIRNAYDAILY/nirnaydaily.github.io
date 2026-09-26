@@ -51,6 +51,9 @@
       (d.items||[]).forEach(it=>add({type:"tribunal",latest:ei===0,k:(it.bench||it.tribunal)+" · "+ed,t:it.caseName&&!/not yet reported/i.test(it.caseName)?it.caseName:(it.headline||"Order"),
         s:it.headline||"",x:[it.tribunal,it.bench,it.citation,it.caseNo,it.text,it.tag,"tribunal order"].join(" "),c:"#7B3F8C",
         go:()=>go("#tribunals",it.caseName&&!/not yet reported/i.test(it.caseName)?it.caseName:it.headline)})); }); }catch(e){}
+    try{ if(typeof NEWS!=="undefined"&&NEWS) [NEWS,...(NEWS_AR||[])].forEach((d,ei)=>{ const ed=(d.edition||{}); 
+      (d.items||[]).forEach(it=>add({type:"news",latest:ei===0,k:"Legal news · "+(it.cat||"")+" · "+(ed.dateShort||"")+(ed.slot?" "+ed.slot:""),t:it.headline||"News",
+        s:[it.region,it.body].filter(Boolean).join(" · "),x:[it.text,it.cat,it.region,it.body,it.srcName,"news legal news"].join(" "),c:"#1F6F6A",go:()=>go("#news",it.headline)})); }); }catch(e){}
     try{ const P=(typeof careerPool==="function")?careerPool():null; if(P) P.secs.forEach(sec=>sec.items.forEach(it=>{
       const st=careerStatus(it), dl=deadlineOf(it);
       add({type:"career",sec:sec.id,soon:st[0]==="soon",k:"Careers · "+sec.title,t:it.name,s:[it.org,st[1],dl?"last date "+new Date(dl+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"short"}):""].filter(Boolean).join(" · "),
@@ -137,6 +140,13 @@
       return bot(`<p>Latest tribunal orders:</p>`,r.slice(0,8),null,{label:"Open the Tribunals page",fn:()=>go("#tribunals")});
     }
 
+    if(/\bnews\b/.test(n) && (wantsLatest || Q.groups.length<=2)){
+      let r=X.filter(e=>e.type==="news"&&(e.latest||!wantsLatest));
+      const g=Q.groups.filter(x=>!/^(latest|today|todays|recent|new|news|legal)$/.test(x[0]));
+      if(g.length){ const sc=r.map(e=>[e,score(e,{...Q,groups:g})]).filter(x=>x[1]>0).sort((a,b)=>b[1]-a[1]).map(x=>x[0]); if(sc.length) r=sc; }
+      return bot(r.length?`<p>Latest legal news:</p>`:`<p>No news matches that yet. The Legal News section is updated at 10 AM and 6 PM.</p>`,r.slice(0,8),null,{label:"Open Legal News",fn:()=>go("#news")});
+    }
+
     /* 3. Careers */
     const careerWords=/\b(job|jobs|internship|internships|vacancy|vacancies|recruitment|exam|exams|llm|ll\.m|clat|aibe|ailet|net|judiciary|civil judge|fellowship|fellowships|admission|admissions|career|careers|opening|openings|apply)\b/;
     if(careerWords.test(n)){
@@ -205,7 +215,7 @@
     panel.querySelector("form").onsubmit=ev=>{ ev.preventDefault(); const t=input.value; input.value=""; if(t.trim()) ask(t); };
     document.addEventListener("keydown",ev=>{ if(ev.key==="Escape"&&!panel.hidden) toggle(false); });
     bot(`<p><b>Namaste! I'm Nirnay Mitra.</b> I can help you find anything on Nirnay Daily: a case or judgment, a Bare Act or a specific section, today's court and tribunal updates, or jobs, exams and LLM admissions.</p><p>Type your question, or try one of these:</p>`,null,
-      ["Section 103 BNS","Article 21 Constitution","Latest Supreme Court judgments","Judiciary exams open now","Right to privacy","Maharashtra Rent Control Act","Jobs closing soon"]);
+      ["Section 103 BNS","Article 21 Constitution","Latest legal news","Latest Supreme Court judgments","Judiciary exams open now","Right to privacy","Maharashtra Rent Control Act","Jobs closing soon"]);
   }
   if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",mount); else mount();
 })();
