@@ -193,7 +193,8 @@ main{padding:24px 28px 10px}
 .empty{font:13px var(--sans);color:var(--ink3)}
 .lmk{background:var(--stamp);color:#fff;padding:2px 7px;margin-right:6px;letter-spacing:.14em}
 .sech{font:600 13px var(--official);letter-spacing:.26em;text-transform:uppercase;text-align:center;border-top:3px solid var(--ink);border-bottom:1px solid var(--ink);padding:10px 0;margin:10px 0 14px}
-.polgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-bottom:22px}.pol{border-top:1px solid var(--rule);padding-top:10px}
+.polgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-bottom:22px}.pol{border-top:1px solid var(--rule);padding-top:10px;min-width:0;overflow-wrap:anywhere}
+.dlb{display:inline-block;font:600 12px var(--mono);color:#fff;background:var(--stamp);padding:3px 8px;border-radius:3px}
 .pol h4{font:400 22px/1.15 var(--display);margin:0 0 6px}.pol p{margin:0 0 6px;font-size:15px;line-height:1.55;color:var(--ink2)}.pol .srcn{font:12px var(--mono);color:var(--ink3)}
 .awl{columns:2;column-gap:28px;padding-left:18px;font-size:15px;color:var(--ink2);margin:0 0 24px}
 .briefs ul{column-count:2;column-gap:28px;column-rule:1px solid var(--rule);padding:0;list-style:none;margin:0 0 24px}
@@ -236,8 +237,10 @@ def careers_snapshot(month):
 
 
 def careers_html(C):
-    cards = "".join(f'<div class="pol"><div class="kicker">{E(c["section"])} · {E(c.get("dlLabel") or "Last date")} {E(c["deadline"])}</div><h4>{E(c["name"])}</h4>'
-                    f'<p><b>{E(c["org"])}</b></p><p>Who can apply: {E(c["eligibility"])}</p><p class="srcn">Apply: {E(c["url"])}</p></div>' for c in C.get("open", []))
+    host = lambda u: (u.split("/")[2] if u.count("/") >= 2 else u).replace("www.", "")
+    cards = "".join(f'<div class="pol"><div class="kicker">{E(c["section"])}</div><h4>{E(c["name"])}</h4>'
+                    f'<p><b>{E(c["org"])}</b></p><p><b>Who can apply:</b> {E(c["eligibility"])}</p>'
+                    f'<p><span class="dlb">{E(c.get("dlLabel") or "Last date")}: {E(c["deadline"])}</span></p><p class="srcn">Official site: {E(host(c["url"]))}</p></div>' for c in C.get("open", []))
     aw = "".join(f'<li><b>{E(c["name"])}</b> — {E(c["org"])}</li>' for c in C.get("awaited", []))
     return f'<div class="polgrid">{cards}</div>' + (f'<p class="kicker" style="margin-top:6px">Expected soon</p><ul class="awl">{aw}</ul>' if aw else "")
 
@@ -266,6 +269,8 @@ def page(J):
 <div class="cols">{paras(L.get("body"), cap=True)}</div>{cases(L.get("cases"))}</div>
 <aside class="panel"><h3>Where the month's rulings came from</h3>{icon_array(S["digest"])}</aside></section>
 <section class="grid">{arts}</section>
+{f'<section class="policy"><h3 class="sech">Law &amp; Policy</h3><div class="polgrid">{policy_html(J.get("policy", []))}</div></section>' if J.get("policy") else ''}
+{f'<section class="careers"><h3 class="sech">Careers &amp; openings</h3>{careers_html(J["careers"])}</section>' if J.get("careers", {}).get("open") or J.get("careers", {}).get("awaited") else ''}
 <section class="numbers"><h3>The month in numbers</h3><div class="tiles">{tiles(S)}</div></section>
 <section class="pictos">
 <div class="panel"><h3>Rulings reported each day</h3>{month_calendar(S)}</div>
@@ -273,8 +278,6 @@ def page(J):
 <div class="panel"><h3>Areas of law</h3>{bars(S["digest"]["byArea"], C_HC, 7, label_w=150, title="Rulings by area of law")}
 <h3 style="margin-top:14px">Tribunal rulings</h3>{bars(trib, C_DC, 6, label_w=120, title="Tribunal rulings by tribunal")}</div>
 </section>
-{f'<section class="policy"><h3 class="sech">Law &amp; Policy</h3><div class="polgrid">{policy_html(J.get("policy", []))}</div></section>' if J.get("policy") else ''}
-{f'<section class="careers"><h3 class="sech">Careers &amp; openings</h3>{careers_html(J["careers"])}</section>' if J.get("careers", {}).get("open") or J.get("careers", {}).get("awaited") else ''}
 {f'<section class="briefs"><h3 class="sech">In brief</h3><ul>{briefs}</ul></section>' if briefs else ''}
 </main>
 <footer class="foot"><span>© {S["month"][:4]} Nirnay Daily · निर्णय</span>
