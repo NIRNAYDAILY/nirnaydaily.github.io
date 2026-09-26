@@ -103,7 +103,7 @@
   function answer(raw){
     const q=raw.trim(); if(!q) return;
     const X=buildIndex(); const Q=expand(q); const n=Q.n;
-    if(/\b(insta|instagram|ig|follow|social media|contact)\b/i.test(q)) return bot(`<p>Follow Nirnay Daily on Instagram: <a href="https://www.instagram.com/nirnay_daily_/" target="_blank" rel="noopener"><b>@nirnay_daily_</b></a></p>`);
+    if(/\b(insta|instagram|ig|follow|social media|contact|email|e-mail|mail|query|queries|complaint|feedback|reach you|write to)\b/i.test(q)) return bot(`<p>You can reach Nirnay Daily by email at <a href="mailto:nirnaydaily@gmail.com?subject=Query%20about%20Nirnay%20Daily"><b>nirnaydaily@gmail.com</b></a> for any question, correction or suggestion about the website.</p><p>Follow us on Instagram: <a href="https://www.instagram.com/nirnay_daily_/" target="_blank" rel="noopener"><b>@nirnay_daily_</b></a></p>`);
     if(!LOADED) return bot(`<p>The site is still loading its data. Please ask again in a moment.</p>`);
 
     /* 1. Section / article of an Act */
