@@ -1,0 +1,886 @@
+{
+ "year": 2023,
+ "count": 86,
+ "items": [
+  {
+   "date": "2023-12-21",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes BNS, BNSS and BSA to replace IPC, CrPC and Evidence Act",
+   "text": "Parliament completed passage of the Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Bills, 2023, with Rajya Sabha approving them on 21 December 2023 after Lok Sabha did so on 20 December. The laws add offences such as terrorism and organised crime, drop sedition in its old form and treat electronic records as primary evidence. They received Presidential assent on 25 December 2023.",
+   "why": "The biggest overhaul of India's criminal law since the colonial-era codes.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-12-21",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Telecommunications Bill, 2023 repealing the Telegraph Act, 1885",
+   "text": "Rajya Sabha passed the Telecommunications Bill, 2023 on 21 December 2023, a day after Lok Sabha, just three days after it was introduced. It repeals the Indian Telegraph Act, 1885 and the Wireless Telegraphy Act, 1933, provides for assigning spectrum, and keeps the government's powers to intercept communications and take over telecom services on specified grounds.",
+   "src": "https://prsindia.org/billtrack/the-telecommunication-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-12-21",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Bill on appointment of Chief Election Commissioner and Election Commissioners",
+   "text": "Parliament passed the Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Bill, 2023. Appointments will be made on the recommendation of a selection committee of the Prime Minister, the Leader of Opposition and a Union Cabinet Minister nominated by the PM, with no role for the Chief Justice of India.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-12-21",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Press and Registration of Periodicals Bill passed, replacing the 1867 Act",
+   "text": "Lok Sabha passed the Press and Registration of Periodicals Bill, 2023 on 21 December 2023 (Rajya Sabha had passed it in August). It replaces the Press and Registration of Books Act, 1867 with online registration before a Press Registrar General, bars persons convicted of terrorism or unlawful activities from publishing periodicals, and provides for suspension or cancellation of registration.",
+   "src": "https://prsindia.org/billtrack/the-press-and-registration-of-periodicals-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-12-18",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Post Office Bill, 2023 replacing the 1898 Act",
+   "text": "Lok Sabha passed the Post Office Bill, 2023 on 18 December 2023, after Rajya Sabha passed it on 4 December. The law replaces the Indian Post Office Act, 1898, ends the Centre's exclusive privilege over letter delivery, and allows postal articles to be intercepted on grounds such as security of the State and emergency; PRS noted it has no procedural safeguards on interception.",
+   "src": "https://prsindia.org/billtrack/the-post-office-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-12-15",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "SC in Ram Kishor Arora v. ED: written grounds of arrest may be given within 24 hours",
+   "text": "In Ram Kishor Arora v. Directorate of Enforcement (2023 LiveLaw (SC) 1059), a bench of Justices Bela M. Trivedi and Satish Chandra Sharma held that the ED must inform the arrestee of the grounds orally at the time of arrest but may furnish them in writing within 24 hours, and that the Pankaj Bansal ruling does not apply to arrests before 3 October 2023.",
+   "src": "https://www.livelaw.in/amp/supreme-court/ed-can-give-reasons-in-writing-to-accused-within-24-hrs-of-arrest-pankaj-bansal-judgment-doesnt-apply-retrospectively-supreme-court-244662",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-12-15",
+   "cat": "Legal Education & Careers",
+   "region": "Madhya Pradesh",
+   "body": "Supreme Court",
+   "headline": "MP High Court tells SC it won't enforce 3-year practice or 70% LLB marks rule for Civil Judge Exam 2023",
+   "text": "In Monika Yadav v. High Court of Madhya Pradesh (W.P.(C) No. 1380 of 2023), the MP High Court told the Supreme Court it would not enforce the June 2023 amendment requiring three years' practice or 70% marks in LLB for the Civil Judge (Junior Division) exam, and candidates were allowed to take the 18 December exam under the earlier eligibility norms.",
+   "src": "https://www.livelaw.in/top-stories/wont-enforce-condition-of-3-years-practice-or-70-llb-marks-for-civil-judge-exam-2023-mp-high-court-tells-supreme-court-244691",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-12-11",
+   "cat": "Judiciary",
+   "region": "Jammu & Kashmir",
+   "body": "Supreme Court",
+   "headline": "Constitution Bench in In Re: Article 370 upholds abrogation of J&K's special status",
+   "text": "A five-judge Constitution Bench unanimously upheld the 2019 Presidential Orders abrogating Article 370, holding it was a temporary provision, and upheld the carving out of Ladakh as a Union Territory. It directed the Election Commission to hold J&K Assembly elections by 30 September 2024 and asked that statehood be restored at the earliest.",
+   "why": "Settled the constitutional validity of one of the most consequential changes to India's federal structure.",
+   "src": "https://main.sci.gov.in/pdf/LU/article_370.pdf",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2023-12-11",
+   "cat": "Legislature",
+   "region": "Jammu & Kashmir",
+   "body": "Parliament",
+   "headline": "Parliament passes J&K Reorganisation (Amendment) and J&K Reservation (Amendment) Bills",
+   "text": "Rajya Sabha passed the J&K Reorganisation (Amendment) Bill, 2023 on 11 December 2023 (Lok Sabha had passed it on 6 December). It raises the Assembly's seats from 83 to 90, reserves nine seats for Scheduled Tribes, and lets the Lieutenant Governor nominate Kashmiri migrants and a representative of persons displaced from PoK. A companion Bill renamed 'weak and under-privileged classes' as OBCs.",
+   "src": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-12-04",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Advocates (Amendment) Bill, 2023 to curb touts in courts",
+   "text": "With Lok Sabha's approval on 4 December 2023 (Rajya Sabha had passed it in August), Parliament cleared the Advocates (Amendment) Bill, 2023. It moves the provisions on touts from the Legal Practitioners Act, 1879 into the Advocates Act, 1961, lets High Courts and district judges frame and publish lists of touts, and punishes listed touts with up to three months' imprisonment and/or a Rs 500 fine; the 1879 Act is repealed.",
+   "src": "https://prsindia.org/billtrack/the-advocates-amendment-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-12-04",
+   "cat": "Legal Education & Careers",
+   "region": "All India",
+   "body": "Consortium of National Law Universities",
+   "headline": "CLAT 2024 held on December 3; provisional answer key out, results scheduled for December 10",
+   "text": "After conducting CLAT 2024 on 3 December 2023, the Consortium of NLUs released the provisional answer key on 4 December with objections open till 5 December, and scheduled the final answer key for 9 December, results for 10 December and counselling registration from 12 to 22 December.",
+   "src": "https://images.assettype.com/barandbench/2023-12/67b6a63f-b5ac-46f8-93d6-f0ce8eae3d42/CLAT_Announcement.pdf",
+   "srcName": "Bar & Bench (Consortium of NLUs notice)"
+  },
+  {
+   "date": "2023-11-29",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Union Cabinet",
+   "headline": "Cabinet extends Fast Track Special Courts scheme till March 2026",
+   "text": "The Union Cabinet approved continuation of the centrally sponsored scheme for Fast Track Special Courts, including exclusive POCSO courts, for three more years up to March 2026 with an outlay of about Rs 1,952 crore, to expedite trials of rape and POCSO cases.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-11-29",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Van (Sanrakshan Evam Samvardhan) Rules, 2023 notified, replacing Forest Conservation Rules",
+   "text": "The Environment Ministry notified the Van (Sanrakshan Evam Samvardhan) Rules, 2023 under the amended forest conservation law, replacing the Forest Conservation Rules, 2022 and setting out procedures for approvals for diversion of forest land and compensatory afforestation.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-11-27",
+   "cat": "Other Legal News",
+   "region": "All India",
+   "body": "National Legal Services Authority",
+   "headline": "NALSA hosts first Regional Conference on Access to Legal Aid for the Global South",
+   "text": "NALSA organised the 1st Regional Conference on Access to Legal Aid: Strengthening Access to Justice in the Global South in New Delhi on 27-28 November 2023, with participation from over 40 countries, addressed among others by the Vice President and the Chief Justice of India.",
+   "src": "https://www.scconline.com/blog/post/2023/11/28/nalsa-1st-regional-conference/",
+   "srcName": "SCC Online Blog"
+  },
+  {
+   "date": "2023-11-23",
+   "cat": "Other Legal News",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Justice M. Fathima Beevi, first woman judge of the Supreme Court, passes away at 96",
+   "text": "Justice M. Fathima Beevi, who in 1989 became the first woman to be appointed a judge of the Supreme Court of India and later served as Governor of Tamil Nadu, passed away on 23 November 2023 at the age of 96.",
+   "src": "https://www.scconline.com/blog/post/2023/12/27/round-up-2023-judicial-strength-appointment-retirements-collegium-resolutions-sc-legal-news/",
+   "srcName": "SCC Online Blog"
+  },
+  {
+   "date": "2023-11-10",
+   "cat": "Judiciary",
+   "region": "Punjab",
+   "body": "Supreme Court",
+   "headline": "SC in State of Punjab v. Principal Secretary to Governor: Governor cannot sit on Bills indefinitely",
+   "text": "In State of Punjab v. Principal Secretary to the Governor of Punjab (W.P.(C) No. 1224 of 2023; 2023 INSC 1017), the Supreme Court held that a Governor who withholds assent must return the Bill to the Legislature for reconsideration, cannot doubt the validity of an Assembly session, and directed the Punjab Governor to decide on pending Bills. The judgment was uploaded on 23 November.",
+   "why": "Set constitutional limits on Governors' powers under Article 200.",
+   "src": "https://www.livelaw.in/top-stories/governor-cant-doubt-validity-of-assembly-session-supreme-court-asks-punjab-governor-to-decide-on-pending-bills-242076",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-11-10",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliamentary Standing Committee on Home Affairs",
+   "headline": "Standing Committee submits reports on BNS, BNSS and Bharatiya Sakshya Bills",
+   "text": "The Standing Committee on Home Affairs submitted its reports on the three Bills to replace the IPC, CrPC and Evidence Act, recommending changes including narrower terminology in place of 'unsound mind', clarity on handling electronic evidence and modifications to the definition of organised crime.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-11-09",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Justices Satish Chandra Sharma, Augustine George Masih and Sandeep Mehta sworn in as SC judges",
+   "text": "Three new judges took oath as judges of the Supreme Court on 9 November 2023, bringing the Court to its full sanctioned strength of 34 judges.",
+   "src": "https://www.scconline.com/blog/post/2023/12/27/round-up-2023-judicial-strength-appointment-retirements-collegium-resolutions-sc-legal-news/",
+   "srcName": "SCC Online Blog"
+  },
+  {
+   "date": "2023-11-09",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "SC in Ashwini Kumar Upadhyay v. Union of India directs HCs to monitor trials against MPs/MLAs",
+   "text": "A bench led by CJI D.Y. Chandrachud in Ashwini Kumar Upadhyay v. Union of India directed the Chief Justices of High Courts to register suo motu cases to monitor the early disposal of criminal cases pending against sitting and former legislators, instead of laying down a uniform timeline.",
+   "src": "https://www.scconline.com/blog/post/2023/12/02/supreme-court-round-up-november-2023/",
+   "srcName": "SCC Online Blog"
+  },
+  {
+   "date": "2023-11-08",
+   "cat": "Bar & Bar Councils",
+   "region": "All India",
+   "body": "Bar Council of India",
+   "headline": "AIBE XVIII postponed again to December 10; registration extended to November 16",
+   "text": "The Bar Council of India rescheduled the All India Bar Examination XVIII to 10 December 2023, its fourth postponement, citing a clash with the CLAT PG exam and the Madhya Pradesh judicial services preliminary exam, and extended online registration till 16 November.",
+   "src": "https://www.livelaw.in/news-updates/aibe-xviii-postponed-december-10-last-date-for-registration-extended-241948",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-11-06",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court Collegium",
+   "headline": "SC Collegium recommends three High Court Chief Justices for elevation to Supreme Court",
+   "text": "The Supreme Court Collegium recommended the elevation of Chief Justices Satish Chandra Sharma (Delhi HC), Augustine George Masih (Rajasthan HC) and Sandeep Mehta (Gauhati HC) as Supreme Court judges, which would take the Court to its full sanctioned strength of 34.",
+   "src": "https://www.livelaw.in/top-stories/breaking-sc-collegium-recommends-elevation-of-3-hc-chief-justice-to-supreme-court-241742",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-10-20",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "SC in Balram Singh v. Union of India orders end to manual scavenging, raises sewer-death compensation to Rs 30 lakh",
+   "text": "In Dr. Balram Singh v. Union of India (2023 LiveLaw (SC) 917), the Supreme Court directed the Union and States to completely eradicate manual scavenging and increased compensation for sewer deaths to Rs 30 lakh, with Rs 20 lakh for permanent disability and at least Rs 10 lakh for other disabilities.",
+   "src": "https://www.livelaw.in/supreme-court/completely-eradicate-manual-scavenging-supreme-court-directs-union-states-increases-compensation-for-sewer-deaths-to-rs-30-lakh-240650",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-10-20",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Justice S. Ravindra Bhat retires from the Supreme Court",
+   "text": "Justice S. Ravindra Bhat demitted office as a Supreme Court judge on 20 October 2023. In his farewell speech he said he was satisfied that much was done but conscious that a lot remains to be done. He authored the minority opinion in the same-sex marriage case days before retiring.",
+   "src": "https://www.livelaw.in/top-stories/satisfied-that-much-was-done-conscious-that-a-lot-remains-to-be-done-justice-ravindra-bhat-says-in-farewell-speech-240712",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-10-17",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Constitution Bench in Supriyo v. Union of India declines to recognise same-sex marriage",
+   "text": "In Supriyo @ Supriya Chakraborty v. Union of India (W.P.(C) No. 1011 of 2022; 2023 INSC 920), a five-judge bench unanimously held there is no fundamental right to marry and that same-sex marriage cannot be read into the Special Marriage Act, leaving it to Parliament. By 3:2 it declined to recognise civil unions or joint adoption by queer couples; the Centre's committee on queer couples' entitlements was noted.",
+   "why": "Landmark ruling on marriage equality; places the issue before the legislature.",
+   "src": "https://api.sci.gov.in/supremecourt/2022/36593/36593_2022_1_1501_47792_Judgement_17-Oct-2023.pdf",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2023-10-12",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Green Credit Rules, 2023 notified creating market mechanism for environmental actions",
+   "text": "The Environment Ministry notified the Green Credit Rules, 2023, setting up a market-based mechanism that awards tradeable green credits for activities such as tree plantation and waste management, with the Indian Council of Forestry Research and Education as administrator maintaining a green credit registry.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-10-09",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Law & Justice",
+   "headline": "Centre brings key provisions of the Mediation Act, 2023 into force",
+   "text": "The Ministry of Law and Justice notified (S.O. 4384(E), 9 October 2023) the commencement of several provisions of the Mediation Act, 2023, including those relating to the Mediation Council of India and related amendments, marking the first step in operationalising India's statutory mediation framework.",
+   "src": "https://www.scconline.com/blog/post/2023/10/10/mediation-act-2023-effective-date-notified-legal-news/",
+   "srcName": "SCC Online Blog"
+  },
+  {
+   "date": "2023-10-03",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "SC in Pankaj Bansal v. Union of India: ED must give written grounds of arrest under PMLA",
+   "text": "In Pankaj Bansal v. Union of India (2023 INSC 866), the Supreme Court held that the Enforcement Directorate must furnish the grounds of arrest to the accused in writing at the time of arrest under Section 19 PMLA, and that mere non-cooperation with summons is not a ground to arrest. The arrests of the Bansals were set aside.",
+   "why": "Became the leading precedent on procedural safeguards in ED arrests.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-monthly-roundup-october-2023-241476",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-09-29",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Law Commission of India",
+   "headline": "Law Commission advises against lowering age of consent under POCSO Act",
+   "text": "The Law Commission recommended against reducing the age of consent under the POCSO Act from 18 to 16 years. Instead, it suggested guided judicial discretion in sentencing in cases involving tacit approval of adolescents aged 16-18, subject to conditions such as a limited age gap.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-09-21",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Women's Reservation Bill (Constitution 128th Amendment)",
+   "text": "The Constitution (One Hundred and Twenty-Eighth Amendment) Bill, 2023, introduced on September 19, was passed by the Lok Sabha on September 20 and the Rajya Sabha on September 21 during the special session. It reserves one-third of seats for women in the Lok Sabha, State Assemblies and the Delhi Assembly, effective after the next census-based delimitation.",
+   "src": "https://prsindia.org/billtrack/the-constitution-one-hundred-twenty-eighth-amendment-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-09-13",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Union Cabinet",
+   "headline": "Cabinet approves eCourts Project Phase III with Rs 7,210 crore outlay",
+   "text": "The Union Cabinet approved Phase III of the eCourts Project for four years with a financial outlay of Rs 7,210 crore. It aims to create a unified technology platform for the judiciary and a paperless interface between courts, litigants and other stakeholders, including digitisation of case records.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-09-12",
+   "cat": "Legislature",
+   "region": "Rajasthan",
+   "body": "Rajasthan Legislative Assembly",
+   "headline": "Rajasthan's platform-based gig workers law receives Governor's assent",
+   "text": "The Rajasthan Platform Based Gig Workers (Registration and Welfare) Act, 2023 received the Governor's assent on September 12, 2023. It sets up a welfare board and fund, funded by a welfare fee on aggregators, and provides for registration and social security of gig workers.",
+   "why": "First state law in India dedicated to gig workers' welfare.",
+   "src": "https://prsindia.org/files/bills_acts/acts_states/rajasthan/2023/Act29of2023Rajasthan.pdf",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-09-11",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Constitution Bench: striking down of Section 6A DSPE Act has retrospective effect",
+   "text": "In CBI v. Dr. R.R. Kishore (2023 LiveLaw (SC) 770; 2023 INSC 817), a Constitution Bench held that the 2014 Subramanian Swamy judgment striking down Section 6A of the DSPE Act applies retrospectively, so officers of Joint Secretary rank and above lose the prior-sanction protection even for pre-2014 cases.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-monthly-digest-latest-judgments-september-2023-242468",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-09-05",
+   "cat": "Judiciary",
+   "region": "Jammu and Kashmir",
+   "body": "Supreme Court",
+   "headline": "Supreme Court reserves verdict on Article 370 abrogation",
+   "text": "The Constitution Bench reserved its judgment on the petitions challenging the abrogation of Article 370, after hearing arguments that began on August 2, 2023.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-constitution-bench-judgments-hearings-of-2023-245254",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-09-01",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Children of void or voidable marriages entitled to parents' share in Hindu joint family property",
+   "text": "In Revanasiddappa v. Mallikarjun (2023 LiveLaw (SC) 737; 2023 INSC 783), a three-judge bench held that children born of void or voidable marriages are entitled to their parents' share in Hindu joint family property, though they do not become coparceners by birth.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-monthly-digest-latest-judgments-september-2023-242468",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-08-11",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Bills to replace IPC, CrPC and Evidence Act introduced in Lok Sabha",
+   "text": "The Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Bills, 2023 were introduced in the Lok Sabha to replace the IPC, CrPC and Indian Evidence Act, and referred to the Standing Committee on Home Affairs. The BNS drops sedition as such and adds offences like terrorism and organised crime.",
+   "why": "Start of the overhaul of India's criminal law framework.",
+   "src": "https://prsindia.org/billtrack/the-bharatiya-nyaya-sanhita-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-08-09",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Digital Personal Data Protection Bill, 2023",
+   "text": "The Digital Personal Data Protection Bill, 2023, introduced on August 3, was passed by the Lok Sabha on August 7 and the Rajya Sabha on August 9. It sets up a consent-based regime for processing digital personal data and a Data Protection Board of India, with exemptions for government agencies.",
+   "why": "India's first comprehensive data protection law.",
+   "src": "https://prsindia.org/billtrack/digital-personal-data-protection-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-08-07",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Mediation Bill",
+   "text": "The Lok Sabha passed the Mediation Bill, already cleared by the Rajya Sabha on August 1, completing its passage. The law provides for pre-litigation mediation in civil and commercial disputes, a Mediation Council of India, and makes mediated settlement agreements enforceable like court judgments.",
+   "src": "https://prsindia.org/billtrack/the-mediation-bill-2021",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-08-07",
+   "cat": "Legislature",
+   "region": "Delhi",
+   "body": "Parliament",
+   "headline": "Parliament passes GNCTD (Amendment) Bill on control of Delhi services",
+   "text": "The Government of National Capital Territory of Delhi (Amendment) Bill, 2023, replacing the May ordinance, was passed by Parliament after the Rajya Sabha cleared it on August 7. It applies retrospectively from May 19, 2023 and vests transfers and postings through a National Capital Civil Services Authority.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-08-04",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court stays Rahul Gandhi's conviction in 'Modi surname' defamation case",
+   "text": "A bench of Justices B.R. Gavai, P.S. Narasimha and Sanjay Kumar stayed Rahul Gandhi's conviction, noting the trial judge gave no reasons for awarding the maximum two-year sentence that triggered disqualification under the Representation of the People Act. His Lok Sabha membership was subsequently restored.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-congress-leader-rahul-gandhi-conviction-stay-criminal-defamation-case-modi-thieves-remark-234384",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-08-03",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Rajya Sabha",
+   "headline": "Rajya Sabha passes Advocates (Amendment) Bill to curb court touts",
+   "text": "The Advocates (Amendment) Bill, 2023, introduced on August 1, was passed by the Rajya Sabha. It repeals the Legal Practitioners Act, 1879 and moves provisions on touts into the Advocates Act, 1961, allowing courts to frame lists of touts and exclude them from court premises.",
+   "src": "https://prsindia.org/billtrack/the-advocates-amendment-bill-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-08-02",
+   "cat": "Judiciary",
+   "region": "Jammu and Kashmir",
+   "body": "Supreme Court",
+   "headline": "Constitution Bench begins hearing challenge to abrogation of Article 370",
+   "text": "A five-judge Constitution Bench led by CJI DY Chandrachud began hearing the petitions challenging the 2019 abrogation of Article 370 and the bifurcation of Jammu and Kashmir. Judgment was reserved on September 5, 2023.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-constitution-bench-judgments-hearings-of-2023-245254",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-08-02",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Jan Vishwas (Amendment of Provisions) Bill decriminalising minor offences",
+   "text": "The Rajya Sabha passed the Jan Vishwas (Amendment of Provisions) Bill, 2023, already passed by the Lok Sabha on July 27. It amends 42 central laws to decriminalise or rationalise minor offences, replacing several imprisonment provisions with monetary penalties.",
+   "src": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1945263",
+   "srcName": "PIB"
+  },
+  {
+   "date": "2023-07-28",
+   "cat": "Judiciary",
+   "region": "Maharashtra",
+   "body": "Supreme Court",
+   "headline": "Bhima Koregaon: Supreme Court grants bail to Vernon Gonsalves and Arun Ferreira",
+   "text": "In Vernon v. State of Maharashtra (2023 LiveLaw (SC) 575; 2023 INSC 655), the Supreme Court granted bail to Vernon Gonsalves and Arun Ferreira, holding that mere possession of literature propagating violent ideology does not by itself make out a terrorist act under the UAPA.",
+   "why": "Clarifies the prima facie test for bail under UAPA.",
+   "src": "https://www.livelaw.in/supreme-court/supreme-court-monthly-digest-july-2023-239097",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-07-20",
+   "cat": "Judiciary",
+   "region": "Manipur",
+   "body": "Supreme Court",
+   "headline": "Supreme Court takes suo motu cognizance of Manipur video of women paraded naked",
+   "text": "A bench led by CJI DY Chandrachud took suo motu cognizance of the viral video from Manipur showing two women being paraded naked, calling the use of women as instruments of violence unacceptable, and asked the Centre and State to report action taken, warning the Court would act if the government did not.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-takes-suo-motu-cognizance-of-manipur-video-233149",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-07-14",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Justices Ujjal Bhuyan and S.V. Bhatti sworn in as Supreme Court judges",
+   "text": "Justices Ujjal Bhuyan (Chief Justice, Telangana High Court) and S.V. Bhatti (Chief Justice, Kerala High Court) took oath as Supreme Court judges, raising the Court's working strength to 32. The Collegium had recommended them on July 5 and the Centre notified the appointments on July 12.",
+   "src": "https://www.livelaw.in/top-stories/justices-ujjal-bhuyan-sv-bhatti-take-oath-as-supreme-court-judges-sc-strength-rises-to-32-232708",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-07-11",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court holds extensions to ED Director S.K. Mishra illegal",
+   "text": "In Dr. Jaya Thakur v. Union of India (2023 LiveLaw (SC) 518; 2023 INSC 616), the Supreme Court held the extensions granted to ED Director S.K. Mishra violated its 2021 Common Cause ruling, but allowed him to continue till July 31, 2023. It upheld the CVC and DSPE Act amendments allowing tenure extensions up to five years.",
+   "src": "https://www.livelaw.in/supreme-court/supreme-court-monthly-digest-july-2023-239097",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-07-07",
+   "cat": "Judiciary",
+   "region": "Gujarat",
+   "body": "Gujarat High Court",
+   "headline": "Gujarat High Court refuses to suspend Rahul Gandhi's defamation conviction",
+   "text": "The Gujarat High Court dismissed Rahul Gandhi's revision plea seeking suspension of his conviction in the criminal defamation case over his 'Modi surname' remark, keeping his disqualification as MP in place.",
+   "src": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-modi-thieves-remark-dismisses-rahul-gandhi-plea-suspend-conviction-defamation-case-232134",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-06-30",
+   "cat": "Judiciary",
+   "region": "Karnataka",
+   "body": "Karnataka High Court",
+   "headline": "Karnataka High Court dismisses Twitter's challenge to blocking orders with Rs 50 lakh costs",
+   "text": "The Karnataka High Court dismissed Twitter's (now X Corp) petition challenging the Centre's blocking orders under Section 69A of the IT Act for accounts and tweets, and imposed costs of Rs 50 lakh on the company.",
+   "src": "https://www.livelaw.in/top-stories/karnataka-high-court-twitter-blocking-orders-ministry-electronics-information-technology-case-231544",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-06-15",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court holds Competition Act applies to Coal India",
+   "text": "In Coal India Ltd v. Competition Commission of India (2023 LiveLaw (SC) 484), the Supreme Court held that Coal India, despite being a public sector undertaking governed by the Coal Mines (Nationalisation) Act, is subject to the Competition Act, 2002.",
+   "src": "https://www.livelaw.in/supreme-court/supreme-court-monthly-digest-june-239031",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-06-14",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Law Commission of India",
+   "headline": "Law Commission invites public views on Uniform Civil Code",
+   "text": "The 22nd Law Commission issued a public notice soliciting views from the public and recognised religious organisations on a Uniform Civil Code, with the consultation window running from June 14 to July 28, 2023.",
+   "src": "https://lawcommissionofindia.nic.in/notice/uniform-civil-code-public-notice/",
+   "srcName": "Law Commission of India"
+  },
+  {
+   "date": "2023-06-09",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court: BCI can insist that only graduates of recognised law colleges enrol as advocates",
+   "text": "In Bar Council of India v. Rabi Sahu (2023 LiveLaw (SC) 481), the Supreme Court held that the Bar Council of India is empowered to prescribe that only those holding law degrees from colleges recognised by it can be enrolled as advocates.",
+   "src": "https://www.livelaw.in/supreme-court/supreme-court-monthly-digest-june-239031",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-06-06",
+   "cat": "Bar & Bar Councils",
+   "region": "Delhi",
+   "body": "Bar Council of Delhi",
+   "headline": "Bar Council of Delhi committee opposes BCI rules allowing foreign lawyers and law firms",
+   "text": "A special committee of the Bar Council of Delhi issued an interim report opposing the BCI's March 2023 rules for registration of foreign lawyers and law firms, saying they would undermine the Indian legal profession, and called on the BCI to stay the rules.",
+   "src": "https://www.livelaw.in/news-updates/bar-council-of-delhi-special-committee-bci-foreign-lawyers-law-firms-entry-rules-230198",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-06-02",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Law Commission of India",
+   "headline": "Law Commission recommends retaining sedition law with higher punishment",
+   "text": "In Report No. 279, the 22nd Law Commission recommended retaining Section 124A IPC with amendments incorporating the Kedar Nath Singh test, raising the maximum jail term to seven years, and requiring a preliminary inquiry by an Inspector-level officer and government sanction before an FIR.",
+   "why": "Came while sedition prosecutions stood suspended by the Supreme Court.",
+   "src": "https://www.barandbench.com/news/litigation/sedition-law-commission-of-india-says-section-124a-ipc-should-be-retained-also-suggests-enhancement-in-punishment",
+   "srcName": "Bar & Bench"
+  },
+  {
+   "date": "2023-05-24",
+   "cat": "Legal Education & Careers",
+   "region": "All India",
+   "body": "Consortium of NLUs",
+   "headline": "CLAT 2024 to be held on December 3, 2023",
+   "text": "The Consortium of National Law Universities announced that CLAT 2024, for UG and PG admissions to 22 NLUs, will be held on December 3, 2023. The decision was taken at its Executive Committee and Governing Body meeting on May 20 at NLIU Bhopal.",
+   "src": "https://www.livelaw.in/top-stories/clat-2024-to-be-conducted-on-december-3-2023-229347",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-05-19",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Justice Prashant Kumar Mishra and K.V. Viswanathan sworn in; Supreme Court at full strength of 34",
+   "text": "Justice Prashant Kumar Mishra, Chief Justice of the Andhra Pradesh High Court, and Senior Advocate K.V. Viswanathan took oath as Supreme Court judges, administered by CJI DY Chandrachud. Viswanathan was elevated directly from the Bar.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-justice-prashant-kumar-mishra-kv-viswanathan-take-oath-as-supreme-court-judges-229049",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-05-19",
+   "cat": "Executive & Government",
+   "region": "Delhi",
+   "body": "Union Government",
+   "headline": "Centre promulgates GNCTD (Amendment) Ordinance, 2023 on Delhi services",
+   "text": "The Government of National Capital Territory of Delhi (Amendment) Ordinance, 2023 was promulgated, taking 'services' out of the Delhi Legislative Assembly's domain and creating a National Capital Civil Services Authority to recommend transfers and postings of officers.",
+   "why": "Effectively nullified the May 11 Constitution Bench ruling.",
+   "src": "https://prsindia.org/files/policy/policy_annual_policy_review/Monthly%20Policy%20Review/2023-05-01/MPR_MAY_2023.pdf",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-05-18",
+   "cat": "Judiciary",
+   "region": "Tamil Nadu",
+   "body": "Supreme Court",
+   "headline": "Supreme Court upholds laws permitting Jallikattu, Kambala and bullock-cart races",
+   "text": "In The Animal Welfare Board of India v. Union of India, a Constitution Bench upheld the Tamil Nadu, Karnataka and Maharashtra amendments to the Prevention of Cruelty to Animals Act, 1960 that permit Jallikattu, Kambala and bullock-cart racing, holding that the amended laws minimise cruelty to animals.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-jallikattu-allowed-tamil-nadu-article-25-culture-kambala-maharashtra-animal-cruelty-228956",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-05-18",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Law & Justice",
+   "headline": "Arjun Ram Meghwal replaces Kiren Rijiju as Union Law Minister",
+   "text": "In a Cabinet reshuffle, Arjun Ram Meghwal was given independent charge of the Ministry of Law and Justice, replacing Kiren Rijiju, who was moved to the Ministry of Earth Sciences. Rijiju's tenure had been marked by public criticism of the collegium system.",
+   "src": "https://www.livelaw.in/top-stories/arjun-ram-meghwal-replaces-kiren-rijiju-as-union-law-minister-228945",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-05-11",
+   "cat": "Judiciary",
+   "region": "Delhi",
+   "body": "Supreme Court",
+   "headline": "Constitution Bench: Delhi Government, not LG, controls services except police, public order and land",
+   "text": "In Government of NCT of Delhi v. Union of India, a five-judge Constitution Bench unanimously held that the elected Delhi Government has legislative and executive control over administrative services, excluding police, public order and land. The Lieutenant Governor is bound by the Council of Ministers' aid and advice on such matters.",
+   "why": "Triggered the Centre's GNCTD Ordinance a week later.",
+   "src": "https://api.sci.gov.in/supremecourt/2016/29357/29357_2016_1_1501_44512_Judgement_11-May-2023.pdf",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2023-05-11",
+   "cat": "Judiciary",
+   "region": "Maharashtra",
+   "body": "Supreme Court",
+   "headline": "Maharashtra crisis: Governor's floor test call wrong, but Uddhav Thackeray govt cannot be restored",
+   "text": "In Subhash Desai v. Principal Secretary, Governor of Maharashtra, a Constitution Bench held that the Governor erred in calling for a floor test and that the political party, not the legislature party, appoints the whip. It declined to restore the Thackeray government since he resigned without facing the floor test, and referred the Nabam Rebia issue to a larger bench.",
+   "src": "https://www.livelaw.in/top-stories/shivsena-supreme-court-maharashtra-case-uddhav-thackeray-eknath-shinde-228476",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-04-28",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court directs all States and UTs to register suo motu FIRs for hate speech",
+   "text": "In the hate speech matter (Shaheen Abdulla v. Union of India), the Supreme Court extended its earlier directions to all States and Union Territories, requiring them to register FIRs suo motu against hate speech irrespective of the speaker's religion, without waiting for a complaint. Delay was to be treated as contempt.",
+   "why": "Extends a police duty to act against hate speech nationwide.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-directs-all-states-to-register-suo-motu-fir-against-hate-speeches-irrespective-of-religion-227444",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-04-28",
+   "cat": "Legal Education & Careers",
+   "region": "All India",
+   "body": "Bar Council of India",
+   "headline": "BCI declares AIBE XVII results",
+   "text": "The Bar Council of India declared the results of the All India Bar Examination XVII, held on February 5, 2023 across 53 cities. About 1.71 lakh candidates had taken the exam; the final answer key was released on April 20.",
+   "src": "https://www.livelaw.in/top-stories/all-india-bar-examination-aibe-xvii-result-declared-bar-council-of-india-227468",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-04-23",
+   "cat": "Bar & Bar Councils",
+   "region": "All India",
+   "body": "Bar Council of India",
+   "headline": "BCI passes resolution urging Supreme Court to leave same-sex marriage issue to Parliament",
+   "text": "A joint meeting of the Bar Council of India and State Bar Councils passed a resolution asking the Supreme Court to leave the question of legal recognition of same-sex marriage to the legislative process. The resolution drew criticism from sections of the Bar and law students.",
+   "src": "https://www.livelaw.in/top-stories/same-sex-marriage-bar-council-of-india-supreme-court-marriage-equality-227008",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-04-20",
+   "cat": "Other Legal News",
+   "region": "Gujarat",
+   "body": "Surat Sessions Court",
+   "headline": "Surat court refuses to stay Rahul Gandhi's conviction in 'Modi surname' defamation case",
+   "text": "A Sessions Court in Surat dismissed Rahul Gandhi's application seeking suspension of his conviction in the criminal defamation case over his 'Modi surname' remark. The conviction had led to his disqualification from the Lok Sabha.",
+   "src": "https://www.livelaw.in/videos/surat-court-dismisses-rahul-gandhis-plea-for-stay-on-conviction-in-defamation-case-video-226807",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-04-19",
+   "cat": "Judiciary",
+   "region": "Kerala",
+   "body": "Supreme Court Collegium",
+   "headline": "Collegium recommends Justice S.V. Bhatti as Chief Justice of Kerala High Court",
+   "text": "The Supreme Court Collegium recommended Justice S.V. Bhatti as Chief Justice of the Kerala High Court, succeeding Justice S. Manikumar who was due to retire on April 24, 2023. The Collegium noted his experience as a senior puisne judge in two High Courts.",
+   "src": "https://www.livelaw.in/high-court/kerala-high-court/collegium-recommends-justice-sv-bhatti-chief-justice-kerala-high-court-226763",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-04-18",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Constitution Bench begins hearing marriage equality petitions",
+   "text": "A five-judge Constitution Bench led by CJI DY Chandrachud began hearing Supriyo v. Union of India, the batch of petitions seeking legal recognition of same-sex marriages. On day one, the Court said it would confine itself to the Special Marriage Act and not deal with personal laws for now.",
+   "src": "https://www.livelaw.in/top-stories/same-sex-marriage-supreme-court-marriage-equality-in-personal-laws-226661",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-04-11",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Competition (Amendment) Act, 2023 receives Presidential assent",
+   "text": "The Competition (Amendment) Act, 2023 (No. 9 of 2023) received the President's assent on April 11, 2023. It introduces a deal-value threshold for merger notification, a settlement and commitment mechanism, and global-turnover-based penalties.",
+   "why": "Most significant overhaul of Indian competition law since 2002.",
+   "src": "https://prsindia.org/files/bills_acts/acts_parliament/2023/The%20Competition%20(Amendment)%20Act,%202023.pdf",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-04-06",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Electronics & IT",
+   "headline": "Centre notifies IT Rules amendments on online gaming and government fact-check unit",
+   "text": "MeitY notified amendments to the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, providing for self-regulatory bodies to verify permissible online games and banning wagering games. The amendments also created a Fact Check Unit to flag 'fake or misleading' information about government business, which intermediaries must not host.",
+   "why": "The fact-check unit provision was immediately challenged before the Bombay High Court.",
+   "src": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1914358",
+   "srcName": "PIB"
+  },
+  {
+   "date": "2023-04-05",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court lifts telecast ban on MediaOne, faults sealed-cover procedure",
+   "text": "In Madhyamam Broadcasting Ltd v. Union of India, the Supreme Court set aside the Centre's refusal to renew MediaOne's broadcast licence. It held that 'national security' cannot be invoked in a vacuum to deny citizens' rights and that sealed-cover proceedings violated natural justice.",
+   "why": "Sets limits on use of national security and sealed covers to curb press freedom.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-media-one-telecast-ban-national-security-misuse-sealed-covers-violate-natural-justice-freedom-of-press-article-19-225528",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-03-29",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Lok Sabha passes Competition (Amendment) Bill",
+   "text": "The Lok Sabha passed the Competition (Amendment) Bill, 2022, which introduces a deal-value threshold for merger control, shortens timelines for approval of combinations and adds a settlement and commitment mechanism.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-03-24",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Finance Bill, 2023 with 64 amendments",
+   "text": "Parliament passed the Finance Bill, 2023 with 64 amendments, including changes to income tax slabs and to the tax treatment of capital gains on certain debt mutual funds.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-03-17",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Joint Parliamentary Committee",
+   "headline": "JPC submits report on Jan Vishwas Bill",
+   "text": "The Joint Parliamentary Committee on the Jan Vishwas (Amendment of Provisions) Bill, 2022 submitted its report, recommending enhanced penalties in some cases and adjudication mechanisms across the 42 laws the Bill amends.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-03-15",
+   "cat": "Bar & Bar Councils",
+   "region": "All India",
+   "body": "Bar Council of India",
+   "headline": "BCI permits foreign lawyers and law firms to practise foreign law and international arbitration in India",
+   "text": "The Bar Council of India notified rules for registration and regulation of foreign lawyers and foreign law firms, allowing them to practise foreign law, international law and international arbitration matters in India on a reciprocal basis, while barring appearance before Indian courts.",
+   "why": "Opens the Indian legal market to foreign firms for the first time.",
+   "src": "https://www.livelaw.in/top-stories/foreign-lawyers-practice-in-india-permitted-bar-council-of-india-arbitration-reciprocatory-223790",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-03-15",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Inter-Services Organisations (Command, Control and Discipline) Bill introduced",
+   "text": "The Inter-Services Organisations (Command, Control and Discipline) Bill, 2023 was introduced in the Lok Sabha to empower commanders of inter-services organisations to exercise disciplinary and administrative control over personnel of all three services under them.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-03-14",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health & Family Welfare",
+   "headline": "Surrogacy Rules amended to require both gametes from intending couple",
+   "text": "The Centre amended the Surrogacy (Regulation) Rules, 2022 to require that both male and female gametes come from the intending couple, effectively barring donor gametes in gestational surrogacy.",
+   "why": "Later challenged before the Supreme Court.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-03-07",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Finance",
+   "headline": "Crypto/virtual digital asset businesses brought under PMLA",
+   "text": "The Finance Ministry notified that entities dealing in virtual digital assets, including exchanges and custodians, are 'reporting entities' under the Prevention of Money Laundering Act, requiring KYC and record-keeping obligations.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-02-23",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Union Cabinet",
+   "headline": "Term of 22nd Law Commission extended until August 31, 2024",
+   "text": "The Union Cabinet approved extending the tenure of the 22nd Law Commission of India, whose Chairperson and members had been appointed in November 2022, until August 31, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-02-13",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Justices Rajesh Bindal and Aravind Kumar sworn in; Supreme Court at full strength of 34",
+   "text": "Justices Rajesh Bindal and Aravind Kumar, former Chief Justices of the Allahabad and Gujarat High Courts, took oath as Supreme Court judges on February 13, 2023, taking the Court to its full sanctioned strength of 34 judges.",
+   "src": "https://www.sci.gov.in/judge/justice-aravind-kumar/",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2023-02-06",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Five new judges sworn in to the Supreme Court",
+   "text": "Justices Pankaj Mithal, Sanjay Karol, P.V. Sanjay Kumar, Ahsanuddin Amanullah and Manoj Misra took oath as Supreme Court judges on February 6, 2023, following the Collegium's December 2022 recommendation.",
+   "src": "https://www.sci.gov.in/chief-justice-judges/",
+   "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2023-02-03",
+   "cat": "Legal Education & Careers",
+   "region": "All India",
+   "body": "Bar Council of India",
+   "headline": "AIBE-XVII: BCI allows candidates to carry bare Acts ahead of February 5 exam",
+   "text": "The Bar Council of India allowed candidates appearing in the All India Bar Examination XVII on February 5, 2023 to carry downloaded or printed copies of bare Acts with minimal notes. The exam was eventually taken by over 1.7 lakh candidates across 53 cities.",
+   "src": "https://www.livelaw.in/news-updates/aibe-17-bar-council-of-india-allows-candidates-carry-downloaded-copies-bare-acts-least-notes-220671",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-01-19",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court Collegium",
+   "headline": "In a first, SC Collegium publishes Centre's objections and its reasons for reiterating names including Saurabh Kirpal",
+   "text": "The Supreme Court Collegium made public the Centre's objections, based on IB and RAW inputs, to candidates for High Court judgeship, including Saurabh Kirpal (sexual orientation, foreign partner), Somasekhar Sundaresan and R. John Sathyan (social media posts), and recorded its reasons for rejecting them and reiterating the names.",
+   "why": "Unprecedented transparency in the appointments standoff.",
+   "src": "https://www.livelaw.in/top-stories/in-a-first-supreme-court-collegium-puts-on-record-reasons-to-reject-centres-objections-to-proposals-219467",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-01-18",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Corporate Affairs",
+   "headline": "Draft amendments to Insolvency and Bankruptcy Code released for consultation",
+   "text": "The Ministry of Corporate Affairs released draft amendments to the IBC, 2016 proposing wider eligibility for pre-packaged insolvency, lowering the creditor approval threshold for pre-packs from 66% to 51%, and provisions for real estate insolvency cases.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-01-17",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Electronics & IT",
+   "headline": "Draft IT Rules amendment on PIB fact-check and online gaming released",
+   "text": "MeitY released draft amendments to the IT Rules, 2021 requiring intermediaries not to publish content flagged as false or fake by the PIB fact-check unit or other authorised agencies, and proposing a framework for online gaming.",
+   "why": "Drew criticism from media bodies over government fact-checking powers.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-01-17",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Law & Justice",
+   "headline": "Law Minister defends letter to CJI seeking government nominees in judge-selection panel",
+   "text": "Law Minister Kiren Rijiju defended his letter to the CJI proposing a search-cum-evaluation committee including government representatives to prepare panels of candidates for judicial appointment, saying it followed the NJAC judgment's direction to revise the Memorandum of Procedure and did not seek a seat on the Collegium.",
+   "src": "https://www.livelaw.in/top-stories/how-can-govt-nominee-be-part-of-collegium-people-making-comments-without-knowing-facts-law-minister-kiren-rijiju-219170",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-01-03",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "No additional restrictions on free speech of ministers beyond Article 19(2): SC (Kaushal Kishor v. State of UP)",
+   "text": "A Constitution Bench held that grounds in Article 19(2) are exhaustive and no additional restrictions can be imposed on the free speech of public functionaries, and that a minister's statement cannot be vicariously attributed to the government. Justice Nagarathna partly dissented.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-constitutional-values-opinion-tort-kaushal-kishore-vs-state-of-uttar-pradesh-2023-livelaw-sc-4-218000",
+   "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-01-02",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court upholds 2016 demonetisation by 4:1 (Vivek Narayan Sharma v. Union of India)",
+   "text": "A five-judge Constitution Bench upheld the November 2016 demonetisation of Rs 500 and Rs 1000 notes, holding that the decision-making process under Section 26(2) of the RBI Act was not flawed and that hardship to citizens did not render it invalid. Justice B.V. Nagarathna dissented, holding the measure should have been done through legislation.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-demonetisation-citizens-hardship-vivek-narayan-sharma-vs-union-of-india-2023-livelaw-sc-1-217898",
+   "srcName": "LiveLaw"
+  }
+ ]
+}

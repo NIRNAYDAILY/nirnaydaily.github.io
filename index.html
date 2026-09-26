@@ -981,11 +981,44 @@ function newsBody(d){
   let html=""; NEWS_CATS.concat([...new Set(its.map(x=>x.cat))].filter(c=>!NEWS_CATS.includes(c))).forEach(c=>{ const g=its.filter(x=>(x.cat||"Other Legal News")===c); if(g.length) html+=`<h4 class="subhead">${esc(c)}</h4>`+g.map(newsCard).join(""); });
   return {html,n:its.length};
 }
+/* ---------- NEWS ARCHIVE (Oct 2021 onwards, top stories of every month) ---------- */
+let HIST=null, HIST_LOADING=false;
+async function loadHist(){
+  if(HIST||HIST_LOADING) return; HIST_LOADING=true;
+  try{ const ix=await getJSON("data/news-history/index.json");
+    const res=await Promise.allSettled((ix.years||[]).map(y=>getJSON(`data/news-history/${y}.json`)));
+    const items=[]; res.forEach(r=>{ if(r.status==="fulfilled") (r.value.items||[]).forEach(x=>items.push(x)); });
+    items.sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+    HIST={items,updated:ix.updated||""};
+  }catch(e){ HIST={items:[],error:true}; }
+  HIST_LOADING=false; if(/#news-archive/.test(location.hash)) render();
+}
+const monthName = ym => new Date(ym+"-01T00:00:00").toLocaleDateString("en-IN",{month:"long",year:"numeric"});
+function newsArchivePage(){
+  const head=pageHead("Legal news · 2021 to today","News Archive","The biggest legal news of every month since October 2021: the judiciary, Bar Councils, Parliament and State Legislatures, and the Government, from across India. Pick a year or category, or search.").replace("Search this and earlier editions","Search 5 years of legal news");
+  const tabs=`<div class="chips" style="padding-top:10px"><a class="chip" href="#news">Latest editions (10 AM & 6 PM)</a><a class="chip" href="#news-archive" aria-pressed="true" style="background:var(--stamp);color:#fff;border-color:var(--stamp);text-decoration:none">News Archive</a></div>`;
+  if(!HIST){ loadHist(); return `<div class="view">${head}${tabs}<p class="empty">Loading the news archive…</p></div>`; }
+  if(!HIST.items.length) return `<div class="view">${head}${tabs}<p class="empty">The news archive is being prepared and will appear here soon.</p></div>`;
+  const years=[...new Set(HIST.items.map(x=>String(x.date).slice(0,4)))].sort().reverse();
+  const cats=NEWS_CATS.filter(c=>HIST.items.some(x=>x.cat===c));
+  const q=state.q.trim().toLowerCase();
+  let its=HIST.items.filter(x=>(state.cat==="all"||String(x.date).startsWith(state.cat))&&(state.f==="all"||x.cat===state.f)&&(!q||[x.headline,x.text,x.cat,x.region,x.body,x.srcName,x.why,x.date].join(" ").toLowerCase().includes(q)));
+  const chips=`<div class="chips" role="group" aria-label="Year"><button class="chip" data-cat="all" aria-pressed="${state.cat==="all"}">All years<span class="c">${HIST.items.length}</span></button>${years.map(y=>`<button class="chip" data-cat="${y}" aria-pressed="${state.cat===y}">${y}<span class="c">${HIST.items.filter(x=>String(x.date).startsWith(y)).length}</span></button>`).join("")}</div>
+    <div class="chips" role="group" aria-label="Category" style="padding-top:0"><button class="chip" data-f="all" aria-pressed="${state.f==="all"}">All categories</button>${cats.map(c=>`<button class="chip" data-f="${esc(c)}" aria-pressed="${state.f===c}">${esc(c)}</button>`).join("")}</div>`;
+  const byMonth={}; its.forEach(x=>{ const m=String(x.date).slice(0,7); (byMonth[m]=byMonth[m]||[]).push(x); });
+  const months=Object.keys(byMonth).sort().reverse();
+  const limit=q?months.length:state.more*2;
+  let html=months.slice(0,limit).map(m=>`<section class="edition"><div class="edhead"><div><span class="tagline2">${byMonth[m].length} stories</span><h3>${esc(monthName(m))}</h3></div></div>${byMonth[m].map(newsCard).join("")}</section>`).join("");
+  if(months.length>limit) html+=`<button class="more" data-more>Show older months (${months.length-limit} more)</button>`;
+  return `<div class="view">${head}${tabs}${chips}${html||`<p class="empty">No stories match your search.</p>`}
+    <p class="src-note">Every story links to the legal publication or official website it was taken from. Stories are summaries; follow the link for the full report.</p></div>`;
+}
 function newsPage(){
   let chips="";
   if(NEWS){ const all=[NEWS,...NEWS_AR].flatMap(d=>d.items||[]); const cats=NEWS_CATS.filter(c=>all.some(x=>x.cat===c));
     chips=`<div class="chips" role="group" aria-label="Filter news"><button class="chip" data-f="all" aria-pressed="${state.f==="all"}">All news</button>${cats.map(c=>`<button class="chip" data-f="${esc(c)}" aria-pressed="${state.f===c}">${esc(c)}</button>`).join("")}</div>`; }
-  return `<div class="view">${pageHead("Legal news · twice daily","Legal News","Law news from across India: the judiciary, Bar Councils, Parliament and State Legislatures, and the Government. The 10 AM edition covers 4 PM the previous day to 10 AM; the 6 PM edition covers 10 AM to 4 PM. Latest edition first; earlier editions and search below.")}${chips}
+  const tabs=`<div class="chips" style="padding-top:10px"><a class="chip" href="#news" aria-pressed="true" style="background:var(--stamp);color:#fff;border-color:var(--stamp);text-decoration:none">Latest editions (10 AM & 6 PM)</a><a class="chip" href="#news-archive" style="text-decoration:none">News Archive: 2021 to today →</a></div>`;
+  return `<div class="view">${pageHead("Legal news · twice daily","Legal News","Law news from across India: the judiciary, Bar Councils, Parliament and State Legislatures, and the Government. The 10 AM edition covers 4 PM the previous day to 10 AM; the 6 PM edition covers 10 AM to 4 PM. Latest edition first; earlier editions and search below.")}${tabs}${chips}
   ${NEWS?withArchive(NEWS,NEWS_AR,newsBody,"No news items in this edition."):(LOADED?`<p class="empty">The first Legal News edition will appear here at the next update (10 AM or 6 PM IST).</p>`:loadingView())}</div>`;
 }
 
@@ -1360,7 +1393,7 @@ if(MODE){
 
 /* ---------- ROUTER ---------- */
 const app=document.getElementById("app");
-const ROUTES={home:home,landmarks:landmarkPage,library:libraryPage,"supreme-court":scPage,"high-courts":hcPage,"district-courts":dcPage,tribunals:trPage,careers:careersPage,"bare-acts":bareActsPage,news:newsPage};
+const ROUTES={home:home,landmarks:landmarkPage,library:libraryPage,"supreme-court":scPage,"high-courts":hcPage,"district-courts":dcPage,tribunals:trPage,careers:careersPage,"bare-acts":bareActsPage,news:newsPage,"news-archive":newsArchivePage};
 function render(){
   let r=(location.hash||"#home").slice(1); let jslug=null;
   let aslug=null;
@@ -1369,7 +1402,8 @@ function render(){
   app.innerHTML=jslug?readerPage(jslug):aslug?actReaderPage(aslug):ROUTES[r]();
   if(jslug){ r="library"; mountReader(jslug); }
   if(aslug){ r="bare-acts"; const ae=actBySlug(aslug); if(ae) mountReader("act:"+aslug, ae); }
-  document.querySelectorAll("nav.main a").forEach(a=>{ if(a.dataset.r===r) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
+  const navR=r==="news-archive"?"news":r;
+  document.querySelectorAll("nav.main a").forEach(a=>{ if(a.dataset.r===navR) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
   app.querySelectorAll("[data-f]").forEach(b=>b.onclick=()=>{state.f=b.dataset.f;render();});
   app.querySelectorAll("[data-cat]").forEach(b=>b.onclick=()=>{state.cat=b.dataset.cat;render();});
   app.querySelectorAll("[data-th]").forEach(b=>b.onclick=()=>{state.theme=b.dataset.th;render();});

@@ -54,6 +54,9 @@
     try{ if(typeof NEWS!=="undefined"&&NEWS) [NEWS,...(NEWS_AR||[])].forEach((d,ei)=>{ const ed=(d.edition||{}); 
       (d.items||[]).forEach(it=>add({type:"news",latest:ei===0,k:"Legal news · "+(it.cat||"")+" · "+(ed.dateShort||"")+(ed.slot?" "+ed.slot:""),t:it.headline||"News",
         s:[it.region,it.body].filter(Boolean).join(" · "),x:[it.text,it.cat,it.region,it.body,it.srcName,"news legal news"].join(" "),c:"#1F6F6A",go:()=>go("#news",it.headline)})); }); }catch(e){}
+    try{ if(typeof HIST!=="undefined"&&HIST&&HIST.items) HIST.items.forEach(it=>add({type:"news",k:"News archive · "+(it.cat||"")+" · "+String(it.date||"").slice(0,7),t:it.headline||"News",
+        s:[it.region,it.body,it.date].filter(Boolean).join(" · "),x:[it.text,it.cat,it.region,it.body,it.srcName,"news archive"].join(" "),c:"#1F6F6A",
+        go:()=>{ state.cat=String(it.date).slice(0,4); go("#news-archive",it.headline); }})); }catch(e){}
     try{ const P=(typeof careerPool==="function")?careerPool():null; if(P) P.secs.forEach(sec=>sec.items.forEach(it=>{
       const st=careerStatus(it), dl=deadlineOf(it);
       add({type:"career",sec:sec.id,soon:st[0]==="soon",k:"Careers · "+sec.title,t:it.name,s:[it.org,st[1],dl?"last date "+new Date(dl+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"short"}):""].filter(Boolean).join(" · "),
@@ -199,7 +202,7 @@
   function ask(t){ me(t); try{ answer(t); }catch(e){ bot(`<p>Sorry, something went wrong with that search. Please try different words.</p>`); }
     try{ const last=log.querySelectorAll(".nx-bot"); const n=last.length?last[last.length-1].querySelectorAll(".nx-card").length:0;
       window.nirnayTrack&&window.nirnayTrack("search",{search_term:String(t).slice(0,100),results:n,found:n>0?"yes":"no",tool:"Nirnay Mitra"}); }catch(e){} }
-  function toggle(open){ const o=open===undefined?panel.hidden:open; panel.hidden=!o; fab.setAttribute("aria-expanded",o); if(o) setTimeout(()=>input.focus(),50); }
+  function toggle(open){ const o=open===undefined?panel.hidden:open; panel.hidden=!o; if(o){ try{ typeof loadHist==="function"&&loadHist(); }catch(e){} } fab.setAttribute("aria-expanded",o); if(o) setTimeout(()=>input.focus(),50); }
 
   function mount(){
     fab=document.createElement("button"); fab.className="nx-fab"; fab.type="button"; fab.setAttribute("aria-label","Nirnay Mitra: search the site"); fab.setAttribute("aria-expanded","false");
