@@ -1,0 +1,562 @@
+[
+ {
+  "edition": {
+   "title": "Nirnay Daily",
+   "vol": "Vol. I · No. 1",
+   "badge": "Sample edition",
+   "iso": "2026-09-25",
+   "dateLong": "Friday, 25 September 2026",
+   "dateShort": "25 Sep 2026",
+   "window": "Openings and exams found between 18 and 25 September 2026, plus anything with a last date in the next 30 days",
+   "next": "Next edition: Saturday at 9:00 AM IST",
+   "audience": "Law jobs, exams and LLM admissions for final-year students and fresh graduates of 3-year LLB and 5-year integrated law programmes",
+   "subtitle": "Careers Edition · Weekly",
+   "script": "निर्णय"
+  },
+  "feature": {
+   "kicker": "The big change this year",
+   "headline": "Fresh law graduates can sit for Civil Judge exams until 31 March 2027",
+   "text": "In Bhumika Trust v. Union of India (21 Aug 2026), a three-judge bench of the Supreme Court, by a 2:1 majority, cut the practice rule for Civil Judge (Junior Division) from three years to one year, with a transition window for new graduates.",
+   "points": [
+    "Until 31 March 2027, every law graduate is eligible to apply, with no practice needed.",
+    "From 1 April 2027, you will need one year of verified practice, certified by the High Court.",
+    "Selected candidates do one year of Judicial Academy training plus a one-year law clerkship (6 months with the District Judiciary, 6 months with a High Court judge)."
+   ],
+   "src": "https://www.scconline.com/blog/post/2026/08/21/supreme-court-modifies-3-year-practice-rule-for-civil-judge-recruitment/",
+   "srcName": "SCC Online · 2026 SCC OnLine SC 1687"
+  },
+  "highlights": [
+   {
+    "label": "Closes 28 Sep",
+    "text": "Jharkhand High Court: 25 Law Researcher posts, final-year students may apply",
+    "ref": "judiciary"
+   },
+   {
+    "label": "Closes 31 Oct",
+    "text": "CLAT 2027 (PG): LLM at NLUs, including all three Maharashtra NLUs",
+    "ref": "llm"
+   },
+   {
+    "label": "Closes 27 Oct",
+    "text": "AIBE XXII: final-semester LLB students can register",
+    "ref": "exams"
+   },
+   {
+    "label": "Closes 1 Oct",
+    "text": "FSSAI paid internship (Oct–Dec) open to law students",
+    "ref": "govt"
+   }
+  ],
+  "sections": [
+   {
+    "id": "judiciary",
+    "title": "Judicial Services & Judiciary",
+    "short": "Civil Judge exams, High Court research posts",
+    "intro": "Judge-track openings and court research roles. Research and clerkship posts are the best first step for fresh graduates aiming at the bench.",
+    "items": [
+     {
+      "name": "Law Researcher / Research Associate",
+      "org": "High Court of Jharkhand, Ranchi · Advt. No. 01/Recruitment Cell/2026",
+      "sector": "Government",
+      "status": "Closing soon",
+      "eligibility": "<b>Fresh law graduates and postgraduates</b>; 5th-year (5-year LLB) and final-year (3-year LLB) students may apply if they pass before joining. Minimum 60% aggregate. Age 21–28.",
+      "facts": [
+       {
+        "k": "Posts",
+        "v": "25"
+       },
+       {
+        "k": "Pay",
+        "v": "₹40,000 / month"
+       },
+       {
+        "k": "Apply from",
+        "v": "7 Sep 2026"
+       },
+       {
+        "k": "Last date",
+        "v": "28 Sep 2026",
+        "iso": "2026-09-28"
+       },
+       {
+        "k": "Fee",
+        "v": "None stated"
+       },
+       {
+        "k": "Term",
+        "v": "1 year, extendable to 2"
+       }
+      ],
+      "note": "Apply by email: one PDF of scanned documents, 10 MB max, sent to the address given in the notification.",
+      "links": [
+       {
+        "label": "Official notification",
+        "url": "https://www.jharkhandhighcourt.nic.in/pdfview.php?pdfnm=recruitment/Recruitment_Cell_2026_LRA_05092026",
+        "primary": true
+       },
+       {
+        "label": "High Court website",
+        "url": "https://www.jharkhandhighcourt.nic.in/"
+       }
+      ]
+     },
+     {
+      "name": "Civil Judge (Junior Division): Odisha Judicial Service",
+      "org": "Odisha Public Service Commission",
+      "sector": "Government",
+      "status": "Awaited",
+      "eligibility": "LLB; Odia language proficiency. Under the Supreme Court's August 2026 ruling, <b>fresh graduates are now eligible</b> during the transition period.",
+      "facts": [
+       {
+        "k": "Posts",
+        "v": "78"
+       },
+       {
+        "k": "Status",
+        "v": "Closing date extended until further notice"
+       },
+       {
+        "k": "Fee",
+        "v": "₹700 (SC/ST/PwBD exempt)"
+       }
+      ],
+      "note": "OPSC put the closing date and the 5 July prelims on hold after the Supreme Court's order in Bhumika Trust. New dates will be announced separately. Watch the OPSC site.",
+      "links": [
+       {
+        "label": "OPSC website",
+        "url": "https://www.opsc.gov.in/",
+        "primary": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "govt",
+    "title": "Government Legal Jobs & Internships",
+    "short": "PSUs, regulators, ministries, prosecution",
+    "intro": "Government roles open to students and new graduates. Most PSU legal jobs hire through CLAT PG scores, so the exam page matters here too.",
+    "items": [
+     {
+      "name": "Internship Programme, Oct–Dec 2026",
+      "org": "Food Safety and Standards Authority of India (FSSAI), New Delhi",
+      "sector": "Government",
+      "status": "Closing soon",
+      "eligibility": "<b>Law students at bachelor's or master's level</b> (among other disciplines). Minimum 2 months, maximum 6 months.",
+      "facts": [
+       {
+        "k": "Stipend",
+        "v": "₹10,000 (whole internship)"
+       },
+       {
+        "k": "Opened",
+        "v": "22 Sep 2026"
+       },
+       {
+        "k": "Last date",
+        "v": "1 Oct 2026",
+        "iso": "2026-10-01"
+       },
+       {
+        "k": "Shortlist",
+        "v": "Early October"
+       }
+      ],
+      "note": "Earlier applicants must apply again. Shortlisted candidates may be asked for a write-up or presentation.",
+      "links": [
+       {
+        "label": "Apply online",
+        "url": "https://sites.fssai.gov.in/internship/applyonline.php",
+        "primary": true
+       },
+       {
+        "label": "Internship page",
+        "url": "https://sites.fssai.gov.in/internship/"
+       }
+      ]
+     }
+    ],
+    "also": {
+     "title": "Also open, but they need practice experience",
+     "list": [
+      {
+       "text": "OPSC Assistant Public Prosecutor, 172 posts: 2 years' practice, closes 28 Sep 2026, prelims 22 Nov",
+       "url": "https://www.opsc.gov.in/"
+      },
+      {
+       "text": "Central Railway, Railway Advocates, 33 posts: 3 years' practice, closes 23 Oct 2026",
+       "url": "https://cr.indianrailways.gov.in/"
+      },
+      {
+       "text": "NALSA Assistant (Legal) and Assistant Legal Aid Advisor: 1–3 years' experience, closes 10 Oct 2026",
+       "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
+      }
+     ]
+    }
+   },
+   {
+    "id": "exams",
+    "title": "Exams & Entrance Tests",
+    "short": "AIBE, UGC NET and other qualifying exams",
+    "intro": "Qualifying and eligibility exams. LLM entrance tests (CLAT PG, AILET) are on the LLM Admissions page.",
+    "items": [
+     {
+      "name": "All India Bar Examination XXII",
+      "org": "Bar Council of India",
+      "sector": "Government",
+      "status": "Open",
+      "eligibility": "LLB graduates, and <b>final-semester LLB students with no backlogs</b>. You need this to practise law.",
+      "facts": [
+       {
+        "k": "Registration",
+        "v": "19 Aug – 27 Oct 2026",
+        "iso": "2026-10-27"
+       },
+       {
+        "k": "Fee payment by",
+        "v": "28 Oct 2026"
+       },
+       {
+        "k": "Admit card",
+        "v": "14 Nov 2026"
+       },
+       {
+        "k": "Exam",
+        "v": "29 Nov 2026"
+       },
+       {
+        "k": "Fee",
+        "v": "₹3,500 · SC/ST/PwD ₹2,500"
+       }
+      ],
+      "note": "",
+      "links": [
+       {
+        "label": "Register at AIBE portal",
+        "url": "https://www.allindiabarexamination.com/",
+        "primary": true
+       }
+      ]
+     },
+     {
+      "name": "UGC NET, December 2026 (Law)",
+      "org": "National Testing Agency",
+      "sector": "Government",
+      "status": "Awaited",
+      "eligibility": "For <b>LLM students and graduates</b> (a master's degree is required; final-year LLM students may apply). Leads to Assistant Professor posts and the JRF.",
+      "facts": [
+       {
+        "k": "Exam window",
+        "v": "14–19 Dec 2026"
+       },
+       {
+        "k": "Registration",
+        "v": "Not yet open"
+       }
+      ],
+      "note": "NTA has announced the exam dates. The registration notice is still awaited.",
+      "links": [
+       {
+        "label": "UGC NET portal",
+        "url": "https://ugcnet.nta.ac.in/",
+        "primary": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "llm",
+    "title": "LLM Admissions: NLUs & Maharashtra",
+    "short": "NLUs, state universities and private colleges in Maharashtra",
+    "intro": "Where you can apply for an LLM starting in 2027. NLU seats open now through CLAT PG and AILET; Maharashtra's state and private colleges usually open later, so they are tracked here until their official notices appear.",
+    "items": [
+     {
+      "name": "LLM at NLUs through CLAT 2027 (PG)",
+      "org": "Consortium of National Law Universities",
+      "sector": "Government",
+      "status": "Open",
+      "eligibility": "LLB graduates; <b>final-year students may apply</b>. One CLAT PG score covers LLM seats at the consortium NLUs, including the three Maharashtra NLUs (Mumbai, Nagpur, Chhatrapati Sambhajinagar). Many PSUs and the Army JAG entry also recruit on this score.",
+      "facts": [
+       {
+        "k": "Apply from",
+        "v": "3 Aug 2026"
+       },
+       {
+        "k": "Last date",
+        "v": "31 Oct 2026",
+        "iso": "2026-10-31"
+       },
+       {
+        "k": "Exam",
+        "v": "6 Dec 2026, 2–4 PM"
+       },
+       {
+        "k": "Fee",
+        "v": "₹4,000 · SC/ST/BPL ₹3,500"
+       }
+      ],
+      "note": "120 MCQs, offline; 1 mark per correct answer, minus 0.25 for a wrong one.",
+      "links": [
+       {
+        "label": "Apply at Consortium",
+        "url": "https://consortiumofnlus.ac.in/clat-2027/",
+        "primary": true
+       }
+      ]
+     },
+     {
+      "name": "LLM at NLU Delhi through AILET 2027",
+      "org": "National Law University Delhi",
+      "sector": "Government",
+      "status": "Open",
+      "eligibility": "Passed or <b>in the final year</b> of a 3-year or 5-year LLB.",
+      "facts": [
+       {
+        "k": "Apply from",
+        "v": "7 Aug 2026"
+       },
+       {
+        "k": "Last date",
+        "v": "10 Nov 2026",
+        "iso": "2026-11-10"
+       },
+       {
+        "k": "Exam",
+        "v": "13 Dec 2026, 2–4 PM"
+       },
+       {
+        "k": "Fee",
+        "v": "₹3,000 · SC/ST/PwD ₹1,000"
+       }
+      ],
+      "note": "100 MCQs in two hours, offline. SC/ST and women candidates below the poverty line pay no fee.",
+      "links": [
+       {
+        "label": "Apply at NLU Delhi",
+        "url": "https://nationallawuniversitydelhi.in/",
+        "primary": true
+       }
+      ]
+     },
+     {
+      "name": "LL.M. at University of Mumbai (LL.M. CET)",
+      "org": "University of Mumbai, Department of Law and affiliated colleges",
+      "sector": "Government",
+      "status": "Awaited",
+      "eligibility": "LLB graduates; admission is through the university's own LL.M. CET.",
+      "facts": [
+       {
+        "k": "2027–28 notice",
+        "v": "Not yet published"
+       },
+       {
+        "k": "Last cycle",
+        "v": "Applied till 15 May 2026, CET on 12 Jun 2026"
+       }
+      ],
+      "note": "Based on last year's timetable, expect the 2027–28 notice in spring 2027. Watch the university's admissions page.",
+      "links": [
+       {
+        "label": "University of Mumbai",
+        "url": "https://mu.ac.in/",
+        "primary": true
+       }
+      ]
+     },
+     {
+      "name": "LL.M. at Symbiosis Law School, Pune",
+      "org": "Symbiosis International (Deemed University) · private",
+      "sector": "Private",
+      "status": "Awaited",
+      "eligibility": "3-year or 5-year LLB with 50% (45% SC/ST); <b>final-year students may apply</b>. Selection through Symbiosis AIAT (written test plus personal interaction).",
+      "facts": [
+       {
+        "k": "2027–28 notice",
+        "v": "Not yet published"
+       },
+       {
+        "k": "Last cycle",
+        "v": "Applied 1 Sep – 30 Nov 2025, test 20 Dec 2025"
+       },
+       {
+        "k": "Fee (2026–27)",
+        "v": "₹2,70,000 a year"
+       }
+      ],
+      "note": "SLS Pune says admissions for 2026–27 are closed. Last year's window opened in September, so check the official LLM page often.",
+      "links": [
+       {
+        "label": "Official LLM admissions page",
+        "url": "https://www.symlaw.ac.in/llm-admissions-process.php",
+        "primary": true
+       }
+      ]
+     },
+     {
+      "name": "LL.M. at NMIMS Kirit P. Mehta School of Law, Mumbai",
+      "org": "SVKM's NMIMS (Deemed University) · private",
+      "sector": "Private",
+      "status": "Awaited",
+      "eligibility": "LLB with 50%; <b>final-year students may apply</b>. Admission through the NMIMS entrance test or a CLAT PG score, plus an interview.",
+      "facts": [
+       {
+        "k": "Programme",
+        "v": "1-year LL.M."
+       },
+       {
+        "k": "2027 dates",
+        "v": "Not yet published"
+       }
+      ],
+      "note": "The official portal still shows the 2026 cycle. Your CLAT PG 2027 score can be used here, so registering for CLAT keeps this option open.",
+      "links": [
+       {
+        "label": "Official LLM portal",
+        "url": "https://llm.nmims.edu/",
+        "primary": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "private",
+    "title": "Private Jobs, Fellowships & Internships",
+    "short": "Law firms, chambers, research fellowships",
+    "intro": "Private jobs, fellowships and internships, taken only from the employer's own website. Big firms do not always post fresher roles publicly, so their official application portals are listed below.",
+    "items": [
+     {
+      "name": "Graduate Research Fellowship 2027",
+      "org": "National Law School of India University, Bengaluru",
+      "sector": "Fellowship",
+      "status": "Open",
+      "eligibility": "Open to scholars in law, policy and the social sciences. NLSIU does not state a minimum qualification, so read the call before applying.",
+      "facts": [
+       {
+        "k": "Positions",
+        "v": "10"
+       },
+       {
+        "k": "Pay",
+        "v": "About ₹50,000 / month"
+       },
+       {
+        "k": "Last date",
+        "v": "30 Oct 2026, 5 PM",
+        "iso": "2026-10-30"
+       },
+       {
+        "k": "Starts",
+        "v": "January 2027"
+       }
+      ],
+      "note": "On campus. Only candidates selected for interview are contacted.",
+      "links": [
+       {
+        "label": "Official call",
+        "url": "https://www.nls.ac.in/news-events/call-for-applications-nlsiu-research-fellowships-multiple-positions-2/",
+        "primary": true
+       }
+      ]
+     }
+    ],
+    "also": {
+     "title": "Apply directly on the firm's official careers portal",
+     "list": [
+      {
+       "text": "Khaitan & Co: lawyer roles and year-round internships",
+       "url": "https://peoplepower.khaitanco.com/candidate"
+      },
+      {
+       "text": "Cyril Amarchand Mangaldas: legal professionals and internships",
+       "url": "https://www.cyrilshroff.com/careers/"
+      },
+      {
+       "text": "AZB & Partners: careers",
+       "url": "https://www.azbpartners.com/careers/"
+      }
+     ]
+    }
+   }
+  ],
+  "sources": [
+   {
+    "title": "SCC Online: SC modifies 3-year practice rule (Bhumika Trust v. Union of India)",
+    "url": "https://www.scconline.com/blog/post/2026/08/21/supreme-court-modifies-3-year-practice-rule-for-civil-judge-recruitment/"
+   },
+   {
+    "title": "High Court of Jharkhand: Law Researcher notification",
+    "url": "https://www.jharkhandhighcourt.nic.in/pdfview.php?pdfnm=recruitment/Recruitment_Cell_2026_LRA_05092026"
+   },
+   {
+    "title": "Legal Bites: OPSC puts Civil Judge recruitment on hold",
+    "url": "https://www.legalbites.in/odisha/opsc-extends-civil-judge-recruitment-process-postpones-july-5-preliminary-exam-1309557"
+   },
+   {
+    "title": "FSSAI internship portal",
+    "url": "https://sites.fssai.gov.in/internship/"
+   },
+   {
+    "title": "Consortium of NLUs: CLAT 2027",
+    "url": "https://consortiumofnlus.ac.in/clat-2027/"
+   },
+   {
+    "title": "NLU Delhi: AILET 2027",
+    "url": "https://nationallawuniversitydelhi.in/"
+   },
+   {
+    "title": "Bar Council of India: AIBE portal",
+    "url": "https://www.allindiabarexamination.com/"
+   },
+   {
+    "title": "NTA: UGC NET",
+    "url": "https://ugcnet.nta.ac.in/"
+   },
+   {
+    "title": "NLSIU: Research Fellowships call",
+    "url": "https://www.nls.ac.in/news-events/call-for-applications-nlsiu-research-fellowships-multiple-positions-2/"
+   },
+   {
+    "title": "Legal Bites: OPSC Assistant Public Prosecutor 2026",
+    "url": "https://www.legalbites.in/topics/job-opportunities/opsc-assistant-public-prosecutor-recruitment-2026-172-vacancies-1348875"
+   },
+   {
+    "title": "Verdictum: NALSA vacancies",
+    "url": "https://www.verdictum.in/job-updates/national-legal-services-authority-1622311"
+   },
+   {
+    "title": "Symbiosis Law School, Pune: LLM admissions",
+    "url": "https://www.symlaw.ac.in/llm-admissions-process.php"
+   },
+   {
+    "title": "NMIMS: LLM admissions portal",
+    "url": "https://llm.nmims.edu/"
+   },
+   {
+    "title": "University of Mumbai",
+    "url": "https://mu.ac.in/"
+   },
+   {
+    "title": "Free Press Journal: Mumbai University LL.M. CET 2026–27 timetable",
+    "url": "https://www.freepressjournal.in/education/mumbai-university-extends-llm-cet-202627-application-deadline-till-may-15-check-details-here"
+   },
+   {
+    "title": "MNLU Mumbai: admissions",
+    "url": "https://mnlumumbai.edu.in/admission.php"
+   },
+   {
+    "title": "Khaitan & Co careers portal",
+    "url": "https://peoplepower.khaitanco.com/candidate"
+   },
+   {
+    "title": "Cyril Amarchand Mangaldas careers",
+    "url": "https://www.cyrilshroff.com/careers/"
+   },
+   {
+    "title": "AZB & Partners careers",
+    "url": "https://www.azbpartners.com/careers/"
+   }
+  ]
+ }
+]

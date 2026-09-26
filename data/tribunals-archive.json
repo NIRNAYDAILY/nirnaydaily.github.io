@@ -1,0 +1,95 @@
+[
+ {
+  "edition": {
+   "dateLong": "Friday, 25 September 2026",
+   "dateShort": "25 Sep 2026",
+   "window": "Orders and decisions reported on 23–24 September 2026"
+  },
+  "items": [
+   {
+    "tribunal": "NCLAT",
+    "bench": "NCLAT, New Delhi",
+    "caseName": "Case title not yet reported",
+    "date": "Reported 24 Sep 2026",
+    "headline": "IBC order affecting possession is not a landlord-tenant matter",
+    "kind": "Held",
+    "text": "NCLAT upheld the eviction of occupants from Venus Garments' properties through IBC proceedings, holding that the effect of an IBC order on possession does not turn the dispute into a landlord-tenant matter.",
+    "tag": "Insolvency",
+    "src": "https://www.livelawbiz.com/ibc/nclat-upholds-eviction-of-occupants-from-venus-garments-properties-through-ibc-proceedings-551669",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "NCLT",
+    "bench": "NCLT, New Delhi",
+    "caseName": "Case title not yet reported",
+    "date": "Reported 24 Sep 2026",
+    "headline": "Fraudulent intent not needed to prove a preferential transaction",
+    "kind": "Held",
+    "text": "The effect of a transaction, not the intent behind it, decides whether it is a preferential transaction under the IBC.",
+    "tag": "Insolvency",
+    "src": "https://www.livelawbiz.com/ibc/fraudulent-intent-not-necessary-to-establish-preferential-transaction-under-ibc-nclt-delhi-551659",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "NCLT",
+    "bench": "NCLT, Mumbai",
+    "caseName": "Case title not yet reported",
+    "date": "Reported 24 Sep 2026",
+    "headline": "Insolvency plea against Shapoorji Pallonji dismissed",
+    "kind": "Held",
+    "text": "The Mumbai bench declined to admit the insolvency petition against Shapoorji Pallonji.",
+    "tag": "Insolvency",
+    "src": "https://www.livelawbiz.com/nclt/nclt-mumbai-dismisses-insolvency-plea-against-shapoorji-pallonji-551653",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "NCLT",
+    "bench": "NCLT, Chennai",
+    "caseName": "Case title not yet reported",
+    "date": "Reported 24 Sep 2026",
+    "headline": "Secured creditors must bear liquidation costs",
+    "kind": "Held",
+    "text": "Secured creditors who realise their security cannot avoid their share of liquidation costs by pointing to expenses that are not yet finalised.",
+    "tag": "Liquidation",
+    "src": "https://www.livelawbiz.com/nclt/secured-creditors-cannot-avoid-liquidation-costs-over-unfinalised-expenses-nclt-chennai-551551",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "CESTAT",
+    "bench": "CESTAT, Ahmedabad",
+    "caseName": "Case title not yet reported",
+    "date": "Reported 23 Sep 2026",
+    "headline": "Differential duty can be demanded without challenging self-assessment",
+    "kind": "Held",
+    "text": "Customs may issue a demand under Section 28 of the Customs Act for differential duty without first challenging the importer's self-assessment.",
+    "tag": "Customs",
+    "src": "https://www.livelawbiz.com/customs/cestat/thecustoms-department-can-issue-a-demand-under-section-28-of-the-customs-act-for-differential-customs-duty-without-first-challenging-the-importers-self-assessment-551615",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "ITAT",
+    "bench": "ITAT, Delhi",
+    "caseName": "Case title not yet reported",
+    "date": "Reported 23 Sep 2026",
+    "headline": "Reassessment quashed over a defective notice",
+    "kind": "Held",
+    "text": "A defect in the reassessment notice vitiated the proceedings against the company.",
+    "tag": "Income tax",
+    "src": "https://www.livelawbiz.com/income-tax/itat-delhi-quashes-reassessment-against-company-over-defective-notice-551488",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "CCI",
+    "bench": "Competition Commission of India",
+    "caseName": "Combination: L'Oréal India Pvt. Ltd. / Onesto Labs Pvt. Ltd.",
+    "date": "Reported 23 Sep 2026",
+    "headline": "CCI approves L'Oréal India's 100% acquisition of Onesto Labs",
+    "kind": "Held",
+    "text": "The Commission cleared the combination under the Competition Act, 2002.",
+    "tag": "Competition",
+    "src": "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-clears-loreal-india-private-limited-100-per-cent-acquisition-onesto-labs-private-limited-551341",
+    "srcName": "LiveLaw Biz"
+   }
+  ]
+ }
+]
