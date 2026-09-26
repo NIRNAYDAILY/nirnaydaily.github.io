@@ -130,7 +130,7 @@ def paras(body, cap=False):
 def cases(cs):
     if not cs: return ""
     li = "".join(f'<li><b>{E(c.get("name"))}</b>{(" — " + E(c["note"])) if c.get("note") else ""}'
-                 f'{(" <a href=" + chr(34) + E(c["src"]) + chr(34) + " target=_blank rel=noopener>source</a>") if c.get("src") else ""}</li>' for c in cs)
+                 f'</li>' for c in cs)
     return f'<ul class="cases">{li}</ul>'
 
 
@@ -250,7 +250,7 @@ def lm(a): return '<span class="lmk">Landmark</span> ' if a.get("landmark") else
 
 def policy_html(pol):
     return "".join(f'<div class="pol"><div class="kicker">{E(x.get("cat"))} · {E(x.get("region") or "All India")}</div><h4>{E(x.get("headline"))}</h4>'
-                   f'<p>{E(x.get("text"))}</p><p class="srcn">Source: {E(x.get("srcName"))}</p></div>' for x in pol)
+                   f'<p>{E(x.get("text"))}</p></div>' for x in pol)
 
 
 def page(J):
