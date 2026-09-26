@@ -1,7 +1,29 @@
 {
  "year": 2021,
- "count": 26,
+ "count": 29,
  "items": [
+  {
+   "date": "2021-12-22",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Winter Session ends: 10 Bills passed, six sent to parliamentary committees",
+   "text": "The Winter Session of Parliament, held from November 29 to December 22, 2021, ended after 18 sittings. Ten Bills were passed, including the Farm Laws Repeal Bill, 2021 and the Dam Safety Bill, 2019. Six Bills were referred to committees, among them the Mediation Bill, 2021, the Prohibition of Child Marriage (Amendment) Bill, 2021 and the Wild Life (Protection) Amendment Bill, 2021.",
+   "why": "Session summary of legislative output.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2021",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2021-12-22",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Joint Parliamentary Committee",
+   "headline": "Joint Parliamentary Committee report on Personal Data Protection Bill, 2019 tabled",
+   "text": "The report of the Joint Parliamentary Committee (Chair: P.P. Chaudhary) on the Personal Data Protection Bill, 2019 was tabled in Parliament during the Winter Session, which ended on December 22, 2021. Among other things, it recommended that data fiduciaries be required to report every personal data breach to the Data Protection Authority within 72 hours.",
+   "why": "Key step in India's data protection legislation.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2021",
+   "srcName": "PRS Legislative Research"
+  },
   {
    "date": "2021-12-21",
    "cat": "Legislature",
@@ -22,6 +44,17 @@
    "why": "Raised privacy concerns and was later challenged in the Supreme Court.",
    "src": "https://www.livelaw.in/top-stories/parliament-passes-election-laws-amendment-bill-to-allow-aadhaar-voter-id-linkage-188144",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2021-12-21",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Standing Committee on Agriculture",
+   "headline": "Standing Committee tables report on Pesticide Management Bill, 2020",
+   "text": "The Standing Committee on Agriculture, Animal Husbandry and Food Processing tabled its report on the Pesticide Management Bill, 2020. Among its recommendations, the Committee asked that applications for registration of pesticides be decided within two years instead of remaining open-ended, and suggested clearer definitions and a stronger role for the Central Pesticides Board.",
+   "why": "Shapes the proposed law to replace the Insecticides Act, 1968.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/december-2021",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2021-12-20",

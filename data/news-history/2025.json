@@ -1,6 +1,6 @@
 {
  "year": 2025,
- "count": 106,
+ "count": 119,
  "items": [
   {
    "date": "2025-12-30",
@@ -237,6 +237,16 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2025-11-14",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI notifies trade relief measures for exporters",
+   "text": "The RBI issued the Reserve Bank of India (Trade Relief Measures) Directions, 2025, alongside amendments to the Foreign Exchange Management (Export of Goods and Services) Regulations, 2015 notified on November 13. Export proceeds realisation timelines were extended from nine to fifteen months, and eligible exporters got a moratorium on loan repayments and longer credit periods.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/november-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2025-11-06",
    "cat": "Judiciary",
    "region": "All India",
@@ -367,6 +377,87 @@
    "text": "In Sanjabij Tari v. Kishore S. Borcar (Crl.A. No. 1755/2010) the Supreme Court set out a graded scheme for compounding cheque-dishonour offences and guidelines for faster disposal of Negotiable Instruments Act cases.",
    "src": "https://www.sci.gov.in/view-pdf/?diary_no=311122009&type=j&order_date=2025-09-25&from=latest_judgements_order",
    "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2025-09-25",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Statistics and Programme Implementation",
+   "headline": "Draft Indian Statistical Institute Bill, 2025 to replace 1959 Act",
+   "text": "MoSPI invited comments until October 24, 2025 on the draft Indian Statistical Institute Bill, 2025, which would replace the Indian Statistical Institute Act, 1959. It proposes a 12-member Board of Governance responsible for the institute's academic, administrative and technical functions.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-09-22",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Labour and Employment",
+   "headline": "Seven draft rules under the OSH Code, 2020 released for comments",
+   "text": "The Ministry of Labour and Employment released seven draft rules under the Occupational Safety, Health and Working Conditions Code, 2020, setting out employer duties for worker safety in docks, mines, motor transport, plantations, beedi, construction and factories. Comments were invited until November 6, 2025.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-09-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Civil Aviation",
+   "headline": "Draft Civil Drone (Promotion and Regulation) Bill, 2025 released for feedback",
+   "text": "The Ministry of Civil Aviation released the draft Civil Drone (Promotion and Regulation) Bill, 2025. It requires registration of unmanned aircraft systems with the DGCA, divides airspace into red, yellow and green zones, and makes operations subject to clearances and third-party insurance.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-09-15",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court stays certain provisions of the Waqf (Amendment) Act, 2025",
+   "text": "A two-judge bench of the Supreme Court passed an interim order staying certain provisions of the Waqf (Amendment) Act, 2025, including those on proof of practising Islam and on determining whether property is government property. It directed that the Central Waqf Council have no more than four and State Waqf Boards no more than three non-Muslim members.",
+   "why": "Interim relief in the constitutional challenge to the 2025 Waqf amendments.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-09-12",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "SEBI",
+   "headline": "SEBI eases minimum public offer norms and revises related party transaction thresholds",
+   "text": "SEBI's board approved changes to the minimum public offer and minimum public shareholding requirements under the Securities Contracts (Regulation) Rules, 1957, and revised thresholds for material related party transactions under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. It also approved the SWAGAT-FI single-window framework for trusted foreign investors.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-09-12",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Telecommunications",
+   "headline": "Draft Telecommunications (User Identification) Rules, 2025 propose biometric SIM verification",
+   "text": "The Department of Telecommunications invited comments until October 19, 2025 on the draft Telecommunications (User Identification) Rules, 2025. The draft requires biometric verification of new users, a shared biometric verification system across telecom entities, and limits SIM transfers to blood relatives or legal heirs.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-09-12",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Telecommunications",
+   "headline": "Lawful interception rules amended to let Union Home Secretary act on State requests",
+   "text": "The Telecommunications (Procedures and Safeguards for Lawful Interception of Messages) Amendment Rules, 2025 were notified, amending the 2024 Rules. The Union Home Secretary may now issue interception orders on State government requests that go beyond the State's territorial jurisdiction, and agencies need one or more nodal officers instead of two.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-09-03",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "GST Council",
+   "headline": "56th GST Council meeting approves two-slab rate structure",
+   "text": "The 56th meeting of the GST Council approved rationalisation of GST into two main slabs of 5% and 18%, with a special 40% rate for demerit goods, and cut rates on several essential goods and services. It also approved measures to ease compliance and noted that the GST Appellate Tribunal was to be operationalised by the end of September.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2025",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2025-09-01",
@@ -962,6 +1053,16 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2025-02-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI proposes ban on foreclosure charges for floating-rate business loans to individuals and MSEs",
+   "text": "The RBI issued a draft circular on responsible lending conduct proposing that regulated entities must not levy foreclosure charges or pre-payment penalties on floating-rate business loans to individuals and micro and small enterprises, up to an aggregate sanctioned limit of Rs 7.5 crore. Comments were invited until March 21, 2025.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2025-02-13",
    "cat": "Legislature",
    "region": "All India",
@@ -998,6 +1099,16 @@
    "body": "Parliament / Lok Sabha",
    "headline": "Tribhuvan Sahkari University Bill, 2025 introduced in Lok Sabha",
    "text": "The 'Tribhuvan' Sahkari University Bill, 2025 was introduced in Lok Sabha to establish the Institute of Rural Management Anand as a university for education and training in the cooperative sector.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-02-01",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Ministry of Finance",
+   "headline": "Union Budget 2025-26 presented in Lok Sabha",
+   "text": "Finance Minister Nirmala Sitharaman presented the Union Budget 2025-26, with total expenditure of Rs 50,65,345 crore and a fiscal deficit target of 4.4% of GDP. Tax proposals included a full rebate for annual income up to Rs 12 lakh under the new regime and higher TDS/TCS thresholds.",
    "src": "https://prsindia.org/policy/monthly-policy-review/february-2025",
    "srcName": "PRS Legislative Research"
   },
@@ -1052,6 +1163,16 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2025-01-20",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "SEBI",
+   "headline": "SEBI consults on widening the social stock exchange framework",
+   "text": "SEBI issued a consultation paper reviewing the framework for the social stock exchange. It proposed expanding the types of non-profit organisations and social enterprises eligible to register and raise funds on the platform, with comments invited until February 10, 2025.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2025-01-17",
    "cat": "Executive & Government",
    "region": "All India",
@@ -1068,6 +1189,17 @@
    "body": "University Grants Commission",
    "headline": "UGC issues draft 2025 Regulations on appointment of teachers and Vice-Chancellors",
    "text": "The UGC issued the draft UGC (Minimum Qualifications for Appointment and Promotion of Teachers and Academic Staff in Universities and Colleges and Measures for the Maintenance of Standards in Higher Education) Regulations, 2025, covering faculty and Vice-Chancellor appointments. Comments were due by February 5, 2025.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2025",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2025-01-03",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Electronics and Information Technology",
+   "headline": "Draft Digital Personal Data Protection Rules, 2025 released for comments",
+   "text": "MeitY published the draft Digital Personal Data Protection Rules, 2025 under the Digital Personal Data Protection Act, 2023. The draft covers obligations of data fiduciaries, verifiable parental consent for processing children's data, intimation of personal data breaches, and the functioning of the Data Protection Board; comments were invited until February 18, 2025.",
+   "why": "First draft of the rules needed to operationalise India's data protection law.",
    "src": "https://prsindia.org/policy/monthly-policy-review/january-2025",
    "srcName": "PRS Legislative Research"
   }

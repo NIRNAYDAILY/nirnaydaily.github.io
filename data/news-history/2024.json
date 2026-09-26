@@ -1,6 +1,6 @@
 {
  "year": 2024,
- "count": 97,
+ "count": 106,
  "items": [
   {
    "date": "2024-12-26",
@@ -205,6 +205,16 @@
    "srcName": "Supreme Court of India"
   },
   {
+   "date": "2024-10-15",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Disability percentage alone cannot bar admission to courses (Omkar v. Union of India)",
+   "text": "In Omkar v. Union of India (C.A. No. 10611/2024) the Supreme Court held that the mere quantification of a candidate's disability cannot by itself disqualify them from admission to an educational course; their actual ability to pursue it must be assessed.",
+   "src": "https://www.sci.gov.in/view-pdf/?diary_no=394482024&type=j&order_date=2024-10-15&from=latest_judgements_order",
+   "srcName": "Supreme Court of India"
+  },
+  {
    "date": "2024-10-03",
    "cat": "Judiciary",
    "region": "All India",
@@ -213,6 +223,16 @@
    "text": "In Sukanya Shantha v. Union of India (W.P.(C) No. 1404/2023) the Supreme Court held caste-based segregation and allocation of work in prisons unconstitutional and directed States to revise their prison manuals.",
    "src": "https://www.sci.gov.in/landmark-judgment-summaries/?judgment_year=2024",
    "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2024-09-30",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "SEBI",
+   "headline": "SEBI board approves new passive fund framework and wider sustainable finance instruments",
+   "text": "At its board meeting, SEBI approved phased extension of optional same-day settlement to the top 500 listed companies, a new mutual fund product with a Rs 10 lakh minimum investment, a separate regulatory framework for passively managed mutual funds with relaxed sponsor criteria, and an expanded framework covering social, sustainability and sustainability-linked bonds.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2024",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2024-09-23",
@@ -243,6 +263,16 @@
    "body": "Ministry of Health and Family Welfare",
    "headline": "Draft rules require anti-tobacco warnings on OTT platforms",
    "text": "The Health Ministry issued draft amendments to the Cigarettes and Other Tobacco Products Rules, 2004 requiring non-skippable anti-tobacco messages in OTT content published after September 1, 2023. Comments were due by October 13, 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-09-06",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Pharmaceuticals",
+   "headline": "Uniform Code for marketing practices in medical devices released",
+   "text": "The Department of Pharmaceuticals released a uniform code governing the promotion of medical devices. Claims must rest on up-to-date evidence, devices cannot be described as safe or free of side-effects without qualification, brand reminders are capped at Rs 1,000 in value, and ethics committees of industry associations must decide complaints within 90 days.",
    "src": "https://prsindia.org/policy/monthly-policy-review/september-2024",
    "srcName": "PRS Legislative Research"
   },
@@ -885,6 +915,36 @@
    "srcName": "Law Commission of India"
   },
   {
+   "date": "2024-02-10",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "17th Lok Sabha's final session ends; 221 Bills passed over its term",
+   "text": "The last session of the 17th Lok Sabha ran from January 31 to February 10, 2024, extended by a day. Over its term Parliament passed 221 Bills, including the Women's Reservation Bill, the Digital Personal Data Protection Bill and the three Bills replacing the IPC, CrPC and Evidence Act.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-02-10",
+   "cat": "Legislature",
+   "region": "Jammu and Kashmir",
+   "body": "Parliament",
+   "headline": "Parliament passes Jammu and Kashmir Local Bodies Laws (Amendment) Bill, 2024",
+   "text": "Parliament passed the Jammu and Kashmir Local Bodies Laws (Amendment) Bill, 2024 during the session that ended on February 10. It amends three local body laws of the UT to extend reservation to OBCs in panchayats and municipalities and makes the State Election Commission responsible for these elections.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-02-10",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament amends Scheduled Castes and Tribes lists for Odisha and Andhra Pradesh",
+   "text": "Parliament passed two Bills amending the Constitution (Scheduled Castes) Order, 1950 and the Constitution (Scheduled Tribes) Order, 1950 in the session ending February 10, 2024. Communities such as Muka Dora (Odisha) and Bondo Porja and Konda Savaras (Andhra Pradesh) were added to the ST lists.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2024-02-09",
    "cat": "Legislature",
    "region": "All India",
@@ -945,6 +1005,28 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2024-01-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Mines",
+   "headline": "Mineral auction rules amended to auction exploration licences",
+   "text": "The Ministry of Mines notified the Mineral (Auction) Amendment Rules, 2024 under the Mines and Minerals (Development and Regulation) Act, 1957. They lay down procedures for auctioning exploration licences, including for minerals such as lithium, cobalt, silver and gold.",
+   "why": "Operationalises the 2023 amendment to the MMDR Act.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-01-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Draft End-of-Life Vehicles (Management) Rules, 2024 released",
+   "text": "The Environment Ministry released the draft End-of-Life Vehicles (Management) Rules, 2024 under the Environment (Protection) Act, 1986. They set recycling targets and assign responsibilities to vehicle producers and owners.",
+   "why": "Brings extended producer responsibility to vehicles.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2024-01-18",
    "cat": "Executive & Government",
    "region": "All India",
@@ -961,6 +1043,16 @@
    "body": "Ministry of Finance",
    "headline": "Draft Indian Stamp Bill, 2023 released to replace the 1899 Stamp Act",
    "text": "The Finance Ministry released the draft Indian Stamp Bill, 2023 for public consultation on 17 January 2024, proposing to replace the Indian Stamp Act, 1899; comments were invited till 15 February 2024.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2024",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2024-01-17",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Power",
+   "headline": "Electricity Rules amended to mandate cost-reflective tariffs, cap open access surcharge",
+   "text": "The Ministry of Power notified the Electricity (Amendment) Rules, 2024 on January 10 and the Electricity (Second Amendment) Rules, 2024 on January 17. They require cost-reflective tariffs and cap surcharges on open access consumers under the Electricity Act, 2003.",
    "src": "https://prsindia.org/policy/monthly-policy-review/january-2024",
    "srcName": "PRS Legislative Research"
   },

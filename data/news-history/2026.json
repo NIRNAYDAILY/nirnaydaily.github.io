@@ -1,6 +1,6 @@
 {
  "year": 2026,
- "count": 75,
+ "count": 81,
  "items": [
   {
    "date": "2026-08-27",
@@ -204,12 +204,42 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2026-06-23",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health and Family Welfare",
+   "headline": "Draft amendments to Medical Devices Rules, 2017 cut licensing timelines",
+   "text": "The Health Ministry released draft amendments to the Medical Devices Rules, 2017 (G.S.R. 515(E)) proposing to shorten approval timelines for manufacturing licences for Class B, C and D devices by 10 to 15 days at each stage. Comments were invited until July 23, 2026.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2026",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2026-06-23",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Food and Public Distribution",
+   "headline": "Draft National Food Security (Amendment) Bill, 2026 changes Antyodaya entitlements",
+   "text": "The Department of Food and Public Distribution released the draft National Food Security (Amendment) Bill, 2026 to amend the National Food Security Act, 2013. It would change Antyodaya Anna Yojana entitlements from 35 kg per household per month to 7 kg per person per month, capped at 35 kg per household; comments were due by July 13, 2026.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2026",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2026-06-22",
    "cat": "Executive & Government",
    "region": "All India",
    "body": "Ministry of Home Affairs",
    "headline": "Foreign Contribution (Regulation) Rules amended to prescribe purposes and utilisation thresholds",
    "text": "Amendments to the Foreign Contribution (Regulation) Rules, 2011 were notified. They prescribe the purposes for which foreign contributions may be used and require 75% utilisation of earlier funds before further disbursement.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2026",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2026-06-22",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health and Family Welfare",
+   "headline": "Draft Drugs Rules amendment replaces 60% shelf-life rule for imported drugs",
+   "text": "The Health Ministry published draft amendments to the Drugs Rules, 1945 (GSR 505(E)) replacing the requirement of 60% remaining shelf life for imported drugs with a minimum residual shelf life of one year. Stricter requirements are retained for biological products and radiopharmaceuticals; comments were due by July 22, 2026.",
    "src": "https://prsindia.org/policy/monthly-policy-review/june-2026",
    "srcName": "PRS Legislative Research"
   },
@@ -230,6 +260,16 @@
    "body": "Ministry of Finance",
    "headline": "FEMA Non-debt Instruments Rules amended to widen investment by individuals abroad",
    "text": "The Foreign Exchange Management (Non-debt Instruments) Rules, 2019 were amended. The changes extend investment eligibility to individuals resident outside India and raise equity holding limits.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2026",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2026-06-11",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Mines",
+   "headline": "Draft rules on adjudicating mining contraventions decriminalised by Jan Vishwas Act, 2026",
+   "text": "The Ministry of Mines released the draft Minerals (Manner of Holding Inquiry and Appeal) Rules, 2026 and the draft Offshore Areas Mineral (Manner of Holding Inquiry and Appeal) Rules, 2026. They prescribe procedures for adjudicating contraventions converted from criminal offences to civil penalties under the Jan Vishwas (Amendment of Provisions) Act, 2026, including summary disposal. Comments were due by July 11, 2026.",
    "src": "https://prsindia.org/policy/monthly-policy-review/june-2026",
    "srcName": "PRS Legislative Research"
   },
@@ -416,12 +456,32 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2026-04-06",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Coal",
+   "headline": "Ministry of Coal issues guidelines on mining plans for underground coal gasification",
+   "text": "The Ministry of Coal released guidelines requiring mining plans approved by the Coal Controller Organisation for all coal and lignite blocks proposed for underground coal gasification. Plans must include safety management covering subsidence and contamination, a 500-metre barrier from other mining operations, and mine closure plans backed by escrow funds.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2026",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2026-04-03",
    "cat": "Executive & Government",
    "region": "All India",
    "body": "Ministry of Environment, Forest and Climate Change",
    "headline": "Draft Tar-balls Management Rules, 2026 released under Environment (Protection) Act",
    "text": "The Environment Ministry released the draft Tar-balls Management Rules, 2026 under the Environment (Protection) Act, 1986. The draft sets a lifecycle management framework for tar-balls, the weathered by-products of oil spills, and assigns institutional responsibilities.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/april-2026",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2026-04-01",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Central Board of Indirect Taxes and Customs",
+   "headline": "SEZ units allowed to sell in domestic market at concessional customs duty",
+   "text": "CBIC notified concessional customs duty rates allowing eligible manufacturing units in Special Economic Zones to sell goods in the Domestic Tariff Area between April 1, 2026 and March 31, 2027. The benefit is subject to minimum value addition of 20% and a cap linked to 30% of the unit's earlier export value.",
    "src": "https://prsindia.org/policy/monthly-policy-review/april-2026",
    "srcName": "PRS Legislative Research"
   },

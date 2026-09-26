@@ -1,6 +1,6 @@
 {
  "year": 2023,
- "count": 86,
+ "count": 121,
  "items": [
   {
    "date": "2023-12-21",
@@ -76,7 +76,7 @@
   {
    "date": "2023-12-11",
    "cat": "Judiciary",
-   "region": "Jammu & Kashmir",
+   "region": "Jammu and Kashmir",
    "body": "Supreme Court",
    "headline": "Constitution Bench in In Re: Article 370 upholds abrogation of J&K's special status",
    "text": "A five-judge Constitution Bench unanimously upheld the 2019 Presidential Orders abrogating Article 370, holding it was a temporary provision, and upheld the carving out of Ladakh as a Union Territory. It directed the Election Commission to hold J&K Assembly elections by 30 September 2024 and asked that statehood be restored at the earliest.",
@@ -87,7 +87,7 @@
   {
    "date": "2023-12-11",
    "cat": "Legislature",
-   "region": "Jammu & Kashmir",
+   "region": "Jammu and Kashmir",
    "body": "Parliament",
    "headline": "Parliament passes J&K Reorganisation (Amendment) and J&K Reservation (Amendment) Bills",
    "text": "Rajya Sabha passed the J&K Reorganisation (Amendment) Bill, 2023 on 11 December 2023 (Lok Sabha had passed it on 6 December). It raises the Assembly's seats from 83 to 90, reserves nine seats for Scheduled Tribes, and lets the Lieutenant Governor nominate Kashmiri migrants and a representative of persons displaced from PoK. A companion Bill renamed 'weak and under-privileged classes' as OBCs.",
@@ -216,6 +216,16 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2023-10-25",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Battery Waste Management (Amendment) Rules, 2023 notified",
+   "text": "The Environment Ministry notified the Battery Waste Management (Amendment) Rules, 2023 under the Environment (Protection) Act, 1986. They tighten collection and recycling obligations, including for electric vehicle batteries.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-10-20",
    "cat": "Judiciary",
    "region": "All India",
@@ -236,6 +246,27 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2023-10-20",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Power",
+   "headline": "Renewable energy consumption obligations notified for 2024-30",
+   "text": "The Ministry of Power notified minimum renewable energy consumption obligations for designated consumers under the Energy Conservation Act, 2001, with targets rising over the period 2024-30.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-10-18",
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court",
+   "headline": "Supreme Court permits use of donor gametes in surrogacy despite 2023 rule change",
+   "text": "The Supreme Court read down the Surrogacy (Regulation) Amendment Rules, 2023, which required both gametes to come from the intending couple. It allowed use of donor gametes for intending couples meeting medical criteria under the Surrogacy (Regulation) Act, 2021.",
+   "why": "Relief for couples unable to produce their own gametes.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-10-17",
    "cat": "Judiciary",
    "region": "All India",
@@ -253,6 +284,16 @@
    "body": "Ministry of Environment, Forest and Climate Change",
    "headline": "Green Credit Rules, 2023 notified creating market mechanism for environmental actions",
    "text": "The Environment Ministry notified the Green Credit Rules, 2023, setting up a market-based mechanism that awards tradeable green credits for activities such as tree plantation and waste management, with the Indian Council of Forestry Research and Education as administrator maintaining a green credit registry.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-10-10",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Civil Aviation",
+   "headline": "Aircraft Rules amended to extend pilot licence validity to ten years",
+   "text": "The Ministry of Civil Aviation notified amendments to the Aircraft Rules, 1937. Pilot licence validity was extended from five to ten years and the prohibited radius for lights around aerodromes was widened.",
    "src": "https://prsindia.org/policy/monthly-policy-review/october-2023",
    "srcName": "PRS Legislative Research"
   },
@@ -298,6 +339,16 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2023-09-21",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Standing Committee on Home Affairs",
+   "headline": "Parliamentary panel reports on prison conditions and reforms",
+   "text": "The Standing Committee on Home Affairs submitted Report No. 245 on prisons, their conditions, infrastructure and reforms. It addressed overcrowding, bail, young offenders and the welfare of women prisoners.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-09-13",
    "cat": "Executive & Government",
    "region": "All India",
@@ -329,6 +380,16 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2023-09-06",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Consumer Affairs",
+   "headline": "Draft guidelines to curb 'dark patterns' in e-commerce released",
+   "text": "The Department of Consumer Affairs invited comments on the draft Guidelines for Prevention and Regulation of Dark Patterns, 2023. They would prohibit deceptive design practices on e-commerce platforms and digital interfaces that mislead consumers.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-09-05",
    "cat": "Judiciary",
    "region": "Jammu and Kashmir",
@@ -337,6 +398,17 @@
    "text": "The Constitution Bench reserved its judgment on the petitions challenging the abrogation of Article 370, after hearing arguments that began on August 2, 2023.",
    "src": "https://www.livelaw.in/top-stories/supreme-court-constitution-bench-judgments-hearings-of-2023-245254",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-09-02",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Central Government",
+   "headline": "High-Level Committee constituted on simultaneous elections",
+   "text": "The central government constituted a High-Level Committee to examine holding simultaneous elections to Lok Sabha, State Assemblies and local bodies. It is to recommend the constitutional and legislative amendments required.",
+   "why": "Starting point of the 'One Nation, One Election' proposal.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/september-2023",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2023-09-01",
@@ -349,6 +421,16 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2023-08-16",
+   "cat": "Executive & Government",
+   "region": "Assam",
+   "body": "Election Commission of India",
+   "headline": "Assam delimitation order takes effect, redrawing 126 Assembly seats",
+   "text": "The delimitation order for Assam came into effect on August 16, 2023. It redrew Assam's 126 Assembly constituencies, raising seats reserved for Scheduled Castes from eight to nine and for Scheduled Tribes from 16 to 19.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-08-11",
    "cat": "Legislature",
    "region": "All India",
@@ -357,6 +439,28 @@
    "text": "The Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Bills, 2023 were introduced in the Lok Sabha to replace the IPC, CrPC and Indian Evidence Act, and referred to the Standing Committee on Home Affairs. The BNS drops sedition as such and adds offences like terrorism and organised crime.",
    "why": "Start of the overhaul of India's criminal law framework.",
    "src": "https://prsindia.org/billtrack/the-bharatiya-nyaya-sanhita-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-08-11",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Monsoon Session ends: 23 Bills passed, three criminal law Bills sent to committee",
+   "text": "The Monsoon Session concluded on August 11, 2023; 25 Bills were introduced and 23 passed. Passed Bills included the Registration of Births and Deaths (Amendment) Bill, the CGST and IGST (Amendment) Bills on online gaming and casinos, and the IIM (Amendment) Bill.",
+   "why": "Among the busiest law-making sessions of the 17th Lok Sabha.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-08-10",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Rajya Sabha",
+   "headline": "Post Office Bill, 2023 introduced to replace 1898 Act",
+   "text": "The Post Office Bill, 2023 was introduced in Rajya Sabha on August 10, 2023. It repeals the Indian Post Office Act, 1898, retains exclusive rights over issuing postage stamps, and specifies grounds on which shipments may be intercepted.",
+   "why": "Replaces a colonial-era postal statute.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/august-2023",
    "srcName": "PRS Legislative Research"
   },
   {
@@ -431,6 +535,17 @@
    "srcName": "PIB"
   },
   {
+   "date": "2023-07-31",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Parliament passes Cinematograph (Amendment) Bill, 2023 against film piracy",
+   "text": "The Cinematograph (Amendment) Bill, 2023 was passed by Rajya Sabha on July 27 and Lok Sabha on July 31, 2023. It amends the Cinematograph Act, 1952 to add age-based certification categories and make unauthorised recording and exhibition of films an offence.",
+   "why": "Brings piracy within the film certification law.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-07-28",
    "cat": "Judiciary",
    "region": "Maharashtra",
@@ -440,6 +555,49 @@
    "why": "Clarifies the prima facie test for bail under UAPA.",
    "src": "https://www.livelaw.in/supreme-court/supreme-court-monthly-digest-july-2023-239097",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-07-28",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Lok Sabha passes Mines and Minerals (Development and Regulation) Amendment Bill",
+   "text": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2023, introduced on July 26, was passed by Lok Sabha on July 28, 2023. It amends the Mines and Minerals (Development and Regulation) Act, 1957.",
+   "why": "Paves the way for exploration licences for critical minerals.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-07-28",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Lok Sabha passes National Dental Commission and Nursing Commission Bills",
+   "text": "On July 28, 2023 Lok Sabha passed the National Dental Commission Bill, 2023, repealing the Dentists Act, 1948, and the National Nursing and Midwifery Commission Bill, 2023, repealing the Indian Nursing Council Act, 1947. Both set up new national regulators.",
+   "why": "Replaces decades-old professional regulators.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-07-27",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Lok Sabha passes Repealing and Amending Bill, 2022 scrapping obsolete laws",
+   "text": "Lok Sabha passed the Repealing and Amending Bill, 2022. It repeals 65 obsolete laws along with a number of Appropriation Acts that are no longer needed.",
+   "why": "Part of the clean-up of redundant central statutes.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-07-26",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Lok Sabha passes Forest (Conservation) Amendment Bill, 2023",
+   "text": "Lok Sabha passed the Forest (Conservation) Amendment Bill, 2023 on July 26, 2023. The Joint Parliamentary Committee had endorsed the Bill on July 20 with five dissent notes. The Bill exempts certain categories of land from the Forest (Conservation) Act, 1980.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2023",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2023-07-20",
@@ -490,6 +648,48 @@
    "text": "The Karnataka High Court dismissed Twitter's (now X Corp) petition challenging the Centre's blocking orders under Section 69A of the IT Act for accounts and tweets, and imposed costs of Rs 50 lakh on the company.",
    "src": "https://www.livelaw.in/top-stories/karnataka-high-court-twitter-blocking-orders-ministry-electronics-information-technology-case-231544",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-06-30",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "CERT-In",
+   "headline": "CERT-In issues information security guidelines for government entities",
+   "text": "CERT-In issued guidelines on information security practices for government entities under the Information Technology Act, 2000. They set cybersecurity compliance requirements for ministries, departments and other government bodies.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-06-28",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Power",
+   "headline": "Carbon Credit Trading Scheme, 2023 notified under Energy Conservation Act",
+   "text": "The Ministry of Power notified the Carbon Credit Trading Scheme, 2023 under the Energy Conservation Act, 2001. It sets up the framework for an Indian carbon market in which carbon credit certificates can be issued and traded.",
+   "why": "Creates the legal basis for India's carbon market.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-06-26",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Draft Green Credit Programme Implementation Rules released",
+   "text": "The Environment Ministry invited comments on the draft Green Credit Programme Implementation Rules, 2023. The rules propose a mechanism for awarding tradeable green credits for voluntary environmental actions.",
+   "why": "Final Green Credit Rules were notified in October 2023.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-06-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Consumer Affairs",
+   "headline": "Consumer Protection (Direct Selling) Rules, 2021 amended",
+   "text": "The Ministry of Consumer Affairs notified amendments to the Consumer Protection (Direct Selling) Rules, 2021, framed under the Consumer Protection Act, 2019, changing obligations on direct selling entities.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2023",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2023-06-15",
@@ -543,6 +743,28 @@
    "srcName": "Bar & Bench"
   },
   {
+   "date": "2023-05-31",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Civil Aviation",
+   "headline": "Draft Aircraft Bill, 2023 released to replace Aircraft Act, 1934",
+   "text": "The Ministry of Civil Aviation released the draft Aircraft Bill, 2023 for public feedback. It proposes to replace the Aircraft Act, 1934 with simplified provisions and wider rule-making powers for the central government.",
+   "why": "Would overhaul the 89-year-old aviation statute.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-05-31",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health and Family Welfare",
+   "headline": "Tobacco rules amended to require anti-tobacco warnings on OTT content",
+   "text": "The Cigarettes and Other Tobacco Products (Prohibition of Advertisement and Regulation) Rules, 2004 were amended. Online curated content (OTT platforms) depicting tobacco products or their use must now carry anti-tobacco health spots and warnings.",
+   "why": "Extends COTPA content rules to streaming platforms.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-05-24",
    "cat": "Legal Education & Careers",
    "region": "All India",
@@ -592,6 +814,17 @@
    "text": "In a Cabinet reshuffle, Arjun Ram Meghwal was given independent charge of the Ministry of Law and Justice, replacing Kiren Rijiju, who was moved to the Ministry of Earth Sciences. Rijiju's tenure had been marked by public criticism of the collegium system.",
    "src": "https://www.livelaw.in/top-stories/arjun-ram-meghwal-replaces-kiren-rijiju-as-union-law-minister-228945",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-05-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Finance",
+   "headline": "FEMA rules amended to bring overseas credit card spends under LRS",
+   "text": "The Finance Ministry notified the Foreign Exchange Management (Current Account Transactions) (Amendment) Rules, 2023. They removed the exemption for international credit card spends, bringing them within the Liberalised Remittance Scheme and its tax collected at source.",
+   "why": "Implementation was later put on hold in June 2023.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/may-2023",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2023-05-11",
@@ -729,6 +962,16 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2023-03-24",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Power",
+   "headline": "Draft rules propose mandatory time-of-day electricity tariffs",
+   "text": "The Ministry of Power sought comments on the draft Electricity (Rights of Consumers) Amendment Rules, 2023. The draft would make time-of-day tariffs mandatory for consumers, including those with smart meters, under the Electricity Act, 2003.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-03-17",
    "cat": "Legislature",
    "region": "All India",
@@ -756,6 +999,27 @@
    "body": "Lok Sabha",
    "headline": "Inter-Services Organisations (Command, Control and Discipline) Bill introduced",
    "text": "The Inter-Services Organisations (Command, Control and Discipline) Bill, 2023 was introduced in the Lok Sabha to empower commanders of inter-services organisations to exercise disciplinary and administrative control over personnel of all three services under them.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-03-15",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Lok Sabha",
+   "headline": "Forest (Conservation) Amendment Bill, 2023 introduced and sent to Joint Committee",
+   "text": "The Forest (Conservation) Amendment Bill, 2023 was introduced in Lok Sabha and referred to a Joint Parliamentary Committee. It amends the Forest (Conservation) Act, 1980 to exempt certain land and activities, such as eco-tourism facilities and silvicultural operations, from its restrictions.",
+   "why": "Changes the scope of India's main forest-diversion law.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-03-15",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Joint Committee report on Multi-State Co-operative Societies (Amendment) Bill tabled",
+   "text": "The Joint Parliamentary Committee examining the Multi-State Co-operative Societies (Amendment) Bill, 2022 tabled its report. It broadly endorsed the proposed amendments to the Multi-State Co-operative Societies Act, 2002.",
    "src": "https://prsindia.org/policy/monthly-policy-review/march-2023",
    "srcName": "PRS Legislative Research"
   },
@@ -791,6 +1055,38 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2023-02-22",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Union Cabinet",
+   "headline": "Cabinet approves ratifying amendments to Chicago Convention on civil aviation",
+   "text": "The Union Cabinet approved ratification of three amending protocols to the Convention on International Civil Aviation (Chicago Convention), 1944. The amendments raise the strength of the ICAO Council from 36 to 40 members and enlarge the Air Navigation Commission.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-02-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Securities and Exchange Board of India",
+   "headline": "SEBI proposes corporate governance changes to LODR Regulations",
+   "text": "SEBI released a consultation paper proposing amendments to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. Proposals covered disclosure of shareholder agreements, ending permanent board seats and shareholder approval for sale of assets.",
+   "why": "Affects governance obligations of listed companies.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-02-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Draft rules would make coal power plants burn crop residue pellets",
+   "text": "The Environment Ministry released the draft Agro Residue Utilisation by Thermal Power Plants Rules, 2023. Coal-based thermal power plants would have to use at least 5% pellets made from crop residue, blended with coal, every year.",
+   "why": "Legal mandate aimed at reducing stubble burning.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2023-02-13",
    "cat": "Judiciary",
    "region": "All India",
@@ -799,6 +1095,27 @@
    "text": "Justices Rajesh Bindal and Aravind Kumar, former Chief Justices of the Allahabad and Gujarat High Courts, took oath as Supreme Court judges on February 13, 2023, taking the Court to its full sanctioned strength of 34 judges.",
    "src": "https://www.sci.gov.in/judge/justice-aravind-kumar/",
    "srcName": "Supreme Court of India"
+  },
+  {
+   "date": "2023-02-13",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "First part of Budget Session 2023 ends; Jan Vishwas and Competition Bills pending",
+   "text": "The first part of the Budget Session concluded on February 13, 2023. Bills listed for consideration included the Jan Vishwas (Amendment of Provisions) Bill, 2022, the Competition (Amendment) Bill, 2022 and the Multi-State Cooperative Societies (Amendment) Bill, 2022.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-02-09",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Mines",
+   "headline": "Draft amendments to Offshore Areas Mineral Act, 2002 released",
+   "text": "The Ministry of Mines released draft amendments to the Offshore Areas Mineral (Development and Regulation) Act, 2002. They propose composite exploration-cum-production licences, raise the production lease period from 30 to 50 years and shrink the standard offshore mineral block size.",
+   "why": "Precursor to the Offshore Areas Mineral Amendment Bill, 2023.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2023",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2023-02-06",
@@ -819,6 +1136,38 @@
    "text": "The Bar Council of India allowed candidates appearing in the All India Bar Examination XVII on February 5, 2023 to carry downloaded or printed copies of bare Acts with minimal notes. The exam was eventually taken by over 1.7 lakh candidates across 53 cities.",
    "src": "https://www.livelaw.in/news-updates/aibe-17-bar-council-of-india-allows-candidates-carry-downloaded-copies-bare-acts-least-notes-220671",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-02-03",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of External Affairs",
+   "headline": "Inter-ministerial committee set up on human rights treaty obligations",
+   "text": "The Centre constituted an inter-ministerial committee on human rights. It is tasked with implementing India's obligations under human rights treaties and following up on recommendations from the UN Universal Periodic Review.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-01-31",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Budget Session 2023 begins with President's address to joint sitting",
+   "text": "Parliament's Budget Session 2023 began on January 31, 2023 with the President addressing a joint sitting of both Houses. The session was scheduled for 27 sittings in two parts: January 31 to February 13 and March 13 to April 6, 2023.",
+   "why": "Sets the legislative calendar for Budget 2023-24 and pending Bills.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-01-30",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Telecom Regulatory Authority of India",
+   "headline": "TRAI consults on converging regulation of broadcasting and telecom carriage",
+   "text": "TRAI released a consultation paper on enabling convergence in the carriage of broadcasting and telecommunication services. It flagged that telecom, broadcasting and IT services are governed by different Acts and ministries, and sought views on a unified framework.",
+   "why": "Relevant to any future unified communications law.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2023",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2023-01-19",
@@ -861,6 +1210,28 @@
    "text": "Law Minister Kiren Rijiju defended his letter to the CJI proposing a search-cum-evaluation committee including government representatives to prepare panels of candidates for judicial appointment, saying it followed the NJAC judgment's direction to revise the Memorandum of Procedure and did not seek a seat on the Collegium.",
    "src": "https://www.livelaw.in/top-stories/how-can-govt-nominee-be-part-of-collegium-people-making-comments-without-knowing-facts-law-minister-kiren-rijiju-219170",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2023-01-16",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI issues directions on acquiring and holding shares or voting rights in banks",
+   "text": "The RBI issued the RBI (Acquisition and Holding of Shares or Voting Rights in Banking Companies) Directions, 2023. They lay down requirements for acquiring a major shareholding in a banking company and set shareholding limits for different categories of investors.",
+   "why": "Governs who can own significant stakes in Indian banks.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2023",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2023-01-13",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Securities and Exchange Board of India",
+   "headline": "SEBI consults on allowing private equity funds to sponsor mutual funds",
+   "text": "SEBI released a consultation paper reviewing the regulatory framework for mutual fund sponsors. Among other things, it proposed alternative eligibility criteria under which private equity funds could act as sponsors of mutual funds.",
+   "why": "Could widen who may set up mutual funds under SEBI regulations.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2023",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2023-01-03",

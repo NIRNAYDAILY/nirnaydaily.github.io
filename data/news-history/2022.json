@@ -1,6 +1,6 @@
 {
  "year": 2022,
- "count": 89,
+ "count": 116,
  "items": [
   {
    "date": "2022-12-23",
@@ -214,6 +214,17 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-10-18",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Genetic Engineering Appraisal Committee",
+   "headline": "GEAC recommends environmental release of genetically engineered mustard DMH-11",
+   "text": "The Genetic Engineering Appraisal Committee under the Environment Ministry recommended the environmental release of genetically engineered mustard hybrid DMH-11 for seed production and testing ahead of commercial release, subject to the Seeds Act, 1966. Field demonstrations over two years must study effects on pollinators.",
+   "why": "Key regulatory decision on GM food crops.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-10-17",
    "cat": "Judiciary",
    "region": "All India",
@@ -245,6 +256,28 @@
    "why": "Leaves the question of religious dress in educational institutions to a larger bench.",
    "src": "https://www.livelaw.in/top-stories/hijab-ban-supreme-court-split-verdict-karnataka-religion-fundamental-right-article-25-211510",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2022-10-11",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI revises regulatory framework for asset reconstruction companies",
+   "text": "The RBI revised its regulatory framework for asset reconstruction companies, adding governance requirements such as independent directors and mandatory board committees. ARCs with a net owned fund of at least Rs 1,000 crore may act as resolution applicants in corporate insolvency cases.",
+   "why": "Links ARC regulation with insolvency resolution under the IBC.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-10-11",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Environment, Forest and Climate Change",
+   "headline": "Draft notification proposes EIA exemption for certain pumped storage projects",
+   "text": "The Environment Ministry released a draft notification amending the Environment Impact Assessment Notification, 2006. Pumped storage plants that need no forest clearance and create or modify no reservoirs would get environmental clearance without an impact assessment report.",
+   "why": "Proposed relaxation of environmental clearance rules.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/october-2022",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2022-10-09",
@@ -506,6 +539,17 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-07-23",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Department of Telecommunications",
+   "headline": "DoT consults on a new legal framework to replace colonial-era telecom laws",
+   "text": "The Department of Telecommunications released a consultation paper on the 'Need for a new legal framework governing telecommunication in India'. It proposes a new law covering issues such as spectrum management and universal service obligations, with comments invited until August 25, 2022.",
+   "why": "First step towards replacing the Indian Telegraph Act, 1885.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-07-20",
    "cat": "Judiciary",
    "region": "Uttar Pradesh",
@@ -514,6 +558,28 @@
    "text": "A bench of Justices D.Y. Chandrachud, Surya Kant and A.S. Bopanna ordered the immediate release of Alt News co-founder Mohammed Zubair on interim bail in all FIRs registered by Uttar Pradesh Police over his tweets, transferred them to the Delhi Police and disbanded the UP SIT, observing that the power of arrest must be used sparingly.",
    "src": "https://www.livelaw.in/top-stories/supreme-court-orders-release-of-mohammed-zubair-forthwith-on-interim-bail-in-all-up-police-firs-204292",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2022-07-20",
+   "cat": "Judiciary",
+   "region": "Delhi",
+   "body": "Delhi High Court",
+   "headline": "Delhi High Court stays CCPA guidelines barring service charge in restaurants",
+   "text": "In National Restaurant Association of India v. Union of India, the Delhi High Court stayed the Central Consumer Protection Authority's guidelines that barred hotels and restaurants from adding service charge to bills by default. The Court said service charge could be levied but must be displayed prominently, and cannot apply to takeaway orders.",
+   "why": "Interim check on the consumer regulator's guidelines.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-07-18",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Monsoon Session of Parliament begins with 32 Bills listed",
+   "text": "The Monsoon Session of Parliament began on July 18, 2022 and was scheduled to have 18 sittings until August 12, 2022. Bills listed for the session included the National Anti-Doping Bill, 2021 and the Trafficking of Persons Bill, 2022.",
+   "why": "Opens the 2022 monsoon legislative calendar.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2022",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2022-07-16",
@@ -545,6 +611,17 @@
    "why": "A leading precedent against unnecessary arrests and undertrial detention.",
    "src": "https://www.livelaw.in/top-stories/supreme-court-41a-crpc-non-compliance-bail-satender-kumar-antil-vs-central-bureau-of-investigation-2022-livelaw-sc-577-203486",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2022-07-08",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health and Family Welfare",
+   "headline": "Draft Drugs, Medical Devices and Cosmetics Bill, 2022 released for comments",
+   "text": "The Health Ministry invited comments on the draft Drugs, Medical Devices and Cosmetics Bill, 2022, meant to overhaul drug and cosmetics regulation. It proposes a Medical Devices Technical Advisory Board, requires prior approval for clinical trials with penalties for violations, and provides for licensing of online pharmacies.",
+   "why": "Proposed replacement for the Drugs and Cosmetics Act, 1940.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/july-2022",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2022-07-04",
@@ -598,6 +675,17 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-06-09",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Central Consumer Protection Authority",
+   "headline": "CCPA issues guidelines on misleading advertisements and endorsements",
+   "text": "The Central Consumer Protection Authority issued the Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022 under the Consumer Protection Act, 2019. Advertisements must be truthful and must not exaggerate a product's accuracy, scientific validity or performance, and surrogate advertising is prohibited.",
+   "why": "Binding advertising standards enforceable under consumer law.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-06-07",
    "cat": "Legal Education & Careers",
    "region": "All India",
@@ -619,6 +707,17 @@
    "srcName": "PRS Legislative Research"
   },
   {
+   "date": "2022-06-06",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Defence",
+   "headline": "Eligibility for Chief of Defence Staff widened through amended service rules",
+   "text": "The Centre amended the Army Rules, 1954, the Air Force Regulations, 1964 and the Navy's regulations to change the criteria for appointing the Chief of Defence Staff. Beyond service chiefs, serving or retired Lieutenant Generals, Air Marshals and Vice Admirals and their higher ranks can now be appointed.",
+   "why": "Changes the legal eligibility for India's top military post.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-06-03",
    "cat": "Judiciary",
    "region": "All India",
@@ -628,6 +727,17 @@
    "why": "Major environmental directive affecting development near protected areas; later modified in 2023.",
    "src": "https://www.livelaw.in/amp/top-stories/supreme-court-monthly-digest-june-2022-203039",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2022-06-03",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Power",
+   "headline": "Electricity (Late Payment Surcharge and Related Matters) Rules, 2022 notified",
+   "text": "The Ministry of Power notified the Electricity (Late Payment Surcharge and Related Matters) Rules, 2022 to address delayed payments by distribution companies. Overdue amounts attract a surcharge starting at 5% above SBI's one-year MCLR, rising by 0.5% each month up to 3% above the starting rate.",
+   "why": "Statutory rules to enforce payment discipline in the power sector.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/june-2022",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2022-05-27",
@@ -840,6 +950,50 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-03-31",
+   "cat": "Executive & Government",
+   "region": "Assam, Nagaland, Manipur",
+   "body": "Ministry of Home Affairs",
+   "headline": "Centre reduces AFSPA 'disturbed areas' in Assam, Nagaland and Manipur",
+   "text": "The Ministry of Home Affairs announced a reduction of the areas declared 'disturbed' under the Armed Forces (Special Powers) Act, 1958 in Assam, Nagaland and Manipur, with effect from April 1, 2022.",
+   "why": "Narrows the reach of AFSPA in the North-East.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-03-28",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Lok Sabha / Ministry of Home Affairs",
+   "headline": "Criminal Procedure (Identification) Bill, 2022 introduced to replace 1920 prisoners' identification law",
+   "text": "The Criminal Procedure (Identification) Bill, 2022 was introduced in the Lok Sabha. It seeks to replace the Identification of Prisoners Act, 1920 and widens the categories of measurements, such as biometric data, that can be collected from convicts, arrested persons and others.",
+   "why": "Expands police powers to collect identifying data.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-03-25",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Lok Sabha",
+   "headline": "Lok Sabha passes Finance Bill, 2022 with 30% tax on virtual digital assets",
+   "text": "The Lok Sabha passed the Finance Bill, 2022, which gives effect to the Union Budget's tax proposals for 2022-23. It introduces a 30% tax on income from the transfer of virtual digital assets and makes no change to income tax rates.",
+   "why": "First statutory tax regime for crypto assets.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-03-23",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Standing Committee on Sports",
+   "headline": "Standing Committee submits report on National Anti-Doping Bill, 2021",
+   "text": "The Standing Committee on Education, Women, Children, Youth and Sports (Chair: Vinay P. Sahasrabuddhe) submitted its report on the National Anti-Doping Bill, 2021. The Bill seeks to prohibit doping in sport and give statutory backing to the National Anti-Doping Agency.",
+   "why": "Committee scrutiny of a new sports law.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-03-16",
    "cat": "Judiciary",
    "region": "All India",
@@ -861,6 +1015,28 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-03-14",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI issues regulatory framework for microfinance loans",
+   "text": "The RBI issued the Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022. Among other things, the Directions cap a borrower household's monthly loan repayment obligations at 50% of monthly household income.",
+   "why": "Uniform rules for microfinance lending by regulated entities.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-03-11",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Home Affairs",
+   "headline": "Census Rules amended to allow self-enumeration",
+   "text": "The Ministry of Home Affairs notified the Census (Amendment) Rules, 2022, amending the Census Rules, 1990. The amendment permits self-enumeration, allowing people to fill in census schedules themselves in paper or electronic form.",
+   "why": "Enables online self-enumeration in the next Census.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/march-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-02-24",
    "cat": "Judiciary",
    "region": "All India",
@@ -869,6 +1045,28 @@
    "text": "In Shri Babuji Rawji Shah v. S. Hussain Zaidi (2022 LiveLaw (SC) 213), the Supreme Court declined to stay the film 'Gangubai Kathiawadi', holding that a film does not become defamatory merely because it hurts sensibilities and that CBFC certification indicates the film is lawful.",
    "src": "https://www.livelaw.in/top-stories/mere-hurting-sensibilities-not-defamation-cbfc-certificate-shows-film-defamatory-supreme-court-gangubai-kathiawaid-192843",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2022-02-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Electronics and Information Technology",
+   "headline": "MeitY releases draft India Data Accessibility and Use Policy for comments",
+   "text": "The Ministry of Electronics and Information Technology released a draft India Data Accessibility and Use Policy for public comment. It aims to improve access to and use of non-personal data held by the government, enabling sharing within government and with the private sector, with most datasets to be available free of charge.",
+   "why": "Early framework for governing non-personal government data.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-02-15",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Securities and Exchange Board of India",
+   "headline": "SEBI makes separation of chairperson and MD/CEO posts voluntary for listed companies",
+   "text": "SEBI's board decided that the requirement for the top 500 listed companies to separate the posts of chairperson and managing director/CEO, due by April 1, 2022, would be voluntary rather than mandatory. SEBI cited unsatisfactory compliance, pandemic constraints and the need for a smoother transition.",
+   "why": "Changes a corporate governance norm under SEBI's listing rules.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2022",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2022-02-14",
@@ -882,6 +1080,28 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-02-10",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Standing Committee on Home Affairs",
+   "headline": "Home Affairs panel report on police training, modernisation and reforms",
+   "text": "The Standing Committee on Home Affairs (Chair: Anand Sharma) presented its report on 'Police - Training, Modernisation and Reforms'. It recommended training on emerging technologies such as AI, drones and forensics, university tie-ups for soft skills, and integrating crime-tracking data with the judicial and prison systems.",
+   "why": "Addresses policing and criminal justice administration.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-02-08",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Standing Committee on Rural Development",
+   "headline": "Standing Committee recommends raising MGNREGA work guarantee from 100 to 150 days",
+   "text": "The Standing Committee on Rural Development and Panchayati Raj presented its report on a critical evaluation of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). It recommended raising the guaranteed days of work from 100 to 150 and devising a mechanism for a unified wage rate across the country.",
+   "why": "Proposes changes to a statutory employment guarantee.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-02-03",
    "cat": "Legal Education & Careers",
    "region": "All India",
@@ -892,6 +1112,17 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-02-03",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament / Standing Committee on Transport, Tourism and Culture",
+   "headline": "Parliamentary panel seeks case-by-case limits around protected monuments and stronger ASI powers",
+   "text": "The Standing Committee on Transport, Tourism and Culture submitted its report on creating a regulatory framework for protecting historical sites and monuments. It said prohibited and regulated areas around monuments should be decided case by case, and observed that the Archaeological Survey of India lacks sufficient powers to curb encroachment.",
+   "why": "Bears on the law governing protected monuments.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/february-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-02-01",
    "cat": "Judiciary",
    "region": "All India",
@@ -900,6 +1131,17 @@
    "text": "In Future Coupons Pvt. Ltd. v. Amazon.com NV Investment Holdings LLC (2022 LiveLaw (SC) 114), the Supreme Court held that action under Order XXXIX Rule 2A of the CPC requires wilful disobedience of an injunction, in the long-running Future-Amazon dispute over the Future Retail-Reliance deal.",
    "src": "https://www.livelaw.in/top-stories/disobedience-has-to-be-wilful-to-attract-civil-contempt-action-under-order-xxxix-rule-2a-cpc-supreme-court-in-future-amazon-case-190927",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2022-01-31",
+   "cat": "Legislature",
+   "region": "All India",
+   "body": "Parliament",
+   "headline": "Budget Session of Parliament begins with President's address to joint sitting",
+   "text": "The Budget Session began on January 31, 2022 with the President's address to both Houses and the tabling of the Economic Survey 2021-22. The session was planned in two phases with 29 sittings. Twenty Bills were listed for introduction, consideration and passing, including the Emigration Bill, 2022 and the Energy Conservation (Amendment) Bill, 2022.",
+   "why": "Opens the legislative calendar for 2022.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2022",
+   "srcName": "PRS Legislative Research"
   },
   {
    "date": "2022-01-28",
@@ -913,6 +1155,39 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-01-27",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Road Transport and Highways",
+   "headline": "Motor vehicle rules amended to extend fire safety standards to long-distance and school buses",
+   "text": "The Road Transport Ministry amended the Central Motor Vehicles Rules, 1989 to extend fire safety standard AIS-135 to long-distance passenger buses and school buses. The standard requires automatic fire detection, alarm and suppression systems in the engine compartment.",
+   "why": "Mandatory safety rule under the Motor Vehicles Act, 1988.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-01-26",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Civil Aviation",
+   "headline": "Certification scheme for drones notified under the Drone Rules, 2021",
+   "text": "The Civil Aviation Ministry notified a certification scheme for unmanned aircraft systems under the Drone Rules, 2021. The scheme covers drones weighing between 250 grams and 150 kilograms that fly within visual line of sight, by day and night, below 400 feet.",
+   "why": "Sets the type-certification framework for drones.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
+   "date": "2022-01-21",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health and Family Welfare",
+   "headline": "Draft rules propose deemed approval of clinical trials if regulator does not respond in time",
+   "text": "The Health Ministry published the draft New Drugs and Clinical Trials (Amendment) Rules, 2022. Under the draft, if the Central Licensing Authority does not communicate with an applicant within 90 days, permission to conduct the clinical trial will be deemed to have been granted.",
+   "why": "Introduces a deemed-approval mechanism into drug trial regulation.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-01-20",
    "cat": "Judiciary",
    "region": "All India",
@@ -924,6 +1199,17 @@
    "srcName": "LiveLaw"
   },
   {
+   "date": "2022-01-18",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Health and Family Welfare",
+   "headline": "Draft Medical Devices rules let DCGI suspend or cancel import licences",
+   "text": "The Health Ministry released draft amendments to the Medical Devices Rules, 2017 under the Drugs and Cosmetics Act, 1940. The draft empowers the Drugs Controller General of India to cancel or suspend a licence to import medical devices, including suspension in respect of a specific part of the device concerned.",
+   "why": "Tightens regulatory control over imported medical devices.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2022",
+   "srcName": "PRS Legislative Research"
+  },
+  {
    "date": "2022-01-17",
    "cat": "Judiciary",
    "region": "All India",
@@ -932,6 +1218,17 @@
    "text": "A bench of Justices Hemant Gupta and V Ramasubramanian dismissed Devas Multimedia's appeal and upheld the NCLT and NCLAT orders winding it up under Section 271(c) of the Companies Act, 2013, holding that where a company's affairs are conducted fraudulently as a continuing process, the right to seek winding up recurs and is not time-barred.",
    "src": "https://www.livelaw.in/top-stories/antrix-devas-supreme-court-fraudulent-affairs-companies-act-2013-recurring-cause-189716",
    "srcName": "LiveLaw"
+  },
+  {
+   "date": "2022-01-14",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Reserve Bank of India",
+   "headline": "RBI issues factoring regulations under the Factoring Regulation Act, 2011",
+   "text": "The RBI issued the Registration of Factors (Reserve Bank) Regulations, 2022 and the Registration of Assignment of Receivables (Reserve Bank) Regulations, 2022 under the Factoring Regulation Act, 2011. An NBFC-Factor must have a minimum net owned fund of Rs 5 crore, and factoring must make up at least 50% of its financial assets and of its gross income.",
+   "why": "Operationalises the 2021 amendments to the factoring law.",
+   "src": "https://prsindia.org/policy/monthly-policy-review/january-2022",
+   "srcName": "PRS Legislative Research"
   }
  ]
 }
