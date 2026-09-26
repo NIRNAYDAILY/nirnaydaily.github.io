@@ -14,6 +14,8 @@
   var SECTION={"":"Home","home":"Home","landmarks":"Landmark Judgments","library":"Full Judgments","bare-acts":"Bare Acts",
     "supreme-court":"Supreme Court","high-courts":"High Courts","district-courts":"District Courts","tribunals":"Tribunals","careers":"Careers Portal"};
   function view(){
+    if(location.pathname!=="/"&&location.pathname!=="/index.html"){
+      gtag("event","page_view",{page_location:location.href,page_path:location.pathname,page_title:document.title}); return; }
     var h=(location.hash||"#home").slice(1), title;
     if(h.indexOf("j-")===0) title="Judgment: "+h.slice(2);
     else if(h.indexOf("a-")===0) title="Bare Act: "+h.slice(2);
