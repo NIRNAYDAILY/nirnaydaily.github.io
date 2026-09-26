@@ -18,7 +18,8 @@ SCHEMA of data/journal/<month>.json  – LAW CONTENT ONLY (nothing about the web
                "cases":[{"name":"X v. Y","note":"one line","src":"url"}]}, …],      # ordered by importance
   "policy":[{"cat":"Legislature","region":"All India","headline":"…","text":"…","src":"url","srcName":"…"}],
   "briefs":[{"court":"…","caseName":"…","note":"one sentence","src":"url"}] }
-Slides: cover (lead) → one slide per article in the given order → Law & Policy → month in numbers →
+Careers & openings are filled automatically from data/careers-pool.json (official sources) – do not write them.
+Slides: cover (lead) → one slide per article in the given order → Law & Policy → Careers & openings → month in numbers →
 pictographs → In Brief → back slide with email and Instagram only.
 """
 import json, os, sys, html, calendar, glob, importlib.util
@@ -194,6 +195,7 @@ main{padding:24px 28px 10px}
 .sech{font:600 13px var(--official);letter-spacing:.26em;text-transform:uppercase;text-align:center;border-top:3px solid var(--ink);border-bottom:1px solid var(--ink);padding:10px 0;margin:10px 0 14px}
 .polgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-bottom:22px}.pol{border-top:1px solid var(--rule);padding-top:10px}
 .pol h4{font:400 22px/1.15 var(--display);margin:0 0 6px}.pol p{margin:0 0 6px;font-size:15px;line-height:1.55;color:var(--ink2)}.pol .srcn{font:12px var(--mono);color:var(--ink3)}
+.awl{columns:2;column-gap:28px;padding-left:18px;font-size:15px;color:var(--ink2);margin:0 0 24px}
 .briefs ul{column-count:2;column-gap:28px;column-rule:1px solid var(--rule);padding:0;list-style:none;margin:0 0 24px}
 .briefs li{break-inside:avoid;margin-bottom:10px;font-size:15px;line-height:1.5;color:var(--ink2)}.briefs li b{color:var(--ink)}
 .noprint{}
@@ -209,6 +211,35 @@ HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Tiro+Devanagari+Hindi&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <script>window.NIRNAY_GA_ID="G-5Q7X36D16B";</script><script src="../assets/analytics.js"></script>
 <style>{css}</style></head><body>"""
+
+
+def careers_snapshot(month):
+    """Openings still open on the 1st of next month, from data/careers-pool.json (official sources only)."""
+    import re, datetime
+    y, m = map(int, month.split("-"))
+    first_next = (datetime.date(y, m, calendar.monthrange(y, m)[1]) + datetime.timedelta(days=1)).isoformat()
+    try: pool = json.load(open(P("data", "careers-pool.json")))
+    except Exception: return {"open": [], "awaited": []}
+    strip = lambda t: re.sub(r"<[^>]+>", "", t or "").strip()
+    open_, wait = [], []
+    for sec in pool.get("sections", []):
+        for it in sec.get("items", []):
+            dl = next((f for f in it.get("facts", []) if f.get("iso")), None)
+            link = (it.get("links") or [{}])[0]
+            row = {"section": sec.get("title") or sec.get("short"), "name": it.get("name"), "org": it.get("org"),
+                   "eligibility": strip(it.get("eligibility")), "status": it.get("status"),
+                   "deadline": dl["v"] if dl else "", "dlLabel": (dl.get("k") or "Last date") if dl else "", "iso": dl["iso"] if dl else "", "url": link.get("url", "")}
+            if it.get("status") == "Awaited": wait.append(row)
+            elif dl and dl["iso"] >= first_next: open_.append(row)
+    open_.sort(key=lambda r: r["iso"])
+    return {"open": open_[:8], "awaited": wait[:6]}
+
+
+def careers_html(C):
+    cards = "".join(f'<div class="pol"><div class="kicker">{E(c["section"])} · {E(c.get("dlLabel") or "Last date")} {E(c["deadline"])}</div><h4>{E(c["name"])}</h4>'
+                    f'<p><b>{E(c["org"])}</b></p><p>Who can apply: {E(c["eligibility"])}</p><p class="srcn">Apply: {E(c["url"])}</p></div>' for c in C.get("open", []))
+    aw = "".join(f'<li><b>{E(c["name"])}</b> — {E(c["org"])}</li>' for c in C.get("awaited", []))
+    return f'<div class="polgrid">{cards}</div>' + (f'<p class="kicker" style="margin-top:6px">Expected soon</p><ul class="awl">{aw}</ul>' if aw else "")
 
 
 def lm(a): return '<span class="lmk">Landmark</span> ' if a.get("landmark") else ""
@@ -243,6 +274,7 @@ def page(J):
 <h3 style="margin-top:14px">Tribunal rulings</h3>{bars(trib, C_DC, 6, label_w=120, title="Tribunal rulings by tribunal")}</div>
 </section>
 {f'<section class="policy"><h3 class="sech">Law &amp; Policy</h3><div class="polgrid">{policy_html(J.get("policy", []))}</div></section>' if J.get("policy") else ''}
+{f'<section class="careers"><h3 class="sech">Careers &amp; openings</h3>{careers_html(J["careers"])}</section>' if J.get("careers", {}).get("open") or J.get("careers", {}).get("awaited") else ''}
 {f'<section class="briefs"><h3 class="sech">In brief</h3><ul>{briefs}</ul></section>' if briefs else ''}
 </main>
 <footer class="foot"><span>© {S["month"][:4]} Nirnay Daily · निर्णय</span>
@@ -293,6 +325,9 @@ p.b{font-size:31px;line-height:1.55;margin:0 0 20px;color:#2E2822}
 .pi,.bi{border-top:1px solid #D9CCB3;padding:16px 0 4px}.pk{font:600 17px "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:#9E2A2B}
 .pi b{display:block;font:400 36px/1.15 "Libre Caslon Display",serif;margin:6px 0}.pi p{font-size:24px;line-height:1.45;margin:0 0 8px;color:#3B332A}
 .bi b{display:block;font:700 26px/1.3 "Libre Caslon Text",serif;margin:4px 0}.bi p{font-size:23px;line-height:1.4;margin:0 0 6px;color:#3B332A}
+.ci{border-top:1px solid #D9CCB3;padding:14px 0 6px}.ci b{display:block;font:400 32px/1.15 "Libre Caslon Display",serif;margin:4px 0}
+.ci .org{font:600 21px "IBM Plex Sans",sans-serif;color:#4A423A}.ci p{font-size:21px;line-height:1.4;margin:6px 0;color:#3B332A}.ci p span{font-weight:700}
+.ci .dl{display:inline-block;font:600 19px "IBM Plex Mono",monospace;color:#fff;background:#9E2A2B;padding:4px 10px;border-radius:3px}
 .contact{position:absolute;left:70px;right:70px;bottom:120px;display:flex;justify-content:center;gap:50px;border-top:1px solid rgba(243,196,107,.5);padding-top:24px;font:28px "IBM Plex Mono",monospace;color:#fff}
 .contact span{display:inline-flex;align-items:center;gap:12px}
 """
@@ -336,6 +371,14 @@ def ig(J):
     for i in range(0, len(pol), 4):
         items = "".join(f'<div class="pi"><div class="pk">{E(x.get("cat"))} · {E(x.get("region") or "All India")}</div><b>{E(x.get("headline"))}</b><p>{E(x.get("text"))}</p></div>' for x in pol[i:i + 4])
         slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">Parliament · Government · Bar</div><h3>Law &amp; Policy</h3>{items}</div>{foot(n)}</section>"""); n += 1
+    C = J.get("careers", {}); co = C.get("open", [])
+    for i in range(0, len(co), 4):
+        items = "".join(f'<div class="ci"><div class="pk">{E(c["section"])}</div><b>{E(c["name"])}</b><div class="org">{E(c["org"])}</div>'
+                        f'<p><span>Who can apply:</span> {E(c["eligibility"])}</p><div class="dl">{E(c.get("dlLabel") or "Last date")}: {E(c["deadline"])}</div></div>' for c in co[i:i + 4])
+        slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">Jobs · Exams · Admissions</div><h3>Careers &amp; openings</h3>{items}</div>{foot(n)}</section>"""); n += 1
+    if C.get("awaited"):
+        aw = "".join(f'<div class="bi"><div class="pk">{E(c["section"])}</div><b>{E(c["name"])}</b><p>{E(c["org"])} · {E(c["eligibility"])}</p></div>' for c in C["awaited"][:5])
+        slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">Notification awaited</div><h3>Openings expected soon</h3>{aw}</div>{foot(n)}</section>"""); n += 1
     slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">{E(mn)}</div><h3>The month in numbers</h3>
 <div class="tiles">{tiles(S)}</div></div>{foot(n)}</section>"""); n += 1
     slides.append(f"""<section class="s"><div class="frame"></div><div class="in"><div class="kick">Pictograph</div><h3>Where the rulings came from</h3>
@@ -375,6 +418,7 @@ def main():
     J = json.load(open(src))
     if "stats" not in J or "--restat" in sys.argv:
         J["stats"] = js.stats(month)
+        J["careers"] = careers_snapshot(month)
         json.dump(J, open(src, "w"), ensure_ascii=False, indent=1)
     os.makedirs(P("journal"), exist_ok=True)
     open(P("journal", f"{month}.html"), "w").write(page(J))
