@@ -1,0 +1,34 @@
+{
+ "edition": {
+  "edition_id": "2026-09-26-pm",
+  "iso": "2026-09-26",
+  "slot": "6 PM",
+  "dateShort": "26 Sep 2026",
+  "dateLong": "Saturday, 26 September 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 26 September 2026"
+ },
+ "items": [
+  {
+   "cat": "Judiciary",
+   "region": "Bihar",
+   "body": "Chief Justice of India; Bihar State Legal Services Authority",
+   "headline": "CJI Surya Kant opens a Victim Rights Centre in Patna",
+   "text": "The Chief Justice of India was scheduled to inaugurate a Victim Rights Centre at the Bihar State Legal Services Authority in Patna at 12:10 PM on Saturday. Set up as a pilot under Section 12 of the Legal Services Authorities Act, 1987, the centre gives crime victims one point of contact for legal aid, emergency medical treatment, FIR copies and victim compensation. A transgender helpline is being launched with it, and the pilot will run in Patna district for twelve months before any expansion.",
+   "why": "It tests a single-window model for victim support that could be copied by legal services authorities in other States.",
+   "date": "26 Sep 2026",
+   "src": "https://www.livelaw.in/news-updates/cji-surya-kant-to-inaugurate-victim-rights-centre-at-patna-on-sept-26-551588",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Legal Education & Careers",
+   "region": "Bihar",
+   "body": "Chanakya National Law University, Patna",
+   "headline": "CJI holds open house with CNLU Patna students, welcomes idea of court apprenticeship in final year",
+   "text": "At an open-house session with students of Chanakya National Law University in Patna, CJI Surya Kant said the judiciary is committed to protecting students' right to peaceful protest and explained why dissenting views in Collegium deliberations are kept confidential. He called Vice-Chancellor Faizan Mustafa's proposal for a mandatory court apprenticeship in the final year of law studies a welcome new idea, and acknowledged concerns about high fees and too few scholarships. He also pointed to the Sarika Tyagi case on a professional assistance fund for young lawyers, saying such support is a structural need for the profession.",
+   "why": "The CJI's openness to restructuring the law degree may shape future BCI and NLU discussions on legal education.",
+   "date": "26 Sep 2026",
+   "src": "https://www.livelaw.in/top-stories/cji-surya-kant-holds-open-house-with-law-students-takes-questions-on-police-action-collegium-551950",
+   "srcName": "LiveLaw"
+  }
+ ]
+}
