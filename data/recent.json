@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T15:32+05:30",
+ "updated": "2026-09-27T15:44+05:30",
  "news": [
   {
    "edition": "2026-09-27-am",
@@ -23,6 +23,86 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Punjab National Bank v. Reji Abraham",
+   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-chennai-held-nclt-cannot-exercise-jurisdiction-over-personal-guarantors-foreign-corporate-debtors-551939"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Indojewel Jewellery Private Limited v. Brihanmumbai Municipal Corporation",
+   "src": "https://www.livelawbiz.com/amp/nclt/bmcs-statutory-first-charge-survives-liquidation-sale-auction-purchaser-liable-for-dues-nclt-mumbai-551947"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "S. Viswanathan v. Canara Bank",
+   "src": "https://www.livelawbiz.com/ibc/cocs-decision-to-replace-rp-protected-by-commercial-wisdom-unless-contrary-to-ibc-nclat-chennai-551971"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Hinduja National Power Corporation Limited & GOCL Corporation Limited v. The Regional Director & RoC",
+   "src": "https://www.livelawbiz.com/amp/company-law/one-stage-too-early-nclat-sets-aside-nclt-rejection-of-hnpcl-merger-with-gocl-at-first-motion-stage-551976"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Odisha State Beverages Corporation Limited v. Commissioner of CGST and Central Excise",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/licence-fees-paid-by-odisha-beverages-corp-to-state-government-not-consideration-for-service-cestat-kolkata-551956"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Oxonian India Foundation v. CIT (Exemptions)",
+   "src": "https://www.livelawbiz.com/income-tax/itat-delhi-sets-aside-rejection-of-charitable-status-on-ground-scholarships-paid-in-india-were-for-overseas-studies-551978"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Nandkishor Shantaram Kadam v. Income Tax Officer, Ward 42(2)(4), Mumbai",
+   "src": "https://www.taxscan.in/top-stories/10-stamp-duty-tolerance-band-is-curative-and-retrospective-itat-deletes-377-lakh-income-tax-addition-1452133"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Dalbir Singh v. ITO, Ward 1",
+   "src": "https://www.taxscan.in/top-stories/section-69-cannot-be-invoked-for-investments-duly-recorded-in-books-itat-deletes-12658-lakhs-income-tax-addition-1452117"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "State Bank of India v. ACIT, TDS Circle 2(2)",
+   "src": "https://www.taxscan.in/top-stories/state-bank-of-india-under-obligation-to-not-deduct-tds-cannot-be-treated-for-default-on-lfc-payments-itat-allows-appeal-read-order-1452062"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "AT Kumar Minz v. B.L. Agro Industries Limited",
+   "src": "https://www.taxscan.in/top-stories/amended-gst-rule-895-formula-is-curative-clarificatory-can-apply-retrospectively-to-eligible-refund-claims-gstat-1452004"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Cent Bank Home Finance Ltd. v. Commissioner, State Tax, Chhattisgarh & Ors.",
+   "src": "https://www.taxscan.in/top-stories/recovery-of-loan-amount-exempt-from-gst-gstat-1452000"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Partha Tribedi v. Vivek Ranjan",
+   "src": "https://www.taxscan.in/top-stories/no-gst-demand-without-scn-gstat-quashes-section-74-proceedings-against-pan-masala-trader-read-order-1451999"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Union Bank of India v. SE Transstadia Private Limited",
+   "src": "https://www.taxscan.in/top-stories/nclt-admits-union-bank-22382-cr-insolvency-plea-upholds-revival-letters-and-balance-sheets-extend-limitation-1452081"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Mobligent Media Pvt. Ltd. v. SynergyByte Infotainment Pvt. Ltd.",
+   "src": "https://www.taxscan.in/top-stories/no-pre-existing-dispute-on-unpaid-invoices-nclt-admits-cirp-over-105-cr-operational-debt-read-order-1452037"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Ravindra Gopalkrishan Agarwal v. Jankalyan Sahakari Bank Ltd.",
+   "src": "https://www.taxscan.in/top-stories/arbitral-award-cannot-convert-personal-guarantor-into-co-borrower-despite-joint-liability-clause-nclat-dismisses-guarantors-appeal-1452080"
+  },
+  {
+   "edition": "27 Sep 2026",
+   "caseName": "Pankaj Chhabildas Sheth v. Abhyudaya Co-operative Bank Ltd.",
+   "src": "https://www.taxscan.in/top-stories/nclat-rejects-personal-guarantors-plea-as-application-for-personal-insolvency-resolution-cannot-be-used-as-shield-to-stall-sarfaesi-possession-1452079"
+  },
   {
    "edition": "26 Sep 2026",
    "caseName": "In the matter of Vidarbha Industries Power Limited",
@@ -121,7 +201,7 @@
  ],
  "latest": {
   "digest": "27 Sep 2026",
-  "tribunals": "26 Sep 2026",
+  "tribunals": "27 Sep 2026",
   "news": "2026-09-27-am",
   "careersBooklet": "2026-09-26",
   "careersPool": "2026-09-27"
