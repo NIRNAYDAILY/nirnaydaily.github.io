@@ -24,6 +24,8 @@ jobs:
       - name: Install PDF text tool
         run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils && (pip install -q --break-system-packages reportlab img2pdf || pip install -q reportlab img2pdf)
       - name: Apply inbox files
+        env:
+          NIRNAY_PUBLIC_PDFS: "1"   # daily judgments: the Court's own PDF is offered free
         run: python3 tools/ingest.py
       - name: Commit
         run: |

@@ -546,7 +546,10 @@
    "keys": [
     "2026 INSC 1039",
     "anumandala rajesh reddy"
-   ]
+   ],
+   "pdf": "judgments/sc/pdf/anumandala-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 305446
   },
   {
    "slug": "jai-prakash-singh-2026",
@@ -565,7 +568,10 @@
     "2026 LiveLaw (SC) 993",
     "jai prakash singh"
    ],
-   "note": "Final order of the Supreme Court (Dipankar Datta and Sheel Nagu, JJ.) deciding the civil appeal; the Court titled it an 'Order'. This is the Court's digitally signed document (signed 22 Sep 2026), obtained through LiveLaw because the Supreme Court website has not yet released its copy."
+   "note": "Final order of the Supreme Court (Dipankar Datta and Sheel Nagu, JJ.) deciding the civil appeal; the Court titled it an 'Order'. This is the Court's digitally signed document (signed 22 Sep 2026), obtained through LiveLaw because the Supreme Court website has not yet released its copy.",
+   "pdf": "judgments/sc/pdf/jai-prakash-singh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 97895
   }
  ]
 }
