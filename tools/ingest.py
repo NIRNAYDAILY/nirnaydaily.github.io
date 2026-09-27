@@ -230,10 +230,17 @@ def h_sc(d):
     return f"supreme court full texts: {len(added)} added" + (f", {len(failed)} could not be verified" if failed else "")
 
 
+class Waiting(Exception):
+    pass
+
+
 def h_journal(d):
     month = d.get("month") or ""
     if not re.match(r"^\d{4}-\d{2}$", month) or not d.get("lead"):
         raise ValueError("journal needs 'month' (YYYY-MM) and 'lead'")
+    pub = d.get("published") or ""
+    if pub and TODAY < pub:
+        raise Waiting(f"monthly journal {month} is waiting for its publication date {pub}")
     os.makedirs("data/journal", exist_ok=True)
     save(f"data/journal/{month}.json", d)
     subprocess.run([sys.executable, "tools/journal_build.py", month], check=True)
@@ -277,6 +284,8 @@ def main():
                 data = data["data"]
             log["processed"].append(f"{base}: {h(data)}")
             os.remove(f)
+        except Waiting as w:
+            log["notes"].append(f"{base}: {w}")
         except Exception as ex:
             log["errors"].append(f"{base}: {ex}")
             os.makedirs("inbox/failed", exist_ok=True)

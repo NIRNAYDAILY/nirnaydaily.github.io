@@ -6,6 +6,8 @@ on:
     branches: [main]
     paths: ["inbox/**"]
   workflow_dispatch:
+  schedule:
+    - cron: "35 18 * * *"   # 00:05 IST daily: publishes anything waiting for its date (e.g. the Monthly Journal on the 1st)
 permissions:
   contents: write
   pages: write
