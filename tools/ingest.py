@@ -190,6 +190,7 @@ def h_sc(d):
                 pdf = os.path.join(tmp, "j.pdf")
                 src = fetch_pdf(it.get("src", ""), pdf)
                 txt = subprocess.run(["pdftotext", "-layout", pdf, "-"], capture_output=True, check=True).stdout.decode("utf-8", "replace")
+                pdf_bytes = open(pdf, "rb").read()
             pages = txt.split("\f")
             while pages and not pages[-1].strip():
                 pages.pop()
@@ -209,6 +210,10 @@ def h_sc(d):
                  "src": src, "added": TODAY, "keys": it.get("keys") or [p.lower() for p in it.get("parties", [])][:2]}
             if it.get("citation"): e["citation"] = it["citation"]
             if it.get("date"): e["date"] = it["date"]
+            os.makedirs("judgments/sc/pdf", exist_ok=True)
+            with open(f"judgments/sc/pdf/{slug}.pdf", "wb") as fh:
+                fh.write(pdf_bytes)          # the Court's own PDF, offered for download unchanged
+            e.update({"pdf": f"judgments/sc/pdf/{slug}.pdf", "pdfKind": "original", "pdfBytes": len(pdf_bytes)})
             items.append(e); added.append(name)
         except Exception as ex:
             failed.append(f"{name}: {ex}")
@@ -222,6 +227,9 @@ def h_sc(d):
         bdate = b[len("judgments/sc/daily-"):-5]
         if bdate < cutoff or total > 400 * 1024 * 1024:
             total -= os.path.getsize(b); os.remove(b)
+            for i in items:
+                if i.get("origin") == "daily" and i.get("file") == b and i.get("pdf") and os.path.exists(i["pdf"]):
+                    os.remove(i["pdf"])
             items[:] = [i for i in items if not (i.get("origin") == "daily" and i.get("file") == b)]
     lib["updated"] = TODAY
     save("data/sc-library.json", lib)

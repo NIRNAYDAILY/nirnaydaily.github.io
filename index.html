@@ -301,6 +301,7 @@ main{padding-block:0 64px}
 nav.main a.fj{color:var(--stamp)}
 .readbtn{display:inline-flex;align-items:center;gap:6px;font:600 12px var(--sans);letter-spacing:.02em;color:#fff !important;background:var(--stamp);padding:6px 11px;text-decoration:none;border-radius:2px}
 .readbtn:hover{background:#7E1F20}
+.pdfbtn{display:inline-flex;align-items:center;font:600 12px var(--sans);color:var(--stamp)!important;border:1px solid var(--stamp);padding:5px 10px;text-decoration:none;border-radius:2px;margin-left:4px}.pdfbtn:hover{background:var(--stamp-soft)}
 .pending{font:12px var(--mono);color:var(--ink-3);font-style:italic}
 .libgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;margin-top:14px}
 .libcard{display:grid;gap:6px;text-decoration:none;padding:16px 16px 14px;background:#fff;border:1px solid var(--rule);border-top:4px solid var(--c);transition:transform .15s,box-shadow .15s}
@@ -326,6 +327,7 @@ nav.main a.fj{color:var(--stamp)}
 .rd-body pre.orig{white-space:pre-wrap;font:inherit;margin:0}
 mark{background:#FDE7A8;color:inherit;padding:0 1px}
 mark.cur{background:#F2A93B}
+.dlpdf{display:inline-flex;align-items:center;gap:10px;margin-top:14px;padding:10px 16px;border-radius:6px;background:var(--stamp);color:#fff!important;text-decoration:none;font:600 14px var(--sans,system-ui);letter-spacing:.02em}.dlpdf span{font-weight:400;font-size:12px;opacity:.85}.dlpdf:hover{filter:brightness(1.1)}
 .pdfpages{display:grid;gap:18px;justify-items:center;padding-top:16px}
 .pdfpg{margin:0;background:#fff;border:1px solid var(--rule);box-shadow:0 6px 18px -12px rgba(0,0,0,.35);min-height:300px;width:min(100%,820px)}
 .pdfpg img{display:block;width:100%;height:auto;max-width:100%}
@@ -1160,7 +1162,7 @@ function libForDaily(it){
   const keys=[it.citation,it.caseName].filter(Boolean).flatMap(s=>String(s).split("·")).map(normKey).filter(Boolean);
   return LIB.items.find(x=>x.origin==="daily" && (x.keys||[]).map(normKey).some(k=>keys.some(q=>q.includes(k)||k.includes(q)))) || null;
 }
-const readBtn = (slug,label) => `<a class="readbtn" href="#j-${slug}">${ico("book")} ${label||"Read full judgment"}</a>`;
+const readBtn = (slug,label) => { const e=LIB&&LIB.items.find(x=>x.slug===slug); return `<a class="readbtn" href="#j-${slug}">${ico("book")} ${label||"Read full judgment"}</a>`+(e&&e.pdf?` <a class="pdfbtn" href="${esc(e.pdf)}" download="${esc(slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(slug)}.pdf'})">⬇ PDF</a>`:""); };
 
 async function loadJudgment(entry){
   const r=await fetch(entry.file,{cache:"force-cache"}); if(!r.ok) throw new Error("fetch");
@@ -1174,6 +1176,12 @@ async function loadJudgment(entry){
   return d.items ? d.items[entry.slug] : d;   /* daily bundles hold several judgments */
 }
 /* Re-join lines broken for justified layout into readable paragraphs. */
+function pdfBtn(e){
+  if(!e.pdf) return "";
+  const kind={original:"Official signed copy",scan:"Scanned original",typeset:"Full text, page by page"}[e.pdfKind]||"Full text";
+  const mb=e.pdfBytes?` · ${(e.pdfBytes/1048576).toFixed(e.pdfBytes<1048576?2:1)} MB`:"";
+  return `<a class="dlpdf" href="${esc(e.pdf)}" download="${esc(e.slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(e.slug)}.pdf',judgment:'${esc(e.name).replace(/'/g,"")}'})">⬇ Download PDF<span>${kind}${mb}</span></a>`;
+}
 function reflow(t){
   const lines=t.split("\n"); let out=[], cur="";
   for(const raw of lines){
@@ -1232,6 +1240,7 @@ function readerPage(slug){
       <div class="refs">${cit.split(" · ").filter(Boolean).map(c=>`<span class="ref">${esc(c)}</span>`).join("")}</div>
       <div class="rd-meta">${date?`Decided ${date} · `:""}${e.pages} pages${l&&l.bench?` · ${l.bench}-judge bench`:""} · Official text of the Supreme Court of India</div>
       ${e.note?`<p class="note">${esc(e.note)}</p>`:""}
+      ${pdfBtn(e)}
     </div>`;
   if(e.type==="img"){
     return `<div class="view reader">${head}
