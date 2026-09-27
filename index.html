@@ -1162,7 +1162,7 @@ function libForDaily(it){
   const keys=[it.citation,it.caseName].filter(Boolean).flatMap(s=>String(s).split("·")).map(normKey).filter(Boolean);
   return LIB.items.find(x=>x.origin==="daily" && (x.keys||[]).map(normKey).some(k=>keys.some(q=>q.includes(k)||k.includes(q)))) || null;
 }
-const readBtn = (slug,label) => { const e=LIB&&LIB.items.find(x=>x.slug===slug); return `<a class="readbtn" href="#j-${slug}">${ico("book")} ${label||"Read full judgment"}</a>`+(e&&e.pdf?` <a class="pdfbtn" href="${esc(e.pdf)}" download="${esc(slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(slug)}.pdf'})">⬇ PDF</a>`:""); };
+const readBtn = (slug,label) => { const e=LIB&&LIB.items.find(x=>x.slug===slug); return `<a class="readbtn" href="#j-${slug}">${ico("book")} ${label||"Read full judgment"}</a>`+(false&&e&&e.pdf?` <a class="pdfbtn" href="${esc(e.pdf)}" download="${esc(slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(slug)}.pdf'})">⬇ PDF</a>`:""); };
 
 async function loadJudgment(entry){
   const r=await fetch(entry.file,{cache:"force-cache"}); if(!r.ok) throw new Error("fetch");
@@ -1177,6 +1177,7 @@ async function loadJudgment(entry){
 }
 /* Re-join lines broken for justified layout into readable paragraphs. */
 function pdfBtn(e){
+  return ""; /* direct PDF downloads switched off; paid PDFs to be offered through a payment page */
   if(!e.pdf) return "";
   const kind={original:"Official signed copy",scan:"Scanned original",typeset:"Full text, page by page"}[e.pdfKind]||"Full text";
   const mb=e.pdfBytes?` · ${(e.pdfBytes/1048576).toFixed(e.pdfBytes<1048576?2:1)} MB`:"";
