@@ -11,6 +11,7 @@ Inbox file names start with their kind:
   news_<anything>.json        a Legal News edition             -> data/news.json (+ archive, 120)
   booklet_<anything>.json     a weekly careers booklet edition -> data/careers.json (+ archive, 52)
   pool_<anything>.json        the whole Careers Portal         -> data/careers-pool.json
+  journal_<YYYY-MM>.json      a Monthly Journal issue -> data/journal/ + journal/<YYYY-MM>.html
   sc_<anything>.json          Supreme Court judgments to host:
       {"date":"YYYY-MM-DD","items":[{"name","src" (official sci.gov.in PDF),"citation","date",
         "keys":[...], "parties":["distinctive party name", ...]}]}
@@ -229,7 +230,17 @@ def h_sc(d):
     return f"supreme court full texts: {len(added)} added" + (f", {len(failed)} could not be verified" if failed else "")
 
 
-HANDLERS = {"digest": h_digest, "tribunals": h_tribunals, "news": h_news, "booklet": h_booklet, "pool": h_pool, "sc": h_sc}
+def h_journal(d):
+    month = d.get("month") or ""
+    if not re.match(r"^\d{4}-\d{2}$", month) or not d.get("lead"):
+        raise ValueError("journal needs 'month' (YYYY-MM) and 'lead'")
+    os.makedirs("data/journal", exist_ok=True)
+    save(f"data/journal/{month}.json", d)
+    subprocess.run([sys.executable, "tools/journal_build.py", month], check=True)
+    return f"monthly journal {month} published at journal/{month}.html"
+
+
+HANDLERS = {"journal": h_journal, "digest": h_digest, "tribunals": h_tribunals, "news": h_news, "booklet": h_booklet, "pool": h_pool, "sc": h_sc}
 
 
 def recent_index():
