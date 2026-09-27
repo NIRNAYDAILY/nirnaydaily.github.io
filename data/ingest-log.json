@@ -1,6 +1,8 @@
 {
- "ran": "2026-09-27T14:52+05:30",
- "processed": [],
+ "ran": "2026-09-27T14:56+05:30",
+ "processed": [
+  "pool_2026-09-27.json: careers portal: 14 listings (0 closed removed)"
+ ],
  "errors": [],
  "notes": []
 }
