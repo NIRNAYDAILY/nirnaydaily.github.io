@@ -1,33 +1,33 @@
 {
  "edition": {
-  "edition_id": "2026-09-26-pm",
-  "iso": "2026-09-26",
-  "slot": "6 PM",
-  "dateShort": "26 Sep 2026",
-  "dateLong": "Saturday, 26 September 2026 · Evening edition",
-  "window": "News from 10:00 AM to 4:00 PM IST, 26 September 2026"
+  "edition_id": "2026-09-27-am",
+  "iso": "2026-09-27",
+  "slot": "10 AM",
+  "dateShort": "27 Sep 2026",
+  "dateLong": "Sunday, 27 September 2026 · Morning edition",
+  "window": "News from 4:00 PM IST, 26 September to 10:00 AM IST, 27 September 2026"
  },
  "items": [
   {
-   "cat": "Judiciary",
-   "region": "Bihar",
-   "body": "Chief Justice of India; Bihar State Legal Services Authority",
-   "headline": "CJI Surya Kant opens a Victim Rights Centre in Patna",
-   "text": "The Chief Justice of India was scheduled to inaugurate a Victim Rights Centre at the Bihar State Legal Services Authority in Patna at 12:10 PM on Saturday. Set up as a pilot under Section 12 of the Legal Services Authorities Act, 1987, the centre gives crime victims one point of contact for legal aid, emergency medical treatment, FIR copies and victim compensation. A transgender helpline is being launched with it, and the pilot will run in Patna district for twelve months before any expansion.",
-   "why": "It tests a single-window model for victim support that could be copied by legal services authorities in other States.",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Food Safety and Standards Authority of India (FSSAI)",
+   "headline": "FSSAI to bring in red-hexagon warning labels on packaged food high in sugar, fat or salt",
+   "text": "FSSAI told the Supreme Court that it will adopt a front-of-pack warning label modelled on Canada's system, a red hexagon, for packaged foods that cross set limits for sugar, fat or salt. It plans to issue and finalise draft regulations in about four months, with a 60-day public consultation and then a 365-day voluntary window for manufacturers. The statement was made in the case 3S and Our Health Society v. Union of India.",
+   "why": "Once notified, the regulations will change food labelling rules for packaged food sold across India.",
    "date": "26 Sep 2026",
-   "src": "https://www.livelaw.in/news-updates/cji-surya-kant-to-inaugurate-victim-rights-centre-at-patna-on-sept-26-551588",
+   "src": "https://www.livelaw.in/top-stories/adopting-canadian-model-on-warning-labels-for-packaged-foods-high-in-fat-sugar-or-salt-fssai-informs-supreme-court-551972",
    "srcName": "LiveLaw"
   },
   {
-   "cat": "Legal Education & Careers",
-   "region": "Bihar",
-   "body": "Chanakya National Law University, Patna",
-   "headline": "CJI holds open house with CNLU Patna students, welcomes idea of court apprenticeship in final year",
-   "text": "At an open-house session with students of Chanakya National Law University in Patna, CJI Surya Kant said the judiciary is committed to protecting students' right to peaceful protest and explained why dissenting views in Collegium deliberations are kept confidential. He called Vice-Chancellor Faizan Mustafa's proposal for a mandatory court apprenticeship in the final year of law studies a welcome new idea, and acknowledged concerns about high fees and too few scholarships. He also pointed to the Sarika Tyagi case on a professional assistance fund for young lawyers, saying such support is a structural need for the profession.",
-   "why": "The CJI's openness to restructuring the law degree may shape future BCI and NLU discussions on legal education.",
+   "cat": "Other Legal News",
+   "region": "All India",
+   "body": "17th K M Bashir Memorial Lecture",
+   "headline": "Senior Advocate Dushyant Dave criticises SIR voter-roll revision in memorial lecture",
+   "text": "Delivering the 17th K M Bashir Memorial Lecture on 26 September, Senior Advocate Dushyant Dave said the Election Commission's Special Intensive Revision of electoral rolls was undermining adult franchise through large-scale deletions of voters in States such as Bihar and West Bengal. He also criticised the delay in the Supreme Court's judgment on the SIR challenge and raised concerns about decision-making within the Election Commission.",
+   "why": "The SIR exercise and its legal challenges remain one of the most debated election-law issues in the country.",
    "date": "26 Sep 2026",
-   "src": "https://www.livelaw.in/top-stories/cji-surya-kant-holds-open-house-with-law-students-takes-questions-on-police-action-collegium-551950",
+   "src": "https://www.livelaw.in/top-stories/adult-franchise-going-away-thanks-to-supreme-court-election-commission-senior-advocate-dushyant-dave-criticises-sir-551991",
    "srcName": "LiveLaw"
   }
  ]

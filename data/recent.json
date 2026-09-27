@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-27T14:56+05:30",
+ "updated": "2026-09-27T15:32+05:30",
  "news": [
+  {
+   "edition": "2026-09-27-am",
+   "headline": "FSSAI to bring in red-hexagon warning labels on packaged food high in sugar, fat or salt",
+   "src": "https://www.livelaw.in/top-stories/adopting-canadian-model-on-warning-labels-for-packaged-foods-high-in-fat-sugar-or-salt-fssai-informs-supreme-court-551972"
+  },
+  {
+   "edition": "2026-09-27-am",
+   "headline": "Senior Advocate Dushyant Dave criticises SIR voter-roll revision in memorial lecture",
+   "src": "https://www.livelaw.in/top-stories/adult-franchise-going-away-thanks-to-supreme-court-election-commission-senior-advocate-dushyant-dave-criticises-sir-551991"
+  },
   {
    "edition": "2026-09-26-pm",
    "headline": "CJI Surya Kant opens a Victim Rights Centre in Patna",
@@ -112,7 +122,7 @@
  "latest": {
   "digest": "27 Sep 2026",
   "tribunals": "26 Sep 2026",
-  "news": "2026-09-26-pm",
+  "news": "2026-09-27-am",
   "careersBooklet": "2026-09-26",
   "careersPool": "2026-09-27"
  }
