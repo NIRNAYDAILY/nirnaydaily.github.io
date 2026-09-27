@@ -1,552 +1,571 @@
 {
-"updated": "2026-09-26",
-"items": [
-{
-"slug": "gopalan-1950",
-"name": "A.K. Gopalan v. State of Madras",
-"type": "text",
-"file": "judgments/sc/gopalan-1950.json",
-"pages": 153,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 92013
-},
-{
-"slug": "golaknath-1967",
-"name": "I.C. Golaknath & Ors. v. State of Punjab & Anr.",
-"type": "text",
-"file": "judgments/sc/golaknath-1967.json",
-"pages": 157,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 88660
-},
-{
-"slug": "kesavananda-1973",
-"name": "Kesavananda Bharati Sripadagalvaru v. State of Kerala & Anr.",
-"type": "text",
-"file": "judgments/sc/kesavananda-1973.json",
-"pages": 502,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 417557
-},
-{
-"slug": "indira-raj-narain-1975",
-"name": "Indira Nehru Gandhi v. Shri Raj Narain & Anr.",
-"type": "img",
-"file": "judgments/sc/indira-raj-narain-1975/index.json",
-"pages": 330,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"note": "Scanned pages of the official Supreme Court Reports."
-},
-{
-"slug": "adm-jabalpur-1976",
-"name": "Additional District Magistrate, Jabalpur v. Shivkant Shukla",
-"type": "text",
-"file": "judgments/sc/adm-jabalpur-1976.json",
-"pages": 286,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 169245
-},
-{
-"slug": "maneka-1978",
-"name": "Maneka Gandhi v. Union of India",
-"type": "text",
-"file": "judgments/sc/maneka-1978.json",
-"pages": 154,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 88472
-},
-{
-"slug": "minerva-1980",
-"name": "Minerva Mills Ltd. & Ors. v. Union of India & Ors.",
-"type": "text",
-"file": "judgments/sc/minerva-1980.json",
-"pages": 115,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 68583
-},
-{
-"slug": "shah-bano-1985",
-"name": "Mohd. Ahmed Khan v. Shah Bano Begum & Ors.",
-"type": "text",
-"file": "judgments/sc/shah-bano-1985.json",
-"pages": 18,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 9856
-},
-{
-"slug": "olga-tellis-1985",
-"name": "Olga Tellis & Ors. v. Bombay Municipal Corporation & Ors.",
-"type": "text",
-"file": "judgments/sc/olga-tellis-1985.json",
-"pages": 36,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 20963
-},
-{
-"slug": "mc-mehta-1986",
-"name": "M.C. Mehta & Anr. v. Union of India & Ors. (Oleum Gas Leak)",
-"type": "text",
-"file": "judgments/sc/mc-mehta-1986.json",
-"pages": 20,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 11668
-},
-{
-"slug": "second-judges-1993",
-"name": "Supreme Court Advocates-on-Record Association v. Union of India (Second Judges Case)",
-"type": "text",
-"file": "judgments/sc/second-judges-1993.json",
-"pages": 134,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 107281
-},
-{
-"slug": "bommai-1994",
-"name": "S.R. Bommai v. Union of India",
-"type": "img",
-"file": "judgments/sc/bommai-1994/index.json",
-"pages": 357,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"note": "Scanned pages of the official Supreme Court Reports."
-},
-{
-"slug": "vellore-1996",
-"name": "Vellore Citizens Welfare Forum v. Union of India & Ors.",
-"type": "text",
-"file": "judgments/sc/vellore-1996.json",
-"pages": 24,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 9617
-},
-{
-"slug": "dk-basu-1996",
-"name": "D.K. Basu v. State of West Bengal",
-"type": "text",
-"file": "judgments/sc/dk-basu-1996.json",
-"pages": 23,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 11042
-},
-{
-"slug": "vishaka-1997",
-"name": "Vishaka & Ors. v. State of Rajasthan & Ors.",
-"type": "text",
-"file": "judgments/sc/vishaka-1997.json",
-"pages": 10,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 3455
-},
-{
-"slug": "danial-latifi-2001",
-"name": "Danial Latifi & Anr. v. Union of India",
-"type": "text",
-"file": "judgments/sc/danial-latifi-2001.json",
-"pages": 15,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 9673
-},
-{
-"slug": "tma-pai-2002",
-"name": "T.M.A. Pai Foundation & Ors. v. State of Karnataka & Ors.",
-"type": "text",
-"file": "judgments/sc/tma-pai-2002.json",
-"pages": 45,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 31747
-},
-{
-"slug": "ir-coelho-2007",
-"name": "I.R. Coelho (Dead) by LRs v. State of Tamil Nadu & Ors.",
-"type": "text",
-"file": "judgments/sc/ir-coelho-2007.json",
-"pages": 41,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 21132
-},
-{
-"slug": "lalita-kumari-2013",
-"name": "Lalita Kumari v. Government of Uttar Pradesh & Ors.",
-"type": "text",
-"file": "judgments/sc/lalita-kumari-2013.json",
-"pages": 93,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 22133
-},
-{
-"slug": "nalsa-2014",
-"name": "National Legal Services Authority v. Union of India",
-"type": "text",
-"file": "judgments/sc/nalsa-2014.json",
-"pages": 130,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 24069
-},
-{
-"slug": "arnesh-kumar-2014",
-"name": "Arnesh Kumar v. State of Bihar & Anr.",
-"type": "text",
-"file": "judgments/sc/arnesh-kumar-2014.json",
-"pages": 21,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 3150
-},
-{
-"slug": "shreya-singhal-2015",
-"name": "Shreya Singhal v. Union of India",
-"type": "text",
-"file": "judgments/sc/shreya-singhal-2015.json",
-"pages": 104,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 28263
-},
-{
-"slug": "njac-2015",
-"name": "Supreme Court Advocates-on-Record Association v. Union of India (NJAC Case)",
-"type": "text",
-"file": "judgments/sc/njac-2015.json",
-"pages": 1042,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 303223
-},
-{
-"slug": "shayara-bano-2017",
-"name": "Shayara Bano v. Union of India & Ors.",
-"type": "text",
-"file": "judgments/sc/shayara-bano-2017.json",
-"pages": 403,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 121672
-},
-{
-"slug": "puttaswamy-2017",
-"name": "Justice K.S. Puttaswamy (Retd.) & Anr. v. Union of India & Ors.",
-"type": "text",
-"file": "judgments/sc/puttaswamy-2017.json",
-"pages": 547,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 140224
-},
-{
-"slug": "common-cause-2018",
-"name": "Common Cause (A Regd. Society) v. Union of India & Anr.",
-"type": "text",
-"file": "judgments/sc/common-cause-2018.json",
-"pages": 538,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 124120
-},
-{
-"slug": "navtej-2018",
-"name": "Navtej Singh Johar & Ors. v. Union of India",
-"type": "text",
-"file": "judgments/sc/navtej-2018.json",
-"pages": 495,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 112506
-},
-{
-"slug": "joseph-shine-2018",
-"name": "Joseph Shine v. Union of India",
-"type": "text",
-"file": "judgments/sc/joseph-shine-2018.json",
-"pages": 243,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 57063
-},
-{
-"slug": "ayodhya-2019",
-"name": "M. Siddiq (D) Thr. LRs v. Mahant Suresh Das & Ors. (Ayodhya)",
-"type": "text",
-"file": "judgments/sc/ayodhya-2019.json",
-"pages": 1045,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 303565
-},
-{
-"slug": "anuradha-bhasin-2020",
-"name": "Anuradha Bhasin v. Union of India & Ors.",
-"type": "text",
-"file": "judgments/sc/anuradha-bhasin-2020.json",
-"pages": 130,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 27941
-},
-{
-"slug": "vineeta-sharma-2020",
-"name": "Vineeta Sharma v. Rakesh Sharma & Ors.",
-"type": "text",
-"file": "judgments/sc/vineeta-sharma-2020.json",
-"pages": 121,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 34931
-},
-{
-"slug": "supriyo-2023",
-"name": "Supriyo @ Supriya Chakraborty & Anr. v. Union of India",
-"type": "text",
-"file": "judgments/sc/supriyo-2023.json",
-"pages": 366,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 107608
-},
-{
-"slug": "article-370-2023",
-"name": "In Re: Article 370 of the Constitution",
-"type": "text",
-"file": "judgments/sc/article-370-2023.json",
-"pages": 476,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 129628
-},
-{
-"slug": "electoral-bonds-2024",
-"name": "Association for Democratic Reforms & Anr. v. Union of India & Ors. (Electoral Bonds)",
-"type": "text",
-"file": "judgments/sc/electoral-bonds-2024.json",
-"pages": 232,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 62258
-},
-{
-"slug": "tn-governor-2025",
-"name": "The State of Tamil Nadu v. The Governor of Tamil Nadu & Anr.",
-"type": "text",
-"file": "judgments/sc/tn-governor-2025.json",
-"pages": 415,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 104977
-},
-{
-"slug": "gayatri-balasamy-2025",
-"name": "Gayatri Balasamy v. M/s ISG Novasoft Technologies Ltd.",
-"type": "text",
-"file": "judgments/sc/gayatri-balasamy-2025.json",
-"pages": 190,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 49679
-},
-{
-"slug": "unni-krishnan-1993",
-"name": "Unni Krishnan, J.P. & Ors. v. State of Andhra Pradesh & Ors.",
-"type": "text",
-"file": "judgments/sc/unni-krishnan-1993.json",
-"pages": 111,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 56759
-},
-{
-"slug": "nilabati-behera-1993",
-"name": "Smt. Nilabati Behera alias Lalit Behera v. State of Orissa & Ors.",
-"type": "text",
-"file": "judgments/sc/nilabati-behera-1993.json",
-"pages": 22,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 11792
-},
-{
-"slug": "pucl-tapping-1996",
-"name": "People's Union for Civil Liberties v. Union of India & Anr. (Telephone Tapping)",
-"type": "text",
-"file": "judgments/sc/pucl-tapping-1996.json",
-"pages": 17,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 6930
-},
-{
-"slug": "vineet-narain-1997",
-"name": "Vineet Narain & Ors. v. Union of India & Anr.",
-"type": "text",
-"file": "judgments/sc/vineet-narain-1997.json",
-"pages": 39,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 19077
-},
-{
-"slug": "selvi-2010",
-"name": "Selvi & Ors. v. State of Karnataka & Anr.",
-"type": "text",
-"file": "judgments/sc/selvi-2010.json",
-"pages": 251,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 50587
-},
-{
-"slug": "aruna-shanbaug-2011",
-"name": "Aruna Ramchandra Shanbaug v. Union of India & Ors.",
-"type": "text",
-"file": "judgments/sc/aruna-shanbaug-2011.json",
-"pages": 110,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 27019
-},
-{
-"slug": "vodafone-2012",
-"name": "Vodafone International Holdings B.V. v. Union of India & Anr.",
-"type": "text",
-"file": "judgments/sc/vodafone-2012.json",
-"pages": 274,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 51058
-},
-{
-"slug": "lily-thomas-2013",
-"name": "Lily Thomas v. Union of India & Ors.",
-"type": "text",
-"file": "judgments/sc/lily-thomas-2013.json",
-"pages": 51,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 9453
-},
-{
-"slug": "independent-thought-2017",
-"name": "Independent Thought v. Union of India & Anr.",
-"type": "text",
-"file": "judgments/sc/independent-thought-2017.json",
-"pages": 127,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 35298
-},
-{
-"slug": "shafin-jahan-2018",
-"name": "Shafin Jahan v. Asokan K.M. & Ors. (Hadiya case)",
-"type": "text",
-"file": "judgments/sc/shafin-jahan-2018.json",
-"pages": 61,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 14808
-},
-{
-"slug": "aadhaar-2018",
-"name": "Justice K.S. Puttaswamy (Retd.) v. Union of India (Aadhaar)",
-"type": "text",
-"file": "judgments/sc/aadhaar-2018.json",
-"pages": 1448,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 357632
-},
-{
-"slug": "tcs-cyrus-2021",
-"name": "Tata Consultancy Services Ltd. v. Cyrus Investments Pvt. Ltd. & Ors.",
-"type": "text",
-"file": "judgments/sc/tcs-cyrus-2021.json",
-"pages": 282,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 53189
-},
-{
-"slug": "antil-2022",
-"name": "Satender Kumar Antil v. Central Bureau of Investigation & Anr.",
-"type": "text",
-"file": "judgments/sc/antil-2022.json",
-"pages": 85,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 33072
-},
-{
-"slug": "anoop-baranwal-2023",
-"name": "Anoop Baranwal v. Union of India",
-"type": "text",
-"file": "judgments/sc/anoop-baranwal-2023.json",
-"pages": 378,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 82593
-},
-{
-"slug": "sita-soren-2024",
-"name": "Sita Soren v. Union of India",
-"type": "text",
-"file": "judgments/sc/sita-soren-2024.json",
-"pages": 135,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 40290
-},
-{
-"slug": "mada-2024",
-"name": "Mineral Area Development Authority & Anr. v. M/s Steel Authority of India & Anr.",
-"type": "text",
-"file": "judgments/sc/mada-2024.json",
-"pages": 393,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 105242
-},
-{
-"slug": "property-owners-2024",
-"name": "Property Owners Association & Ors. v. State of Maharashtra & Ors.",
-"type": "text",
-"file": "judgments/sc/property-owners-2024.json",
-"pages": 429,
-"origin": "landmark",
-"source": "Supreme Court of India",
-"words": 107724
-},
-{
-"slug": "anumandala-2026",
-"name": "Sri Anumandala Rajesh Reddy v. State of Karnataka & Anr.",
-"type": "text",
-"file": "judgments/sc/anumandala-2026.json",
-"pages": 37,
-"origin": "daily",
-"source": "Supreme Court of India",
-"words": 8278,
-"citation": "2026 INSC 1039",
-"date": "2026-09-24",
-"added": "2026-09-26",
-"keys": [
-"2026 INSC 1039",
-"anumandala rajesh reddy"
-]
-}
-]
+ "updated": "2026-09-27",
+ "items": [
+  {
+   "slug": "gopalan-1950",
+   "name": "A.K. Gopalan v. State of Madras",
+   "type": "text",
+   "file": "judgments/sc/gopalan-1950.json",
+   "pages": 153,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 92013
+  },
+  {
+   "slug": "golaknath-1967",
+   "name": "I.C. Golaknath & Ors. v. State of Punjab & Anr.",
+   "type": "text",
+   "file": "judgments/sc/golaknath-1967.json",
+   "pages": 157,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 88660
+  },
+  {
+   "slug": "kesavananda-1973",
+   "name": "Kesavananda Bharati Sripadagalvaru v. State of Kerala & Anr.",
+   "type": "text",
+   "file": "judgments/sc/kesavananda-1973.json",
+   "pages": 502,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 417557
+  },
+  {
+   "slug": "indira-raj-narain-1975",
+   "name": "Indira Nehru Gandhi v. Shri Raj Narain & Anr.",
+   "type": "img",
+   "file": "judgments/sc/indira-raj-narain-1975/index.json",
+   "pages": 330,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "note": "Scanned pages of the official Supreme Court Reports."
+  },
+  {
+   "slug": "adm-jabalpur-1976",
+   "name": "Additional District Magistrate, Jabalpur v. Shivkant Shukla",
+   "type": "text",
+   "file": "judgments/sc/adm-jabalpur-1976.json",
+   "pages": 286,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 169245
+  },
+  {
+   "slug": "maneka-1978",
+   "name": "Maneka Gandhi v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/maneka-1978.json",
+   "pages": 154,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 88472
+  },
+  {
+   "slug": "minerva-1980",
+   "name": "Minerva Mills Ltd. & Ors. v. Union of India & Ors.",
+   "type": "text",
+   "file": "judgments/sc/minerva-1980.json",
+   "pages": 115,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 68583
+  },
+  {
+   "slug": "shah-bano-1985",
+   "name": "Mohd. Ahmed Khan v. Shah Bano Begum & Ors.",
+   "type": "text",
+   "file": "judgments/sc/shah-bano-1985.json",
+   "pages": 18,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 9856
+  },
+  {
+   "slug": "olga-tellis-1985",
+   "name": "Olga Tellis & Ors. v. Bombay Municipal Corporation & Ors.",
+   "type": "text",
+   "file": "judgments/sc/olga-tellis-1985.json",
+   "pages": 36,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 20963
+  },
+  {
+   "slug": "mc-mehta-1986",
+   "name": "M.C. Mehta & Anr. v. Union of India & Ors. (Oleum Gas Leak)",
+   "type": "text",
+   "file": "judgments/sc/mc-mehta-1986.json",
+   "pages": 20,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 11668
+  },
+  {
+   "slug": "second-judges-1993",
+   "name": "Supreme Court Advocates-on-Record Association v. Union of India (Second Judges Case)",
+   "type": "text",
+   "file": "judgments/sc/second-judges-1993.json",
+   "pages": 134,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 107281
+  },
+  {
+   "slug": "bommai-1994",
+   "name": "S.R. Bommai v. Union of India",
+   "type": "img",
+   "file": "judgments/sc/bommai-1994/index.json",
+   "pages": 357,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "note": "Scanned pages of the official Supreme Court Reports."
+  },
+  {
+   "slug": "vellore-1996",
+   "name": "Vellore Citizens Welfare Forum v. Union of India & Ors.",
+   "type": "text",
+   "file": "judgments/sc/vellore-1996.json",
+   "pages": 24,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 9617
+  },
+  {
+   "slug": "dk-basu-1996",
+   "name": "D.K. Basu v. State of West Bengal",
+   "type": "text",
+   "file": "judgments/sc/dk-basu-1996.json",
+   "pages": 23,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 11042
+  },
+  {
+   "slug": "vishaka-1997",
+   "name": "Vishaka & Ors. v. State of Rajasthan & Ors.",
+   "type": "text",
+   "file": "judgments/sc/vishaka-1997.json",
+   "pages": 10,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 3455
+  },
+  {
+   "slug": "danial-latifi-2001",
+   "name": "Danial Latifi & Anr. v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/danial-latifi-2001.json",
+   "pages": 15,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 9673
+  },
+  {
+   "slug": "tma-pai-2002",
+   "name": "T.M.A. Pai Foundation & Ors. v. State of Karnataka & Ors.",
+   "type": "text",
+   "file": "judgments/sc/tma-pai-2002.json",
+   "pages": 45,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 31747
+  },
+  {
+   "slug": "ir-coelho-2007",
+   "name": "I.R. Coelho (Dead) by LRs v. State of Tamil Nadu & Ors.",
+   "type": "text",
+   "file": "judgments/sc/ir-coelho-2007.json",
+   "pages": 41,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 21132
+  },
+  {
+   "slug": "lalita-kumari-2013",
+   "name": "Lalita Kumari v. Government of Uttar Pradesh & Ors.",
+   "type": "text",
+   "file": "judgments/sc/lalita-kumari-2013.json",
+   "pages": 93,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 22133
+  },
+  {
+   "slug": "nalsa-2014",
+   "name": "National Legal Services Authority v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/nalsa-2014.json",
+   "pages": 130,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 24069
+  },
+  {
+   "slug": "arnesh-kumar-2014",
+   "name": "Arnesh Kumar v. State of Bihar & Anr.",
+   "type": "text",
+   "file": "judgments/sc/arnesh-kumar-2014.json",
+   "pages": 21,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 3150
+  },
+  {
+   "slug": "shreya-singhal-2015",
+   "name": "Shreya Singhal v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/shreya-singhal-2015.json",
+   "pages": 104,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 28263
+  },
+  {
+   "slug": "njac-2015",
+   "name": "Supreme Court Advocates-on-Record Association v. Union of India (NJAC Case)",
+   "type": "text",
+   "file": "judgments/sc/njac-2015.json",
+   "pages": 1042,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 303223
+  },
+  {
+   "slug": "shayara-bano-2017",
+   "name": "Shayara Bano v. Union of India & Ors.",
+   "type": "text",
+   "file": "judgments/sc/shayara-bano-2017.json",
+   "pages": 403,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 121672
+  },
+  {
+   "slug": "puttaswamy-2017",
+   "name": "Justice K.S. Puttaswamy (Retd.) & Anr. v. Union of India & Ors.",
+   "type": "text",
+   "file": "judgments/sc/puttaswamy-2017.json",
+   "pages": 547,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 140224
+  },
+  {
+   "slug": "common-cause-2018",
+   "name": "Common Cause (A Regd. Society) v. Union of India & Anr.",
+   "type": "text",
+   "file": "judgments/sc/common-cause-2018.json",
+   "pages": 538,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 124120
+  },
+  {
+   "slug": "navtej-2018",
+   "name": "Navtej Singh Johar & Ors. v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/navtej-2018.json",
+   "pages": 495,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 112506
+  },
+  {
+   "slug": "joseph-shine-2018",
+   "name": "Joseph Shine v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/joseph-shine-2018.json",
+   "pages": 243,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 57063
+  },
+  {
+   "slug": "ayodhya-2019",
+   "name": "M. Siddiq (D) Thr. LRs v. Mahant Suresh Das & Ors. (Ayodhya)",
+   "type": "text",
+   "file": "judgments/sc/ayodhya-2019.json",
+   "pages": 1045,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 303565
+  },
+  {
+   "slug": "anuradha-bhasin-2020",
+   "name": "Anuradha Bhasin v. Union of India & Ors.",
+   "type": "text",
+   "file": "judgments/sc/anuradha-bhasin-2020.json",
+   "pages": 130,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 27941
+  },
+  {
+   "slug": "vineeta-sharma-2020",
+   "name": "Vineeta Sharma v. Rakesh Sharma & Ors.",
+   "type": "text",
+   "file": "judgments/sc/vineeta-sharma-2020.json",
+   "pages": 121,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 34931
+  },
+  {
+   "slug": "supriyo-2023",
+   "name": "Supriyo @ Supriya Chakraborty & Anr. v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/supriyo-2023.json",
+   "pages": 366,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 107608
+  },
+  {
+   "slug": "article-370-2023",
+   "name": "In Re: Article 370 of the Constitution",
+   "type": "text",
+   "file": "judgments/sc/article-370-2023.json",
+   "pages": 476,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 129628
+  },
+  {
+   "slug": "electoral-bonds-2024",
+   "name": "Association for Democratic Reforms & Anr. v. Union of India & Ors. (Electoral Bonds)",
+   "type": "text",
+   "file": "judgments/sc/electoral-bonds-2024.json",
+   "pages": 232,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 62258
+  },
+  {
+   "slug": "tn-governor-2025",
+   "name": "The State of Tamil Nadu v. The Governor of Tamil Nadu & Anr.",
+   "type": "text",
+   "file": "judgments/sc/tn-governor-2025.json",
+   "pages": 415,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 104977
+  },
+  {
+   "slug": "gayatri-balasamy-2025",
+   "name": "Gayatri Balasamy v. M/s ISG Novasoft Technologies Ltd.",
+   "type": "text",
+   "file": "judgments/sc/gayatri-balasamy-2025.json",
+   "pages": 190,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 49679
+  },
+  {
+   "slug": "unni-krishnan-1993",
+   "name": "Unni Krishnan, J.P. & Ors. v. State of Andhra Pradesh & Ors.",
+   "type": "text",
+   "file": "judgments/sc/unni-krishnan-1993.json",
+   "pages": 111,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 56759
+  },
+  {
+   "slug": "nilabati-behera-1993",
+   "name": "Smt. Nilabati Behera alias Lalit Behera v. State of Orissa & Ors.",
+   "type": "text",
+   "file": "judgments/sc/nilabati-behera-1993.json",
+   "pages": 22,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 11792
+  },
+  {
+   "slug": "pucl-tapping-1996",
+   "name": "People's Union for Civil Liberties v. Union of India & Anr. (Telephone Tapping)",
+   "type": "text",
+   "file": "judgments/sc/pucl-tapping-1996.json",
+   "pages": 17,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 6930
+  },
+  {
+   "slug": "vineet-narain-1997",
+   "name": "Vineet Narain & Ors. v. Union of India & Anr.",
+   "type": "text",
+   "file": "judgments/sc/vineet-narain-1997.json",
+   "pages": 39,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 19077
+  },
+  {
+   "slug": "selvi-2010",
+   "name": "Selvi & Ors. v. State of Karnataka & Anr.",
+   "type": "text",
+   "file": "judgments/sc/selvi-2010.json",
+   "pages": 251,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 50587
+  },
+  {
+   "slug": "aruna-shanbaug-2011",
+   "name": "Aruna Ramchandra Shanbaug v. Union of India & Ors.",
+   "type": "text",
+   "file": "judgments/sc/aruna-shanbaug-2011.json",
+   "pages": 110,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 27019
+  },
+  {
+   "slug": "vodafone-2012",
+   "name": "Vodafone International Holdings B.V. v. Union of India & Anr.",
+   "type": "text",
+   "file": "judgments/sc/vodafone-2012.json",
+   "pages": 274,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 51058
+  },
+  {
+   "slug": "lily-thomas-2013",
+   "name": "Lily Thomas v. Union of India & Ors.",
+   "type": "text",
+   "file": "judgments/sc/lily-thomas-2013.json",
+   "pages": 51,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 9453
+  },
+  {
+   "slug": "independent-thought-2017",
+   "name": "Independent Thought v. Union of India & Anr.",
+   "type": "text",
+   "file": "judgments/sc/independent-thought-2017.json",
+   "pages": 127,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 35298
+  },
+  {
+   "slug": "shafin-jahan-2018",
+   "name": "Shafin Jahan v. Asokan K.M. & Ors. (Hadiya case)",
+   "type": "text",
+   "file": "judgments/sc/shafin-jahan-2018.json",
+   "pages": 61,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 14808
+  },
+  {
+   "slug": "aadhaar-2018",
+   "name": "Justice K.S. Puttaswamy (Retd.) v. Union of India (Aadhaar)",
+   "type": "text",
+   "file": "judgments/sc/aadhaar-2018.json",
+   "pages": 1448,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 357632
+  },
+  {
+   "slug": "tcs-cyrus-2021",
+   "name": "Tata Consultancy Services Ltd. v. Cyrus Investments Pvt. Ltd. & Ors.",
+   "type": "text",
+   "file": "judgments/sc/tcs-cyrus-2021.json",
+   "pages": 282,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 53189
+  },
+  {
+   "slug": "antil-2022",
+   "name": "Satender Kumar Antil v. Central Bureau of Investigation & Anr.",
+   "type": "text",
+   "file": "judgments/sc/antil-2022.json",
+   "pages": 85,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 33072
+  },
+  {
+   "slug": "anoop-baranwal-2023",
+   "name": "Anoop Baranwal v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/anoop-baranwal-2023.json",
+   "pages": 378,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 82593
+  },
+  {
+   "slug": "sita-soren-2024",
+   "name": "Sita Soren v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/sita-soren-2024.json",
+   "pages": 135,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 40290
+  },
+  {
+   "slug": "mada-2024",
+   "name": "Mineral Area Development Authority & Anr. v. M/s Steel Authority of India & Anr.",
+   "type": "text",
+   "file": "judgments/sc/mada-2024.json",
+   "pages": 393,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 105242
+  },
+  {
+   "slug": "property-owners-2024",
+   "name": "Property Owners Association & Ors. v. State of Maharashtra & Ors.",
+   "type": "text",
+   "file": "judgments/sc/property-owners-2024.json",
+   "pages": 429,
+   "origin": "landmark",
+   "source": "Supreme Court of India",
+   "words": 107724
+  },
+  {
+   "slug": "anumandala-2026",
+   "name": "Sri Anumandala Rajesh Reddy v. State of Karnataka & Anr.",
+   "type": "text",
+   "file": "judgments/sc/anumandala-2026.json",
+   "pages": 37,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 8278,
+   "citation": "2026 INSC 1039",
+   "date": "2026-09-24",
+   "added": "2026-09-26",
+   "keys": [
+    "2026 INSC 1039",
+    "anumandala rajesh reddy"
+   ]
+  },
+  {
+   "slug": "jai-prakash-singh-2026",
+   "name": "Jai Prakash Singh v. State of Uttar Pradesh & Ors.",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-27.json",
+   "pages": 6,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1323,
+   "citation": "Civil Appeal No. 4559 of 2026 · 2026 LiveLaw (SC) 993",
+   "date": "2026-09-16",
+   "added": "2026-09-27",
+   "src": "https://www.livelaw.in/pdf_upload/2026/09/26/2901520182026-09-16-702721.pdf",
+   "keys": [
+    "2026 LiveLaw (SC) 993",
+    "jai prakash singh"
+   ],
+   "note": "Final order of the Supreme Court (Dipankar Datta and Sheel Nagu, JJ.) deciding the civil appeal; the Court titled it an 'Order'. This is the Court's digitally signed document (signed 22 Sep 2026), obtained through LiveLaw because the Supreme Court website has not yet released its copy."
+  }
+ ]
 }
