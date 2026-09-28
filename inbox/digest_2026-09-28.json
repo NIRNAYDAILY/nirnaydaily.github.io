@@ -1,0 +1,137 @@
+{
+ "edition": {
+  "vol": "Vol. I · No. 4",
+  "badge": "",
+  "dateLong": "Monday, 28 September 2026",
+  "dateShort": "28 Sep 2026",
+  "window": "Judgments and orders passed between 10:00 AM IST on 27 September 2026 and 9:15 AM IST on 28 September 2026",
+  "next": "Next edition: tomorrow at 10:00 AM IST"
+ },
+ "highlights": [
+  {
+   "court": "All courts",
+   "text": "A Sunday window: legal publications reported no judgments or orders passed in these 24 hours. Regular sittings resume today.",
+   "ref": "sc:0"
+  }
+ ],
+ "chapters": [
+  {
+   "id": "sc",
+   "num": "I",
+   "title": "Supreme Court of India",
+   "short": "Supreme Court",
+   "tab": "SC",
+   "seat": "New Delhi",
+   "pages": [
+    {
+     "title": "Judgments",
+     "note": "No Supreme Court judgments passed in this window (Sunday, 27 September) were reported by legal publications.",
+     "items": []
+    },
+    {
+     "title": "Orders",
+     "note": "No Supreme Court orders passed in this window were reported by legal publications.",
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "hc",
+   "num": "II",
+   "title": "High Courts",
+   "short": "High Courts",
+   "tab": "HC",
+   "roster": [
+    "Allahabad",
+    "Andhra Pradesh",
+    "Bombay",
+    "Calcutta",
+    "Chhattisgarh",
+    "Delhi",
+    "Gauhati",
+    "Gujarat",
+    "Himachal Pradesh",
+    "Jammu & Kashmir and Ladakh",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "Madhya Pradesh",
+    "Madras",
+    "Manipur",
+    "Meghalaya",
+    "Orissa",
+    "Patna",
+    "Punjab & Haryana",
+    "Rajasthan",
+    "Sikkim",
+    "Telangana",
+    "Tripura",
+    "Uttarakhand"
+   ],
+   "seats": {
+    "Allahabad": "Prayagraj",
+    "Andhra Pradesh": "Amaravati",
+    "Bombay": "Mumbai",
+    "Calcutta": "Kolkata",
+    "Chhattisgarh": "Bilaspur",
+    "Delhi": "New Delhi",
+    "Gauhati": "Guwahati",
+    "Gujarat": "Ahmedabad",
+    "Himachal Pradesh": "Shimla",
+    "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+    "Jharkhand": "Ranchi",
+    "Karnataka": "Bengaluru",
+    "Kerala": "Kochi",
+    "Madhya Pradesh": "Jabalpur",
+    "Madras": "Chennai",
+    "Manipur": "Imphal",
+    "Meghalaya": "Shillong",
+    "Orissa": "Cuttack",
+    "Patna": "Patna",
+    "Punjab & Haryana": "Chandigarh",
+    "Rajasthan": "Jodhpur",
+    "Sikkim": "Gangtok",
+    "Telangana": "Hyderabad",
+    "Tripura": "Agartala",
+    "Uttarakhand": "Nainital"
+   },
+   "pages": []
+  },
+  {
+   "id": "dc",
+   "num": "III",
+   "title": "District & Sessions Courts",
+   "short": "District Courts",
+   "tab": "District",
+   "pages": [
+    {
+     "title": "Reported rulings",
+     "note": "No district, sessions or family court judgments or orders passed in this window were reported by legal publications.",
+     "items": []
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "LiveLaw: home page and Supreme Court / High Court sections (checked for 27–28 September 2026)",
+   "url": "https://www.livelaw.in/"
+  },
+  {
+   "title": "LiveLaw: High Courts section",
+   "url": "https://www.livelaw.in/high-court"
+  },
+  {
+   "title": "Bar & Bench: News (checked for the window)",
+   "url": "https://www.barandbench.com/news"
+  },
+  {
+   "title": "Verdictum: Latest updates (checked for the window)",
+   "url": "https://www.verdictum.in/"
+  },
+  {
+   "title": "SCC Times blog (checked for the window)",
+   "url": "https://www.scconline.com/blog/"
+  }
+ ]
+}
