@@ -328,12 +328,6 @@ nav.main a.fj{color:var(--stamp)}
 mark{background:#FDE7A8;color:inherit;padding:0 1px}
 mark.cur{background:#F2A93B}
 .dlpdf{display:inline-flex;align-items:center;gap:10px;margin-top:14px;padding:10px 16px;border-radius:6px;background:var(--stamp);color:#fff!important;text-decoration:none;font:600 14px var(--sans,system-ui);letter-spacing:.02em}.dlpdf span{font-weight:400;font-size:12px;opacity:.85}.dlpdf:hover{filter:brightness(1.1)}
-.buy-back{position:fixed;inset:0;background:rgba(20,20,20,.55);display:grid;place-items:center;z-index:9999;padding:16px}
-.buy{background:#fff;color:var(--ink);max-width:420px;width:100%;max-height:92vh;overflow:auto;border-radius:10px;padding:22px 22px 18px;position:relative;text-align:center}
-.buy h3{font:600 20px var(--serif,Georgia);margin:6px 0 4px}.buy .amt{font:700 28px var(--sans,system-ui);color:var(--stamp);margin:4px 0}
-.buy .qr{width:210px;height:210px;margin:6px auto}.buy .qr svg{width:100%;height:100%}.buy ol{text-align:left;font-size:14px;line-height:1.5;padding-left:20px}
-.buy .upi{font-size:13px;margin:10px 0 4px}.buy .fine{font-size:12px;color:#666}.buy-x{position:absolute;top:8px;right:12px;border:0;background:none;font-size:26px;cursor:pointer;color:#555}
-button.dlpdf{border:0;cursor:pointer}
 .pdfpages{display:grid;gap:18px;justify-items:center;padding-top:16px}
 .pdfpg{margin:0;background:#fff;border:1px solid var(--rule);box-shadow:0 6px 18px -12px rgba(0,0,0,.35);min-height:300px;width:min(100%,820px)}
 .pdfpg img{display:block;width:100%;height:auto;max-width:100%}
@@ -411,8 +405,6 @@ footer .contact{margin-top:8px}footer .contact a{color:var(--band-ink);font-weig
 <link rel="stylesheet" href="assets/login.css">
 <script>/* Free sign-in (Firebase). Paste the web-app config from Firebase here to switch the sign-in on. */
 window.NIRNAY_FIREBASE=null;
-/* Paid PDFs of landmark judgments (UPI). Buttons stay hidden until "upi" is filled in. */
-window.NIRNAY_PDF_SALE={upi:"",payee:"Nirnay Daily",price:0,email:"nirnaydaily@gmail.com"};
 window.NIRNAY_LOGIN={google:true,microsoft:false,yahoo:false,emailLink:true};
 if(window.NIRNAY_FIREBASE)document.documentElement.classList.add("gated");</script>
 <script type="module" src="assets/login.js"></script>
@@ -1170,7 +1162,7 @@ function libForDaily(it){
   const keys=[it.citation,it.caseName].filter(Boolean).flatMap(s=>String(s).split("·")).map(normKey).filter(Boolean);
   return LIB.items.find(x=>x.origin==="daily" && (x.keys||[]).map(normKey).some(k=>keys.some(q=>q.includes(k)||k.includes(q)))) || null;
 }
-const readBtn = (slug,label) => { const e=LIB&&LIB.items.find(x=>x.slug===slug); return `<a class="readbtn" href="#j-${slug}">${ico("book")} ${label||"Read full judgment"}</a>`+(e&&e.pdf&&e.origin==="daily"?` <a class="pdfbtn" href="${esc(e.pdf)}" download="${esc(slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(slug)}.pdf'})">⬇ PDF</a>`:""); };
+const readBtn = (slug,label) => { const e=LIB&&LIB.items.find(x=>x.slug===slug); return `<a class="readbtn" href="#j-${slug}">${ico("book")} ${label||"Read full judgment"}</a>`+(e&&e.pdf?` <a class="pdfbtn" href="${esc(e.pdf)}" download="${esc(slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(slug)}.pdf'})">⬇ PDF</a>`:""); };
 
 async function loadJudgment(entry){
   const r=await fetch(entry.file,{cache:"force-cache"}); if(!r.ok) throw new Error("fetch");
@@ -1185,36 +1177,10 @@ async function loadJudgment(entry){
 }
 /* Re-join lines broken for justified layout into readable paragraphs. */
 function pdfBtn(e){
-  if(e.origin==="daily"){           /* daily judgments: the Court's own PDF, free */
-    if(!e.pdf) return "";
-    const mb=e.pdfBytes?` · ${(e.pdfBytes/1048576).toFixed(e.pdfBytes<1048576?2:1)} MB`:"";
-    return `<a class="dlpdf" href="${esc(e.pdf)}" download="${esc(e.slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(e.slug)}.pdf'})">⬇ Download PDF<span>Official signed copy · free${mb}</span></a>`;
-  }
-  const S=window.NIRNAY_PDF_SALE||{};   /* landmark judgments: paid PDF via UPI */
-  if(!S.upi||!S.price) return "";
-  return `<button class="dlpdf" type="button" onclick="buyPdf('${esc(e.slug)}')">⬇ Get the PDF · ₹${S.price}<span>Pay by UPI · sent to your email</span></button>`;
-}
-function buyPdf(slug){
-  const e=libBySlug(slug), S=window.NIRNAY_PDF_SALE||{}; if(!e||!S.upi) return;
-  const ref="ND-"+slug.toUpperCase().replace(/[^A-Z0-9]/g,"").slice(0,10)+"-"+Math.random().toString(36).slice(2,6).toUpperCase();
-  const upi=`upi://pay?pa=${encodeURIComponent(S.upi)}&pn=${encodeURIComponent(S.payee||"Nirnay Daily")}&am=${S.price}&cu=INR&tn=${encodeURIComponent("PDF "+ref)}`;
-  const mail=`mailto:${S.email}?subject=${encodeURIComponent("PDF request "+ref+": "+e.name)}&body=${encodeURIComponent(`Hello Nirnay Daily,\n\nI have paid ₹${S.price} by UPI for the PDF of:\n${e.name}\n\nReference: ${ref}\nUPI transaction ID (UTR): \n\nPlease send the PDF to this email address. The payment screenshot is attached.\n`)}`;
-  window.nirnayTrack&&nirnayTrack("pdf_request",{judgment:slug,value:S.price,currency:"INR"});
-  const d=document.createElement("div"); d.className="buy-back"; d.innerHTML=`<div class="buy" role="dialog" aria-modal="true" aria-labelledby="buy-t">
-    <button class="buy-x" type="button" aria-label="Close">×</button>
-    <span class="label">PDF of the full judgment</span><h3 id="buy-t">${esc(e.name)}</h3>
-    <p class="amt">₹${S.price}</p>
-    <div id="buyqr" class="qr"></div>
-    <a class="dlpdf" href="${upi}">Pay with a UPI app</a>
-    <p class="upi">UPI ID: <b>${esc(S.upi)}</b> · Reference <b>${ref}</b></p>
-    <ol><li>Pay ₹${S.price} by scanning the QR code or with the button above. Add the reference <b>${ref}</b> in the note if your app allows.</li>
-    <li>Email the payment screenshot or UPI transaction ID to <a href="${mail}">${esc(S.email)}</a> (tap to open a ready-made email).</li>
-    <li>The PDF is sent to your email, usually within 24 hours.</li></ol>
-    <p class="fine">Reading the full text on this website stays free. The PDF is for downloading and printing.</p></div>`;
-  document.body.appendChild(d);
-  const close=()=>d.remove(); d.querySelector(".buy-x").onclick=close; d.onclick=ev=>{ if(ev.target===d) close(); };
-  const draw=()=>{ try{ const q=qrcode(0,"M"); q.addData(upi); q.make(); document.getElementById("buyqr").innerHTML=q.createSvgTag({cellSize:5,margin:2,scalable:true}); }catch(err){} };
-  if(window.qrcode) draw(); else { const sc=document.createElement("script"); sc.src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"; sc.onload=draw; sc.onerror=()=>{ const q=document.getElementById("buyqr"); if(q) q.style.display="none"; }; document.head.appendChild(sc); }
+  if(!e.pdf) return "";
+  const kind={original:"Official signed copy",scan:"Scanned original",typeset:"Full text, page by page"}[e.pdfKind]||"Full text";
+  const mb=e.pdfBytes?` · ${(e.pdfBytes/1048576).toFixed(e.pdfBytes<1048576?2:1)} MB`:"";
+  return `<a class="dlpdf" href="${esc(e.pdf)}" download="${esc(e.slug)}.pdf" onclick="window.nirnayTrack&&nirnayTrack('file_download',{file_name:'${esc(e.slug)}.pdf'})">⬇ Download PDF<span>${kind}${mb}</span></a>`;
 }
 function reflow(t){
   const lines=t.split("\n"); let out=[], cur="";

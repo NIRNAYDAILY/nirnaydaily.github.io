@@ -210,7 +210,7 @@ def h_sc(d):
                  "src": src, "added": TODAY, "keys": it.get("keys") or [p.lower() for p in it.get("parties", [])][:2]}
             if it.get("citation"): e["citation"] = it["citation"]
             if it.get("date"): e["date"] = it["date"]
-            if os.environ.get("NIRNAY_PUBLIC_PDFS") == "1":   # public PDF downloads are switched off (paid PDFs planned)
+            if os.environ.get("NIRNAY_PUBLIC_PDFS") == "1":   # save the official PDF for free download
                 os.makedirs("judgments/sc/pdf", exist_ok=True)
                 with open(f"judgments/sc/pdf/{slug}.pdf", "wb") as fh:
                     fh.write(pdf_bytes)
