@@ -202,7 +202,7 @@
   function me(t){ const d=document.createElement("div"); d.className="nx-msg nx-me"; d.textContent=t; log.appendChild(d); log.scrollTop=log.scrollHeight; }
   function ask(t){ me(t); try{ answer(t); }catch(e){ bot(`<p>Sorry, something went wrong with that search. Please try different words.</p>`); }
     try{ const last=log.querySelectorAll(".nx-bot"); const n=last.length?last[last.length-1].querySelectorAll(".nx-card").length:0;
-      window.nirnayTrack&&window.nirnayTrack("search",{search_term:String(t).slice(0,100),results:n,found:n>0?"yes":"no",tool:"Nirnay Mitra"}); }catch(e){} }
+      window.nirnayTrack&&window.nirnayTrack("search",{search_term:String(t).slice(0,100),results:n,found:n>0?"yes":"no",search_tool:"Nirnay Mitra"}); }catch(e){} }
   function toggle(open){ const o=open===undefined?panel.hidden:open; panel.hidden=!o; if(o){ try{ typeof loadHist==="function"&&loadHist(); }catch(e){} } fab.setAttribute("aria-expanded",o); if(o) setTimeout(()=>input.focus(),50); }
 
   function mount(){
