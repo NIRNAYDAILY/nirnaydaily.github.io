@@ -1,6 +1,443 @@
 [
  {
   "edition": {
+   "vol": "Vol. I · No. 3",
+   "badge": "",
+   "dateLong": "Sunday, 27 September 2026",
+   "dateShort": "27 Sep 2026",
+   "window": "Judgments and orders passed between 9:30 AM IST on 26 September 2026 and 9:30 AM IST on 27 September 2026",
+   "next": "Next edition: tomorrow at 10:00 AM IST"
+  },
+  "highlights": [
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Jai Prakash Singh v. State of Uttar Pradesh & Ors.",
+    "text": "A senior lecturer cannot be paid less than a junior holding the same post.",
+    "ref": "sc:0"
+   },
+   {
+    "court": "High Court of Delhi",
+    "caseName": "Shahbuddin v. State",
+    "text": "Rape conviction overturned after 13 years: forensic evidence contradicted the survivor's account.",
+    "ref": "hc:Delhi"
+   },
+   {
+    "court": "High Court of Bombay",
+    "caseName": "M/s. Pharmed Limited v. Union of India",
+    "text": "NPPA's 2009 blanket drug price ceiling quashed for skipping the DPCO method.",
+    "ref": "hc:Bombay"
+   },
+   {
+    "court": "High Court of Allahabad",
+    "caseName": "Shivendu Pandey v. State of U.P. & 11 Ors.",
+    "text": "UP told to frame a compensation policy for disasters like the Lucknow fire.",
+    "ref": "hc:Allahabad"
+   },
+   {
+    "court": "High Court of Kerala",
+    "caseName": "Yeshwant Shenoy v. Bar Council of Kerala",
+    "text": "Notice on a plea that Bar Council committees were formed without elections.",
+    "ref": "hc:Kerala"
+   },
+   {
+    "court": "High Court of Uttarakhand",
+    "caseName": "Rapti v. State of Uttarakhand & Anr.",
+    "text": "A husband must maintain the stepson he knowingly accepted.",
+    "ref": "hc:Uttarakhand"
+   }
+  ],
+  "chapters": [
+   {
+    "id": "sc",
+    "num": "I",
+    "title": "Supreme Court of India",
+    "short": "Supreme Court",
+    "tab": "SC",
+    "seat": "New Delhi",
+    "pages": [
+     {
+      "title": "Judgments",
+      "items": [
+       {
+        "caseName": "Jai Prakash Singh v. State of Uttar Pradesh & Ors.",
+        "citation": "2026 LiveLaw (SC) 993",
+        "coram": "Dipankar Datta & Sheel Nagu, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Senior can't be paid less than junior in same post",
+        "kind": "Held",
+        "text": "Two lecturers were appointed the same day in 1990 at a college in Aligarh, but the junior drew higher pay after getting advance increments. The Court held the gap had no valid basis and violated the guarantee of equality.",
+        "why": "Pay parity between colleagues holding the same post applies even when increments come through a court order.",
+        "tag": "Service law",
+        "src": "https://www.livelaw.in/supreme-court/senior-officer-cannot-be-paid-less-than-junior-holding-same-post-supreme-court-551953",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "title": "Orders",
+      "note": "No Supreme Court orders passed in this window were reported by legal publications.",
+      "items": []
+     }
+    ]
+   },
+   {
+    "id": "hc",
+    "num": "II",
+    "title": "High Courts",
+    "short": "High Courts",
+    "tab": "HC",
+    "roster": [
+     "Allahabad",
+     "Andhra Pradesh",
+     "Bombay",
+     "Calcutta",
+     "Chhattisgarh",
+     "Delhi",
+     "Gauhati",
+     "Gujarat",
+     "Himachal Pradesh",
+     "Jammu & Kashmir and Ladakh",
+     "Jharkhand",
+     "Karnataka",
+     "Kerala",
+     "Madhya Pradesh",
+     "Madras",
+     "Manipur",
+     "Meghalaya",
+     "Orissa",
+     "Patna",
+     "Punjab & Haryana",
+     "Rajasthan",
+     "Sikkim",
+     "Telangana",
+     "Tripura",
+     "Uttarakhand"
+    ],
+    "seats": {
+     "Allahabad": "Prayagraj",
+     "Andhra Pradesh": "Amaravati",
+     "Bombay": "Mumbai",
+     "Calcutta": "Kolkata",
+     "Chhattisgarh": "Bilaspur",
+     "Delhi": "New Delhi",
+     "Gauhati": "Guwahati",
+     "Gujarat": "Ahmedabad",
+     "Himachal Pradesh": "Shimla",
+     "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+     "Jharkhand": "Ranchi",
+     "Karnataka": "Bengaluru",
+     "Kerala": "Kochi",
+     "Madhya Pradesh": "Jabalpur",
+     "Madras": "Chennai",
+     "Manipur": "Imphal",
+     "Meghalaya": "Shillong",
+     "Orissa": "Cuttack",
+     "Patna": "Patna",
+     "Punjab & Haryana": "Chandigarh",
+     "Rajasthan": "Jodhpur",
+     "Sikkim": "Gangtok",
+     "Telangana": "Hyderabad",
+     "Tripura": "Agartala",
+     "Uttarakhand": "Nainital"
+    },
+    "pages": [
+     {
+      "court": "Allahabad",
+      "items": [
+       {
+        "caseName": "Shivendu Pandey v. State of U.P. & 11 Ors.",
+        "coram": "Rajan Roy & Manjive Shukla, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "UP told to frame compensation policy after Lucknow fire",
+        "kind": "Held",
+        "text": "UP has no compensation policy for deaths in incidents other than natural calamities, such as the June 2026 Lucknow fire that killed 15 young people. The State must frame one with clear criteria and pay an injured survivor's medical costs.",
+        "tag": "Compensation",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/lucknow-fire-allahabad-hc-up-compensation-policy-natural-calamities-551917",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Balveer Singh v. State of U.P. & Ors.",
+        "citation": "2026 LiveLaw (AB) 759",
+        "coram": "J.J. Munir & Indrajeet Shukla, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Senior citizens tribunal can't void gift deed for forgery",
+        "kind": "Held",
+        "text": "A tribunal under the Senior Citizens Act cannot declare a gift deed void on a claim of forgery. That dispute belongs in a civil court.",
+        "tag": "Senior citizens / Property",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-tribunal-cant-declare-gift-deed-void-plea-of-forgery-551933",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Nitin Mishra v. Union of India & 6 Ors.",
+        "citation": "2026 LiveLaw (AB) 758",
+        "coram": "Arindam Sinha & Satya Veer Singh, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Lone NEET-UG answer key objection rejected",
+        "kind": "Held",
+        "text": "Disputed questions go to an expert only when facts justify it. A single objection, already rejected by the NTA and backed by no other candidate, did not.",
+        "tag": "Education / Exams",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-dismisses-lone-objector-challenge-neet-ug-551919",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Mohammad Jalaluddin v. State of U.P. & 3 Ors.",
+        "citation": "2026 LiveLaw (AB) 757",
+        "coram": "Sandeep Jain, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Owner can't plead ignorance to save beef-laden vehicle",
+        "kind": "Held",
+        "text": "Once the meat is confirmed as beef, the statutory presumption applies to an owner travelling in the vehicle. He failed to rebut it, so the confiscation stands.",
+        "tag": "Cow Slaughter Act",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-owner-travelling-vehicle-carrying-beef-escape-confiscation-pleading-ignorance-551916",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Bombay",
+      "items": [
+       {
+        "caseName": "M/s. Pharmed Limited v. Union of India",
+        "caseNo": "Writ Petition No. 595 of 2017",
+        "coram": "Manish Pitale & Shreeram V. Shirsat, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "NPPA's blanket drug price ceiling quashed",
+        "kind": "Held",
+        "text": "A 2009 NPPA notification applied ceiling prices to any formulation containing a scheduled drug. The court quashed it: the DPCO required a formula-based ceiling price notified for each formulation, which was never done.",
+        "why": "Drug price controls must follow the DPCO's product-by-product method.",
+        "tag": "Drug pricing",
+        "src": "https://www.livelaw.in/high-court/bombay-high-court/nppa-cannot-impose-blanket-drug-price-ceilings-551936",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Aman @ Aman Ibrahim Khan v. The Commissioner of Police, Pune",
+        "caseNo": "Criminal Writ Petition No. 2144 of 2026",
+        "coram": "Sarang V. Kotwal & Ranjitsinha Raja Bhonsale, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Detention can't rest on a guess that bail is likely",
+        "kind": "Held",
+        "text": "A detention order under the Maharashtra MPDA Act was set aside. Saying the detenu would probably get bail, without material to back it, is not a valid ground.",
+        "tag": "Preventive detention",
+        "src": "https://www.livelaw.in/high-court/bombay-high-court/preventive-detention-cannot-rest-assumption-detenu-obtain-bail-551928",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Chhattisgarh",
+      "items": [
+       {
+        "caseName": "Archana Singh v. Anand Kumar",
+        "caseNo": "FA(MAT) No. 189 of 2024",
+        "coram": "Parth Prateem Sahu & Sushma Sawant, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Unchallenged WhatsApp chats prove cruelty; divorce granted",
+        "kind": "Held",
+        "text": "Family Courts are not bound by strict rules of evidence. Unchallenged WhatsApp messages showing mental cruelty could be relied on, and the wife was granted divorce.",
+        "tag": "Family",
+        "src": "https://www.livelaw.in/high-court/chhattisgarh-high-court/unchallenged-whatsapp-messages-received-establish-mental-cruelty-551889",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Praveen Kumar Yadav v. Smt. Priyanka Yadav",
+        "caseNo": "FA(MAT) No. 5 of 2024",
+        "coram": "Parth Prateem Sahu & Sachin Singh Rajput, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Husband's visits don't prove wife left without cause",
+        "kind": "Held",
+        "text": "Repeated visits to the wife's parental home or a legal notice do not show her refusal to return was unreasonable. Her allegations of ill-treatment and dowry demands justified living apart.",
+        "tag": "Family",
+        "src": "https://www.livelaw.in/high-court/chhattisgarh-high-court/husband-visits-in-laws-doesnt-prove-wife-refused-cohabit-without-reasonable-cause-551887",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Delhi",
+      "items": [
+       {
+        "caseName": "Shahbuddin v. State",
+        "caseNo": "CRL.A. 1146/2013",
+        "coram": "Vimal Kumar Yadav, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Rape conviction overturned after 13 years",
+        "kind": "Held",
+        "text": "The survivor said her clothes were soaked in blood, but forensic tests found none. The court called this a positive contradiction, not a mere lack of corroboration, and set aside the kidnapping and rape conviction.",
+        "tag": "Criminal / Evidence",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/forensic-evidence-positively-contradicted-prosecutrixs-version-delhi-high-court-overturns-rape-conviction-after-13-years-551980",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Union of India & Ors. v. Himanshi & 34 Ors.",
+        "caseNo": "W.P.(C) 15273/2025",
+        "coram": "C. Hari Shankar & Vinod Kumar, JJ.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Unfair means must be proved candidate by candidate",
+        "kind": "Held",
+        "text": "The SSC cancelled candidatures in the 2019 CHSL exam and imposed seven-year debarments. The court found the evidence against the candidate did not hold and ruled a one-size-fits-all approach unlawful.",
+        "tag": "Recruitment exams",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/authorities-must-establish-unfair-means-against-each-candidate-cant-apply-one-size-fits-all-approach-delhi-high-court-551957",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Equitas Small Finance Bank Ltd. v. Mrs Nirmala Bai Shanthilal & Ors.",
+        "caseNo": "W.P.(CRL) 2380/2026",
+        "coram": "Saurabh Banerjee, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Bank can't disown its counsel's settlement statement",
+        "kind": "Held",
+        "text": "The bank's cheque-bounce case was closed after its counsel reported a settlement before the Magistrate and the Lok Adalat. A year later it called that statement unauthorised; the court refused, warning that would cause chaos.",
+        "tag": "Cheque bounce / Advocates",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/litigant-cant-resile-from-orders-passed-based-on-counsels-submissions-would-create-chaotic-situation-delhi-high-court-551979",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Smt. Simran Kaur v. State (Govt. of NCT of Delhi)",
+        "coram": "Sanjeev Narula, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Travel refused, but pregnant accused's care protected",
+        "kind": "Held",
+        "text": "An Afghan national under investigation was not allowed to go to the UK to give birth. Police must ensure the probe does not delay her medical care during her twin pregnancy.",
+        "tag": "Criminal / Travel",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/refusal-to-permit-foreign-travel-must-not-impede-pregnant-foreigners-medical-care-delhi-high-court-551906",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Kerala",
+      "items": [
+       {
+        "caseName": "Yeshwant Shenoy v. Bar Council of Kerala",
+        "caseNo": "WP(C) 33005/2026",
+        "coram": "Bechu Kurian Thomas, J.",
+        "date": "Decided 26 Sep 2026",
+        "headline": "Notice on challenge to Bar Council committees",
+        "kind": "Notice",
+        "text": "An elected member says the Chairman announced the statutory committees of the XIII Bar Council of Kerala without holding elections. Notice was issued to the Council and its Chairman; the case returns on 1 October.",
+        "tag": "Advocates / Bar Council",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-notice-bar-council-of-kerala-chairmanbar-council-committee-formation-551962",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Patna",
+      "items": [
+       {
+        "caseName": "Sanjay Kumar Yadav v. State of Bihar & Ors.",
+        "caseNo": "CWJC No. 14364 of 2024",
+        "coram": "Alok Kumar, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "An FIR alone can't sink an arms licence",
+        "kind": "Held",
+        "text": "The Collector refused a builder's licence only because a criminal case was pending, in which he was later acquitted. The refusal was quashed: a threat to public safety must be shown.",
+        "tag": "Arms Act",
+        "src": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-mere-involvement-routine-fir-not-sufficient-ground-refuse-arms-licence-551930",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Navin Kumar v. State of Bihar & Ors.",
+        "caseNo": "CWJC No. 9839 of 2018",
+        "coram": "G. Anupama Chakravarthy, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Department's own lapses can't block contractor's dues",
+        "kind": "Held",
+        "text": "Poor supervision and record-keeping by the department is no ground to withhold payment for completed work. About ₹19.8 lakh in dues and security deposits must be paid with 5% interest.",
+        "tag": "Contracts",
+        "src": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-deficiencies-lapses-supervision-record-keeping-state-department-551929",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Rajasthan",
+      "items": [
+       {
+        "caseName": "Heera Mani v. State of Rajasthan & Anr.",
+        "citation": "2026 LiveLaw (Raj) 403",
+        "coram": "Sanjay K. Agrawal, CJ & Vinit Kumar Mathur, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Absence due to long illness is not wilful misconduct",
+        "kind": "Held",
+        "text": "A constable's absence during prolonged tuberculosis was not deliberate, so his termination was quashed. His widow gets all service and retiral benefits.",
+        "tag": "Service law",
+        "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-sets-aside-deceased-constable-termination-551896",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Uttarakhand",
+      "items": [
+       {
+        "caseName": "Rapti v. State of Uttarakhand & Anr.",
+        "caseNo": "CRLR/100/2022",
+        "coram": "Alok Mahra, J.",
+        "date": "Reported 26 Sep 2026",
+        "headline": "Stepfather must maintain the child he knowingly accepted",
+        "kind": "Held",
+        "text": "A man who married knowing of his wife's son from an earlier marriage took on responsibility for the boy. Maintenance was raised, with ₹10,000 a month for the son until he comes of age.",
+        "tag": "Maintenance",
+        "src": "https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-directs-maintenance-wife-child-551935",
+        "srcName": "LiveLaw"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc",
+    "num": "III",
+    "title": "District & Sessions Courts",
+    "short": "District Courts",
+    "tab": "District",
+    "pages": [
+     {
+      "title": "Reported rulings",
+      "note": "No district, sessions or family court judgments or orders passed in this window were reported by legal publications.",
+      "items": []
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "title": "LiveLaw: Supreme Court — Senior officer cannot be paid less than junior (2026 LiveLaw (SC) 993)",
+    "url": "https://www.livelaw.in/supreme-court/senior-officer-cannot-be-paid-less-than-junior-holding-same-post-supreme-court-551953"
+   },
+   {
+    "title": "LiveLaw: 2026 LiveLaw (SC) 993 judgment page",
+    "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-993-jai-prakash-singh-versus-the-state-of-uttar-pradesh-ors-551955"
+   },
+   {
+    "title": "LiveLaw: High Courts section (reports of 26 September 2026)",
+    "url": "https://www.livelaw.in/high-court"
+   },
+   {
+    "title": "LiveLaw: Kerala HC notice to Bar Council of Kerala",
+    "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-notice-bar-council-of-kerala-chairmanbar-council-committee-formation-551962"
+   },
+   {
+    "title": "LiveLaw: Delhi HC overturns rape conviction after 13 years",
+    "url": "https://www.livelaw.in/high-court/delhi-high-court/forensic-evidence-positively-contradicted-prosecutrixs-version-delhi-high-court-overturns-rape-conviction-after-13-years-551980"
+   },
+   {
+    "title": "LiveLaw: Bombay HC quashes NPPA 2009 notification",
+    "url": "https://www.livelaw.in/high-court/bombay-high-court/nppa-cannot-impose-blanket-drug-price-ceilings-551936"
+   },
+   {
+    "title": "Bar & Bench: Litigation news (checked for the window)",
+    "url": "https://www.barandbench.com/news/litigation"
+   },
+   {
+    "title": "Verdictum: Latest updates (checked for the window)",
+    "url": "https://www.verdictum.in/"
+   }
+  ]
+ },
+ {
+  "edition": {
    "vol": "Vol. I · No. 2",
    "badge": "",
    "dateLong": "Saturday, 26 September 2026",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27",
+ "updated": "2026-09-28",
  "sections": [
   {
    "id": "judiciary",
@@ -53,6 +53,40 @@
       }
      ],
      "added": "2026-09-25"
+    },
+    {
+     "name": "Civil Judge (Junior Division), 2026",
+     "org": "High Court of Andhra Pradesh, Amaravati",
+     "sector": "Government",
+     "status": "Open",
+     "eligibility": "<b>Law graduates</b>. Check the official notification for the practice requirement, age limit and fee before applying.",
+     "facts": [
+      {
+       "k": "Posts",
+       "v": "119"
+      },
+      {
+       "k": "Notified",
+       "v": "28 Sep 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "See official notification"
+      }
+     ],
+     "note": "Newly notified on the High Court's website on 28 September 2026. Read the notification PDF for the application dates, eligibility and exam scheme.",
+     "links": [
+      {
+       "label": "Official notification (PDF)",
+       "url": "https://aphc.gov.in/docs/notification_1790339483_0.pdf",
+       "primary": true
+      },
+      {
+       "label": "High Court of Andhra Pradesh",
+       "url": "https://aphc.gov.in/"
+      }
+     ],
+     "added": "2026-09-28"
     },
     {
      "name": "Civil Judge (Junior Division): Odisha Judicial Service",
