@@ -1,0 +1,28 @@
+{
+ "name": "Nirnay Daily · निर्णय",
+ "short_name": "Nirnay Daily",
+ "description": "Daily Indian court judgments, landmark cases, Bare Acts, legal news and law careers.",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#FEFEFC",
+ "theme_color": "#6E1E22",
+ "icons": [
+  {
+   "src": "/assets/brand/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/brand/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/brand/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
