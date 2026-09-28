@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27",
+ "updated": "2026-09-29",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -731,6 +731,27 @@
    "pdf": "judgments/sc/pdf/jai-prakash-singh-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 97895
+  },
+  {
+   "slug": "waris-2026",
+   "name": "Waris v. State of Madhya Pradesh",
+   "type": "text",
+   "file": "judgments/sc/waris-2026.json",
+   "pages": 157,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 37028,
+   "citation": "2026 INSC 1050 · Criminal Appeal Nos. 429–430 of 2020",
+   "date": "2026-09-24",
+   "added": "2026-09-29",
+   "src": "https://api.sci.gov.in/sci-get-pdf/?diary_no=74312020&type=j&order_date=2026-09-24&from=latest_judgements_order",
+   "keys": [
+    "2026 INSC 1050",
+    "waris"
+   ],
+   "pdf": "judgments/sc/pdf/waris-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 883116
   }
  ]
 }
