@@ -67,23 +67,23 @@
       },
       {
        "k": "Notified",
-       "v": "28 Sep 2026"
+       "v": "25 Sep 2026"
       },
       {
        "k": "Last date",
        "v": "See official notification"
       }
      ],
-     "note": "Newly notified on the High Court's website on 28 September 2026. Read the notification PDF for the application dates, eligibility and exam scheme.",
+     "note": "Listed on the High Court's recruitment page as notified on 25 September 2026. The notification is a scanned PDF: read it for the application dates, eligibility, fee and exam scheme.",
      "links": [
       {
-       "label": "Official notification (PDF)",
-       "url": "https://aphc.gov.in/docs/notification_1790339483_0.pdf",
+       "label": "Recruitment page",
+       "url": "https://aphc.gov.in/recruitments.php",
        "primary": true
       },
       {
-       "label": "High Court of Andhra Pradesh",
-       "url": "https://aphc.gov.in/"
+       "label": "Official notification (PDF)",
+       "url": "https://aphc.gov.in/docs/notification_1790338711_0.pdf"
       }
      ],
      "added": "2026-09-28"
@@ -488,6 +488,49 @@
    "short": "Law firms, chambers, research fellowships",
    "intro": "Private jobs, fellowships and internships, taken only from the employer's own website. Big firms do not always post fresher roles publicly, so their official application portals are listed below.",
    "items": [
+    {
+     "name": "P. A. Sangma Fellowship for Legal and Policy Research (Sixth Cohort)",
+     "org": "National Law School of India University with the Government of Meghalaya",
+     "sector": "Fellowship",
+     "status": "Open",
+     "eligibility": "<b>NLSIU bachelor's or master's graduates</b>, or <b>Meghalaya domiciles with a law degree</b> from any university.",
+     "facts": [
+      {
+       "k": "Fellowships",
+       "v": "4"
+      },
+      {
+       "k": "Stipend",
+       "v": "₹60,000 / month + ₹10,000 HRA"
+      },
+      {
+       "k": "Term",
+       "v": "12 months, extendable"
+      },
+      {
+       "k": "Based in",
+       "v": "Meghalaya"
+      },
+      {
+       "k": "Posted",
+       "v": "18 Sep 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "9 Oct 2026, 5 PM",
+       "iso": "2026-10-09"
+      }
+     ],
+     "note": "Apply through the form linked in the official call with a CV (2 pages max), a statement of purpose (up to 1,000 words) and two references.",
+     "links": [
+      {
+       "label": "Official call",
+       "url": "https://www.nls.ac.in/news-events/call-for-applications-sixth-cohort-of-the-p-a-sangma-fellowship-for-legal-and-policy-research/",
+       "primary": true
+      }
+     ],
+     "added": "2026-09-28"
+    },
     {
      "name": "Graduate Research Fellowship 2027",
      "org": "National Law School of India University, Bengaluru",
