@@ -415,8 +415,9 @@ footer .contact{margin-top:8px}footer .contact a{color:var(--band-ink);font-weig
 <link rel="stylesheet" href="assets/login.css">
 <script>/* Free sign-in (Firebase). Paste the web-app config from Firebase here to switch the sign-in on. */
 window.NIRNAY_FIREBASE=null;
-window.NIRNAY_LOGIN={google:true,microsoft:false,yahoo:false,emailLink:true};
-if(window.NIRNAY_FIREBASE)document.documentElement.classList.add("gated");</script>
+/* Sign-in is asked for only when a reader downloads a judgment PDF (mode "downloads"). */
+window.NIRNAY_LOGIN={mode:"downloads",google:true,microsoft:false,yahoo:false,emailLink:true};
+if(window.NIRNAY_FIREBASE&&window.NIRNAY_LOGIN.mode==="site")document.documentElement.classList.add("gated");</script>
 <script type="module" src="assets/login.js"></script>
 <script>window.NIRNAY_GA_ID="G-5Q7X36D16B";</script>
 <script src="assets/analytics.js"></script>

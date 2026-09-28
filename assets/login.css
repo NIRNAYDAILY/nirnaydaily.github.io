@@ -25,3 +25,5 @@ html.gated .nx-fab,html.gated .nx-panel{display:none !important}
 .lg-user{display:inline-flex;align-items:center;gap:8px;font:12px var(--mono)}
 .lg-user button{font:600 11px var(--mono);background:none;border:1px solid rgba(255,255,255,.35);color:inherit;border-radius:999px;padding:3px 9px;cursor:pointer}
 @media (max-width:480px){.lg-card{padding:22px 18px 16px}.lg-card h2{font-size:24px}}
+
+.lg-card{position:relative}.lg-x{position:absolute;top:6px;right:10px;border:0;background:none;font-size:26px;line-height:1;cursor:pointer;color:#6B5E52}

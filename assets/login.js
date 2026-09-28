@@ -1,11 +1,13 @@
-/* Nirnay Daily – free sign-in gate (Firebase Authentication).
-   Visitors see a blurred page until they sign in with Google or with any email address
-   (Gmail, Yahoo, Outlook, Rediffmail …) through a one-time sign-in link.
-   The list of signed-in readers is kept in Firebase → Authentication → Users.
-   The gate stays OFF until window.NIRNAY_FIREBASE holds the project's web config. */
+/* Nirnay Daily – free sign-in (Firebase Authentication).
+   mode "downloads" (current): reading stays open to everyone; a reader must sign in once
+     (Google, or any email address through a one-time link) before downloading a judgment PDF.
+   mode "site": the whole site is blurred until sign-in (kept for later; not used now).
+   The list of signed-in readers is in Firebase → Authentication → Users.
+   Nothing is gated until window.NIRNAY_FIREBASE holds the project's web config. */
 const CFG = window.NIRNAY_FIREBASE || null;
-const OPT = Object.assign({ google: true, microsoft: false, yahoo: false, emailLink: true }, window.NIRNAY_LOGIN || {});
+const OPT = Object.assign({ mode: "downloads", google: true, microsoft: false, yahoo: false, emailLink: true }, window.NIRNAY_LOGIN || {});
 const PREVIEW = !CFG && /[?&]loginpreview\b/.test(location.search);
+const DL = OPT.mode === "downloads";
 const V = "10.12.2", CDN = `https://www.gstatic.com/firebasejs/${V}/`;
 const $ = (s, r = document) => r.querySelector(s);
 const track = (n, p) => { try { window.nirnayTrack && window.nirnayTrack(n, p || {}); } catch (e) {} };
@@ -19,21 +21,29 @@ const ICON = {
   yahoo: '<svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="#6001D2"/><path fill="#fff" d="M5 7h3l2 4.6L12 7h3l-4.3 8.6V19H8.6v-3.4z"/></svg>'
 };
 
-let fb = null; // { auth, mod }
+let fb = null;       // { auth, mod, linkMode }
+let USER = null;     // signed-in reader
+let ready = null;    // promise: Firebase loaded
 
-function gate(on) { document.documentElement.classList.toggle("gated", !!on); if (!on) { const b = $(".lg-back"); b && b.remove(); } }
+function gate(on) { document.documentElement.classList.toggle("gated", !!on); }
+function closeCard() { const b = $(".lg-back"); b && b.remove(); }
 
-function card() {
+function card(why) {
   if ($(".lg-back")) return;
   const consent = store.get("nd-consent") === "1";
   const pendingEmail = store.get("nd-email-link");
   const btn = (id, label) => OPT[id] ? `<button class="lg-btn" data-p="${id}" type="button">${ICON[id]} Continue with ${label}</button>` : "";
   const el = document.createElement("div");
   el.className = "lg-back";
+  const head = DL
+    ? `<h2 id="lg-t">Sign in to download<span lang="hi">निर्णय</span></h2>
+       <p>${why ? `<b>${esc(why)}</b><br>` : ""}Reading every judgment stays open to all. To download PDFs, please sign in once with your email. It is free.</p>`
+    : `<h2 id="lg-t">Sign in to read Nirnay Daily<span lang="hi">निर्णय</span></h2>
+       <p>Daily judgments, full Supreme Court judgments, Bare Acts, Legal News and the Careers Portal are free for every reader. Please sign in once to continue.</p>`;
   el.innerHTML = `<div class="lg-card" role="dialog" aria-modal="true" aria-labelledby="lg-t">
+    ${DL ? `<button class="lg-x" type="button" aria-label="Close">×</button>` : ""}
     <span class="lg-free">Free · no charges ever</span>
-    <h2 id="lg-t">Sign in to read Nirnay Daily<span lang="hi">निर्णय</span></h2>
-    <p>Daily judgments, full Supreme Court judgments, Bare Acts, Legal News and the Careers Portal are free for every reader. Please sign in once to continue.</p>
+    ${head}
     <label class="lg-consent"><input type="checkbox" id="lg-ok" ${consent ? "checked" : ""}>
       <span>I agree that Nirnay Daily may keep my name and email address to manage my free account, as explained in the <a href="privacy.html" target="_blank" rel="noopener">Privacy Notice</a>.</span></label>
     ${btn("google", "Google")}${btn("microsoft", "Microsoft (Outlook, Hotmail)")}${btn("yahoo", "Yahoo")}
@@ -44,22 +54,25 @@ function card() {
     <p class="lg-fine">No password needed. We never post anything or share your details. Questions: <a href="mailto:nirnaydaily@gmail.com">nirnaydaily@gmail.com</a></p>
   </div>`;
   document.body.appendChild(el);
+  const x = $(".lg-x", el); x && (x.onclick = () => { closeCard(); store.del("nd-pending-dl"); });
+  if (DL) el.addEventListener("click", e => { if (e.target === el) { closeCard(); store.del("nd-pending-dl"); } });
   const ok = $("#lg-ok", el), msg = (t, cls) => { const m = $("#lg-m", el); m.textContent = t; m.className = "lg-msg " + (cls || ""); };
   const need = () => { if (ok.checked) { store.set("nd-consent", "1"); return true; } msg("Please tick the box to agree to the Privacy Notice first.", "err"); ok.focus(); return false; };
   el.addEventListener("click", async e => {
     const b = e.target.closest("[data-p]"); if (!b) return;
     if (!need()) return;
     if (PREVIEW) return msg("Preview only – sign-in starts working once the Firebase project is connected.", "ok");
-    await providerSignIn(b.dataset.p, msg);
+    await ready; await providerSignIn(b.dataset.p, msg);
   });
   const f = $("#lg-f", el);
   f && f.addEventListener("submit", async e => {
     e.preventDefault(); if (!need()) return;
     const email = $("#lg-e", el).value.trim(); if (!email) return;
     if (PREVIEW) return msg("Preview only – sign-in starts working once the Firebase project is connected.", "ok");
+    await ready;
     if (fb.linkMode) return finishLink(email, msg);
     try {
-      await fb.mod.sendSignInLinkToEmail(fb.auth, email, { url: location.origin + location.pathname, handleCodeInApp: true });
+      await fb.mod.sendSignInLinkToEmail(fb.auth, email, { url: location.origin + location.pathname + location.hash, handleCodeInApp: true });
       store.set("nd-email-link", email);
       msg(`Sign-in link sent to ${email}. Open it on this device to continue (check Spam/Promotions if you don't see it).`, "ok");
       track("login_link_sent");
@@ -108,22 +121,57 @@ function userChip(u) {
   c.querySelector("button").onclick = () => fb.mod.signOut(fb.auth);
 }
 
-async function start() {
-  if (PREVIEW) { gate(true); card(); return; }
-  if (!CFG) return;
-  gate(true);
+/* ---- downloads: ask for sign-in before a PDF is downloaded ---- */
+function startDownload(href, name) {
+  const a = document.createElement("a"); a.href = href; a.download = name || ""; document.body.appendChild(a); a.click(); a.remove();
+  track("file_download", { file_name: (name || href).split("/").pop(), signed_in: true });
+}
+function watchDownloads() {
+  document.addEventListener("click", e => {
+    const a = e.target.closest("a.dlpdf, a.pdfbtn"); if (!a) return;
+    if (USER) return;                       // signed in: normal download
+    e.preventDefault(); e.stopImmediatePropagation();
+    store.set("nd-pending-dl", JSON.stringify({ href: a.getAttribute("href"), name: a.getAttribute("download") || "" }));
+    track("download_login_prompt", { file_name: (a.getAttribute("download") || "") });
+    const title = (document.querySelector(".rd-head h2") || {}).textContent || "";
+    card(title ? `PDF: ${title}` : "");
+  }, true);
+}
+function resumePending() {
+  const p = store.get("nd-pending-dl"); if (!p || !USER) return;
+  store.del("nd-pending-dl");
+  try { const { href, name } = JSON.parse(p); closeCard(); setTimeout(() => startDownload(href, name), 400); } catch (e) {}
+}
+
+async function loadFirebase() {
   const [app, mod] = await Promise.all([import(CDN + "firebase-app.js"), import(CDN + "firebase-auth.js")]);
   const auth = mod.getAuth(app.initializeApp(CFG));
   auth.useDeviceLanguage();
   fb = { auth, mod, linkMode: mod.isSignInWithEmailLink(auth, location.href) };
-  if (fb.linkMode) {
-    const saved = store.get("nd-email-link");
-    if (saved) await finishLink(saved);
+  if (fb.linkMode) { const saved = store.get("nd-email-link"); if (saved) await finishLink(saved); }
+  try { const r = await mod.getRedirectResult(auth); if (r) { track("login", { method: store.get("nd-redirect") || "redirect" }); store.del("nd-redirect"); } } catch (e) {}
+}
+
+async function start() {
+  if (PREVIEW) { if (DL) watchDownloads(); else { gate(true); card(); } return; }
+  if (!CFG) return;                                  // not connected yet: downloads stay open
+  if (DL) {
+    watchDownloads();
+    ready = loadFirebase();
+    await ready;
+    fb.mod.onAuthStateChanged(fb.auth, u => {
+      USER = u; userChip(u);
+      if (u) resumePending();
+      else if (fb.linkMode) { card(); const m = $("#lg-m"); m && (m.textContent = "Enter the email address you used, to finish signing in.", m.className = "lg-msg ok"); }
+    });
+    return;
   }
-  try { await mod.getRedirectResult(auth).then(r => { if (r) { track("login", { method: store.get("nd-redirect") || "redirect" }); store.del("nd-redirect"); } }); } catch (e) {}
-  mod.onAuthStateChanged(auth, u => {
-    userChip(u);
-    if (u) { gate(false); }
+  gate(true);
+  ready = loadFirebase();
+  await ready;
+  fb.mod.onAuthStateChanged(fb.auth, u => {
+    USER = u; userChip(u);
+    if (u) { gate(false); closeCard(); }
     else { gate(true); card(); if (fb.linkMode) { const m = $("#lg-m"); m && (m.textContent = "Enter the email address you used, to finish signing in.", m.className = "lg-msg ok"); } }
   });
 }
