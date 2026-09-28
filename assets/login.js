@@ -24,6 +24,7 @@ const ICON = {
 let fb = null;       // { auth, mod, linkMode }
 let USER = null;     // signed-in reader
 let ready = null;    // promise: Firebase loaded
+let FAILED = false;  // Firebase could not load: never block downloads
 
 function gate(on) { document.documentElement.classList.toggle("gated", !!on); }
 function closeCard() { const b = $(".lg-back"); b && b.remove(); }
@@ -129,7 +130,7 @@ function startDownload(href, name) {
 function watchDownloads() {
   document.addEventListener("click", e => {
     const a = e.target.closest("a.dlpdf, a.pdfbtn"); if (!a) return;
-    if (USER) return;                       // signed in: normal download
+    if (USER || FAILED) return;             // signed in (or sign-in unavailable): normal download
     e.preventDefault(); e.stopImmediatePropagation();
     store.set("nd-pending-dl", JSON.stringify({ href: a.getAttribute("href"), name: a.getAttribute("download") || "" }));
     track("download_login_prompt", { file_name: (a.getAttribute("download") || "") });
@@ -158,7 +159,7 @@ async function start() {
   if (DL) {
     watchDownloads();
     ready = loadFirebase();
-    await ready;
+    try { await ready; } catch (e) { FAILED = true; closeCard(); console.warn("Sign-in unavailable; downloads left open", e); return; }
     fb.mod.onAuthStateChanged(fb.auth, u => {
       USER = u; userChip(u);
       if (u) resumePending();
