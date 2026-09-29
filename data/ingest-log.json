@@ -1,9 +1,7 @@
 {
- "ran": "2026-09-29T11:44+05:30",
+ "ran": "2026-09-29T11:48+05:30",
  "processed": [
-  "digest_2026-09-29.json: judgments & orders 29 Sep 2026: 22 items",
-  "sc_2026-09-29.json: supreme court full texts: 8 added",
-  "tribunals_2026-09-29.json: tribunals 29 Sep 2026: 10 items"
+  "pool_2026-09-29.json: careers portal: 15 listings (0 closed removed)"
  ],
  "errors": [],
  "notes": []
