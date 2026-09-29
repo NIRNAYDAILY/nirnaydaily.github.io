@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-29T00:22+05:30",
+ "updated": "2026-09-29T10:06+05:30",
  "news": [
+  {
+   "edition": "2026-09-29-am",
+   "headline": "Collegium recommends three High Court Chief Justices for elevation to the Supreme Court",
+   "src": "https://www.livelaw.in/top-stories/collegium-recommends-elevation-of-three-high-court-chief-justices-as-supreme-court-judges-552143"
+  },
+  {
+   "edition": "2026-09-29-am",
+   "headline": "Supreme Court asks Centre to consider rules on minors' social media accounts; Centre says it will examine",
+   "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-centre-to-consider-framing-rules-to-regulate-social-media-accounts-of-minors"
+  },
   {
    "edition": "2026-09-27-am",
    "headline": "FSSAI to bring in red-hexagon warning labels on packaged food high in sugar, fat or salt",
@@ -227,7 +237,7 @@
  "latest": {
   "digest": "28 Sep 2026",
   "tribunals": "28 Sep 2026",
-  "news": "2026-09-27-am",
+  "news": "2026-09-29-am",
   "careersBooklet": "2026-09-26",
   "careersPool": "2026-09-28"
  }

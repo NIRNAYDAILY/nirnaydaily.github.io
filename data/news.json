@@ -1,34 +1,34 @@
 {
  "edition": {
-  "edition_id": "2026-09-27-am",
-  "iso": "2026-09-27",
+  "edition_id": "2026-09-29-am",
+  "iso": "2026-09-29",
   "slot": "10 AM",
-  "dateShort": "27 Sep 2026",
-  "dateLong": "Sunday, 27 September 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 26 September to 10:00 AM IST, 27 September 2026"
+  "dateShort": "29 Sep 2026",
+  "dateLong": "Tuesday, 29 September 2026 · Morning edition",
+  "window": "News from 4:00 PM IST, 28 September to 10:00 AM IST, 29 September 2026"
  },
  "items": [
   {
-   "cat": "Executive & Government",
+   "cat": "Judiciary",
    "region": "All India",
-   "body": "Food Safety and Standards Authority of India (FSSAI)",
-   "headline": "FSSAI to bring in red-hexagon warning labels on packaged food high in sugar, fat or salt",
-   "text": "FSSAI told the Supreme Court that it will adopt a front-of-pack warning label modelled on Canada's system, a red hexagon, for packaged foods that cross set limits for sugar, fat or salt. It plans to issue and finalise draft regulations in about four months, with a 60-day public consultation and then a 365-day voluntary window for manufacturers. The statement was made in the case 3S and Our Health Society v. Union of India.",
-   "why": "Once notified, the regulations will change food labelling rules for packaged food sold across India.",
-   "date": "26 Sep 2026",
-   "src": "https://www.livelaw.in/top-stories/adopting-canadian-model-on-warning-labels-for-packaged-foods-high-in-fat-sugar-or-salt-fssai-informs-supreme-court-551972",
+   "body": "Supreme Court Collegium",
+   "headline": "Collegium recommends three High Court Chief Justices for elevation to the Supreme Court",
+   "text": "At its meeting on 28 September 2026, the Supreme Court Collegium recommended elevating Justice Sunita Agarwal (Chief Justice, Gujarat High Court), Justice Devendra Kumar Upadhyaya (Chief Justice, Delhi High Court) and Justice Aparesh Kumar Singh (Chief Justice, Telangana High Court) as Supreme Court judges. The recommendations now go to the Centre for notification.",
+   "why": "If the Centre clears the names, the Supreme Court gains three judges and the Gujarat, Delhi and Telangana High Courts will each need a new Chief Justice.",
+   "date": "28 Sep 2026",
+   "src": "https://www.livelaw.in/top-stories/collegium-recommends-elevation-of-three-high-court-chief-justices-as-supreme-court-judges-552143",
    "srcName": "LiveLaw"
   },
   {
    "cat": "Other Legal News",
    "region": "All India",
-   "body": "17th K M Bashir Memorial Lecture",
-   "headline": "Senior Advocate Dushyant Dave criticises SIR voter-roll revision in memorial lecture",
-   "text": "Delivering the 17th K M Bashir Memorial Lecture on 26 September, Senior Advocate Dushyant Dave said the Election Commission's Special Intensive Revision of electoral rolls was undermining adult franchise through large-scale deletions of voters in States such as Bihar and West Bengal. He also criticised the delay in the Supreme Court's judgment on the SIR challenge and raised concerns about decision-making within the Election Commission.",
-   "why": "The SIR exercise and its legal challenges remain one of the most debated election-law issues in the country.",
-   "date": "26 Sep 2026",
-   "src": "https://www.livelaw.in/top-stories/adult-franchise-going-away-thanks-to-supreme-court-election-commission-senior-advocate-dushyant-dave-criticises-sir-551991",
-   "srcName": "LiveLaw"
+   "body": "Supreme Court of India / Union Government",
+   "headline": "Supreme Court asks Centre to consider rules on minors' social media accounts; Centre says it will examine",
+   "text": "Hearing a petition by Just Rights for Children Alliance, the Supreme Court asked the Union Government to consider framing statutory rules so that social media platforms follow Indian law on contracts with minors, which treats such contracts as void. The Court pointed to age-verification and parental-consent mechanisms rather than a blanket ban, and the Solicitor General told the Court the Centre would examine the matter.",
+   "why": "It could lead to binding government rules on how children under 18 sign up to and use social media platforms in India.",
+   "date": "28 Sep 2026",
+   "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-centre-to-consider-framing-rules-to-regulate-social-media-accounts-of-minors",
+   "srcName": "Bar & Bench"
   }
  ]
 }
