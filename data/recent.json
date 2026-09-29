@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-29T11:48+05:30",
+ "updated": "2026-09-29T18:17+05:30",
  "news": [
+  {
+   "edition": "2026-09-29-pm",
+   "headline": "RBI shortens deadline for bringing export money home from 15 months to 9 months",
+   "src": "https://www.scconline.com/blog/post/2026/09/29/rbi-amends-fema-export-import-goods-services-regulations-2026/"
+  },
+  {
+   "edition": "2026-09-29-pm",
+   "headline": "JGLS pair win Mediation Championship of India 2026; GNLU student named top mediator",
+   "src": "https://www.barandbench.com/Law-School/jgls-duo-wins-mediation-championship-of-india-2026-as-counsel-gnlu-student-top-mediator"
+  },
   {
    "edition": "2026-09-29-am",
    "headline": "Collegium recommends three High Court Chief Justices for elevation to the Supreme Court",
@@ -287,7 +297,7 @@
  "latest": {
   "digest": "29 Sep 2026",
   "tribunals": "29 Sep 2026",
-  "news": "2026-09-29-am",
+  "news": "2026-09-29-pm",
   "careersBooklet": "2026-09-26",
   "careersPool": "2026-09-29"
  }

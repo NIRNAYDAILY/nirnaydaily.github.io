@@ -1,33 +1,32 @@
 {
  "edition": {
-  "edition_id": "2026-09-29-am",
+  "edition_id": "2026-09-29-pm",
   "iso": "2026-09-29",
-  "slot": "10 AM",
+  "slot": "6 PM",
   "dateShort": "29 Sep 2026",
-  "dateLong": "Tuesday, 29 September 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 28 September to 10:00 AM IST, 29 September 2026"
+  "dateLong": "Tuesday, 29 September 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 29 September 2026"
  },
  "items": [
   {
-   "cat": "Judiciary",
+   "cat": "Executive & Government",
    "region": "All India",
-   "body": "Supreme Court Collegium",
-   "headline": "Collegium recommends three High Court Chief Justices for elevation to the Supreme Court",
-   "text": "At its meeting on 28 September 2026, the Supreme Court Collegium recommended elevating Justice Sunita Agarwal (Chief Justice, Gujarat High Court), Justice Devendra Kumar Upadhyaya (Chief Justice, Delhi High Court) and Justice Aparesh Kumar Singh (Chief Justice, Telangana High Court) as Supreme Court judges. The recommendations now go to the Centre for notification.",
-   "why": "If the Centre clears the names, the Supreme Court gains three judges and the Gujarat, Delhi and Telangana High Courts will each need a new Chief Justice.",
-   "date": "28 Sep 2026",
-   "src": "https://www.livelaw.in/top-stories/collegium-recommends-elevation-of-three-high-court-chief-justices-as-supreme-court-judges-552143",
-   "srcName": "LiveLaw"
+   "body": "Reserve Bank of India",
+   "headline": "RBI shortens deadline for bringing export money home from 15 months to 9 months",
+   "text": "The Reserve Bank of India has amended the Foreign Exchange Management (Export and Import of Goods and Services) Regulations. Exporters must now realise and repatriate export proceeds within 9 months instead of 15, and within 12 months instead of 18 for exports invoiced in rupees. A new Regulation 20 lets Authorised Dealer banks handle certain older export, import and merchanting transactions without RBI approval. The changes take effect on 1 October 2026.",
+   "why": "Every Indian exporter must adjust payment terms and compliance before the shorter timelines apply from 1 October.",
+   "date": "29 Sep 2026",
+   "src": "https://www.scconline.com/blog/post/2026/09/29/rbi-amends-fema-export-import-goods-services-regulations-2026/",
+   "srcName": "SCC Online Blog"
   },
   {
-   "cat": "Other Legal News",
-   "region": "All India",
-   "body": "Supreme Court of India / Union Government",
-   "headline": "Supreme Court asks Centre to consider rules on minors' social media accounts; Centre says it will examine",
-   "text": "Hearing a petition by Just Rights for Children Alliance, the Supreme Court asked the Union Government to consider framing statutory rules so that social media platforms follow Indian law on contracts with minors, which treats such contracts as void. The Court pointed to age-verification and parental-consent mechanisms rather than a blanket ban, and the Solicitor General told the Court the Centre would examine the matter.",
-   "why": "It could lead to binding government rules on how children under 18 sign up to and use social media platforms in India.",
-   "date": "28 Sep 2026",
-   "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-centre-to-consider-framing-rules-to-regulate-social-media-accounts-of-minors",
+   "cat": "Legal Education & Careers",
+   "region": "Delhi",
+   "body": "Mediation Championship of India 2026",
+   "headline": "JGLS pair win Mediation Championship of India 2026; GNLU student named top mediator",
+   "text": "Omar Sigbathulla and Chinmay Hegde of Jindal Global Law School won the counsel category of the Mediation Championship of India 2026. Ayushi Shukla of Gujarat National Law University won the mediator category. The invitation-only contest, organised by PACT and Cyril Amarchand Mangaldas, drew over 100 participants, and the finals were held at the India International Centre, New Delhi.",
+   "date": "29 Sep 2026",
+   "src": "https://www.barandbench.com/Law-School/jgls-duo-wins-mediation-championship-of-india-2026-as-counsel-gnlu-student-top-mediator",
    "srcName": "Bar & Bench"
   }
  ]
