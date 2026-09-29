@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T10:06+05:30",
+ "updated": "2026-09-29T11:44+05:30",
  "news": [
   {
    "edition": "2026-09-29-am",
@@ -33,6 +33,56 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "Nikhil Rai & Ors v. VCare Technologies Private Limited & Ors",
+   "src": "https://www.livelawbiz.com/company-law/commercial-necessity-of-restructuring-cannot-dispense-with-nclts-adjudication-of-oppression-claims-nclat-552104"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "Mrs V Lakshmi",
+   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-chennai-cirp-threshold-corporate-debtor-not-applicable-to-personal-guarantor-552121"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "Equentia Financial Service Pvt. Ltd. v. Saloni Ayush Aggarwal",
+   "src": "https://www.livelawbiz.com/nclt/ibc-amendment-excluding-personal-guarantors-from-section-96-moratorium-applies-to-pending-proceedings-nclt-new-delhi-552093"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "Mukesh Goyal v. CA Santanu Brahma & Ors.",
+   "src": "https://www.livelawbiz.com/nclt/appellate-challenge-affecting-resolution-plan-implementation-automatically-extends-implementation-timeline-nclt-kolkata-552113"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "Think & Learn Pvt Ltd v. Aakash Educational Services Ltd and Others",
+   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-bengaluru-seeks-compliance-before-passing-orders-think-and-learn-akash-rights-issue-settlement-552053"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "DGAP, DG Anti Profiteering, Director General of Anti-Profiteering v. Bengal Emami Housing Ltd.",
+   "src": "https://www.livelawbiz.com/gstat/gstat-directs-bengal-emami-housing-to-refund-7058-lakh-to-hig-homebuyers-with-18-interest-552134"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "Amit Tyagi v. Tata Play Limited, Managing Director & CEO",
+   "src": "https://www.livelawbiz.com/gstat/different-vehicle-number-e-way-bill-deliberate-violation-gstat-agra-split-verdict-vp-552091"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "R R Infrastructure Projects v. Shashi Bhushan Singh, Additional Commissioner, Grade II Appeal & Ors.",
+   "src": "https://www.livelawbiz.com/gstat/gstr-3b-gstr-2a-mismatch-alone-not-enough-to-deny-itc-gstat-lucknow-552089"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "DGAP, DG Anti Profiteering, Director General of Anti-Profiteering v. Devi 70MM",
+   "src": "https://www.livelawbiz.com/gstat/gstat-directs-deposit-for-cinema-theatre-ticket-gst-profiteering-552072"
+  },
+  {
+   "edition": "29 Sep 2026",
+   "caseName": "Sarda Energy and Minerals Ltd. v. Commissioner (Appeal), CGST, Central Excise and Customs",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/indian-exporter-not-liable-for-service-tax-on-foreign-bank-charges-where-indian-bank-is-service-recipient-cestat-delhi-552126"
+  },
   {
    "edition": "28 Sep 2026",
    "caseName": "Uber Health Tech Private Limited v. The Assistant Commissioner of Income Tax",
@@ -235,8 +285,8 @@
   }
  ],
  "latest": {
-  "digest": "28 Sep 2026",
-  "tribunals": "28 Sep 2026",
+  "digest": "29 Sep 2026",
+  "tribunals": "29 Sep 2026",
   "news": "2026-09-29-am",
   "careersBooklet": "2026-09-26",
   "careersPool": "2026-09-28"

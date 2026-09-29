@@ -752,6 +752,174 @@
    "pdf": "judgments/sc/pdf/waris-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 883116
+  },
+  {
+   "slug": "bihar-ardh-2026",
+   "name": "Bihar State Ardh Sarkari Arajpati Karamchari Maha Sangh v. State of Bihar",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 46,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 8199,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=276532022&type=j&order_date=2026-09-28&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1061",
+    "bihar state ardh sarkari"
+   ],
+   "citation": "2026 INSC 1061",
+   "date": "2026-09-28",
+   "pdf": "judgments/sc/pdf/bihar-ardh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 345920
+  },
+  {
+   "slug": "in-re-2026",
+   "name": "In Re: Recent Rape Incidents in Delhi NCR",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 17,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2758,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=604872026&type=j&order_date=2026-09-28&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1063",
+    "recent rape incidents in delhi ncr"
+   ],
+   "citation": "2026 INSC 1063",
+   "date": "2026-09-28",
+   "pdf": "judgments/sc/pdf/in-re-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 263142
+  },
+  {
+   "slug": "owners-parties-2026",
+   "name": "Owners and Parties Interested in M.V. Nereus Progress v. Om Freight Forwarders Ltd.",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 31,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6364,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=414092026&type=j&order_date=2026-09-25&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1055",
+    "nereus progress"
+   ],
+   "citation": "2026 INSC 1055",
+   "date": "2026-09-25",
+   "pdf": "judgments/sc/pdf/owners-parties-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 399649
+  },
+  {
+   "slug": "paramjit-singh-2026",
+   "name": "Paramjit Singh Bedi v. State of Punjab",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 29,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5334,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=23882014&type=j&order_date=2026-09-25&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1054",
+    "paramjit singh bedi"
+   ],
+   "citation": "2026 INSC 1054",
+   "date": "2026-09-25",
+   "pdf": "judgments/sc/pdf/paramjit-singh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 602463
+  },
+  {
+   "slug": "sukhabhai-nanjibhai-2026",
+   "name": "Sukhabhai Nanjibhai Makwana & Anr. v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 13,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2715,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=469642025&type=j&order_date=2026-09-25&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1056",
+    "sukhabhai nanjibhai makwana"
+   ],
+   "citation": "2026 INSC 1056",
+   "date": "2026-09-25",
+   "pdf": "judgments/sc/pdf/sukhabhai-nanjibhai-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 261096
+  },
+  {
+   "slug": "r-2026",
+   "name": "'R' v. 'E' & Anr. (and connected matters)",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 72,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 14784,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=1772024&type=j&order_date=2026-09-24&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1049",
+    "'r' v. 'e'"
+   ],
+   "citation": "2026 INSC 1049",
+   "date": "2026-09-24",
+   "pdf": "judgments/sc/pdf/r-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 456361
+  },
+  {
+   "slug": "union-india-2026",
+   "name": "Union of India & Ors. v. Ramdhani Prasad",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 35,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6654,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=168642023&type=j&order_date=2026-09-24&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1047",
+    "ramdhani prasad"
+   ],
+   "citation": "2026 INSC 1047",
+   "date": "2026-09-24",
+   "pdf": "judgments/sc/pdf/union-india-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 516834
+  },
+  {
+   "slug": "naval-kishore-2026",
+   "name": "Naval Kishore & Anr. v. State of Punjab",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-29.json",
+   "pages": 25,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5478,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=564312025&type=j&order_date=2026-09-24&from=latest_judgements_order",
+   "added": "2026-09-29",
+   "keys": [
+    "2026 INSC 1048",
+    "naval kishore"
+   ],
+   "citation": "2026 INSC 1048",
+   "date": "2026-09-24",
+   "pdf": "judgments/sc/pdf/naval-kishore-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 413789
   }
  ]
 }

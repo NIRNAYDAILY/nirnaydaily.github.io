@@ -1,7 +1,9 @@
 {
- "ran": "2026-09-29T10:06+05:30",
+ "ran": "2026-09-29T11:44+05:30",
  "processed": [
-  "news_2026-09-29-am.json: legal news 2026-09-29-am: 2 items"
+  "digest_2026-09-29.json: judgments & orders 29 Sep 2026: 22 items",
+  "sc_2026-09-29.json: supreme court full texts: 8 added",
+  "tribunals_2026-09-29.json: tribunals 29 Sep 2026: 10 items"
  ],
  "errors": [],
  "notes": []
