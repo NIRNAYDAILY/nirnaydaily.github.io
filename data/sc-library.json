@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -920,6 +920,92 @@
    "pdf": "judgments/sc/pdf/naval-kishore-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 413789
+  },
+  {
+   "slug": "mulla-afroz-2026",
+   "name": "Mulla Afroz v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-30.json",
+   "pages": 41,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 13447,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=374372026&type=j&order_date=2026-09-29&from=latest_judgements_order",
+   "added": "2026-09-30",
+   "keys": [
+    "2026 insc 1067",
+    "mulla afroz"
+   ],
+   "citation": "2026 INSC 1067",
+   "date": "2026-09-29",
+   "pdf": "judgments/sc/pdf/mulla-afroz-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 936015
+  },
+  {
+   "slug": "judgment-2026",
+   "name": "S v. State of Odisha",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-30.json",
+   "pages": 20,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 4535,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=272002025&type=j&order_date=2026-09-28&from=latest_judgements_order",
+   "added": "2026-09-30",
+   "keys": [
+    "2026 insc 1060",
+    "state of odisha"
+   ],
+   "citation": "2026 INSC 1060",
+   "date": "2026-09-28",
+   "pdf": "judgments/sc/pdf/judgment-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 297448
+  },
+  {
+   "slug": "asj-finsolutions-2026",
+   "name": "M/s ASJ Finsolutions Pvt. Ltd. v. Vikram Bajaj",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-30.json",
+   "pages": 15,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3022,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=136562025&type=j&order_date=2026-09-28&from=latest_judgements_order",
+   "added": "2026-09-30",
+   "keys": [
+    "2026 insc 1062",
+    "asj finsolutions",
+    "vikram bajaj"
+   ],
+   "citation": "2026 INSC 1062",
+   "date": "2026-09-28",
+   "pdf": "judgments/sc/pdf/asj-finsolutions-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 597363
+  },
+  {
+   "slug": "bombay-garage-2026",
+   "name": "Bombay Garage Ahmedabad Ltd. v. J P Iscon Pvt. Ltd.",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-30.json",
+   "pages": 31,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 7172,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=450032024&type=j&order_date=2026-09-29&from=latest_judgements_order",
+   "added": "2026-09-30",
+   "keys": [
+    "2026 insc 1066",
+    "bombay garage",
+    "j p iscon"
+   ],
+   "citation": "2026 INSC 1066",
+   "date": "2026-09-29",
+   "pdf": "judgments/sc/pdf/bombay-garage-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 473288
   }
  ]
 }

@@ -1,6 +1,474 @@
 [
  {
   "edition": {
+   "vol": "Vol. I · No. 5",
+   "badge": "",
+   "dateLong": "Tuesday, 29 September 2026",
+   "dateShort": "29 Sep 2026",
+   "window": "Judgments and orders passed between 10:00 AM IST on 28 September 2026 and 9:30 AM IST on 29 September 2026",
+   "next": "Next edition: tomorrow at 10:00 AM IST"
+  },
+  "highlights": [
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Bihar State Ardh Sarkari Arajpati Karamchari Maha Sangh v. State of Bihar",
+    "text": "Bihar and Jharkhand must pay Rs 1 lakh each, with interest, to daily-wage workers in a 25-year-old dues case.",
+    "ref": "sc:0"
+   },
+   {
+    "court": "Supreme Court of India",
+    "caseName": "In Re: Recent Rape Incidents in Delhi NCR",
+    "text": "Delhi-NCR police must map unsafe spots and audit lighting and CCTV within four weeks.",
+    "ref": "sc:0"
+   },
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Puneet Batra v. Union of India",
+    "text": "Stay on a Delhi HC ruling that upheld a GST search of an advocate's office.",
+    "ref": "sc:1"
+   },
+   {
+    "court": "High Court of Kerala",
+    "caseName": "In Re Exorbitant Pricing of Life Saving Patented Medicines",
+    "text": "The Centre can invoke Section 100 of the Patents Act to supply unaffordable life-saving drugs.",
+    "ref": "hc:Kerala"
+   },
+   {
+    "court": "High Court of Delhi",
+    "caseName": "Manoj Chaudhary v. State (NCT of Delhi)",
+    "text": "Re-arrest after a vitiated arrest needs a magistrate's reasoned permission.",
+    "ref": "hc:Delhi"
+   }
+  ],
+  "chapters": [
+   {
+    "id": "sc",
+    "num": "I",
+    "title": "Supreme Court of India",
+    "short": "Supreme Court",
+    "tab": "SC",
+    "seat": "New Delhi",
+    "pages": [
+     {
+      "title": "Judgments",
+      "items": [
+       {
+        "caseName": "Bihar State Ardh Sarkari Arajpati Karamchari Maha Sangh v. State of Bihar",
+        "citation": "2026 LiveLaw (SC) 995",
+        "coram": "Vikram Nath, Sandeep Mehta, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Rs 1 lakh each for daily-wagers in 25-year-old Bihar dues case",
+        "kind": "Held",
+        "text": "Bihar and Jharkhand must pay each daily-wage worker Rs 1 lakh, with 12% interest on delayed PF and 6% on delayed wages. The Court rejected a flat Rs 42.50-a-day rate as unfair.",
+        "why": "Workers not yet traced get 12 months to claim, and verified lists must go online within 4 weeks.",
+        "tag": "Labour law",
+        "src": "https://www.livelaw.in/supreme-court/supreme-court-directs-1-lakh-compensation-for-daily-wage-workers-in-25-year-old-bihar-workmen-dues-case-552139",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "In Re: Recent Rape Incidents in Delhi NCR",
+        "citation": "2026 LiveLaw (SC) 996",
+        "coram": "J.B. Pardiwala, K. Vinod Chandran, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Safety audit of Delhi-NCR public spaces ordered within 4 weeks",
+        "kind": "Held",
+        "text": "In the suo motu case, police must map vulnerable spots district by district, step up patrols and audit street lighting and CCTV, including at transit hubs. Status reports are due in four weeks.",
+        "why": "The bench described the incidents as a systemic failure of policing and administration.",
+        "tag": "Women's safety",
+        "src": "https://www.livelaw.in/top-stories/suo-motu-case-on-delhi-rapessupreme-court-issues-directions-make-public-spaces-safer-women-children-delhi-ncr-552163",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Owners and Parties Interested in M.V. Nereus Progress v. Om Freight Forwarders Ltd.",
+        "citation": "2026 INSC 1055",
+        "coram": "CJI Surya Kant, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Bareboat charter ends on a valid termination notice",
+        "kind": "Held",
+        "text": "A BARECON 2017 bareboat charter ends once a valid termination notice is served, without repossession; the former charterer then holds the ship only as a bailee. The sister-vessel arrest was vacated.",
+        "tag": "Admiralty",
+        "src": "https://www.verdictum.in/supreme-court/owners-and-parties-interested-in-mv-nereus-progress-v-om-freight-forwarders-ltd-2026-insc-1055-1622902",
+        "srcName": "Verdictum"
+       }
+      ]
+     },
+     {
+      "title": "Orders",
+      "items": [
+       {
+        "caseName": "State of Maharashtra v. Ramesh Sukrya Mhatre",
+        "caseNo": "Crl.A. No. 4604/2026",
+        "coram": "Vikram Nath, Sandeep Mehta, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Bail of Shiv Sena corporator in doctors' assault case cancelled",
+        "kind": "Held",
+        "text": "The Court set aside the Bombay High Court's bail order and told Mhatre to surrender within three days. It said a firm message was needed that doctors cannot be attacked.",
+        "tag": "Bail",
+        "src": "https://www.livelaw.in/top-stories/doctors-assault-case-supreme-court-sets-aside-shiv-sena-corporator-ramesh-mhatres-bail-says-strong-message-needed-552144",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Puneet Batra v. Union of India",
+        "caseNo": "Diary No. 59119/2026",
+        "coram": "Dipankar Datta, Sheel Nagu, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Delhi HC ruling upholding GST search of advocate's office stayed",
+        "kind": "Pending",
+        "text": "The Court stayed the High Court judgment and gave the respondents three weeks to reply. The bench asked why the reasons for searching a lawyer's office were not disclosed.",
+        "tag": "GST · Advocates",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-stays-delhi-high-court-judgment-upholding-gst-dept-search-advocate-office-552107",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Rubabuddin Shaikh v. Central Bureau of Investigation",
+        "caseNo": "Diary No. 48619/2026",
+        "coram": "CJI Surya Kant, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Notice on challenge to acquittal of 22 in Sohrabuddin encounter case",
+        "kind": "Notice",
+        "text": "Notice was issued on the appeal against the Bombay High Court's acquittal of 22 accused. The bench called 92 hostile witnesses a serious concern but said the discharge of Amit Shah will not be reopened.",
+        "tag": "Criminal",
+        "src": "https://www.livelaw.in/top-stories/sohrabuddin-shaikh-case-92-witnesses-turning-hostile-serious-concern-supreme-court-issues-notice-on-plea-against-acquittals-552060",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Mamata Banerjee v. Election Commission of India",
+        "caseNo": "Diary No. 58005/2026",
+        "coram": "CJI Surya Kant, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "ECI to decide Trinamool name and symbol dispute within 3 months",
+        "kind": "Held",
+        "text": "Both sides must file affidavits within four weeks. The Election Commission must then decide the TMC symbol dispute within three months.",
+        "tag": "Election law",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-mamata-banerjee-ritabrata-banerjee-trinamool-congress-election-symbol-dispute-eci-decision-552074",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Anjan Datta v. Union of India",
+        "caseNo": "WP(C) Diary No. 57387/2026",
+        "coram": "CJI Surya Kant, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "No stay on MDR charge for UPI payments above Rs 2,000",
+        "kind": "Pending",
+        "text": "The Court declined to stay the merchant discount rate on UPI transactions above Rs 2,000. The Centre must file an affidavit explaining the legal and technical basis for the levy.",
+        "tag": "Payments",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-asks-centre-to-explain-decision-to-levy-charges-on-upi-transactions-refuses-stay-552055",
+        "srcName": "LiveLaw"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hc",
+    "num": "II",
+    "title": "High Courts",
+    "short": "High Courts",
+    "tab": "HC",
+    "roster": [
+     "Allahabad",
+     "Andhra Pradesh",
+     "Bombay",
+     "Calcutta",
+     "Chhattisgarh",
+     "Delhi",
+     "Gauhati",
+     "Gujarat",
+     "Himachal Pradesh",
+     "Jammu & Kashmir and Ladakh",
+     "Jharkhand",
+     "Karnataka",
+     "Kerala",
+     "Madhya Pradesh",
+     "Madras",
+     "Manipur",
+     "Meghalaya",
+     "Orissa",
+     "Patna",
+     "Punjab & Haryana",
+     "Rajasthan",
+     "Sikkim",
+     "Telangana",
+     "Tripura",
+     "Uttarakhand"
+    ],
+    "seats": {
+     "Allahabad": "Prayagraj",
+     "Andhra Pradesh": "Amaravati",
+     "Bombay": "Mumbai",
+     "Calcutta": "Kolkata",
+     "Chhattisgarh": "Bilaspur",
+     "Delhi": "New Delhi",
+     "Gauhati": "Guwahati",
+     "Gujarat": "Ahmedabad",
+     "Himachal Pradesh": "Shimla",
+     "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+     "Jharkhand": "Ranchi",
+     "Karnataka": "Bengaluru",
+     "Kerala": "Kochi",
+     "Madhya Pradesh": "Jabalpur",
+     "Madras": "Chennai",
+     "Manipur": "Imphal",
+     "Meghalaya": "Shillong",
+     "Orissa": "Cuttack",
+     "Patna": "Patna",
+     "Punjab & Haryana": "Chandigarh",
+     "Rajasthan": "Jodhpur",
+     "Sikkim": "Gangtok",
+     "Telangana": "Hyderabad",
+     "Tripura": "Agartala",
+     "Uttarakhand": "Nainital"
+    },
+    "pages": [
+     {
+      "court": "Allahabad",
+      "items": [
+       {
+        "caseName": "Fanindra Das v. The General Manager",
+        "citation": "2026 LiveLaw (AB) 761",
+        "coram": "Prakash Padia, Vivek Saran, JJ.",
+        "date": "Reported 28 Sep 2026",
+        "headline": "Electricity is part of the right to life: Railways told to give connection",
+        "kind": "Held",
+        "text": "Calling electricity indispensable to life under Article 21, the Court quashed the 2011 and 2012 refusals. North Eastern Railway must provide the connection within 30 days.",
+        "tag": "Article 21",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-electricity-connection-denied-over-decade-552145",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Calcutta",
+      "items": [
+       {
+        "caseName": "Indian Secular Front v. Election Commission of India",
+        "coram": "Krishna Rao, J.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Order reserved on ISF plea over 'Envelope' symbol in Nandigram by-poll",
+        "kind": "Reserved",
+        "text": "The judge questioned whether the ECI was guided by a private party in allotting ISF's symbol to the TMC-Democratic faction. The ECI said the plea was meant to derail the poll.",
+        "tag": "Election symbol",
+        "src": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-reserves-order-in-isfs-plea-challenging-allotment-of-envelope-symbol-to-tmc-d-for-nandigram-by-poll-552120",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Delhi",
+      "items": [
+       {
+        "caseName": "Manoj Chaudhary v. State (NCT of Delhi)",
+        "citation": "2026 LiveLaw (Del) 917",
+        "coram": "Navin Chawla, Arun Bhardwaj, JJ.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Re-arrest needs a magistrate's reasoned permission after a vitiated arrest",
+        "kind": "Held",
+        "text": "Where an accused is freed because grounds of arrest were not supplied, police need a magistrate's reasoned permission to re-arrest. Re-arrest merely because charges were added was illegal.",
+        "why": "Lays down the procedure after an Article 22(1) violation.",
+        "tag": "Criminal procedure",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/re-arrest-illegal-no-magistrate-permission-earlier-arrest-vitiated-grounds-of-arrest-not-suppplied-552059",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Ms G v. State (NCT of Delhi)",
+        "caseNo": "CRL.M.M. 4970/2026",
+        "coram": "Saurabh Banerjee, J.",
+        "date": "Reported 28 Sep 2026",
+        "headline": "Rape survivor must be heard before the accused gets bail",
+        "kind": "Held",
+        "text": "A victim may take part at every stage, including regular bail hearings. The bail order passed without notice to her was set aside and sent back for a fresh hearing within two weeks.",
+        "tag": "Victim rights",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/rape-victim-hearing-before-granting-bail-552136",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Ayush Kumar v. National Testing Agency",
+        "citation": "2026 LiveLaw (Del) 919",
+        "coram": "Jasmeet Singh, J.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "NTA to issue duplicate NEET-UG scorecards to foreign medical graduates",
+        "kind": "Held",
+        "text": "The Court relaxed document requirements, allowing self-attested affidavits and photographs. Applications are due within 7 days and scorecards within 7 more, ahead of the FMGE.",
+        "tag": "Education",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-directs-nta-to-issue-duplicate-neet-ug-scorecards-to-foreign-medical-graduates-who-lost-originals-552090",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Janhvi Kapoor v. John Does",
+        "coram": "Anup Jairam Bhambhani, J.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Amici appointed to settle scope of celebrity personality rights",
+        "kind": "Pending",
+        "text": "The Court picked three suits to decide whether using a celebrity's photo breaches personality rights when the photographer owns the copyright. Gautam Bhatia and Rohan Alva were appointed amici.",
+        "tag": "Personality rights",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/personality-rights-celebritys-photo-copyright-vests-with-photographer-552123",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Jammu & Kashmir and Ladakh",
+      "items": [
+       {
+        "caseName": "Tabinda Nazir v. Union Territory",
+        "citation": "2026 LiveLaw (JKL) 423",
+        "coram": "Sanjay Parihar, J.",
+        "date": "Reported 28 Sep 2026",
+        "headline": "Baramulla fake-decree probe moved to Crime Branch SIT",
+        "kind": "Held",
+        "text": "The Court transferred the probe into allegedly fabricated judicial records to the Crime Branch and formed an SIT. Advocate Tabinda Nazir was granted interim bail.",
+        "tag": "Investigation",
+        "src": "https://www.livelaw.in/high-court/jammu-kashmir/serious-ramifications-on-judicial-delivery-system-jk-high-court-transfers-investigation-in-baramulla-fake-decree-case-to-crime-branch-constitutes-sit-552052",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Karnataka",
+      "items": [
+       {
+        "caseName": "Dr. Ashwin Hebbar K. v. State of Karnataka",
+        "caseNo": "WP No. 18058 of 2022",
+        "coram": "V. Srishananda, J.",
+        "date": "Reported 28 Sep 2026",
+        "headline": "Internal Committee report cannot close a sexual harassment FIR",
+        "kind": "Held",
+        "text": "An offence under Section 354A IPC is cognizable and needs a police probe, so an Internal Committee's closure does not end it. Delay in filing is a trial defence, not a ground to quash.",
+        "tag": "Criminal · POSH",
+        "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-delay-lodging-complaint-ground-quash-fir-inception-stage-552116",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Pratap N.M. v. State of Karnataka",
+        "citation": "2026 LiveLaw (Kar) 382",
+        "caseNo": "Crl.P 469/2025",
+        "coram": "Suraj Govindaraj, J.",
+        "date": "Reported 28 Sep 2026",
+        "headline": "FIR against YouTuber over sodium-in-water experiment quashed",
+        "kind": "Held",
+        "text": "Sodium is not an explosive substance and the video showed no malicious intent under the Explosive Substances Act. The FIR was quashed with a caution against repeating such stunts.",
+        "tag": "Quashing",
+        "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-fir-youtuber-drone-prathap-sodium-water-experiment-552064",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Kerala",
+      "items": [
+       {
+        "caseName": "In Re Exorbitant Pricing of Life Saving Patented Medicines",
+        "citation": "2026 LiveLaw (Ker) 528",
+        "coram": "Harisankar V. Menon, J.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Centre can use Section 100 Patents Act to supply costly patented drugs",
+        "kind": "Held",
+        "text": "Section 100 of the Patents Act lets the Centre make and supply patented medicines for non-commercial government use. The Court said this is warranted where life-saving drugs are priced out of reach.",
+        "why": "Opens a route to affordable access to high-priced life-saving medicines.",
+        "tag": "Patents",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-patented-drugs-s100-552031",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Muhammed Nihad v. State of Kerala",
+        "citation": "2026 LiveLaw (Ker) 533",
+        "caseNo": "Bail Appl. 4493/2026",
+        "coram": "Kauser Edappagath, J.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Anticipatory bail for YouTuber 'Thoppi' in obscenity case",
+        "kind": "Held",
+        "text": "After viewing the video, the Court found no obscene or sexually coloured words spoken by the applicant against the complainant. Custodial interrogation was unnecessary, so bail was granted.",
+        "tag": "Anticipatory bail",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-thoppi-youtuber-552173",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Madras",
+      "items": [
+       {
+        "caseName": "K.R. Periyakaruppan v. R. Seenivasa Sethupathi",
+        "citation": "2026 LiveLaw (Mad) 465",
+        "caseNo": "ELP 34 of 2026",
+        "coram": "G.K. Ilanthiraiyan, J.",
+        "date": "Decided 28 Sep 2026",
+        "headline": "Challenge to one-vote win in Tirupattur rejected at threshold",
+        "kind": "Held",
+        "text": "The election petition was rejected for not pleading material facts. Even taken as true, the allegations did not show the result was materially affected.",
+        "tag": "Election law",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-seenivasa-sethupathi-one-vote-victory-election-challenge-dismissed-552033",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "R v. R",
+        "citation": "2026 LiveLaw (Mad) 466",
+        "caseNo": "CMA(MD) Nos. 993 & 994 of 2022",
+        "coram": "G.R. Swaminathan, M.D. Sumathi, JJ.",
+        "date": "Reported 28 Sep 2026",
+        "headline": "Not every clash between wife and in-laws is cruelty",
+        "kind": "Held",
+        "text": "The Madurai Bench refused the husband a divorce, finding no grave or continuing cruelty. The wife living with her parents while he worked abroad was not desertion.",
+        "tag": "Matrimonial",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-every-disagreement-spouse-parents-in-law-not-cruelty-552132",
+        "srcName": "LiveLaw"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc",
+    "num": "III",
+    "title": "District & Sessions Courts",
+    "short": "District Courts",
+    "tab": "District",
+    "pages": [
+     {
+      "title": "Reported rulings",
+      "items": [
+       {
+        "caseName": "Women Wrestlers v. Brij Bhushan Sharan Singh",
+        "coram": "Special Judge Digvinay Singh",
+        "date": "Decided 28 Sep 2026",
+        "court": "Rouse Avenue Court, New Delhi, Delhi",
+        "headline": "Notice to Brij Bhushan on wrestlers' appeal against his acquittal",
+        "kind": "Notice",
+        "text": "The court sought responses from Brij Bhushan Sharan Singh and co-accused Vinod Tomar on four women wrestlers' appeal against their acquittal. The matter is next listed on 9 October.",
+        "tag": "Sexual harassment",
+        "src": "https://www.barandbench.com/news/litigation/sexual-harassment-delhi-court-seeks-brij-bhushans-response-to-women-wrestlers-appeal-against-his-acquittal",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "title": "LiveLaw: High Courts Daily Highlights, 28 September 2026",
+    "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-september-28-2026-552168"
+   },
+   {
+    "title": "LiveLaw: Supreme Court and Top Stories",
+    "url": "https://www.livelaw.in/supreme-court"
+   },
+   {
+    "title": "LiveLaw: High Courts section",
+    "url": "https://www.livelaw.in/high-court"
+   },
+   {
+    "title": "Verdictum: M.V. Nereus Progress, 2026 INSC 1055",
+    "url": "https://www.verdictum.in/supreme-court/owners-and-parties-interested-in-mv-nereus-progress-v-om-freight-forwarders-ltd-2026-insc-1055-1622902"
+   },
+   {
+    "title": "Bar & Bench: Litigation news",
+    "url": "https://www.barandbench.com/news/litigation"
+   }
+  ]
+ },
+ {
+  "edition": {
    "vol": "Vol. I · No. 4",
    "badge": "",
    "dateLong": "Monday, 28 September 2026",
