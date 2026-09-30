@@ -1,55 +1,45 @@
 {
  "edition": {
-  "edition_id": "2026-09-30-am",
+  "edition_id": "2026-09-30-pm",
   "iso": "2026-09-30",
-  "slot": "10 AM",
+  "slot": "6 PM",
   "dateShort": "30 Sep 2026",
-  "dateLong": "Wednesday, 30 September 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 29 September to 10:00 AM IST, 30 September 2026"
+  "dateLong": "Wednesday, 30 September 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 30 September 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "Telangana",
-   "body": "Supreme Court Collegium",
-   "headline": "Collegium recommends sending Justice T Vinod Kumar back to Telangana High Court before he retires",
-   "text": "At its meeting on 28 September, the Supreme Court Collegium recommended that Justice T Vinod Kumar, now a judge of the Madras High Court, be repatriated to his parent Telangana High Court. He was appointed to the Telangana High Court in 2019 and moved to Madras in June 2025. The Collegium cited his approaching retirement, due on 16 November 2026.",
-   "why": "If notified by the Centre, he will finish his tenure in his parent High Court.",
-   "date": "29 Sep 2026",
-   "src": "https://www.livelaw.in/high-court/madras-high-court/supreme-court-collegium-recommends-repatriation-of-justice-t-vinod-kumar-to-telangana-hc-ahead-of-retirement-552301",
-   "srcName": "LiveLaw"
-  },
-  {
-   "cat": "Judiciary",
-   "region": "Karnataka",
-   "body": "Karnataka High Court",
-   "headline": "Karnataka High Court sets up 3-judge panel to study new benches in 8 regions",
-   "text": "The Karnataka High Court has formed a committee of Justices Anu Sivaraman, S.G. Pandit and Mohammad Nawaz to examine whether circuit or permanent benches are feasible at Mangaluru, Udupi, Shivamogga, Chikkamagaluru, Kodagu-Madikeri, Hassan, Davanagere and Uttara Kannada. The panel is to consult stakeholders before reporting. The High Court currently sits at Bengaluru, Dharwad and Kalaburagi.",
-   "why": "The move follows a push from the State for a coastal bench at Mangaluru, which the Advocates' Association Bengaluru has opposed.",
-   "date": "29 Sep 2026",
-   "src": "https://www.barandbench.com/news/litigation/karnataka-high-court-constitutes-3-member-committee-to-examine-feasibility-of-more-hc-benches",
-   "srcName": "Bar & Bench"
-  },
-  {
-   "cat": "Judiciary",
    "region": "All India",
    "body": "Supreme Court of India",
-   "headline": "Supreme Court asks its Registry to explain why a listed contempt case was dropped from the cause list",
-   "text": "A bench of Justices Ujjal Bhuyan and A.S. Chandurkar found that contempt petitions over IPS deputations to the Central Armed Police Forces had been struck off the day's list around noon, despite a judicial order listing them for 2 pm. The bench directed the Registry to explain the deletion and relisted the matter for 30 September at 2 pm.",
-   "why": "It puts the Supreme Court's own listing process under scrutiny.",
-   "date": "29 Sep 2026",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-questions-registry-for-deleting-capf-contempt-matter-from-list-552324",
+   "headline": "Special bench questions how CAPF contempt case was moved; ASG says she had asked the CJI for joint hearing",
+   "text": "A special bench of Justice Manoj Misra and Justice Ujjal Bhuyan took up the contempt petitions on IPS deputation to the Central Armed Police Forces after they were dropped from Justice Bhuyan's list and reassigned without notice to the petitioners. The bench asked why the original bench was not told before the shift. ASG Aishwarya Bhati said she had mentioned the matter before the Chief Justice to have it heard with the challenge to the CAPF (General Administration) Act, 2026, and apologised for not informing the petitioners. The matter will be heard on 15 October with the writ petitions.",
+   "why": "It raises questions about how cases are listed and moved between benches in the Supreme Court.",
+   "date": "30 Sep 2026",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-special-bench-criticises-manner-of-capf-contempt-case-listing-centre-says-request-was-made-before-cji-552469",
    "srcName": "LiveLaw"
   },
   {
-   "cat": "Legal Education & Careers",
-   "region": "Gujarat",
-   "body": "Gujarat National Law University",
-   "headline": "GNLU students protest over health, water and sanitation problems on campus",
-   "text": "Students at GNLU, Gandhinagar, protested over conditions on campus, citing a student magazine count of 93 dengue cases, 58 cases of an unexplained viral illness and 20 food-poisoning incidents. They demanded independent audits of water, food and sanitation, better medical facilities, and online classes until problems are fixed. The Registrar said water and food tests are under way and bottled water has been supplied.",
-   "date": "29 Sep 2026",
-   "src": "https://www.barandbench.com/Law-School/gnlu-students-protest-over-health-water-and-sanitation-conditions-on-campus",
+   "cat": "Executive & Government",
+   "region": "Karnataka",
+   "body": "Government of Karnataka",
+   "headline": "Karnataka tells High Court it will not act against cinemas over 2% ticket cess for now",
+   "text": "The Karnataka Cine and Cultural Activists (Welfare) Act, under which a 2% cess on cinema ticket revenue is to fund the welfare of cine workers, was due to take effect on 30 September. Responding to challenges by the Multiplex Association of India, PVR INOX and others, the State assured the High Court it would take no coercive action against cinema operators for the time being. The case will be heard next on 26 October.",
+   "why": "Cinema owners in Karnataka get interim protection while the validity of the new cess law is tested.",
+   "date": "30 Sep 2026",
+   "src": "https://www.barandbench.com/news/litigation/will-not-take-action-against-cinema-exhibitors-over-2-cinema-ticket-cess-state-to-karnataka-high-court",
    "srcName": "Bar & Bench"
+  },
+  {
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Labour and Employment",
+   "headline": "Pension scheme amended so more EPF members earning up to ₹25,000 a month get pension cover",
+   "text": "The Labour Ministry has amended the Employees' Pension Scheme, 2026 by a notification dated 25 September, with effect from 17 September. A new clause lets EPF members earning at or below the new wage ceiling of ₹25,000 a month join the pension scheme even if they were earlier left out.",
+   "why": "It carries the recent rise in the EPF wage ceiling into pension coverage for workers.",
+   "date": "30 Sep 2026",
+   "src": "https://www.scconline.com/blog/post/2026/09/30/employees-pension-scheme-2026-amendment-epf-members-explained/",
+   "srcName": "SCC Online Blog"
   }
  ]
 }
