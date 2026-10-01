@@ -1,0 +1,1335 @@
+{
+ "month": "2026-09",
+ "issue": "Vol. I · No. 1",
+ "published": "2026-10-01",
+ "lead": {
+  "kicker": "Supreme Court · POCSO & family law",
+  "landmark": true,
+  "headline": "Supreme Court sets safeguards against misuse of POCSO in custody battles",
+  "deck": "Where a parent is accused under POCSO during a matrimonial dispute, there is to be no automatic arrest on an FIR, and a child psychiatrist or psychologist must be consulted first.",
+  "body": [
+   "A bench of Justices J.B. Pardiwala and K.V. Viswanathan has laid down safeguards for complaints under the Protection of Children from Sexual Offences Act made against a parent during a matrimonial dispute. Registration of an FIR in such a case will not lead to automatic arrest.",
+   "A child psychiatrist or psychologist must be consulted first. On the facts, the Court quashed a mother's FIR against the father, which the CBI had found unsupported, and asked the Family Court to oversee the child's return to him.",
+   "POCSO is a strict statute that raises presumptions against the accused so that children are protected quickly. The ruling gives police and courts national guardrails for the narrower situation in which such a complaint is made in the middle of a custody battle."
+  ],
+  "cases": [
+   {
+    "name": "'R' v. 'E' & Anr. (and connected matters)",
+    "note": "2026 LiveLaw (SC) 982 · 2026 INSC 1049 · J.B. Pardiwala & K.V. Viswanathan, JJ. · Decided 24 Sep 2026",
+    "src": "https://www.livelaw.in/top-stories/supreme-court-lays-down-safeguards-to-prevent-misuse-of-pocso-act-in-child-custody-cases-quashes-false-fir-against-father-551637"
+   }
+  ]
+ },
+ "articles": [
+  {
+   "section": "Supreme Court · Sentencing",
+   "landmark": true,
+   "headline": "Only constitutional courts can bar remission, Supreme Court rules",
+   "body": [
+    "In Naval Kishore v. State of Punjab, the Court held that only the Supreme Court and the High Courts can impose a fixed-term or whole-life sentence that excludes remission. A Sessions Court's no-remission life term was replaced with 25 years' rigorous imprisonment without remission.",
+    "This 'special category' of sentence was recognised by the Constitution Bench in Union of India v. V. Sriharan (2015). In a separate appeal, a three-judge bench upheld a man's conviction for the rape and murder of his six-year-old stepdaughter but commuted his death sentence to life imprisonment."
+   ],
+   "cases": [
+    {
+     "name": "Naval Kishore & Anr. v. State of Punjab",
+     "note": "2026 INSC 1048 · Aravind Kumar, Vipul M. Pancholi, JJ.",
+     "src": "https://www.livelaw.in/supreme-court/sessions-court-cannot-impose-special-category-sentence-barring-statutory-remission-and-commutation-supreme-court-551703"
+    },
+    {
+     "name": "Waris v. State of Madhya Pradesh",
+     "note": "Three-judge bench · death sentence commuted",
+     "src": "https://www.livelaw.in/top-stories/supreme-court-commutes-death-sentence-awarded-to-man-convicted-for-rape-murder-of-6-year-old-stepdaughter-551590"
+    }
+   ]
+  },
+  {
+   "section": "Supreme Court · Criminal procedure",
+   "landmark": true,
+   "headline": "No prior sanction needed before a Magistrate orders an FIR",
+   "body": [
+    "A Magistrate's direction under Section 156(3) CrPC to register an FIR comes before cognizance, the Court held, so sanction under Section 197 to prosecute a public servant is not needed at that stage. The investigation, which the High Court had quashed, will resume.",
+    "Section 197 shields public servants from prosecution for acts done in the discharge of official duty unless the government sanctions it, and the bar operates when a court takes cognizance. The ruling separates that bar from the earlier step of setting an investigation in motion."
+   ],
+   "cases": [
+    {
+     "name": "Sri Anumandala Rajesh Reddy v. State of Karnataka & Anr.",
+     "note": "2026 INSC 1039 · Vikram Nath, Sandeep Mehta, JJ.",
+     "src": "https://www.livelaw.in/top-stories/supreme-court-1563-precognizance-step-sanction-section197-crpc-that-stage-551655"
+    }
+   ]
+  },
+  {
+   "section": "Supreme Court · Preventive detention",
+   "landmark": true,
+   "headline": "Custodial confession alone cannot sustain NSA detention",
+   "body": [
+    "A confession made in police custody cannot by itself support a preventive detention order, the Court held. The National Security Act detention of an accused in the Sambhal violence was quashed, and costs of Rs 10 lakh were imposed on Uttar Pradesh.",
+    "The ruling protects the Article 22(5) safeguard against detention built on custodial statements. The Bombay High Court likewise set aside an MPDA Act detention, holding that an assumption that the detenu would probably get bail, without material to back it, is not a valid ground."
+   ],
+   "cases": [
+    {
+     "name": "Mulla Afroz v. Union of India",
+     "note": "2026 LiveLaw (SC) 999 · Datta, Nagu, JJ.",
+     "src": "https://www.livelaw.in/top-stories/preventive-detention-cant-be-solely-based-on-custodial-confession-supreme-court-552340"
+    },
+    {
+     "name": "Aman @ Aman Ibrahim Khan v. The Commissioner of Police, Pune",
+     "note": "Bombay HC · MPDA detention set aside",
+     "src": "https://www.livelaw.in/high-court/bombay-high-court/preventive-detention-cannot-rest-assumption-detenu-obtain-bail-551928"
+    }
+   ]
+  },
+  {
+   "section": "Supreme Court · Women's safety",
+   "landmark": false,
+   "headline": "Safety audit of Delhi-NCR public spaces ordered within four weeks",
+   "body": [
+    "In the suo motu case on recent rape incidents in Delhi-NCR, the Court directed police to map vulnerable spots district by district, step up patrols and audit street lighting and CCTV, including at transit hubs. Status reports are due in four weeks.",
+    "The bench described the incidents as a systemic failure of policing and administration. Separately, the Delhi High Court held that a rape survivor may take part at every stage, including regular bail hearings, and set aside a bail order passed without notice to her."
+   ],
+   "cases": [
+    {
+     "name": "In Re: Recent Rape Incidents in Delhi NCR",
+     "note": "2026 LiveLaw (SC) 996 · Pardiwala, Vinod Chandran, JJ.",
+     "src": "https://www.livelaw.in/top-stories/suo-motu-case-on-delhi-rapessupreme-court-issues-directions-make-public-spaces-safer-women-children-delhi-ncr-552163"
+    },
+    {
+     "name": "Ms G v. State (NCT of Delhi)",
+     "note": "Delhi HC · survivor to be heard on bail",
+     "src": "https://www.livelaw.in/high-court/delhi-high-court/rape-victim-hearing-before-granting-bail-552136"
+    }
+   ]
+  },
+  {
+   "section": "Supreme Court · Labour & service law",
+   "landmark": false,
+   "headline": "Rs 1 lakh each for daily-wagers in 25-year-old Bihar dues case",
+   "body": [
+    "Bihar and Jharkhand must pay each daily-wage worker Rs 1 lakh, with 12% interest on delayed provident fund and 6% on delayed wages. The Court rejected a flat Rs 42.50-a-day rate as unfair. Untraced workers get 12 months to claim.",
+    "In a separate ruling, the Court held that a senior cannot be paid less than a junior holding the same post. Two lecturers appointed on the same day in 1990 drew different pay after advance increments; the gap had no valid basis and violated the guarantee of equality."
+   ],
+   "cases": [
+    {
+     "name": "Bihar State Ardh Sarkari Arajpati Karamchari Maha Sangh v. State of Bihar",
+     "note": "2026 LiveLaw (SC) 995 · Nath, Mehta, JJ.",
+     "src": "https://www.livelaw.in/supreme-court/supreme-court-directs-1-lakh-compensation-for-daily-wage-workers-in-25-year-old-bihar-workmen-dues-case-552139"
+    },
+    {
+     "name": "Jai Prakash Singh v. State of Uttar Pradesh & Ors.",
+     "note": "2026 LiveLaw (SC) 993 · pay parity",
+     "src": "https://www.livelaw.in/supreme-court/senior-officer-cannot-be-paid-less-than-junior-holding-same-post-supreme-court-551953"
+    }
+   ]
+  },
+  {
+   "section": "High Courts · Criminal procedure",
+   "landmark": false,
+   "headline": "Re-arrest after a vitiated arrest needs a magistrate's reasoned nod",
+   "body": [
+    "Where an accused is freed because the grounds of arrest were not supplied, police need a magistrate's reasoned permission to arrest again, a Delhi High Court Division Bench held. Re-arresting the accused merely because charges had been added was illegal.",
+    "The ruling lays down the procedure to follow after a breach of Article 22(1), which requires that an arrested person be informed of the grounds of arrest as soon as may be. Without that step, a fresh arrest cannot cure the earlier illegality."
+   ],
+   "cases": [
+    {
+     "name": "Manoj Chaudhary v. State (NCT of Delhi)",
+     "note": "2026 LiveLaw (Del) 917 · Chawla, Bhardwaj, JJ.",
+     "src": "https://www.livelaw.in/high-court/delhi-high-court/re-arrest-illegal-no-magistrate-permission-earlier-arrest-vitiated-grounds-of-arrest-not-suppplied-552059"
+    }
+   ]
+  },
+  {
+   "section": "High Courts · Health & consumer rights",
+   "landmark": false,
+   "headline": "Plastic warnings stay; Centre may use patent law for costly drugs",
+   "body": [
+    "The Madras High Court rejected FSSAI's review of its order requiring warnings about micro- and nano-plastics on packs of water, salt and sugar, holding that consumers have a right to know.",
+    "The Kerala High Court held that Section 100 of the Patents Act lets the Centre make and supply patented medicines for non-commercial government use, and said this is warranted where life-saving drugs are priced out of reach."
+   ],
+   "cases": [
+    {
+     "name": "Food Safety and Standards Authority of India v. G. Subramania Koushik",
+     "note": "2026 LiveLaw (Mad) 469 · Division Bench",
+     "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-micro-nano-plastic-warning-label-order-no-recall-552322"
+    },
+    {
+     "name": "In Re Exorbitant Pricing of Life Saving Patented Medicines",
+     "note": "2026 LiveLaw (Ker) 528 · Harisankar V. Menon, J.",
+     "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-patented-drugs-s100-552031"
+    }
+   ]
+  },
+  {
+   "section": "High Courts · Legal profession",
+   "landmark": false,
+   "headline": "Bar Council told to frame a minimum stipend for junior advocates",
+   "body": [
+    "The Madhya Pradesh High Court directed the State Bar Council to frame guidelines on a minimum stipend for junior advocates within six months. It suggested Rs 20,000 a month in cities and Rs 15,000 in rural areas, for three years.",
+    "In Delhi, the High Court imposed costs of Rs 1 lakh on counsel who joined a virtual hearing from a moving car, holding that this breached the video-conferencing rules."
+   ],
+   "cases": [
+    {
+     "name": "Vipin Pandey v. Rani Durgavati University",
+     "note": "2026 LiveLaw (MP) 391 · Vishal Mishra, J.",
+     "src": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-directs-state-bar-council-to-frame-guidelines-for-minimum-stipend-for-junior-advocates-552254"
+    },
+    {
+     "name": "South Indian Bank Ltd. v. National Highways Authority of India",
+     "note": "Delhi HC · Om Prakash Shukla, J.",
+     "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-fines-lawyer-1-lakh-for-appearing-virtually-from-moving-car-552223"
+    }
+   ]
+  }
+ ],
+ "policy": [
+  {
+   "cat": "Judiciary",
+   "region": "All India",
+   "headline": "Collegium recommends three High Court Chief Justices for the Supreme Court",
+   "text": "Chief Justices Sunita Agarwal (Gujarat), Devendra Kumar Upadhyaya (Delhi) and Aparesh Kumar Singh (Telangana) were recommended on 28 September. The names now go to the Centre for notification.",
+   "src": "https://www.livelaw.in/top-stories/collegium-recommends-elevation-of-three-high-court-chief-justices-as-supreme-court-judges-552143",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Executive & Government",
+   "region": "All India",
+   "headline": "RBI cuts export-realisation deadline from 15 months to 9",
+   "text": "Amended FEMA export-import regulations require exporters to realise and repatriate proceeds within 9 months, or 12 months for rupee-invoiced exports. The changes take effect on 1 October 2026.",
+   "src": "https://www.scconline.com/blog/post/2026/09/29/rbi-amends-fema-export-import-goods-services-regulations-2026/",
+   "srcName": "SCC Online Blog"
+  },
+  {
+   "cat": "Executive & Government",
+   "region": "All India",
+   "headline": "Pension cover extended to EPF members earning up to ₹25,000 a month",
+   "text": "A Labour Ministry notification of 25 September amends the Employees' Pension Scheme, 2026 with effect from 17 September. Members at or below the new wage ceiling may join even if earlier left out.",
+   "src": "https://www.scconline.com/blog/post/2026/09/30/employees-pension-scheme-2026-amendment-epf-members-explained/",
+   "srcName": "SCC Online Blog"
+  },
+  {
+   "cat": "Executive & Government",
+   "region": "All India",
+   "headline": "FSSAI to adopt red-hexagon warnings for foods high in sugar, fat or salt",
+   "text": "FSSAI told the Supreme Court it will follow Canada's front-of-pack model. Draft regulations are planned in about four months, with a 60-day consultation and a 365-day voluntary window.",
+   "src": "https://www.livelaw.in/top-stories/adopting-canadian-model-on-warning-labels-for-packaged-foods-high-in-fat-sugar-or-salt-fssai-informs-supreme-court-551972",
+   "srcName": "LiveLaw"
+  }
+ ],
+ "briefs": [
+  {
+   "court": "Supreme Court",
+   "caseName": "Union of India & Ors. v. Ramdhani Prasad",
+   "note": "Article 311(1) does not bar removal by an officer of equal rank.",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-article311-protection-attracted-removing-officer-not-subordinate-appointing-authority-551693"
+  },
+  {
+   "court": "Supreme Court",
+   "caseName": "Paramjit Singh Bedi v. State of Punjab",
+   "note": "A prosecutrix's statement cannot be partly accepted and partly rejected; conviction set aside.",
+   "src": "https://www.livelaw.in/supreme-court/there-cant-be-part-acceptance-part-rejection-of-prosecutrixs-statement-supreme-court-acquits-man-in-rape-case-551857"
+  },
+  {
+   "court": "Supreme Court",
+   "caseName": "Sukhabhai Nanjibhai Makwana & Anr. v. Union of India",
+   "note": "A missing ticket cannot defeat a railway death claim by a bona fide passenger.",
+   "src": "https://www.verdictum.in/supreme-court/sukhabhai-nanjibhai-makwana-anr-v-union-of-india-2026-insc-1056-bonafide-passenger-ticket-1622723"
+  },
+  {
+   "court": "Supreme Court",
+   "caseName": "Bombay Garage Ahmedabad Ltd. v. J P Iscon Pvt. Ltd.",
+   "note": "Order 2 Rule 2 CPC bar survives liberty granted under Order 23.",
+   "src": "https://www.livelaw.in/supreme-court/o-2-r-2-cpc-omitted-relief-remains-barred-despite-order-23-liberty-to-file-fresh-suit-supreme-court-552332"
+  },
+  {
+   "court": "Supreme Court",
+   "caseName": "M/s ASJ Finsolutions Pvt. Ltd. v. Vikram Bajaj",
+   "note": "Express e-auction forfeiture terms enforceable even if IBBI rules are silent.",
+   "src": "https://www.verdictum.in/supreme-court/ms-asj-finsolutions-pvt-ltd-v-vikram-bajaj-2026-insc-1062-insolvency-liquidation-1622989"
+  },
+  {
+   "court": "Supreme Court",
+   "caseName": "Owners and Parties Interested in M.V. Nereus Progress v. Om Freight Forwarders Ltd.",
+   "note": "Bareboat charter ends on a valid termination notice; vessel arrest vacated.",
+   "src": "https://www.verdictum.in/supreme-court/owners-and-parties-interested-in-mv-nereus-progress-v-om-freight-forwarders-ltd-2026-insc-1055-1622902"
+  },
+  {
+   "court": "Supreme Court",
+   "caseName": "Directorate of Enforcement v. Bhupesh Arora",
+   "note": "Settling the predicate offence does not wipe out money laundering; bail cancelled.",
+   "src": "https://www.barandbench.com/news/litigation/supreme-court-cancels-bail-of-accused-in-chinese-investment-app-money-laundering-case"
+  },
+  {
+   "court": "Kerala High Court",
+   "caseName": "Kerala Police Association v. State of Kerala",
+   "note": "Order abolishing a police officers' association breached Article 19(1)(c).",
+   "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-quashes-govt-order-abolishing-police-officers-association-says-it-violates-article-191c-rights-552202"
+  },
+  {
+   "court": "Karnataka High Court",
+   "caseName": "X v. Y",
+   "note": "No Section 65B certificate needed for electronic evidence in family courts.",
+   "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-certificate-section65b-evidence-act-not-mandatory-family-court-proceedings-552181"
+  },
+  {
+   "court": "Bombay High Court",
+   "caseName": "M/s. Pharmed Limited v. Union of India",
+   "note": "NPPA's 2009 blanket drug price ceiling quashed; DPCO needs formulation-wise pricing.",
+   "src": "https://www.livelaw.in/high-court/bombay-high-court/nppa-cannot-impose-blanket-drug-price-ceilings-551936"
+  },
+  {
+   "court": "Allahabad High Court",
+   "caseName": "Fanindra Das v. The General Manager",
+   "note": "Electricity is part of the right to life; Railways must give connection.",
+   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-electricity-connection-denied-over-decade-552145"
+  },
+  {
+   "court": "Special Court",
+   "caseName": "Sachin Hindurao Waze v. National Investigation Agency",
+   "note": "Bail in Antilia bomb scare case; no concrete evidence that terror was created.",
+   "src": "https://www.livelaw.in/news-updates/antilia-bomb-scare-case-special-court-criticises-nia-for-incompetence-questions-why-statements-of-ambani-family-not-recorded-552354"
+  },
+  {
+   "court": "NCLAT",
+   "caseName": "Assistant Commissioner v. Shruti Gupta & Ors",
+   "note": "Secured creditor silent for 30 days after liquidation begins relinquishes its security.",
+   "src": "https://www.livelawbiz.com/ibc/failure-to-opt-for-non-relinquishment-within-30-days-of-liquidation-makes-bank-guarantees-part-of-liquidation-estate-nclat-552198"
+  },
+  {
+   "court": "GSTAT, Bengaluru",
+   "caseName": "I-NXT v. Sandeep Banga, Commissioner, Bengaluru Zone & Ors.",
+   "note": "GSTR-3B/2A mismatch alone cannot justify a 100% Section 74 penalty.",
+   "src": "https://www.livelawbiz.com/gstat/mere-use-of-language-gstat-bengaluru-sets-aside-section-74-penalty-gst-return-mismatch-552274"
+  }
+ ],
+ "stats": {
+  "month": "2026-09",
+  "monthName": "September 2026",
+  "daysInMonth": 30,
+  "digest": {
+   "editions": 6,
+   "items": 140,
+   "supremeCourt": 39,
+   "highCourts": 95,
+   "districtCourts": 6,
+   "highCourtsCovered": 17,
+   "byCourt": [
+    [
+     "Supreme Court",
+     39
+    ],
+    [
+     "Delhi HC",
+     20
+    ],
+    [
+     "Karnataka HC",
+     14
+    ],
+    [
+     "Allahabad HC",
+     12
+    ],
+    [
+     "Madras HC",
+     9
+    ],
+    [
+     "Kerala HC",
+     7
+    ],
+    [
+     "Calcutta HC",
+     6
+    ],
+    [
+     "Punjab & Haryana HC",
+     5
+    ],
+    [
+     "Gujarat HC",
+     4
+    ],
+    [
+     "Madhya Pradesh HC",
+     4
+    ],
+    [
+     "Bombay HC",
+     3
+    ],
+    [
+     "Rajasthan HC",
+     2
+    ],
+    [
+     "Jammu & Kashmir and Ladakh HC",
+     2
+    ],
+    [
+     "Chhattisgarh HC",
+     2
+    ],
+    [
+     "Patna HC",
+     2
+    ],
+    [
+     "Telangana HC",
+     1
+    ],
+    [
+     "Uttarakhand HC",
+     1
+    ],
+    [
+     "Andhra Pradesh HC",
+     1
+    ]
+   ],
+   "byKind": [
+    [
+     "Held",
+     113
+    ],
+    [
+     "Pending",
+     11
+    ],
+    [
+     "Notice",
+     11
+    ],
+    [
+     "Reserved",
+     5
+    ]
+   ],
+   "byArea": [
+    [
+     "Criminal",
+     10
+    ],
+    [
+     "Election law",
+     8
+    ],
+    [
+     "Service law",
+     6
+    ],
+    [
+     "Bail",
+     5
+    ],
+    [
+     "Family",
+     5
+    ],
+    [
+     "Education",
+     4
+    ],
+    [
+     "Criminal procedure",
+     4
+    ],
+    [
+     "PMLA",
+     3
+    ],
+    [
+     "Evidence",
+     3
+    ],
+    [
+     "Sentencing",
+     3
+    ],
+    [
+     "Anti-corruption",
+     3
+    ],
+    [
+     "Preventive detention",
+     2
+    ],
+    [
+     "Matrimonial",
+     2
+    ],
+    [
+     "Civil procedure",
+     2
+    ],
+    [
+     "Patents",
+     2
+    ],
+    [
+     "Anticipatory bail",
+     2
+    ],
+    [
+     "RTI",
+     2
+    ],
+    [
+     "Maintenance",
+     2
+    ],
+    [
+     "Quashing",
+     2
+    ],
+    [
+     "Contempt",
+     2
+    ],
+    [
+     "Admiralty",
+     2
+    ],
+    [
+     "Personality rights",
+     2
+    ],
+    [
+     "Investigation",
+     2
+    ],
+    [
+     "Free speech",
+     2
+    ],
+    [
+     "POCSO",
+     2
+    ],
+    [
+     "Defamation",
+     2
+    ],
+    [
+     "Insolvency",
+     1
+    ],
+    [
+     "Sports bodies",
+     1
+    ],
+    [
+     "Public health",
+     1
+    ],
+    [
+     "Dowry death",
+     1
+    ],
+    [
+     "Real estate · PMLA",
+     1
+    ],
+    [
+     "Food regulation",
+     1
+    ],
+    [
+     "Court conduct",
+     1
+    ],
+    [
+     "Property",
+     1
+    ],
+    [
+     "Tort",
+     1
+    ],
+    [
+     "Freedom of association",
+     1
+    ],
+    [
+     "Legal profession",
+     1
+    ],
+    [
+     "Consumer rights",
+     1
+    ],
+    [
+     "UAPA · Bail",
+     1
+    ],
+    [
+     "Labour law",
+     1
+    ],
+    [
+     "Women's safety",
+     1
+    ],
+    [
+     "GST · Advocates",
+     1
+    ],
+    [
+     "Payments",
+     1
+    ],
+    [
+     "Article 21",
+     1
+    ],
+    [
+     "Election symbol",
+     1
+    ],
+    [
+     "Victim rights",
+     1
+    ],
+    [
+     "Criminal · POSH",
+     1
+    ],
+    [
+     "Sexual harassment",
+     1
+    ],
+    [
+     "Compensation",
+     1
+    ],
+    [
+     "Senior citizens",
+     1
+    ],
+    [
+     "Cow Slaughter Act",
+     1
+    ],
+    [
+     "Drug pricing",
+     1
+    ],
+    [
+     "Recruitment exams",
+     1
+    ],
+    [
+     "Cheque bounce",
+     1
+    ],
+    [
+     "Advocates",
+     1
+    ],
+    [
+     "Arms Act",
+     1
+    ],
+    [
+     "Contracts",
+     1
+    ],
+    [
+     "Railway claims",
+     1
+    ],
+    [
+     "Places of worship",
+     1
+    ],
+    [
+     "Custodial violence",
+     1
+    ],
+    [
+     "GST",
+     1
+    ],
+    [
+     "UAPA",
+     1
+    ],
+    [
+     "Official language",
+     1
+    ],
+    [
+     "Disability rights",
+     1
+    ],
+    [
+     "Police accountability",
+     1
+    ],
+    [
+     "Privacy",
+     1
+    ],
+    [
+     "Arbitration",
+     1
+    ],
+    [
+     "Right to protest",
+     1
+    ],
+    [
+     "Land acquisition",
+     1
+    ],
+    [
+     "Infrastructure",
+     1
+    ],
+    [
+     "Anti-defection",
+     1
+    ],
+    [
+     "Reservation",
+     1
+    ],
+    [
+     "Water dispute",
+     1
+    ],
+    [
+     "Child protection",
+     1
+    ],
+    [
+     "Right to travel",
+     1
+    ],
+    [
+     "Press freedom",
+     1
+    ],
+    [
+     "SC/ST Act",
+     1
+    ],
+    [
+     "Adoption",
+     1
+    ],
+    [
+     "Hindu law",
+     1
+    ],
+    [
+     "Minority rights",
+     1
+    ],
+    [
+     "Personal law",
+     1
+    ],
+    [
+     "Habeas corpus",
+     1
+    ]
+   ],
+   "perDay": {
+    "2026-09-25": 37,
+    "2026-09-26": 27,
+    "2026-09-27": 18,
+    "2026-09-29": 22,
+    "2026-09-30": 36
+   },
+   "highlights": [
+    {
+     "date": "2026-09-30",
+     "court": "Supreme Court of India",
+     "caseName": "Mulla Afroz v. Union of India",
+     "text": "A custodial confession alone can't justify NSA detention; Rs 10 lakh costs on UP."
+    },
+    {
+     "date": "2026-09-30",
+     "court": "Supreme Court of India",
+     "caseName": "Directorate of Enforcement v. Bhupesh Arora",
+     "text": "Bail cancelled in Chinese app PMLA case: settling the fraud doesn't erase laundering."
+    },
+    {
+     "date": "2026-09-30",
+     "court": "High Court of Allahabad",
+     "caseName": "Case title not yet reported",
+     "text": "Hookah bars barred across UP, even in designated smoking areas."
+    },
+    {
+     "date": "2026-09-30",
+     "court": "High Court of Kerala",
+     "caseName": "Kerala Police Association v. State of Kerala",
+     "text": "Order abolishing a police officers' association breached Article 19(1)(c)."
+    },
+    {
+     "date": "2026-09-30",
+     "court": "High Court of Madhya Pradesh",
+     "caseName": "Vipin Pandey v. Rani Durgavati University",
+     "text": "Bar Council must frame a minimum stipend for junior advocates."
+    },
+    {
+     "date": "2026-09-29",
+     "court": "Supreme Court of India",
+     "caseName": "Bihar State Ardh Sarkari Arajpati Karamchari Maha Sangh v. State of Bihar",
+     "text": "Bihar and Jharkhand must pay Rs 1 lakh each, with interest, to daily-wage workers in a 25-year-old dues case."
+    },
+    {
+     "date": "2026-09-29",
+     "court": "Supreme Court of India",
+     "caseName": "In Re: Recent Rape Incidents in Delhi NCR",
+     "text": "Delhi-NCR police must map unsafe spots and audit lighting and CCTV within four weeks."
+    },
+    {
+     "date": "2026-09-29",
+     "court": "Supreme Court of India",
+     "caseName": "Puneet Batra v. Union of India",
+     "text": "Stay on a Delhi HC ruling that upheld a GST search of an advocate's office."
+    },
+    {
+     "date": "2026-09-29",
+     "court": "High Court of Kerala",
+     "caseName": "In Re Exorbitant Pricing of Life Saving Patented Medicines",
+     "text": "The Centre can invoke Section 100 of the Patents Act to supply unaffordable life-saving drugs."
+    },
+    {
+     "date": "2026-09-29",
+     "court": "High Court of Delhi",
+     "caseName": "Manoj Chaudhary v. State (NCT of Delhi)",
+     "text": "Re-arrest after a vitiated arrest needs a magistrate's reasoned permission."
+    },
+    {
+     "date": "2026-09-28",
+     "court": "All courts",
+     "caseName": null,
+     "text": "A Sunday window: legal publications reported no judgments or orders passed in these 24 hours. Regular sittings resume today."
+    },
+    {
+     "date": "2026-09-27",
+     "court": "Supreme Court of India",
+     "caseName": "Jai Prakash Singh v. State of Uttar Pradesh & Ors.",
+     "text": "A senior lecturer cannot be paid less than a junior holding the same post."
+    },
+    {
+     "date": "2026-09-27",
+     "court": "High Court of Delhi",
+     "caseName": "Shahbuddin v. State",
+     "text": "Rape conviction overturned after 13 years: forensic evidence contradicted the survivor's account."
+    },
+    {
+     "date": "2026-09-27",
+     "court": "High Court of Bombay",
+     "caseName": "M/s. Pharmed Limited v. Union of India",
+     "text": "NPPA's 2009 blanket drug price ceiling quashed for skipping the DPCO method."
+    },
+    {
+     "date": "2026-09-27",
+     "court": "High Court of Allahabad",
+     "caseName": "Shivendu Pandey v. State of U.P. & 11 Ors.",
+     "text": "UP told to frame a compensation policy for disasters like the Lucknow fire."
+    },
+    {
+     "date": "2026-09-27",
+     "court": "High Court of Kerala",
+     "caseName": "Yeshwant Shenoy v. Bar Council of Kerala",
+     "text": "Notice on a plea that Bar Council committees were formed without elections."
+    },
+    {
+     "date": "2026-09-27",
+     "court": "High Court of Uttarakhand",
+     "caseName": "Rapti v. State of Uttarakhand & Anr.",
+     "text": "A husband must maintain the stepson he knowingly accepted."
+    },
+    {
+     "date": "2026-09-26",
+     "court": "Supreme Court of India",
+     "caseName": "Paramjit Singh Bedi v. State of Punjab",
+     "text": "Rape conviction set aside: courts cannot accept part of the prosecutrix's statement and reject the rest."
+    },
+    {
+     "date": "2026-09-26",
+     "court": "Supreme Court of India",
+     "caseName": "Committee of Management, Jami Masjid Sambhal v. Hari Shankar Jain & Ors.",
+     "text": "Verdict reserved on the Sambhal mosque committee's challenge to the survey order."
+    },
+    {
+     "date": "2026-09-26",
+     "court": "Supreme Court of India",
+     "caseName": "Sukhabhai Nanjibhai Makwana & Anr. v. Union of India",
+     "text": "A missing train ticket cannot defeat a compensation claim for a passenger's death."
+    },
+    {
+     "date": "2026-09-26",
+     "court": "High Court of Delhi",
+     "caseName": "X v. State (NCT of Delhi) & Ors.",
+     "text": "Meta ordered to take down a morphed explicit image of a woman with the PM; police protection granted."
+    },
+    {
+     "date": "2026-09-26",
+     "court": "High Court of Madras",
+     "caseName": "Tulir Charitable Trust v. The State",
+     "text": "Media barred from airing videos linked to the POCSO case against R. Veeramani."
+    },
+    {
+     "date": "2026-09-26",
+     "court": "High Court of Jammu & Kashmir and Ladakh",
+     "caseName": "Directorate of Enforcement v. Md. Saleem Khan & Ors.",
+     "text": "ED's plea to add charges against Farooq Abdullah in the JKCA case rejected."
+    },
+    {
+     "date": "2026-09-25",
+     "court": "Supreme Court of India",
+     "caseName": "'R' v. 'E' & Anr.",
+     "text": "No automatic arrest when a parent is accused under POCSO in a custody fight; a child psychiatrist must be consulted first."
+    },
+    {
+     "date": "2026-09-25",
+     "court": "Supreme Court of India",
+     "caseName": "Waris v. State of Madhya Pradesh",
+     "text": "Death sentence for the rape-murder of a 6-year-old stepdaughter commuted to life imprisonment."
+    },
+    {
+     "date": "2026-09-25",
+     "court": "Supreme Court of India",
+     "caseName": "Danam Nagender v. Alleti Maheshwar Reddy",
+     "text": "Telangana MLA Danam Nagender's disqualification for defection upheld."
+    },
+    {
+     "date": "2026-09-25",
+     "court": "Supreme Court of India",
+     "caseName": "Union of India v. Rohith Nathan & Anr.",
+     "text": "Verdict reserved on the Centre's plea to make the OBC creamy-layer ruling prospective."
+    },
+    {
+     "date": "2026-09-25",
+     "court": "High Court of Delhi",
+     "caseName": "Ajeet Bharti v. State",
+     "text": "Anticipatory bail refused to Ajeet Bharti; video prima facie caste-based abuse of MP Chandrashekhar Azad."
+    },
+    {
+     "date": "2026-09-25",
+     "court": "High Court of Madras",
+     "caseName": "Annamalai K v. Piyush V",
+     "text": "Hate speech case against Annamalai quashed; criminal law is no tool to stifle political dissent."
+    }
+   ]
+  },
+  "tribunals": {
+   "editions": 6,
+   "items": 63,
+   "byTribunal": [
+    [
+     "NCLT",
+     30
+    ],
+    [
+     "NCLAT",
+     10
+    ],
+    [
+     "GSTAT",
+     9
+    ],
+    [
+     "ITAT",
+     8
+    ],
+    [
+     "CESTAT",
+     5
+    ],
+    [
+     "CCI",
+     1
+    ]
+   ]
+  },
+  "news": {
+   "editions": 6,
+   "items": 15,
+   "byCategory": [
+    [
+     "Judiciary",
+     6
+    ],
+    [
+     "Executive & Government",
+     4
+    ],
+    [
+     "Legal Education & Careers",
+     3
+    ],
+    [
+     "Other Legal News",
+     2
+    ]
+   ],
+   "states": 5,
+   "byRegion": [
+    [
+     "All India",
+     8
+    ],
+    [
+     "Karnataka",
+     2
+    ],
+    [
+     "Bihar",
+     2
+    ],
+    [
+     "Telangana",
+     1
+    ],
+    [
+     "Gujarat",
+     1
+    ],
+    [
+     "Delhi",
+     1
+    ]
+   ],
+   "headlines": [
+    {
+     "edition": "2026-09-30-pm",
+     "cat": "Judiciary",
+     "region": "All India",
+     "headline": "Special bench questions how CAPF contempt case was moved; ASG says she had asked the CJI for joint hearing",
+     "src": "https://www.livelaw.in/top-stories/supreme-court-special-bench-criticises-manner-of-capf-contempt-case-listing-centre-says-request-was-made-before-cji-552469",
+     "srcName": "LiveLaw"
+    },
+    {
+     "edition": "2026-09-30-pm",
+     "cat": "Executive & Government",
+     "region": "Karnataka",
+     "headline": "Karnataka tells High Court it will not act against cinemas over 2% ticket cess for now",
+     "src": "https://www.barandbench.com/news/litigation/will-not-take-action-against-cinema-exhibitors-over-2-cinema-ticket-cess-state-to-karnataka-high-court",
+     "srcName": "Bar & Bench"
+    },
+    {
+     "edition": "2026-09-30-pm",
+     "cat": "Executive & Government",
+     "region": "All India",
+     "headline": "Pension scheme amended so more EPF members earning up to ₹25,000 a month get pension cover",
+     "src": "https://www.scconline.com/blog/post/2026/09/30/employees-pension-scheme-2026-amendment-epf-members-explained/",
+     "srcName": "SCC Online Blog"
+    },
+    {
+     "edition": "2026-09-30-am",
+     "cat": "Judiciary",
+     "region": "Telangana",
+     "headline": "Collegium recommends sending Justice T Vinod Kumar back to Telangana High Court before he retires",
+     "src": "https://www.livelaw.in/high-court/madras-high-court/supreme-court-collegium-recommends-repatriation-of-justice-t-vinod-kumar-to-telangana-hc-ahead-of-retirement-552301",
+     "srcName": "LiveLaw"
+    },
+    {
+     "edition": "2026-09-30-am",
+     "cat": "Judiciary",
+     "region": "Karnataka",
+     "headline": "Karnataka High Court sets up 3-judge panel to study new benches in 8 regions",
+     "src": "https://www.barandbench.com/news/litigation/karnataka-high-court-constitutes-3-member-committee-to-examine-feasibility-of-more-hc-benches",
+     "srcName": "Bar & Bench"
+    },
+    {
+     "edition": "2026-09-30-am",
+     "cat": "Judiciary",
+     "region": "All India",
+     "headline": "Supreme Court asks its Registry to explain why a listed contempt case was dropped from the cause list",
+     "src": "https://www.livelaw.in/top-stories/supreme-court-questions-registry-for-deleting-capf-contempt-matter-from-list-552324",
+     "srcName": "LiveLaw"
+    },
+    {
+     "edition": "2026-09-30-am",
+     "cat": "Legal Education & Careers",
+     "region": "Gujarat",
+     "headline": "GNLU students protest over health, water and sanitation problems on campus",
+     "src": "https://www.barandbench.com/Law-School/gnlu-students-protest-over-health-water-and-sanitation-conditions-on-campus",
+     "srcName": "Bar & Bench"
+    },
+    {
+     "edition": "2026-09-29-pm",
+     "cat": "Executive & Government",
+     "region": "All India",
+     "headline": "RBI shortens deadline for bringing export money home from 15 months to 9 months",
+     "src": "https://www.scconline.com/blog/post/2026/09/29/rbi-amends-fema-export-import-goods-services-regulations-2026/",
+     "srcName": "SCC Online Blog"
+    },
+    {
+     "edition": "2026-09-29-pm",
+     "cat": "Legal Education & Careers",
+     "region": "Delhi",
+     "headline": "JGLS pair win Mediation Championship of India 2026; GNLU student named top mediator",
+     "src": "https://www.barandbench.com/Law-School/jgls-duo-wins-mediation-championship-of-india-2026-as-counsel-gnlu-student-top-mediator",
+     "srcName": "Bar & Bench"
+    },
+    {
+     "edition": "2026-09-29-am",
+     "cat": "Judiciary",
+     "region": "All India",
+     "headline": "Collegium recommends three High Court Chief Justices for elevation to the Supreme Court",
+     "src": "https://www.livelaw.in/top-stories/collegium-recommends-elevation-of-three-high-court-chief-justices-as-supreme-court-judges-552143",
+     "srcName": "LiveLaw"
+    },
+    {
+     "edition": "2026-09-29-am",
+     "cat": "Other Legal News",
+     "region": "All India",
+     "headline": "Supreme Court asks Centre to consider rules on minors' social media accounts; Centre says it will examine",
+     "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-centre-to-consider-framing-rules-to-regulate-social-media-accounts-of-minors",
+     "srcName": "Bar & Bench"
+    },
+    {
+     "edition": "2026-09-27-am",
+     "cat": "Executive & Government",
+     "region": "All India",
+     "headline": "FSSAI to bring in red-hexagon warning labels on packaged food high in sugar, fat or salt",
+     "src": "https://www.livelaw.in/top-stories/adopting-canadian-model-on-warning-labels-for-packaged-foods-high-in-fat-sugar-or-salt-fssai-informs-supreme-court-551972",
+     "srcName": "LiveLaw"
+    },
+    {
+     "edition": "2026-09-27-am",
+     "cat": "Other Legal News",
+     "region": "All India",
+     "headline": "Senior Advocate Dushyant Dave criticises SIR voter-roll revision in memorial lecture",
+     "src": "https://www.livelaw.in/top-stories/adult-franchise-going-away-thanks-to-supreme-court-election-commission-senior-advocate-dushyant-dave-criticises-sir-551991",
+     "srcName": "LiveLaw"
+    },
+    {
+     "edition": "2026-09-26-pm",
+     "cat": "Judiciary",
+     "region": "Bihar",
+     "headline": "CJI Surya Kant opens a Victim Rights Centre in Patna",
+     "src": "https://www.livelaw.in/news-updates/cji-surya-kant-to-inaugurate-victim-rights-centre-at-patna-on-sept-26-551588",
+     "srcName": "LiveLaw"
+    },
+    {
+     "edition": "2026-09-26-pm",
+     "cat": "Legal Education & Careers",
+     "region": "Bihar",
+     "headline": "CJI holds open house with CNLU Patna students, welcomes idea of court apprenticeship in final year",
+     "src": "https://www.livelaw.in/top-stories/cji-surya-kant-holds-open-house-with-law-students-takes-questions-on-police-action-collegium-551950",
+     "srcName": "LiveLaw"
+    }
+   ]
+  },
+  "library": {
+   "addedThisMonth": 15,
+   "addedNames": [
+    "Sri Anumandala Rajesh Reddy v. State of Karnataka & Anr.",
+    "Jai Prakash Singh v. State of Uttar Pradesh & Ors.",
+    "Waris v. State of Madhya Pradesh",
+    "Bihar State Ardh Sarkari Arajpati Karamchari Maha Sangh v. State of Bihar",
+    "In Re: Recent Rape Incidents in Delhi NCR",
+    "Owners and Parties Interested in M.V. Nereus Progress v. Om Freight Forwarders Ltd.",
+    "Paramjit Singh Bedi v. State of Punjab",
+    "Sukhabhai Nanjibhai Makwana & Anr. v. Union of India",
+    "'R' v. 'E' & Anr. (and connected matters)",
+    "Union of India & Ors. v. Ramdhani Prasad",
+    "Naval Kishore & Anr. v. State of Punjab",
+    "Mulla Afroz v. Union of India",
+    "S v. State of Odisha",
+    "M/s ASJ Finsolutions Pvt. Ltd. v. Vikram Bajaj",
+    "Bombay Garage Ahmedabad Ltd. v. J P Iscon Pvt. Ltd."
+   ],
+   "total": 68,
+   "landmarks": 53
+  },
+  "careers": {
+   "openNow": 15,
+   "addedThisMonth": 15,
+   "bySection": [
+    [
+     "LLM Admissions: NLUs & Maharashtra",
+     5
+    ],
+    [
+     "Government Legal Jobs & Internships",
+     3
+    ],
+    [
+     "Private Jobs, Fellowships & Internships",
+     3
+    ],
+    [
+     "Judicial Services & Judiciary",
+     2
+    ],
+    [
+     "Exams & Entrance Tests",
+     2
+    ]
+   ],
+   "booklets": 2,
+   "closingSoon": [
+    {
+     "name": "Internship Programme, Oct–Dec 2026",
+     "org": "Food Safety and Standards Authority of India (FSSAI), New Delhi"
+    }
+   ]
+  },
+  "bareActs": {
+   "central": 71,
+   "maharashtra": 37
+  },
+  "newsArchive": {
+   "stories": 572,
+   "years": 6
+  },
+  "generated": "2026-09-30T20:52+05:30"
+ },
+ "careers": {
+  "open": [
+   {
+    "section": "Government Legal Jobs & Internships",
+    "name": "Internship Programme, Oct–Dec 2026",
+    "org": "Food Safety and Standards Authority of India (FSSAI), New Delhi",
+    "eligibility": "Law students at bachelor's or master's level. Internships run 2 to 6 months.",
+    "status": "Closing soon",
+    "deadline": "1 Oct 2026",
+    "dlLabel": "Last date",
+    "iso": "2026-10-01",
+    "url": "https://sites.fssai.gov.in/internship/applyonline.php"
+   },
+   {
+    "section": "Private Jobs, Fellowships & Internships",
+    "name": "P. A. Sangma Fellowship for Legal and Policy Research (Sixth Cohort)",
+    "org": "National Law School of India University with the Government of Meghalaya",
+    "eligibility": "NLSIU bachelor's or master's graduates, or Meghalaya domiciles with a law degree from any university.",
+    "status": "Open",
+    "deadline": "9 Oct 2026, 5 PM",
+    "dlLabel": "Last date",
+    "iso": "2026-10-09",
+    "url": "https://www.nls.ac.in/news-events/call-for-applications-sixth-cohort-of-the-p-a-sangma-fellowship-for-legal-and-policy-research/"
+   },
+   {
+    "section": "Government Legal Jobs & Internships",
+    "name": "Legal Assistant, High Court Legal Services Committee",
+    "org": "High Court of Meghalaya, Shillong · Advt. No. HCM.II/I09/2020-Rect/54",
+    "eligibility": "LLB; legal-aid experience is preferred, not required. Age up to 32 (SC/ST 37).",
+    "status": "Open",
+    "deadline": "24 Oct 2026, 5 PM",
+    "dlLabel": "Last date",
+    "iso": "2026-10-24",
+    "url": "https://meghalayahighcourt.nic.in/sites/default/files/recruitment/R223.pdf"
+   },
+   {
+    "section": "Exams & Entrance Tests",
+    "name": "All India Bar Examination XXII",
+    "org": "Bar Council of India",
+    "eligibility": "LLB graduates, and final-semester LLB students with no backlogs. You need this to practise law.",
+    "status": "Open",
+    "deadline": "19 Aug – 27 Oct 2026",
+    "dlLabel": "Registration",
+    "iso": "2026-10-27",
+    "url": "https://www.allindiabarexamination.com/"
+   },
+   {
+    "section": "Private Jobs, Fellowships & Internships",
+    "name": "Graduate Research Fellowship 2027",
+    "org": "National Law School of India University, Bengaluru",
+    "eligibility": "Open to scholars in law, policy and the social sciences. NLSIU does not state a minimum qualification, so read the call before applying.",
+    "status": "Open",
+    "deadline": "30 Oct 2026, 5 PM",
+    "dlLabel": "Last date",
+    "iso": "2026-10-30",
+    "url": "https://www.nls.ac.in/news-events/call-for-applications-nlsiu-research-fellowships-multiple-positions-2/"
+   },
+   {
+    "section": "LLM Admissions: NLUs & Maharashtra",
+    "name": "LLM at NLUs through CLAT 2027 (PG)",
+    "org": "Consortium of National Law Universities",
+    "eligibility": "LLB graduates; final-year students may apply. One score covers LLM seats at the consortium NLUs, including MNLU Mumbai, Nagpur and Chhatrapati Sambhajinagar.",
+    "status": "Open",
+    "deadline": "31 Oct 2026",
+    "dlLabel": "Last date",
+    "iso": "2026-10-31",
+    "url": "https://consortiumofnlus.ac.in/clat-2027/"
+   },
+   {
+    "section": "LLM Admissions: NLUs & Maharashtra",
+    "name": "LLM at NLU Delhi through AILET 2027",
+    "org": "National Law University Delhi",
+    "eligibility": "Passed or in the final year of a 3-year or 5-year LLB.",
+    "status": "Open",
+    "deadline": "10 Nov 2026",
+    "dlLabel": "Last date",
+    "iso": "2026-11-10",
+    "url": "https://nationallawuniversitydelhi.in/"
+   }
+  ],
+  "awaited": [
+   {
+    "section": "Judicial Services & Judiciary",
+    "name": "Civil Judge (Junior Division): Odisha Judicial Service",
+    "org": "Odisha Public Service Commission",
+    "eligibility": "LLB; Odia language proficiency. Under the Supreme Court's August 2026 ruling, fresh graduates are now eligible during the transition period.",
+    "status": "Awaited",
+    "deadline": "",
+    "dlLabel": "",
+    "iso": "",
+    "url": "https://www.opsc.gov.in/"
+   },
+   {
+    "section": "Government Legal Jobs & Internships",
+    "name": "NITI Aayog Internship",
+    "org": "NITI Aayog, Government of India, New Delhi",
+    "eligibility": "Enrolled UG or PG students, including LLB students.",
+    "status": "Awaited",
+    "deadline": "",
+    "dlLabel": "",
+    "iso": "",
+    "url": "https://www.niti.gov.in/internship"
+   },
+   {
+    "section": "Exams & Entrance Tests",
+    "name": "UGC NET, December 2026 (Law)",
+    "org": "National Testing Agency",
+    "eligibility": "For LLM students and graduates (a master's degree is required; final-year LLM students may apply). Leads to Assistant Professor posts and the JRF.",
+    "status": "Awaited",
+    "deadline": "",
+    "dlLabel": "",
+    "iso": "",
+    "url": "https://ugcnet.nta.ac.in/"
+   },
+   {
+    "section": "LLM Admissions: NLUs & Maharashtra",
+    "name": "LL.M. at University of Mumbai (LL.M. CET)",
+    "org": "University of Mumbai, Department of Law and affiliated colleges",
+    "eligibility": "LLB graduates; admission is through the university's own LL.M. CET.",
+    "status": "Awaited",
+    "deadline": "",
+    "dlLabel": "",
+    "iso": "",
+    "url": "https://mu.ac.in/"
+   },
+   {
+    "section": "LLM Admissions: NLUs & Maharashtra",
+    "name": "LL.M. at Symbiosis Law School, Pune",
+    "org": "Symbiosis International (Deemed University) · private",
+    "eligibility": "3-year or 5-year LLB with 50%. Selection through Symbiosis AIAT (written test plus personal interview).",
+    "status": "Awaited",
+    "deadline": "",
+    "dlLabel": "",
+    "iso": "",
+    "url": "https://www.symlaw.ac.in/llm-admissions-process.php"
+   },
+   {
+    "section": "LLM Admissions: NLUs & Maharashtra",
+    "name": "LL.M. at NMIMS Kirit P. Mehta School of Law, Mumbai",
+    "org": "SVKM's NMIMS (Deemed University) · private",
+    "eligibility": "LLB with 50%; final-year students may apply. Admission through the NMIMS test or a CLAT PG score, plus an interview.",
+    "status": "Awaited",
+    "deadline": "",
+    "dlLabel": "",
+    "iso": "",
+    "url": "https://llm.nmims.edu/"
+   }
+  ]
+ }
+}
