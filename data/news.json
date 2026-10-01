@@ -1,45 +1,34 @@
 {
  "edition": {
-  "edition_id": "2026-09-30-pm",
-  "iso": "2026-09-30",
-  "slot": "6 PM",
-  "dateShort": "30 Sep 2026",
-  "dateLong": "Wednesday, 30 September 2026 · Evening edition",
-  "window": "News from 10:00 AM to 4:00 PM IST, 30 September 2026"
+  "edition_id": "2026-10-01-am",
+  "iso": "2026-10-01",
+  "slot": "10 AM",
+  "dateShort": "1 Oct 2026",
+  "dateLong": "Thursday, 1 October 2026 · Morning edition",
+  "window": "News from 4:00 PM IST, 30 September to 10:00 AM IST, 1 October 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "Special bench questions how CAPF contempt case was moved; ASG says she had asked the CJI for joint hearing",
-   "text": "A special bench of Justice Manoj Misra and Justice Ujjal Bhuyan took up the contempt petitions on IPS deputation to the Central Armed Police Forces after they were dropped from Justice Bhuyan's list and reassigned without notice to the petitioners. The bench asked why the original bench was not told before the shift. ASG Aishwarya Bhati said she had mentioned the matter before the Chief Justice to have it heard with the challenge to the CAPF (General Administration) Act, 2026, and apologised for not informing the petitioners. The matter will be heard on 15 October with the writ petitions.",
-   "why": "It raises questions about how cases are listed and moved between benches in the Supreme Court.",
+   "region": "Uttar Pradesh",
+   "body": "Allahabad High Court",
+   "headline": "Allahabad High Court judge calls for less Chief Justice-centric administration and more accountability",
+   "text": "In a ruling arising from four cases on delays and bail compliance in the subordinate courts, Justice Vinod Diwakar of the Allahabad High Court questioned how the High Court is run administratively. He noted that about 84 administrative committees are handled by two or three senior judges, that committee minutes are not shared with the Full Court, and that only 16 Full Court meetings were held in ten years even though the rules call for quarterly meetings. He suggested wider participation by puisne judges, clear promotion criteria and accountability mechanisms for administrative decisions.",
+   "why": "It is a rare public critique from within a High Court of how administrative power is concentrated in the Chief Justice and a few senior judges.",
    "date": "30 Sep 2026",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-special-bench-criticises-manner-of-capf-contempt-case-listing-centre-says-request-was-made-before-cji-552469",
+   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-chief-justice-centric-administration-participative-decision-making-552573",
    "srcName": "LiveLaw"
   },
   {
-   "cat": "Executive & Government",
-   "region": "Karnataka",
-   "body": "Government of Karnataka",
-   "headline": "Karnataka tells High Court it will not act against cinemas over 2% ticket cess for now",
-   "text": "The Karnataka Cine and Cultural Activists (Welfare) Act, under which a 2% cess on cinema ticket revenue is to fund the welfare of cine workers, was due to take effect on 30 September. Responding to challenges by the Multiplex Association of India, PVR INOX and others, the State assured the High Court it would take no coercive action against cinema operators for the time being. The case will be heard next on 26 October.",
-   "why": "Cinema owners in Karnataka get interim protection while the validity of the new cess law is tested.",
+   "cat": "Bar & Bar Councils",
+   "region": "Odisha",
+   "body": "Orissa High Court Bar Association",
+   "headline": "Orissa High Court lawyers to march to Governor's house and stay away from work over judge vacancies",
+   "text": "The Orissa High Court Bar Association resolved to abstain from court work on 1 October and hold a peaceful march from Bhubaneswar Club to the Governor's residence (Lok Bhawan). It says only 15 of the court's 33 sanctioned judge posts are filled, two more judges retire in November, and over 1.72 lakh cases are pending. The Bar will give the Governor a memorandum for the President seeking quick appointments.",
+   "why": "With the High Court working at under half its sanctioned strength, the Bar is pressing the Centre and the Collegium to fill the vacancies.",
    "date": "30 Sep 2026",
-   "src": "https://www.barandbench.com/news/litigation/will-not-take-action-against-cinema-exhibitors-over-2-cinema-ticket-cess-state-to-karnataka-high-court",
-   "srcName": "Bar & Bench"
-  },
-  {
-   "cat": "Executive & Government",
-   "region": "All India",
-   "body": "Ministry of Labour and Employment",
-   "headline": "Pension scheme amended so more EPF members earning up to ₹25,000 a month get pension cover",
-   "text": "The Labour Ministry has amended the Employees' Pension Scheme, 2026 by a notification dated 25 September, with effect from 17 September. A new clause lets EPF members earning at or below the new wage ceiling of ₹25,000 a month join the pension scheme even if they were earlier left out.",
-   "why": "It carries the recent rise in the EPF wage ceiling into pension coverage for workers.",
-   "date": "30 Sep 2026",
-   "src": "https://www.scconline.com/blog/post/2026/09/30/employees-pension-scheme-2026-amendment-epf-members-explained/",
-   "srcName": "SCC Online Blog"
+   "src": "https://livelaw.in/high-court/orissa-high-court/orissa-high-court-bar-association-hold-peaceful-march-governor-residence-552528",
+   "srcName": "LiveLaw"
   }
  ]
 }

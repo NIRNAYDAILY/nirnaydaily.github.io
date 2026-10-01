@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-01T00:23+05:30",
+ "updated": "2026-10-01T10:11+05:30",
  "news": [
+  {
+   "edition": "2026-10-01-am",
+   "headline": "Allahabad High Court judge calls for less Chief Justice-centric administration and more accountability",
+   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-chief-justice-centric-administration-participative-decision-making-552573"
+  },
+  {
+   "edition": "2026-10-01-am",
+   "headline": "Orissa High Court lawyers to march to Governor's house and stay away from work over judge vacancies",
+   "src": "https://livelaw.in/high-court/orissa-high-court/orissa-high-court-bar-association-hold-peaceful-march-governor-residence-552528"
+  },
   {
    "edition": "2026-09-30-pm",
    "headline": "Special bench questions how CAPF contempt case was moved; ASG says she had asked the CJI for joint hearing",
@@ -397,7 +407,7 @@
  "latest": {
   "digest": "30 Sep 2026",
   "tribunals": "30 Sep 2026",
-  "news": "2026-09-30-pm",
+  "news": "2026-10-01-am",
   "careersBooklet": "2026-09-26",
   "careersPool": "2026-09-30"
  }
