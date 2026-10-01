@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1006,6 +1006,27 @@
    "pdf": "judgments/sc/pdf/bombay-garage-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 473288
+  },
+  {
+   "slug": "sanjay-badaya-2026",
+   "name": "Sanjay Badaya v. State of Rajasthan",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-01.json",
+   "pages": 8,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1686,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=499992026&type=j&order_date=2026-09-29&from=latest_judgements_order",
+   "added": "2026-10-01",
+   "keys": [
+    "2026 INSC 1065",
+    "sanjay badaya"
+   ],
+   "citation": "2026 INSC 1065",
+   "date": "2026-09-29",
+   "pdf": "judgments/sc/pdf/sanjay-badaya-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 222278
   }
  ]
 }

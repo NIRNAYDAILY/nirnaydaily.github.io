@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T10:11+05:30",
+ "updated": "2026-10-01T12:02+05:30",
  "news": [
   {
    "edition": "2026-10-01-am",
@@ -88,6 +88,61 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Employees State Insurance Corporation v. Sri Lakshmi Srinivasa Jute Mills Private Limited & Others",
+   "src": "https://www.livelawbiz.com/ibc/esi-contributions-cannot-be-treated-as-ordinary-operational-debt-under-ibc-nclat-552526"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Tamil Nadu Mercantile Bank Limited v. E. Santhanalakshmi & Ors.",
+   "src": "https://www.livelawbiz.com/ibc/personal-guarantor-who-settled-company-debt-cannot-claim-financial-creditor-status-nclat-552523"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Shri Sant Eknath Co-operative Sugar Factory Ltd. v. Sachin Ghayal Sugar Pvt. Ltd. & Anr.",
+   "src": "https://www.livelawbiz.com/nclat/nclat-directs-nclt-to-hear-collusion-plea-before-deciding-insolvency-case-552565"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Mekaster Finlease Limited v. Prayag Polytech Private Limited",
+   "src": "https://www.livelawbiz.com/nclat/once-cirp-commences-appeal-against-rejection-of-earlier-section-7-application-becomes-infructuous-creditor-must-pursue-claim-within-ongoing-cirp-nclat-552476"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Phantom Studios India Pvt. Ltd. v. Eros International Media Ltd.",
+   "src": "https://www.livelawbiz.com/ibc/nclat-issues-notice-to-eros-in-appeal-filed-by-phantom-against-rejection-of-its-insolvency-plea-552465"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Rajputana Constructions Private Limited v. Rajasthan Land Holdings Limited",
+   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-jaipur-delivers-split-verdit-can-nclt-grant-blanket-immunity-statutory-liabilities-default-cirp-552477"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Phoenix ARC Private Limited v. M/s Cherupushpam Films Private Limited",
+   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-kochi-settlement-in-principal-borrower-cirp-does-not-extinguish-corporate-guarantor-liability-552579"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "VLM Null Group v. The Additional Commissioner, Grade II, Third & Ors.",
+   "src": "https://www.livelawbiz.com/amp/gst/delayed-e-invoice-generation-gstat-lucknow-sets-aside-penalty-tax-invoice-e-way-bill-lr-available-552497"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Mandalaneni Srinivasarao v. Sri Sai Traders",
+   "src": "https://www.livelawbiz.com/gst/gst-registrations-safe-gstat-hyderabad-delayed-dept-appeal-against-restoration-orders-552445"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "M/s Seafox Impex v. Commissioner, Customs, Noida (and connected appeals)",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/cestat-allahabad-sets-aside-value-enhancement-finds-import-data-missing-from-acceptance-letters-552505"
+  },
+  {
+   "edition": "1 Oct 2026",
+   "caseName": "Combination: BNP Paribas Cardif / IndiaFirst Life Insurance Company Limited",
+   "src": "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-clears-bnp-paribas-cardif-acquisition-equity-stake-indiafirst-life-insurance-company-ltd-552373"
+  },
   {
    "edition": "30 Sep 2026",
    "caseName": "Assistant Commissioner v. Shruti Gupta & Ors",
@@ -405,10 +460,10 @@
   }
  ],
  "latest": {
-  "digest": "30 Sep 2026",
-  "tribunals": "30 Sep 2026",
+  "digest": "1 Oct 2026",
+  "tribunals": "1 Oct 2026",
   "news": "2026-10-01-am",
   "careersBooklet": "2026-09-26",
-  "careersPool": "2026-09-30"
+  "careersPool": "2026-10-01"
  }
 }

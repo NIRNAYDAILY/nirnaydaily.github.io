@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "sections": [
   {
    "id": "judiciary",
@@ -71,7 +71,16 @@
      ],
      "added": "2026-09-25"
     }
-   ]
+   ],
+   "also": {
+    "title": "Also open, but they need practice experience",
+    "list": [
+     {
+      "text": "High Court of Andhra Pradesh: District Judge (Entry Level), 10 posts by direct recruitment from the Bar (7 years' practice), notified 30 Sep 2026",
+      "url": "https://aphc.gov.in/recruitment.php"
+     }
+    ]
+   }
   },
   {
    "id": "govt",
@@ -119,6 +128,80 @@
      "added": "2026-09-25"
     },
     {
+     "name": "Young Professional (without prior experience)",
+     "org": "Centre for Trade and Investment Law (CTIL), Indian Institute of Foreign Trade, New Delhi",
+     "sector": "Government",
+     "status": "Open",
+     "eligibility": "<b>LLB</b> (or a master's in economics, public policy or a related field) with at least 55%; <b>no experience needed</b>. Age up to 28.",
+     "facts": [
+      {
+       "k": "Posts",
+       "v": "2"
+      },
+      {
+       "k": "Pay",
+       "v": "₹50,000 / month"
+      },
+      {
+       "k": "Tenure",
+       "v": "1 year, extendable"
+      },
+      {
+       "k": "Advertised",
+       "v": "25 Sep 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "9 Oct 2026",
+       "iso": "2026-10-09"
+      }
+     ],
+     "note": "Work covers international trade and investment law (goods, services, IPR, trade agreements). Shortlisted candidates take a written test and an interview. Apply online only through the link in the advertisement.",
+     "links": [
+      {
+       "label": "Official advertisement",
+       "url": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf",
+       "primary": true
+      },
+      {
+       "label": "Apply online",
+       "url": "https://docs.iift.ac.in/recruit/solo.asp?jcode=YP(w)_Sep2026"
+      }
+     ],
+     "added": "2026-10-01"
+    },
+    {
+     "name": "NITI Aayog Internship",
+     "org": "NITI Aayog, Government of India, New Delhi",
+     "sector": "Government",
+     "status": "Open",
+     "eligibility": "<b>Enrolled UG or PG students</b>, including LLB students.",
+     "facts": [
+      {
+       "k": "Window",
+       "v": "1–10 Oct 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "10 Oct 2026",
+       "iso": "2026-10-10"
+      },
+      {
+       "k": "Status",
+       "v": "Opens every month, 1st to 10th"
+      }
+     ],
+     "note": "The online form is open only from the 1st to the 10th of each month; read the guidelines on the official page before applying.",
+     "links": [
+      {
+       "label": "Official internship page",
+       "url": "https://www.niti.gov.in/internship",
+       "primary": true
+      }
+     ],
+     "added": "2026-09-26"
+    },
+    {
      "name": "Legal Assistant, High Court Legal Services Committee",
      "org": "High Court of Meghalaya, Shillong · Advt. No. HCM.II/I09/2020-Rect/54",
      "sector": "Government",
@@ -162,30 +245,46 @@
      "added": "2026-09-26"
     },
     {
-     "name": "NITI Aayog Internship",
-     "org": "NITI Aayog, Government of India, New Delhi",
+     "name": "Winter Internship Programme 2026 (14 Dec 2026 – 8 Jan 2027)",
+     "org": "National Human Rights Commission (NHRC), New Delhi",
      "sector": "Government",
      "status": "Awaited",
-     "eligibility": "<b>Enrolled UG or PG students</b>, including LLB students.",
+     "eligibility": "University students including <b>law students in the senior years of LLB and LLM students</b>; at least 65% in Class XII and every semester since; age up to 28. Earlier NHRC summer/winter interns cannot apply.",
      "facts": [
       {
-       "k": "Next window",
-       "v": "1–10 Oct 2026"
+       "k": "Interns",
+       "v": "About 80"
       },
       {
-       "k": "Status",
-       "v": "Opens every month, 1st to 10th"
+       "k": "Duration",
+       "v": "4 weeks, in person, New Delhi"
+      },
+      {
+       "k": "Stipend",
+       "v": "₹12,000 plus 3rd AC train fare"
+      },
+      {
+       "k": "Announced",
+       "v": "1 Oct 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "See the official announcement"
       }
      ],
-     "note": "The online form is open only from the 1st to the 10th of each month; read the guidelines on the official page before applying.",
+     "note": "NHRC has announced the winter programme; check the official announcement for the application window and last date before applying. Apply online with a 300–500 word write-up on why you want to intern at NHRC.",
      "links": [
       {
        "label": "Official internship page",
-       "url": "https://www.niti.gov.in/internship",
+       "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes",
        "primary": true
+      },
+      {
+       "label": "Announcement (PDF)",
+       "url": "https://nhrc.nic.in/assets/uploads/summer_winter/1790831008_0ade143f0c1d2ae01354.pdf"
       }
      ],
-     "added": "2026-09-26"
+     "added": "2026-10-01"
     }
    ],
    "also": {
@@ -206,6 +305,10 @@
      {
       "text": "NALSA Assistant (Legal) and Assistant Legal Aid Advisor: 1–3 years' experience, closes 10 Oct 2026",
       "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
+     },
+     {
+      "text": "UPSC Advt. 12/2026: Law Officer, Land & Building Dept, GNCT Delhi, 3 posts (2 years' legal experience); Assistant Legislative Counsel, Ministry of Law, 8 posts (7 years' experience); closes 16 Oct 2026",
+      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
      }
     ]
    }
