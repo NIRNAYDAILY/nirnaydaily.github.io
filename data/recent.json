@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-01T12:02+05:30",
+ "updated": "2026-10-01T17:53+05:30",
  "news": [
+  {
+   "edition": "2026-10-01-pm",
+   "headline": "Retired judge heading a West Bengal voter-roll appeals tribunal offers to resign over 70-km daily commute",
+   "src": "https://www.livelaw.in/news-updates/west-bengal-sir-appellate-tribunal-judge-offers-to-resign-cites-70-km-daily-commute-552652"
+  },
+  {
+   "edition": "2026-10-01-pm",
+   "headline": "Supreme Court asks Attorney General to consider raising the 25-member cap on State Bar Councils",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-asks-ag-to-consider-plea-to-enhance-state-bar-councils-strength-552661"
+  },
+  {
+   "edition": "2026-10-01-pm",
+   "headline": "Rajanna R elected Chairperson of Karnataka State Bar Council; Shivamurthy is Vice-Chairperson",
+   "src": "https://www.livelaw.in/news-updates/elected-chairman-karnataka-state-bar-council-552663"
+  },
   {
    "edition": "2026-10-01-am",
    "headline": "Allahabad High Court judge calls for less Chief Justice-centric administration and more accountability",
@@ -462,7 +477,7 @@
  "latest": {
   "digest": "1 Oct 2026",
   "tribunals": "1 Oct 2026",
-  "news": "2026-10-01-am",
+  "news": "2026-10-01-pm",
   "careersBooklet": "2026-09-26",
   "careersPool": "2026-10-01"
  }

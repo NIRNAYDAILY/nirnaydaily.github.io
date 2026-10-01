@@ -1,10 +1,7 @@
 {
- "ran": "2026-10-01T12:02+05:30",
+ "ran": "2026-10-01T17:53+05:30",
  "processed": [
-  "digest_2026-10-01.json: judgments & orders 1 Oct 2026: 28 items",
-  "pool_2026-10-01.json: careers portal: 17 listings (0 closed removed)",
-  "sc_2026-10-01.json: supreme court full texts: 1 added",
-  "tribunals_2026-10-01.json: tribunals 1 Oct 2026: 11 items"
+  "news_2026-10-01-pm.json: legal news 2026-10-01-pm: 3 items"
  ],
  "errors": [],
  "notes": []
