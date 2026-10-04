@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01",
+ "updated": "2026-10-04",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1027,6 +1027,195 @@
    "pdf": "judgments/sc/pdf/sanjay-badaya-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 222278
+  },
+  {
+   "slug": "himachal-pradesh-2026",
+   "name": "State of Himachal Pradesh v. Anchla @ Chanchla",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 60,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 12066,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=42402015&type=j&order_date=2026-10-01&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1074",
+    "anchla"
+   ],
+   "citation": "2026 INSC 1074",
+   "date": "2026-10-01",
+   "pdf": "judgments/sc/pdf/himachal-pradesh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 798800
+  },
+  {
+   "slug": "santosh-gurung-2026",
+   "name": "Santosh Gurung v. State of Sikkim",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 22,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5347,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=416472017&type=j&order_date=2026-10-01&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1073",
+    "santosh gurung"
+   ],
+   "citation": "2026 INSC 1073",
+   "date": "2026-10-01",
+   "pdf": "judgments/sc/pdf/santosh-gurung-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 251262
+  },
+  {
+   "slug": "orris-infrastructure-2026",
+   "name": "Orris Infrastructure Pvt. Ltd. v. Rakesh Kumar Gupta",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 37,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 10704,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=362522023&type=j&order_date=2026-09-30&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1070",
+    "orris infrastructure"
+   ],
+   "citation": "2026 INSC 1070",
+   "date": "2026-09-30",
+   "pdf": "judgments/sc/pdf/orris-infrastructure-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 473083
+  },
+  {
+   "slug": "sterling-holiday-2026",
+   "name": "Sterling Holiday Resorts Ltd. v. M/s P.M. Associates",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 31,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6763,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=276332013&type=j&order_date=2026-09-30&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1071",
+    "sterling holiday"
+   ],
+   "citation": "2026 INSC 1071",
+   "date": "2026-09-30",
+   "pdf": "judgments/sc/pdf/sterling-holiday-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 353971
+  },
+  {
+   "slug": "sainaba-2026",
+   "name": "Sainaba v. State of Kerala",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 16,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5265,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=612692025&type=j&order_date=2026-09-30&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1069",
+    "sainaba"
+   ],
+   "citation": "2026 INSC 1069",
+   "date": "2026-09-30",
+   "pdf": "judgments/sc/pdf/sainaba-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 419680
+  },
+  {
+   "slug": "saurabh-bajaj-2026",
+   "name": "Saurabh Bajaj v. State of Chhattisgarh",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 5,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 861,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=425932026&type=j&order_date=2026-09-29&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1076",
+    "saurabh bajaj"
+   ],
+   "citation": "2026 INSC 1076",
+   "date": "2026-09-29",
+   "pdf": "judgments/sc/pdf/saurabh-bajaj-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 197085
+  },
+  {
+   "slug": "surinder-ahuja-2026",
+   "name": "Surinder Ahuja v. State of Punjab",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 50,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 8915,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=244342019&type=j&order_date=2026-09-29&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1068",
+    "surinder ahuja"
+   ],
+   "citation": "2026 INSC 1068",
+   "date": "2026-09-29",
+   "pdf": "judgments/sc/pdf/surinder-ahuja-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 431212
+  },
+  {
+   "slug": "maharashtra-2026",
+   "name": "State of Maharashtra v. Ramesh Sukrya Mhatre",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 36,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6249,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=541182026&type=j&order_date=2026-09-28&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1075",
+    "mhatre"
+   ],
+   "citation": "2026 INSC 1075",
+   "date": "2026-09-28",
+   "pdf": "judgments/sc/pdf/maharashtra-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 390753
+  },
+  {
+   "slug": "central-bureau-2026",
+   "name": "Central Bureau of Investigation v. Anil Dixit",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-04.json",
+   "pages": 8,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1694,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=477692026&type=j&order_date=2026-09-25&from=latest_judgements_order",
+   "added": "2026-10-04",
+   "keys": [
+    "2026 INSC 1064",
+    "anil dixit"
+   ],
+   "citation": "2026 INSC 1064",
+   "date": "2026-09-25",
+   "pdf": "judgments/sc/pdf/central-bureau-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 519892
   }
  ]
 }
