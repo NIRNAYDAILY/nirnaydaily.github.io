@@ -1,6 +1,41 @@
 {
- "updated": "2026-10-04T06:48+05:30",
+ "updated": "2026-10-04T14:00+05:30",
  "news": [
+  {
+   "edition": "2026-10-04-am",
+   "headline": "NHRC takes cognizance of children allegedly used as shields at Mumbai protest",
+   "src": "https://www.verdictum.in/news/human-rights-commission-cockroach-janta-party-mumbai-protest-children-1623283"
+  },
+  {
+   "edition": "2026-10-04-am",
+   "headline": "Youth Congress moves Delhi High Court after police refuse Jantar Mantar protest",
+   "src": "https://www.livelaw.in/top-stories/indian-youth-congress-moves-delhi-high-court-against-denial-of-permission-to-protest-against-cec-gyanesh-kumar-at-jantar-mantar-552966"
+  },
+  {
+   "edition": "2026-10-03-am",
+   "headline": "Gujarat Uniform Civil Code Bill gets the President's assent",
+   "src": "https://www.livelaw.in/news-updates/president-gives-assent-to-gujarats-uniform-civil-code-552901"
+  },
+  {
+   "edition": "2026-10-03-am",
+   "headline": "Lawyers' body sets up ex-judges' commission to examine the SIR voter-roll revision",
+   "src": "https://www.livelaw.in/top-stories/lawyers-body-forms-ex-judges-commission-to-examine-sirs-legality-impact-552879"
+  },
+  {
+   "edition": "2026-10-02-am",
+   "headline": "Indian jurist Bimal N. Patel sworn in as judge of the Law of the Sea tribunal",
+   "src": "https://www.livelaw.in/news-updates/jurist-bimal-patel-oath-judge-of-international-tribunal-for-the-law-of-the-sea-552754"
+  },
+  {
+   "edition": "2026-10-02-am",
+   "headline": "Plea challenges Delhi's 15% deputation and contract route for Additional Public Prosecutors",
+   "src": "https://www.barandbench.com/news/plea-in-delhi-high-court-challenges-appointment-of-additional-public-prosecutors-on-deputation-short-term-contracts"
+  },
+  {
+   "edition": "2026-10-02-am",
+   "headline": "Petition in Supreme Court challenges orders mandating all six stanzas of Vande Mataram",
+   "src": "https://www.barandbench.com/news/buddhist-activist-moves-supreme-court-against-singing-full-version-of-vande-mataram-terms-it-islamophobic"
+  },
   {
    "edition": "2026-10-01-pm",
    "headline": "Retired judge heading a West Bengal voter-roll appeals tribunal offers to resign over 70-km daily commute",
@@ -103,6 +138,11 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "4 Oct 2026",
+   "caseName": "Chanda Athish Kumar v. PVR Cinemas",
+   "src": "https://www.barandbench.com/news/litigation/consumer-court-orders-pvr-inox-to-pay-70k-for-delaying-film-screening-by-playing-ads"
+  },
   {
    "edition": "1 Oct 2026",
    "caseName": "Employees State Insurance Corporation v. Sri Lakshmi Srinivasa Jute Mills Private Limited & Others",
@@ -437,48 +477,13 @@
    "edition": "26 Sep 2026",
    "caseName": "The Cosmos Co-op. Bank Ltd. v. Rajendra Singhal",
    "src": "https://www.livelawbiz.com/ibc/guarantors-personal-benefit-not-necessary-for-enforcing-guarantee-nclt-indore-551843"
-  },
-  {
-   "edition": "25 Sep 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/ibc/nclat-upholds-eviction-of-occupants-from-venus-garments-properties-through-ibc-proceedings-551669"
-  },
-  {
-   "edition": "25 Sep 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/ibc/fraudulent-intent-not-necessary-to-establish-preferential-transaction-under-ibc-nclt-delhi-551659"
-  },
-  {
-   "edition": "25 Sep 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/nclt/nclt-mumbai-dismisses-insolvency-plea-against-shapoorji-pallonji-551653"
-  },
-  {
-   "edition": "25 Sep 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/nclt/secured-creditors-cannot-avoid-liquidation-costs-over-unfinalised-expenses-nclt-chennai-551551"
-  },
-  {
-   "edition": "25 Sep 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/customs/cestat/thecustoms-department-can-issue-a-demand-under-section-28-of-the-customs-act-for-differential-customs-duty-without-first-challenging-the-importers-self-assessment-551615"
-  },
-  {
-   "edition": "25 Sep 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/income-tax/itat-delhi-quashes-reassessment-against-company-over-defective-notice-551488"
-  },
-  {
-   "edition": "25 Sep 2026",
-   "caseName": "Combination: L'Oréal India Pvt. Ltd. / Onesto Labs Pvt. Ltd.",
-   "src": "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-clears-loreal-india-private-limited-100-per-cent-acquisition-onesto-labs-private-limited-551341"
   }
  ],
  "latest": {
-  "digest": "1 Oct 2026",
-  "tribunals": "1 Oct 2026",
-  "news": "2026-10-01-pm",
-  "careersBooklet": "2026-09-26",
-  "careersPool": "2026-10-01"
+  "digest": "4 Oct 2026",
+  "tribunals": "4 Oct 2026",
+  "news": "2026-10-04-am",
+  "careersBooklet": "2026-10-03",
+  "careersPool": "2026-10-04"
  }
 }

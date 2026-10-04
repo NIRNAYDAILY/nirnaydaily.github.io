@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01",
+ "updated": "2026-10-04",
  "sections": [
   {
    "id": "judiciary",
@@ -89,49 +89,10 @@
    "intro": "Government roles open to students and new graduates. Most PSU legal jobs hire through CLAT PG scores, so the exam page matters here too.",
    "items": [
     {
-     "name": "Internship Programme, Oct–Dec 2026",
-     "org": "Food Safety and Standards Authority of India (FSSAI), New Delhi",
-     "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "<b>Law students at bachelor's or master's level</b>. Internships run 2 to 6 months.",
-     "facts": [
-      {
-       "k": "Stipend",
-       "v": "₹10,000 (whole internship)"
-      },
-      {
-       "k": "Opened",
-       "v": "22 Sep 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "1 Oct 2026",
-       "iso": "2026-10-01"
-      },
-      {
-       "k": "Shortlist",
-       "v": "Early October"
-      }
-     ],
-     "note": "Earlier applicants must apply again. Shortlisted candidates may be asked for a write-up or presentation.",
-     "links": [
-      {
-       "label": "Apply online",
-       "url": "https://sites.fssai.gov.in/internship/applyonline.php",
-       "primary": true
-      },
-      {
-       "label": "Internship page",
-       "url": "https://sites.fssai.gov.in/internship/"
-      }
-     ],
-     "added": "2026-09-25"
-    },
-    {
      "name": "Young Professional (without prior experience)",
      "org": "Centre for Trade and Investment Law (CTIL), Indian Institute of Foreign Trade, New Delhi",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>LLB</b> (or a master's in economics, public policy or a related field) with at least 55%; <b>no experience needed</b>. Age up to 28.",
      "facts": [
       {
@@ -174,7 +135,7 @@
      "name": "NITI Aayog Internship",
      "org": "NITI Aayog, Government of India, New Delhi",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>Enrolled UG or PG students</b>, including LLB students.",
      "facts": [
       {
@@ -548,7 +509,7 @@
      "name": "P. A. Sangma Fellowship for Legal and Policy Research (Sixth Cohort)",
      "org": "National Law School of India University with the Government of Meghalaya",
      "sector": "Fellowship",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>NLSIU bachelor's or master's graduates</b>, or <b>Meghalaya domiciles with a law degree</b> from any university.",
      "facts": [
       {

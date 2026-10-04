@@ -1,49 +1,49 @@
 {
  "edition": {
   "title": "Nirnay Daily",
-  "vol": "Vol. I · No. 2",
+  "vol": "Vol. I · No. 3",
   "badge": "",
-  "iso": "2026-09-26",
-  "dateLong": "Saturday, 26 September 2026",
-  "dateShort": "26 Sep 2026",
-  "window": "Openings and exams found between 19 and 26 September 2026, plus anything with a last date in the next 30 days",
+  "iso": "2026-10-03",
+  "dateLong": "Saturday, 3 October 2026",
+  "dateShort": "3 Oct 2026",
+  "window": "Openings, exams and admissions open or awaited as of 3 October 2026, carried forward from the Nirnay Daily Careers Portal",
   "next": "Next edition: Saturday at 9:00 AM IST",
   "audience": "Law jobs, exams and LLM admissions for final-year students and fresh graduates of 3-year LLB and 5-year integrated law programmes",
   "subtitle": "Careers Edition · Weekly",
   "script": "निर्णय"
  },
  "feature": {
-  "kicker": "Closing Monday",
-  "headline": "Jharkhand High Court: 25 Law Researcher posts open to final-year students",
-  "text": "The High Court of Jharkhand is hiring 25 Law Researchers / Research Associates at ₹40,000 a month, and final-year LLB students can apply. Applications close on Monday, 28 September 2026, so this is the one to finish this weekend.",
+  "kicker": "Closing 9 October",
+  "headline": "IIFT trade-law centre hiring Young Professionals, no experience needed",
+  "text": "The Centre for Trade and Investment Law at the Indian Institute of Foreign Trade, New Delhi, is recruiting Young Professionals at ₹50,000 a month. Fresh LLB graduates can apply; the last date is Friday, 9 October 2026.",
   "points": [
-   "Open to fresh law graduates, plus 5th-year (5-year LLB) and final-year (3-year LLB) students who pass before joining.",
-   "Minimum 60% aggregate; age 21–28; one-year term, extendable to two.",
-   "Apply by email with one scanned PDF (10 MB max), as set out in the notification."
+   "LLB (or a related master's) with at least 55%; no experience needed; age up to 28.",
+   "Work covers international trade and investment law: goods, services, IPR and trade agreements.",
+   "Shortlisted candidates take a written test and an interview; apply only through the link in the advertisement."
   ],
-  "src": "https://www.jharkhandhighcourt.nic.in/pdfview.php?pdfnm=recruitment/Recruitment_Cell_2026_LRA_05092026",
-  "srcName": "High Court of Jharkhand · Advt. No. 01/Recruitment Cell/2026"
+  "src": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf",
+  "srcName": "Indian Institute of Foreign Trade · official advertisement"
  },
  "highlights": [
   {
-   "label": "Closes 28 Sep",
-   "text": "Jharkhand High Court: 25 Law Researcher posts, final-year students may apply",
-   "ref": "judiciary"
-  },
-  {
-   "label": "Closes 1 Oct",
-   "text": "FSSAI paid internship (Oct–Dec) open to law students",
+   "label": "Closes 9 Oct",
+   "text": "IIFT (CTIL) Young Professional, ₹50,000 a month, no experience needed",
    "ref": "govt"
   },
   {
-   "label": "Closes 24 Oct",
-   "text": "Meghalaya High Court: Legal Assistant, LLB with no practice required",
+   "label": "Closes 9 Oct",
+   "text": "NLSIU P.A. Sangma Fellowship for Legal and Policy Research",
+   "ref": "private"
+  },
+  {
+   "label": "Closes 10 Oct",
+   "text": "NITI Aayog internship open to law students",
    "ref": "govt"
   },
   {
-   "label": "Closes 31 Oct",
-   "text": "CLAT 2027 (PG): LLM at NLUs, including all three Maharashtra NLUs",
-   "ref": "llm"
+   "label": "Closes 27 Oct",
+   "text": "AIBE XXII registration for law graduates",
+   "ref": "exams"
   }
  ],
  "sections": [
@@ -51,51 +51,38 @@
    "id": "judiciary",
    "title": "Judicial Services & Judiciary",
    "short": "Civil Judge exams, High Court research posts",
-   "intro": "Judge-track openings and court research roles. Under Bhumika Trust v. Union of India (21 Aug 2026), fresh graduates can apply for Civil Judge (Junior Division) until 31 March 2027; no state has opened a new fresher-eligible notification this week.",
+   "intro": "Judge-track openings and court research roles. Research and clerkship posts are the best first step for fresh graduates aiming at the bench.",
    "items": [
     {
-     "name": "Law Researcher / Research Associate",
-     "org": "High Court of Jharkhand, Ranchi · Advt. No. 01/Recruitment Cell/2026",
+     "name": "Civil Judge (Junior Division), 2026",
+     "org": "High Court of Andhra Pradesh, Amaravati",
      "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "<b>Fresh law graduates and postgraduates</b>; final-year students may apply if they pass before joining. Minimum 60%, age 21–28.",
+     "status": "Open",
+     "eligibility": "<b>Law graduates</b>. Check the official notification for the practice requirement, age limit and fee before applying.",
      "facts": [
       {
        "k": "Posts",
-       "v": "25"
+       "v": "119"
       },
       {
-       "k": "Pay",
-       "v": "₹40,000 / month"
-      },
-      {
-       "k": "Apply from",
-       "v": "7 Sep 2026"
+       "k": "Notified",
+       "v": "25 Sep 2026"
       },
       {
        "k": "Last date",
-       "v": "28 Sep 2026",
-       "iso": "2026-09-28"
-      },
-      {
-       "k": "Fee",
-       "v": "None stated"
-      },
-      {
-       "k": "Term",
-       "v": "1 year, extendable to 2"
+       "v": "See official notification"
       }
      ],
-     "note": "Apply by email: one PDF of scanned documents, 10 MB max, sent to the address given in the notification.",
+     "note": "Listed on the High Court's recruitment page as notified on 25 September 2026. The notification is a scanned PDF: read it for the application dates, eligibility, fee and exam scheme.",
      "links": [
       {
-       "label": "Official notification",
-       "url": "https://www.jharkhandhighcourt.nic.in/pdfview.php?pdfnm=recruitment/Recruitment_Cell_2026_LRA_05092026",
+       "label": "Recruitment page",
+       "url": "https://aphc.gov.in/recruitments.php",
        "primary": true
       },
       {
-       "label": "High Court website",
-       "url": "https://www.jharkhandhighcourt.nic.in/"
+       "label": "Official notification (PDF)",
+       "url": "https://aphc.gov.in/docs/notification_1790338711_0.pdf"
       }
      ]
     },
@@ -128,49 +115,92 @@
       }
      ]
     }
-   ]
+   ],
+   "also": {
+    "title": "Also open, but they need practice experience",
+    "list": [
+     {
+      "text": "High Court of Andhra Pradesh: District Judge (Entry Level), 10 posts by direct recruitment from the Bar (7 years' practice), notified 30 Sep 2026",
+      "url": "https://aphc.gov.in/recruitment.php"
+     }
+    ]
+   }
   },
   {
    "id": "govt",
    "title": "Government Legal Jobs & Internships",
-   "short": "Courts, regulators, ministries, prosecution",
-   "intro": "Government roles and internships open to students and new graduates. Posts that need years at the Bar are listed separately below.",
+   "short": "PSUs, regulators, ministries, prosecution",
+   "intro": "Government roles open to students and new graduates. Most PSU legal jobs hire through CLAT PG scores, so the exam page matters here too.",
    "items": [
     {
-     "name": "Internship Programme, Oct–Dec 2026",
-     "org": "Food Safety and Standards Authority of India (FSSAI), New Delhi",
+     "name": "Young Professional (without prior experience)",
+     "org": "Centre for Trade and Investment Law (CTIL), Indian Institute of Foreign Trade, New Delhi",
      "sector": "Government",
      "status": "Closing soon",
-     "eligibility": "<b>Law students at bachelor's or master's level</b>. Internships run 2 to 6 months.",
+     "eligibility": "<b>LLB</b> (or a master's in economics, public policy or a related field) with at least 55%; <b>no experience needed</b>. Age up to 28.",
      "facts": [
       {
-       "k": "Stipend",
-       "v": "₹10,000 (whole internship)"
+       "k": "Posts",
+       "v": "2"
       },
       {
-       "k": "Opened",
-       "v": "22 Sep 2026"
+       "k": "Pay",
+       "v": "₹50,000 / month"
+      },
+      {
+       "k": "Tenure",
+       "v": "1 year, extendable"
+      },
+      {
+       "k": "Advertised",
+       "v": "25 Sep 2026"
       },
       {
        "k": "Last date",
-       "v": "1 Oct 2026",
-       "iso": "2026-10-01"
-      },
-      {
-       "k": "Shortlist",
-       "v": "Early October"
+       "v": "9 Oct 2026",
+       "iso": "2026-10-09"
       }
      ],
-     "note": "Earlier applicants must apply again. Shortlisted candidates may be asked for a write-up or presentation.",
+     "note": "Work covers international trade and investment law (goods, services, IPR, trade agreements). Shortlisted candidates take a written test and an interview. Apply online only through the link in the advertisement.",
      "links": [
       {
-       "label": "Apply online",
-       "url": "https://sites.fssai.gov.in/internship/applyonline.php",
+       "label": "Official advertisement",
+       "url": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf",
        "primary": true
       },
       {
-       "label": "Internship page",
-       "url": "https://sites.fssai.gov.in/internship/"
+       "label": "Apply online",
+       "url": "https://docs.iift.ac.in/recruit/solo.asp?jcode=YP(w)_Sep2026"
+      }
+     ]
+    },
+    {
+     "name": "NITI Aayog Internship",
+     "org": "NITI Aayog, Government of India, New Delhi",
+     "sector": "Government",
+     "status": "Closing soon",
+     "eligibility": "<b>Enrolled UG or PG students</b>, including LLB students.",
+     "facts": [
+      {
+       "k": "Window",
+       "v": "1–10 Oct 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "10 Oct 2026",
+       "iso": "2026-10-10"
+      },
+      {
+       "k": "Status",
+       "v": "Opens every month, 1st to 10th"
+      }
+     ],
+     "note": "The online form is open only from the 1st to the 10th of each month; read the guidelines on the official page before applying.",
+     "links": [
+      {
+       "label": "Official internship page",
+       "url": "https://www.niti.gov.in/internship",
+       "primary": true
       }
      ]
     },
@@ -217,27 +247,43 @@
      ]
     },
     {
-     "name": "NITI Aayog Internship",
-     "org": "NITI Aayog, Government of India, New Delhi",
+     "name": "Winter Internship Programme 2026 (14 Dec 2026 – 8 Jan 2027)",
+     "org": "National Human Rights Commission (NHRC), New Delhi",
      "sector": "Government",
      "status": "Awaited",
-     "eligibility": "<b>Enrolled UG or PG students</b>, including LLB students.",
+     "eligibility": "University students including <b>law students in the senior years of LLB and LLM students</b>; at least 65% in Class XII and every semester since; age up to 28. Earlier NHRC summer/winter interns cannot apply.",
      "facts": [
       {
-       "k": "Next window",
-       "v": "1–10 Oct 2026"
+       "k": "Interns",
+       "v": "About 80"
       },
       {
-       "k": "Status",
-       "v": "Opens every month, 1st to 10th"
+       "k": "Duration",
+       "v": "4 weeks, in person, New Delhi"
+      },
+      {
+       "k": "Stipend",
+       "v": "₹12,000 plus 3rd AC train fare"
+      },
+      {
+       "k": "Announced",
+       "v": "1 Oct 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "See the official announcement"
       }
      ],
-     "note": "The online form is open only from the 1st to the 10th of each month; read the guidelines on the official page before applying.",
+     "note": "NHRC has announced the winter programme; check the official announcement for the application window and last date before applying. Apply online with a 300–500 word write-up on why you want to intern at NHRC.",
      "links": [
       {
        "label": "Official internship page",
-       "url": "https://www.niti.gov.in/internship",
+       "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes",
        "primary": true
+      },
+      {
+       "label": "Announcement (PDF)",
+       "url": "https://nhrc.nic.in/assets/uploads/summer_winter/1790831008_0ade143f0c1d2ae01354.pdf"
       }
      ]
     }
@@ -260,6 +306,10 @@
      {
       "text": "NALSA Assistant (Legal) and Assistant Legal Aid Advisor: 1–3 years' experience, closes 10 Oct 2026",
       "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
+     },
+     {
+      "text": "UPSC Advt. 12/2026: Law Officer, Land & Building Dept, GNCT Delhi, 3 posts (2 years' legal experience); Assistant Legislative Counsel, Ministry of Law, 8 posts (7 years' experience); closes 16 Oct 2026",
+      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
      }
     ]
    }
@@ -335,7 +385,7 @@
    "id": "llm",
    "title": "LLM Admissions: NLUs & Maharashtra",
    "short": "NLUs, state universities and private colleges in Maharashtra",
-   "intro": "Where you can apply for an LLM starting in 2027. NLU seats are open now through CLAT PG and AILET; Maharashtra's state and private colleges have not yet published 2027–28 notices, so they are tracked here until they do.",
+   "intro": "Where you can apply for an LLM starting in 2027. NLU seats open now through CLAT PG and AILET; Maharashtra's state and private colleges usually open later, so they are tracked here until their official notices appear.",
    "items": [
     {
      "name": "LLM at NLUs through CLAT 2027 (PG)",
@@ -485,15 +535,57 @@
   {
    "id": "private",
    "title": "Private Jobs, Fellowships & Internships",
-   "short": "Research fellowships, policy fellowships, firm portals",
-   "intro": "Fellowships and private openings, taken only from the organisation's own website. Big firms rarely post fresher roles publicly, so their official application portals are listed below.",
+   "short": "Law firms, chambers, research fellowships",
+   "intro": "Private jobs, fellowships and internships, taken only from the employer's own website. Big firms do not always post fresher roles publicly, so their official application portals are listed below.",
    "items": [
+    {
+     "name": "P. A. Sangma Fellowship for Legal and Policy Research (Sixth Cohort)",
+     "org": "National Law School of India University with the Government of Meghalaya",
+     "sector": "Fellowship",
+     "status": "Closing soon",
+     "eligibility": "NLSIU graduates, or Meghalaya domiciles with a law degree.",
+     "facts": [
+      {
+       "k": "Fellowships",
+       "v": "4"
+      },
+      {
+       "k": "Stipend",
+       "v": "₹60,000 / month + ₹10,000 HRA"
+      },
+      {
+       "k": "Term",
+       "v": "12 months, extendable"
+      },
+      {
+       "k": "Based in",
+       "v": "Meghalaya"
+      },
+      {
+       "k": "Posted",
+       "v": "18 Sep 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "9 Oct 2026, 5 PM",
+       "iso": "2026-10-09"
+      }
+     ],
+     "note": "Apply through the form linked in the official call with a CV (2 pages max), a statement of purpose (up to 1,000 words) and two references.",
+     "links": [
+      {
+       "label": "Official call",
+       "url": "https://www.nls.ac.in/news-events/call-for-applications-sixth-cohort-of-the-p-a-sangma-fellowship-for-legal-and-policy-research/",
+       "primary": true
+      }
+     ]
+    },
     {
      "name": "Graduate Research Fellowship 2027",
      "org": "National Law School of India University, Bengaluru",
      "sector": "Fellowship",
      "status": "Open",
-     "eligibility": "Open to scholars in law, policy and the social sciences. NLSIU does not state a minimum qualification, so read the call before applying.",
+     "eligibility": "Scholars in law, policy and social sciences; see the call.",
      "facts": [
       {
        "k": "Positions",
@@ -527,7 +619,7 @@
      "org": "PRS Legislative Research, New Delhi · private",
      "sector": "Fellowship",
      "status": "Awaited",
-     "eligibility": "Indian citizens <b>aged 25 or below with a bachelor's degree</b> in any field; you work with a Member of Parliament for a year.",
+     "eligibility": "Indian citizens aged 25 or below with a bachelor's degree in any field.",
      "facts": [
       {
        "k": "2027–28 call",
@@ -573,88 +665,56 @@
  ],
  "sources": [
   {
-   "title": "High Court of Jharkhand: Law Researcher notification",
-   "url": "https://www.jharkhandhighcourt.nic.in/pdfview.php?pdfnm=recruitment/Recruitment_Cell_2026_LRA_05092026"
+   "title": "Nirnay Daily Careers Portal",
+   "url": "https://nirnaydaily.github.io/#careers"
   },
   {
-   "title": "OPSC: official website",
+   "title": "High Court of Andhra Pradesh, Amaravati",
+   "url": "https://aphc.gov.in/recruitments.php"
+  },
+  {
+   "title": "Odisha Public Service Commission",
    "url": "https://www.opsc.gov.in/"
   },
   {
-   "title": "FSSAI internship portal",
-   "url": "https://sites.fssai.gov.in/internship/"
+   "title": "Centre for Trade and Investment Law (CTIL), Indian Institute of Foreign Trade, N",
+   "url": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf"
   },
   {
-   "title": "High Court of Meghalaya: Legal Assistant advertisement (24 Sep 2026)",
-   "url": "https://meghalayahighcourt.nic.in/sites/default/files/recruitment/R223.pdf"
-  },
-  {
-   "title": "NITI Aayog: internship",
+   "title": "NITI Aayog, Government of India, New Delhi",
    "url": "https://www.niti.gov.in/internship"
   },
   {
-   "title": "UPSC: Advertisement No. 11/2026",
-   "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-11-2026-Engl-100926.pdf"
+   "title": "High Court of Meghalaya, Shillong · Advt. No. HCM.II/I09/2020-Rect/54",
+   "url": "https://meghalayahighcourt.nic.in/sites/default/files/recruitment/R223.pdf"
   },
   {
-   "title": "Central Railway",
-   "url": "https://cr.indianrailways.gov.in/"
+   "title": "National Human Rights Commission (NHRC), New Delhi",
+   "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes"
   },
   {
-   "title": "NALSA: vacancy notice",
-   "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
-  },
-  {
-   "title": "Bar Council of India: AIBE portal",
+   "title": "Bar Council of India",
    "url": "https://www.allindiabarexamination.com/"
   },
   {
-   "title": "NTA: UGC NET",
+   "title": "National Testing Agency",
    "url": "https://ugcnet.nta.ac.in/"
   },
   {
-   "title": "Consortium of NLUs: CLAT 2027",
+   "title": "Consortium of National Law Universities",
    "url": "https://consortiumofnlus.ac.in/clat-2027/"
   },
   {
-   "title": "NLU Delhi: AILET 2027",
+   "title": "National Law University Delhi",
    "url": "https://nationallawuniversitydelhi.in/"
   },
   {
-   "title": "University of Mumbai",
+   "title": "University of Mumbai, Department of Law and affiliated colleges",
    "url": "https://mu.ac.in/"
   },
   {
-   "title": "Symbiosis Law School, Pune: LLM admissions",
+   "title": "Symbiosis International (Deemed University) · private",
    "url": "https://www.symlaw.ac.in/llm-admissions-process.php"
-  },
-  {
-   "title": "NMIMS: LLM admissions portal",
-   "url": "https://llm.nmims.edu/"
-  },
-  {
-   "title": "MNLU Mumbai: admissions",
-   "url": "https://mnlumumbai.edu.in/admission.php"
-  },
-  {
-   "title": "NLSIU: Research Fellowships call",
-   "url": "https://www.nls.ac.in/news-events/call-for-applications-nlsiu-research-fellowships-multiple-positions-2/"
-  },
-  {
-   "title": "PRS Legislative Research: LAMP Fellowship",
-   "url": "https://prsindia.org/lamp/how-to-apply"
-  },
-  {
-   "title": "Khaitan & Co careers portal",
-   "url": "https://peoplepower.khaitanco.com/candidate"
-  },
-  {
-   "title": "Cyril Amarchand Mangaldas careers",
-   "url": "https://www.cyrilshroff.com/careers/"
-  },
-  {
-   "title": "AZB & Partners careers",
-   "url": "https://www.azbpartners.com/careers/"
   }
  ]
 }

@@ -1,6 +1,16 @@
 {
- "ran": "2026-10-04T06:48+05:30",
- "processed": [],
+ "ran": "2026-10-04T14:00+05:30",
+ "processed": [
+  "booklet_2026-10-03.json: careers booklet 2026-10-03",
+  "digest_2026-10-02.json: judgments & orders 2 Oct 2026: 25 items",
+  "digest_2026-10-03.json: judgments & orders 3 Oct 2026: 15 items",
+  "digest_2026-10-04.json: judgments & orders 4 Oct 2026: 14 items",
+  "news_2026-10-02-am.json: legal news 2026-10-02-am: 3 items",
+  "news_2026-10-03-am.json: legal news 2026-10-03-am: 2 items",
+  "news_2026-10-04-am.json: legal news 2026-10-04-am: 2 items",
+  "pool_2026-10-04.json: careers portal: 16 listings (1 closed removed)",
+  "tribunals_2026-10-04.json: tribunals 4 Oct 2026: 1 items"
+ ],
  "errors": [],
  "notes": []
 }
