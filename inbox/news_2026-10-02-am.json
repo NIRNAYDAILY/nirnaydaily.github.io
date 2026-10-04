@@ -1,0 +1,43 @@
+{
+ "edition": {
+  "edition_id": "2026-10-02-am",
+  "iso": "2026-10-02",
+  "slot": "10 AM",
+  "dateShort": "2 Oct 2026",
+  "dateLong": "Friday, 2 October 2026 · Morning edition",
+  "window": "News from 4:00 PM IST, 1 October to 10:00 AM IST, 2 October 2026"
+ },
+ "items": [
+  {
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "International Tribunal for the Law of the Sea",
+   "headline": "Indian jurist Bimal N. Patel sworn in as judge of the Law of the Sea tribunal",
+   "text": "Dr Bimal N. Patel, former Director of Gujarat National Law University, took oath in Hamburg as a judge of the International Tribunal for the Law of the Sea. He was one of five judges inaugurated for the 2026–2035 term.",
+   "why": "India gains a seat on the main international court for maritime disputes.",
+   "date": "1 Oct 2026",
+   "src": "https://www.livelaw.in/news-updates/jurist-bimal-patel-oath-judge-of-international-tribunal-for-the-law-of-the-sea-552754",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Executive & Government",
+   "region": "Delhi",
+   "body": "Delhi High Court",
+   "headline": "Plea challenges Delhi's 15% deputation and contract route for Additional Public Prosecutors",
+   "text": "Advocate Shipra Mishra has challenged an April 2026 notification that fills 15% of Additional Public Prosecutor posts by deputation or short-term contract. She argues this conflicts with the BNSS, which requires prosecutors from the regular cadre where suitable candidates exist; the High Court has issued notice.",
+   "date": "2 Oct 2026",
+   "src": "https://www.barandbench.com/news/plea-in-delhi-high-court-challenges-appointment-of-additional-public-prosecutors-on-deputation-short-term-contracts",
+   "srcName": "Bar & Bench"
+  },
+  {
+   "cat": "Other Legal News",
+   "region": "All India",
+   "body": "Supreme Court of India",
+   "headline": "Petition in Supreme Court challenges orders mandating all six stanzas of Vande Mataram",
+   "text": "Nagpur-based activist B.D. Borkar has challenged two Union Home Ministry orders of January and July 2026 requiring the full six-stanza Vande Mataram at formal State events. He argues the orders replace the two-stanza version used for decades and violate the rights to equality and free expression.",
+   "date": "2 Oct 2026",
+   "src": "https://www.barandbench.com/news/buddhist-activist-moves-supreme-court-against-singing-full-version-of-vande-mataram-terms-it-islamophobic",
+   "srcName": "Bar & Bench"
+  }
+ ]
+}
