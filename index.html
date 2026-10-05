@@ -466,7 +466,7 @@ if(window.NIRNAY_FIREBASE&&window.NIRNAY_LOGIN.mode==="site")document.documentEl
   <div class="wrap mast-inner">
     <div class="plaque">
       <svg class="mast-seal" viewBox="0 0 400 400" role="img" aria-label="Nirnay Daily seal"><use href="#seal-mark"/>
-        <g class="ring-text"><text font-family="Cinzel, Georgia, serif" font-size="26" font-weight="700" fill="currentColor" letter-spacing="3"><textPath href="#seal-circle" startOffset="0">NIRNAY DAILY · <tspan font-family="'Tiro Devanagari Hindi','Noto Serif Devanagari','Nirmala UI','Mangal',serif" font-weight="400" font-size="30" letter-spacing="0" lang="hi">निर्णय</tspan> · JUDGMENTS · ORDERS ·</textPath></text></g></svg>
+        <g class="ring-text"><text font-family="Cinzel, Georgia, serif" font-size="26" font-weight="700" fill="currentColor"><textPath href="#seal-circle" textLength="730" lengthAdjust="spacing">NIRNAY DAILY · JUDGMENTS · ORDERS ·</textPath></text><text x="200" y="47" text-anchor="middle" transform="rotate(231 200 200)" fill="currentColor" lang="hi" font-family="'Tiro Devanagari Hindi','Noto Serif Devanagari','Nirmala UI','Mangal','Kohinoor Devanagari',serif" font-size="34">निर्णय</text></g></svg>
       <div>
         <div class="wordmark">NIRNAY DAILY<span class="dv" lang="hi">निर्णय</span></div>
         <div class="tagline">Judgments · Orders · Landmark Cases · Careers in Law</div>
@@ -1477,6 +1477,5 @@ loadData();
 </script>
 
 <script src="assets/chat.js" defer></script>
-<script>(function(){function fit(){var t=document.querySelector('.mast-seal .ring-text text');if(!t||!t.getComputedTextLength)return;t.setAttribute('letter-spacing','0');var free=930-t.getComputedTextLength(),n=0;for(var c of t.textContent)if(/[A-Z\u00B7 ]/.test(c))n++;var ls=Math.max(0,Math.min(12,free/n));t.setAttribute('letter-spacing',ls.toFixed(2));var d=t.querySelector('tspan');if(d)d.setAttribute('letter-spacing','0');}if(document.fonts&&document.fonts.ready)document.fonts.ready.then(fit);window.addEventListener('load',fit);})();</script>
 </body>
 </html>
