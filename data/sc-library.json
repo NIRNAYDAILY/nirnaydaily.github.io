@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1216,6 +1216,182 @@
    "pdf": "judgments/sc/pdf/central-bureau-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 519892
+  },
+  {
+   "slug": "awadhesh-singh-2026",
+   "name": "M/s Awadhesh Singh Gautam v. State of Chhattisgarh",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-09-30.json",
+   "pages": 19,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3773,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=130912026&type=j&order_date=2026-09-30&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "m s awadhesh singh gautam",
+    "state of chhattisgarh"
+   ],
+   "citation": "2026 INSC 1072",
+   "caseNo": "C.A. No. 13299/2026",
+   "date": "2026-09-30",
+   "pdf": "judgments/sc/pdf/awadhesh-singh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 311299
+  },
+  {
+   "slug": "martanda-singh-2026",
+   "name": "Martanda Singh v. State of Chhattisgarh",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-01.json",
+   "pages": 6,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 989,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=736462025&type=j&order_date=2026-10-01&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "martanda singh",
+    "state of chhattisgarh"
+   ],
+   "citation": "2026 INSC 1081",
+   "caseNo": "Crl.A. No. 4722/2026",
+   "date": "2026-10-01",
+   "pdf": "judgments/sc/pdf/martanda-singh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 154326
+  },
+  {
+   "slug": "karnataka-2026",
+   "name": "The State of Karnataka v. Sadiq Pasha",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-01.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2258,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=189032026&type=j&order_date=2026-10-01&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "the state of karnataka",
+    "sadiq pasha"
+   ],
+   "citation": "2026 INSC 1083",
+   "caseNo": "Crl.A. No. 4720/2026",
+   "date": "2026-10-01",
+   "pdf": "judgments/sc/pdf/karnataka-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 208390
+  },
+  {
+   "slug": "sachin-gupta-2026",
+   "name": "Sachin Gupta v. State of Chhattisgarh",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-01.json",
+   "pages": 8,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1469,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=140942026&type=j&order_date=2026-10-01&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "sachin gupta",
+    "state of chhattisgarh"
+   ],
+   "citation": "2026 INSC 1082",
+   "caseNo": "Crl.A. No. 4721/2026",
+   "date": "2026-10-01",
+   "pdf": "judgments/sc/pdf/sachin-gupta-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 190026
+  },
+  {
+   "slug": "prasanta-kumar-2026",
+   "name": "Prasanta Kumar Dhar v. The State of West Bengal",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-05.json",
+   "pages": 16,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3450,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=533702024&type=j&order_date=2026-10-05&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "prasanta kumar dhar",
+    "the state of west bengal"
+   ],
+   "citation": "2026 INSC 1087",
+   "caseNo": "Crl.A. No. 4744/2026",
+   "date": "2026-10-05",
+   "pdf": "judgments/sc/pdf/prasanta-kumar-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 319808
+  },
+  {
+   "slug": "sudha-rakesh-2026",
+   "name": "Sudha Rakesh v. The State of Karnataka",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-05.json",
+   "pages": 9,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1841,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=405082022&type=j&order_date=2026-10-05&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "sudha rakesh",
+    "the state of karnataka"
+   ],
+   "citation": "2026 INSC 1086",
+   "caseNo": "SLP(Crl) No. 12638/2022",
+   "date": "2026-10-05",
+   "pdf": "judgments/sc/pdf/sudha-rakesh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 369740
+  },
+  {
+   "slug": "addl-commr-2026",
+   "name": "Addl.Commr.Commercial Tax v. Cadila Health Care Ltd",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-05.json",
+   "pages": 12,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2992,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=254952012&type=j&order_date=2026-10-05&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "addl commr commercial tax",
+    "cadila health care ltd"
+   ],
+   "citation": "2026 INSC 1078",
+   "caseNo": "C.A. No. 9788/2013",
+   "date": "2026-10-05",
+   "pdf": "judgments/sc/pdf/addl-commr-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 448789
+  },
+  {
+   "slug": "ajit-kumar-2026",
+   "name": "Ajit Kumar v. The State of Jharkhand",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-05.json",
+   "pages": 25,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 4371,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=298112026&type=j&order_date=2026-10-05&from=latest_judgements_order",
+   "added": "2026-10-05",
+   "keys": [
+    "ajit kumar",
+    "the state of jharkhand"
+   ],
+   "citation": "2026 INSC 1084",
+   "caseNo": "Crl.A. No. 4573/2026",
+   "date": "2026-10-05",
+   "pdf": "judgments/sc/pdf/ajit-kumar-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 317891
   }
  ]
 }

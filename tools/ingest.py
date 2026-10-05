@@ -208,7 +208,11 @@ def h_sc(d):
             e = {"slug": slug, "name": name, "type": "text", "file": bundle_path, "pages": len(pages),
                  "origin": "daily", "source": "Supreme Court of India", "words": len(" ".join(pages).split()),
                  "src": src, "added": TODAY, "keys": it.get("keys") or [p.lower() for p in it.get("parties", [])][:2]}
+            if not it.get("citation"):   # read the neutral citation from the Court's own first page
+                mc = re.search(r"\b(20\d\d)\s+INSC\s+(\d+)", " ".join(pages[:2]))
+                if mc: it["citation"] = f"{mc.group(1)} INSC {mc.group(2)}"
             if it.get("citation"): e["citation"] = it["citation"]
+            if it.get("caseNo"): e["caseNo"] = it["caseNo"]
             if it.get("date"): e["date"] = it["date"]
             if os.environ.get("NIRNAY_PUBLIC_PDFS") == "1":   # save the official PDF for free download
                 os.makedirs("judgments/sc/pdf", exist_ok=True)

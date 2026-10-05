@@ -8,6 +8,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "35 18 * * *"   # 00:05 IST daily: publishes anything waiting for its date (e.g. the Monthly Journal on the 1st)
+    - cron: "40 7 * * *"    # 13:10 IST: every new Supreme Court judgment from the Court's own "Latest Judgments" list
+    - cron: "40 13 * * *"   # 19:10 IST: same (most judgments are uploaded in the evening)
+    - cron: "40 16 * * *"   # 22:10 IST: same
 permissions:
   contents: write
   pages: write
@@ -23,6 +26,8 @@ jobs:
           ref: main
       - name: Install PDF text tool
         run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils && (pip install -q --break-system-packages reportlab img2pdf || pip install -q reportlab img2pdf)
+      - name: Queue every new Supreme Court judgment (official sci.gov.in list)
+        run: python3 tools/sci_latest.py
       - name: Apply inbox files
         env:
           NIRNAY_PUBLIC_PDFS: "1"   # save the Court's own PDF of each new judgment for free download
