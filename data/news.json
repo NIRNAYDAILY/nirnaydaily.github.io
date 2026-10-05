@@ -1,23 +1,74 @@
 {
  "edition": {
-  "edition_id": "2026-10-05-am",
+  "edition_id": "2026-10-05-pm",
   "iso": "2026-10-05",
-  "slot": "10 AM",
+  "slot": "6 PM",
   "dateShort": "5 Oct 2026",
-  "dateLong": "Monday, 5 October 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 4 October to 10:00 AM IST, 5 October 2026"
+  "dateLong": "Monday, 5 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 5 October 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
    "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "Justice Ujjal Bhuyan: any process that disenfranchises millions of voters is arbitrary",
-   "text": "Speaking at the valedictory of the 19th NALSAR–Justice B.R. Sawhney Memorial Moot Court Competition in Hyderabad on Sunday evening, Supreme Court judge Ujjal Bhuyan said the right to vote is part of the Constitution's basic structure and that a process removing millions of citizens from the rolls is intrinsically arbitrary, whatever the justification offered. He stressed notice and hearing before any voter deletion and, in the same address, praised NALSAR students as 'brilliant, bold and brave' amid the recent row over their convocation.",
-   "why": "The remarks come as petitions over the Election Commission's Special Intensive Revision (SIR) of voter rolls are being heard in the Supreme Court.",
-   "date": "4 Oct 2026",
-   "src": "https://www.livelaw.in/top-stories/any-process-taking-away-voting-rights-of-millions-of-citizens-is-unjustifiable-no-court-can-condone-it-justice-ujjal-bhuyan-553012",
+   "body": "Ministry of Law and Justice / Supreme Court of India",
+   "headline": "Centre notifies three High Court Chief Justices as new Supreme Court judges",
+   "text": "The Central Government on Monday notified the appointment of Chief Justices Sunita Agarwal (Gujarat), D.K. Upadhyaya (Delhi) and Aparesh Kumar Singh (Telangana) as judges of the Supreme Court. The Supreme Court Collegium had recommended their elevation on 28 September.",
+   "why": "The Supreme Court will now have 37 judges against a sanctioned strength of 38, and the Gujarat, Delhi and Telangana High Courts will need new Chief Justices.",
+   "date": "5 Oct 2026",
+   "src": "https://www.barandbench.com/news/litigation/central-government-notifies-appointment-of-3-new-supreme-court-judges",
+   "srcName": "Bar & Bench"
+  },
+  {
+   "cat": "Judiciary",
+   "region": "Andhra Pradesh",
+   "body": "Andhra Pradesh High Court",
+   "headline": "Five Additional Judges of Andhra Pradesh High Court made permanent",
+   "text": "The Law Ministry has notified the appointment of five Additional Judges of the Andhra Pradesh High Court as permanent judges: Justices Maheswara Rao Kuncheam, Thoota Chandra Dhana Sekar, Challa Gunaranjan, Avadhanam Hari Haranadha Sarma and Dr. Yadavalli Lakshmana Rao. The Supreme Court Collegium had recommended this last month.",
+   "date": "5 Oct 2026",
+   "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/centre-notifies-appointment-of-permanent-judges-for-andhra-pradesh-high-court-553121",
    "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Judiciary",
+   "region": "Assam",
+   "body": "Gauhati High Court",
+   "headline": "Justice Kaushik Goswami appointed permanent judge of Gauhati High Court",
+   "text": "The Centre has notified Additional Judge Kaushik Goswami as a permanent judge of the Gauhati High Court, following the Collegium's recommendation of 23 September. He was a Senior Advocate and Standing Counsel for the High Court before becoming an Additional Judge in November 2023.",
+   "date": "5 Oct 2026",
+   "src": "https://www.livelaw.in/high-court/all-high-courts/centre-notifies-appointment-of-permanent-judges-for-uttarakhand-and-gauhati-high-courts-553116",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Judiciary",
+   "region": "Uttarakhand",
+   "body": "Uttarakhand High Court",
+   "headline": "Justice Subhash Upadhyay appointed permanent judge of Uttarakhand High Court",
+   "text": "The Centre has notified Additional Judge Subhash Upadhyay as a permanent judge of the Uttarakhand High Court, on the Collegium's recommendation of 23 September. He served as Standing Counsel for the State from 2012 and became an Additional Judge in May 2025.",
+   "date": "5 Oct 2026",
+   "src": "https://www.livelaw.in/high-court/all-high-courts/centre-notifies-appointment-of-permanent-judges-for-uttarakhand-and-gauhati-high-courts-553116",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Bar & Bar Councils",
+   "region": "Gujarat",
+   "body": "Gujarat High Court Advocates' Association / Bar Council of Gujarat",
+   "headline": "Gujarat lawyers strike over Rent Bill; Advocate General says it will not become law",
+   "text": "Lawyers in Gujarat, including the Gujarat High Court Advocates' Association, stayed away from court work on 5 October against the Gujarat Rent Bill, 2026, which would move rent disputes from courts to revenue officers. In the High Court, Advocate General Kamal Trivedi said the Government had assured the Bar Council that the Governor would not sign the Bill and that it 'will not see the light of the day'.",
+   "why": "The Bill has passed the Assembly; the assurance suggests the State may restore the earlier law that keeps rent disputes with the courts.",
+   "date": "5 Oct 2026",
+   "src": "https://www.barandbench.com/news/rent-bill-will-not-see-the-light-of-day-ag-tells-gujarat-high-court-amid-lawyers-strike",
+   "srcName": "Bar & Bench"
+  },
+  {
+   "cat": "Legal Education & Careers",
+   "region": "Jharkhand",
+   "body": "NUSRL Ranchi",
+   "headline": "NUSRL Ranchi women students protest over campus safety and hostel rules",
+   "text": "Women students at the National University of Study and Research in Law, Ranchi, held a night-time protest and gave the administration a list of 14 concerns, including poor lighting, missing CCTV, staff entering the girls' hostel without notice and stricter exit rules for women. Reports say the issues are now being resolved internally.",
+   "date": "5 Oct 2026",
+   "src": "https://barandbench.com/Law-School/nusrl-ranchi-students-hold-protest-over-womens-safety-and-hostel-restrictions",
+   "srcName": "Bar & Bench"
   }
  ]
 }
