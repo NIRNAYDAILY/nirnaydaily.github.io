@@ -72,7 +72,8 @@ nav.main a.nw{color:#1F6F6A}
 .plaque{display:flex;align-items:center;gap:22px;padding:22px 34px;background:linear-gradient(180deg,rgba(110,30,34,.92),rgba(74,18,22,.94));
   border:1px solid #D9B45F;outline:1px solid rgba(217,180,95,.55);outline-offset:5px;box-shadow:0 18px 40px rgba(0,0,0,.45)}
 .mast-seal{width:118px;height:118px;color:#E9C77B;flex:none}
-.mast-seal .ring-text{animation:spin 40s linear infinite;transform-origin:200px 200px}
+.mast-seal{overflow:hidden;border-radius:50%}
+.mast-seal .ring-text{animation:spin 40s linear infinite;transform-box:view-box;transform-origin:50% 50%}
 @keyframes spin{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){.mast-seal .ring-text{animation:none}}
 .wordmark{font-family:var(--official);font-weight:700;font-size:clamp(30px,5.6vw,60px);letter-spacing:.08em;line-height:1;color:#FFF8EA;text-shadow:0 2px 10px rgba(0,0,0,.4)}
@@ -102,7 +103,7 @@ main{padding-block:0 64px}
 .btn.primary{background:var(--stamp);color:#fff;border-color:var(--stamp)}
 .btn:hover{transform:translateY(-1px)}
 .big-seal{width:100%;max-width:360px;justify-self:center;color:var(--stamp);aspect-ratio:1}
-.big-seal .ring-text{animation:spin 90s linear infinite;transform-origin:200px 200px}
+.big-seal .ring-text{animation:spin 90s linear infinite;transform-box:view-box;transform-origin:50% 50%}
 @keyframes spin{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){.big-seal .ring-text{animation:none}}
 
@@ -465,7 +466,7 @@ if(window.NIRNAY_FIREBASE&&window.NIRNAY_LOGIN.mode==="site")document.documentEl
   <div class="wrap mast-inner">
     <div class="plaque">
       <svg class="mast-seal" viewBox="0 0 400 400" role="img" aria-label="Nirnay Daily seal"><use href="#seal-mark"/>
-        <g class="ring-text"><text font-family="Cinzel, Georgia, serif" font-size="27" font-weight="700" fill="currentColor"><textPath href="#seal-circle" textLength="925" lengthAdjust="spacing">NIRNAY DAILY · निर्णय · JUDGMENTS · ORDERS ·</textPath></text></g></svg>
+        <g class="ring-text"><text font-family="Cinzel, Georgia, serif" font-size="26" font-weight="700" fill="currentColor" letter-spacing="3"><textPath href="#seal-circle" startOffset="0">NIRNAY DAILY · <tspan font-family="'Tiro Devanagari Hindi','Noto Serif Devanagari','Nirmala UI','Mangal',serif" font-weight="400" font-size="30" letter-spacing="0" lang="hi">निर्णय</tspan> · JUDGMENTS · ORDERS ·</textPath></text></g></svg>
       <div>
         <div class="wordmark">NIRNAY DAILY<span class="dv" lang="hi">निर्णय</span></div>
         <div class="tagline">Judgments · Orders · Landmark Cases · Careers in Law</div>
@@ -1476,5 +1477,6 @@ loadData();
 </script>
 
 <script src="assets/chat.js" defer></script>
+<script>(function(){function fit(){var t=document.querySelector('.mast-seal .ring-text text');if(!t||!t.getComputedTextLength)return;t.setAttribute('letter-spacing','0');var free=930-t.getComputedTextLength(),n=0;for(var c of t.textContent)if(/[A-Z\u00B7 ]/.test(c))n++;var ls=Math.max(0,Math.min(12,free/n));t.setAttribute('letter-spacing',ls.toFixed(2));var d=t.querySelector('tspan');if(d)d.setAttribute('letter-spacing','0');}if(document.fonts&&document.fonts.ready)document.fonts.ready.then(fit);window.addEventListener('load',fit);})();</script>
 </body>
 </html>
