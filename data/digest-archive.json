@@ -1,6 +1,347 @@
 [
  {
   "edition": {
+   "vol": "Vol. I · No. 10",
+   "badge": "",
+   "dateLong": "Sunday, 4 October 2026",
+   "dateShort": "4 Oct 2026",
+   "window": "Judgments and orders reported between 9:30 AM IST on 3 October 2026 and 1:00 PM IST on 4 October 2026",
+   "next": "Next edition: tomorrow at 10:00 AM IST"
+  },
+  "highlights": [
+   {
+    "court": "Supreme Court of India",
+    "caseName": "State of Himachal Pradesh v. Anchla @ Chanchla",
+    "text": "Investigators must collect evidence, not create it.",
+    "ref": "sc:0"
+   },
+   {
+    "court": "Supreme Court of India",
+    "caseName": "CBI v. Anil Dixit",
+    "text": "Accused can seek documents the prosecution holds.",
+    "ref": "sc:0"
+   },
+   {
+    "court": "High Court of Delhi",
+    "caseName": "A v. State",
+    "text": "Later marriage can't legalise sex with a minor under POCSO.",
+    "ref": "hc:Delhi"
+   },
+   {
+    "court": "High Court of Madras",
+    "caseName": "A v. S",
+    "text": "Childlessness is not cruelty in marriage.",
+    "ref": "hc:Madras"
+   },
+   {
+    "court": "High Court of Allahabad",
+    "caseName": "Bhavna Yadav v. State of U.P.",
+    "text": "Merit reserved candidates move to open list at screening.",
+    "ref": "hc:Allahabad"
+   }
+  ],
+  "chapters": [
+   {
+    "id": "sc",
+    "num": "I",
+    "title": "Supreme Court of India",
+    "short": "Supreme Court",
+    "tab": "SC",
+    "seat": "New Delhi",
+    "pages": [
+     {
+      "title": "Judgments",
+      "items": [
+       {
+        "caseName": "State of Himachal Pradesh v. Anchla @ Chanchla",
+        "citation": "2026 INSC 1074",
+        "coram": "Manoj Misra, Vijay Bishnoi, JJ.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "IO must collect evidence, not create it",
+        "kind": "Held",
+        "text": "Acquittal in a double murder upheld; a DNA match showed presence at some time, not on the day of the crime.",
+        "tag": "Criminal law",
+        "src": "https://www.verdictum.in/supreme-court/the-state-of-himachal-pradesh-v-anchla-chanchla-2026-insc-1074-dna-match-accuseds-blood-showed-presence-some-point-double-murder-investigating-officer-1623269",
+        "srcName": "Verdictum"
+       },
+       {
+        "caseName": "Central Bureau of Investigation v. Anil Dixit",
+        "citation": "2026 INSC 1064",
+        "coram": "J.B. Pardiwala, K. Vinod Chandran, JJ.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Accused may seek 'unrelied' documents",
+        "kind": "Held",
+        "text": "An accused is entitled to documents held by the prosecution for the defence, with timing managed by the court.",
+        "tag": "Criminal procedure",
+        "src": "https://www.verdictum.in/supreme-court/central-bureau-of-investigation-v-anil-dixit-2026-insc-1064-accused-documents-prosecuting-agency-1623253",
+        "srcName": "Verdictum"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hc",
+    "num": "II",
+    "title": "High Courts",
+    "short": "High Courts",
+    "tab": "HC",
+    "roster": [
+     "Allahabad",
+     "Andhra Pradesh",
+     "Bombay",
+     "Calcutta",
+     "Chhattisgarh",
+     "Delhi",
+     "Gauhati",
+     "Gujarat",
+     "Himachal Pradesh",
+     "Jammu & Kashmir and Ladakh",
+     "Jharkhand",
+     "Karnataka",
+     "Kerala",
+     "Madhya Pradesh",
+     "Madras",
+     "Manipur",
+     "Meghalaya",
+     "Orissa",
+     "Patna",
+     "Punjab & Haryana",
+     "Rajasthan",
+     "Sikkim",
+     "Telangana",
+     "Tripura",
+     "Uttarakhand"
+    ],
+    "seats": {
+     "Allahabad": "Prayagraj",
+     "Andhra Pradesh": "Amaravati",
+     "Bombay": "Mumbai",
+     "Calcutta": "Kolkata",
+     "Chhattisgarh": "Bilaspur",
+     "Delhi": "New Delhi",
+     "Gauhati": "Guwahati",
+     "Gujarat": "Ahmedabad",
+     "Himachal Pradesh": "Shimla",
+     "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+     "Jharkhand": "Ranchi",
+     "Karnataka": "Bengaluru",
+     "Kerala": "Kochi",
+     "Madhya Pradesh": "Jabalpur",
+     "Madras": "Chennai",
+     "Manipur": "Imphal",
+     "Meghalaya": "Shillong",
+     "Orissa": "Cuttack",
+     "Patna": "Patna",
+     "Punjab & Haryana": "Chandigarh",
+     "Rajasthan": "Jodhpur",
+     "Sikkim": "Gangtok",
+     "Telangana": "Hyderabad",
+     "Tripura": "Agartala",
+     "Uttarakhand": "Nainital"
+    },
+    "pages": [
+     {
+      "court": "Allahabad",
+      "items": [
+       {
+        "caseName": "Kalawati Devi v. State of U.P.",
+        "citation": "2026 LiveLaw (AB) 785",
+        "coram": "Sandeep Jain, J.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "No habeas corpus to force adult daughter home",
+        "kind": "Held",
+        "text": "Parents cannot use habeas corpus to make an adult daughter live with them when she is not illegally detained.",
+        "tag": "Personal liberty",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-parents-habeas-corpus-compel-adult-daughter-reside-against-will-552910",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Bhavna Yadav v. State of U.P.",
+        "coram": "Rajan Roy, Manjive Shukla, JJ.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Meritorious reserved candidates go to open list early",
+        "kind": "Held",
+        "text": "Reserved candidates above the general cut-off must be counted as unreserved at screening, not only at final selection.",
+        "tag": "Reservation",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-reserved-category-candidates-adjusted-against-unreserved-posts-552899",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Case title not yet reported",
+        "coram": "Rajnish Kumar, Babita Rani, JJ.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "Action against advocate who solemnised child marriage",
+        "kind": "Held",
+        "text": "Calling it disgraceful, the Court ordered prosecution of the advocate and asked the Bar Council to act on his licence.",
+        "tag": "Child marriage",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-disgraceful-demeaning-action-advocate-solemnizing-child-marriage-553001",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Delhi",
+      "items": [
+       {
+        "caseName": "A v. State",
+        "coram": "Sanjeev Narula, J.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Later marriage can't legalise sex with a minor",
+        "kind": "Held",
+        "text": "Under POCSO, marrying after both become adults does not cure intercourse that happened when the girl was a minor.",
+        "tag": "POCSO",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/pocso-subsequent-marriage-as-adults-cant-retrospectively-legalise-sexual-intercourse-with-minor-552923",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Himanshu v. State (GNCT of Delhi)",
+        "coram": "Sanjeev Narula, J.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Digital arrest scams: trace the money mules",
+        "kind": "Held",
+        "text": "Tracking those who receive and move the money is as important as finding the callers.",
+        "tag": "Cyber fraud",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/digital-arrest-fraud-delhi-high-court-says-tracing-those-who-receive-and-dissipate-funds-as-important-as-identifying-callers-552920",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Dr. Rita Bakshi v. Seema Bajaj",
+        "citation": "2026 LiveLaw (Del) 955",
+        "caseNo": "CRL.M.C. 2551/2025",
+        "coram": "Navin Chawla, Ravinder Dudeja, JJ.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Examine complainant before hearing accused",
+        "kind": "Held",
+        "text": "Under Section 223 BNSS, the Magistrate must first record the complainant and witnesses on oath.",
+        "tag": "Criminal procedure",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/magistrate-must-examine-complainant-witnesses-before-hearing-accused-on-cognizance-of-private-complaint-delhi-high-court-552933",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "State v. Om Parkash @ Kallu",
+        "caseNo": "CRL.A. 91/2012",
+        "coram": "Vimal Kumar Yadav, J.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Section 164 statement can't replace testimony",
+        "kind": "Held",
+        "text": "An acquittal was upheld while the Court noted how society blames rape survivors.",
+        "tag": "Criminal law",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/rape-violates-victims-soul-but-society-blames-survivor-makes-her-life-a-living-hell-delhi-high-court-552931",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Aditya Vikram Bohra v. State (NCT of Delhi)",
+        "coram": "Girish Kathpalia, J.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Stray dogs: authorities faulted",
+        "kind": "Pending",
+        "text": "The Court said people suffer because authorities have not implemented Supreme Court directions on stray dogs.",
+        "tag": "Civic governance",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/stray-dogs-public-suffering-due-authorities-failure-implement-sc-directions-552919",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Karnataka",
+      "items": [
+       {
+        "caseName": "Amrita M. v. State of Karnataka",
+        "caseNo": "CRL.P No. 4343 of 2026",
+        "coram": "S.R. Krishna Kumar, J.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Body-shaming alone isn't insulting modesty",
+        "kind": "Held",
+        "text": "Verbal remarks on a woman's looks, without more, do not make out the offence under Section 509 IPC.",
+        "tag": "Criminal law",
+        "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-body-shaming-allegations-not-equivalent-insulting-modesty-552898",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Kerala",
+      "items": [
+       {
+        "caseName": "Praveen Sodharan v. State of Kerala",
+        "citation": "2026 LiveLaw (Ker) 543",
+        "caseNo": "Crl.MC No. 5824 of 2026",
+        "coram": "Jobin Sebastian, J.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Brothel case can't be quashed for lack of victim grievance",
+        "kind": "Held",
+        "text": "Offences under the Immoral Traffic Act concern the public; charges against some accused were partly quashed.",
+        "tag": "Trafficking",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-immoral-traffic-act-quash-552936",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Madras",
+      "items": [
+       {
+        "caseName": "A v. S",
+        "citation": "2026 LiveLaw (Mad) 477",
+        "caseNo": "CMA(MD) No. 724 of 2022",
+        "coram": "G.R. Swaminathan, M.D. Sumathi, JJ.",
+        "date": "Reported 3 Oct 2026",
+        "headline": "Childlessness is not cruelty",
+        "kind": "Held",
+        "text": "Marriage is not only for procreation; a husband's divorce plea on that ground was rejected.",
+        "tag": "Family law",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-sole-object-marriage-not-procreation-wife-not-failed-552895",
+        "srcName": "LiveLaw"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc",
+    "num": "III",
+    "title": "District & Sessions Courts",
+    "short": "District Courts",
+    "tab": "District",
+    "pages": [
+     {
+      "title": "Reported rulings",
+      "items": [
+       {
+        "caseName": "Ram Niwas Sharma v. Rekha Gupta",
+        "coram": "Ashwani Panwar, ACJM",
+        "date": "Decided 3 Oct 2026",
+        "court": "Rouse Avenue Court, New Delhi, Delhi",
+        "headline": "Police report sought on plea for FIR against Delhi CM",
+        "kind": "Notice",
+        "text": "Status report due by 15 October on a complaint over the CM's remark comparing officials to Lord Hanuman.",
+        "tag": "Criminal law",
+        "src": "https://www.barandbench.com/news/delhi-court-seeks-police-report-on-plea-for-fir-against-cm-rekha-gupta-for-comparing-government-officials-to-hanuman",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "title": "Verdictum: Supreme Court",
+    "url": "https://www.verdictum.in/court-updates/supreme-court"
+   },
+   {
+    "title": "LiveLaw: High Courts",
+    "url": "https://www.livelaw.in/high-court"
+   },
+   {
+    "title": "Bar & Bench: Litigation news",
+    "url": "https://www.barandbench.com/news/litigation"
+   }
+  ]
+ },
+ {
+  "edition": {
    "vol": "Vol. I · No. 9",
    "badge": "",
    "dateLong": "Saturday, 3 October 2026",

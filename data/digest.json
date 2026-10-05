@@ -1,42 +1,42 @@
 {
  "edition": {
-  "vol": "Vol. I · No. 10",
+  "vol": "Vol. I · No. 11",
   "badge": "",
-  "dateLong": "Sunday, 4 October 2026",
-  "dateShort": "4 Oct 2026",
-  "window": "Judgments and orders reported between 9:30 AM IST on 3 October 2026 and 1:00 PM IST on 4 October 2026",
+  "dateLong": "Monday, 5 October 2026",
+  "dateShort": "5 Oct 2026",
+  "window": "Judgments and orders passed between 10:00 AM IST on 4 October 2026 and 9:30 AM IST on 5 October 2026",
   "next": "Next edition: tomorrow at 10:00 AM IST"
  },
  "highlights": [
   {
    "court": "Supreme Court of India",
-   "caseName": "State of Himachal Pradesh v. Anchla @ Chanchla",
-   "text": "Investigators must collect evidence, not create it.",
+   "caseName": "Prabha Devi v. State of Bihar & Ors.",
+   "text": "Not restraining her son isn't cruelty by a mother-in-law.",
    "ref": "sc:0"
   },
   {
    "court": "Supreme Court of India",
-   "caseName": "CBI v. Anil Dixit",
-   "text": "Accused can seek documents the prosecution holds.",
-   "ref": "sc:0"
+   "caseName": "Suo motu case (title not yet reported)",
+   "text": "SC takes up plan to cram a 135-year-old library into two rooms.",
+   "ref": "sc:1"
   },
   {
-   "court": "High Court of Delhi",
-   "caseName": "A v. State",
-   "text": "Later marriage can't legalise sex with a minor under POCSO.",
-   "ref": "hc:Delhi"
+   "court": "High Court of Kerala",
+   "caseName": "X & Anr. v. Kochi Municipal Corporation",
+   "text": "No DNA test needed to fix father's name when paternity is undisputed.",
+   "ref": "hc:Kerala"
   },
   {
-   "court": "High Court of Madras",
-   "caseName": "A v. S",
-   "text": "Childlessness is not cruelty in marriage.",
-   "ref": "hc:Madras"
+   "court": "High Court of Gauhati",
+   "caseName": "Harbinder Singh Kalsi & Anr. v. State of Assam & Ors.",
+   "text": "Advocates aren't answerable for a client's whereabouts.",
+   "ref": "hc:Gauhati"
   },
   {
-   "court": "High Court of Allahabad",
-   "caseName": "Bhavna Yadav v. State of U.P.",
-   "text": "Merit reserved candidates move to open list at screening.",
-   "ref": "hc:Allahabad"
+   "court": "High Court of Andhra Pradesh",
+   "caseName": "X v. State of Andhra Pradesh & Others",
+   "text": "NRI in-laws can't be tried for acts abroad without Centre's sanction.",
+   "ref": "hc:Andhra Pradesh"
   }
  ],
  "chapters": [
@@ -52,28 +52,31 @@
      "title": "Judgments",
      "items": [
       {
-       "caseName": "State of Himachal Pradesh v. Anchla @ Chanchla",
-       "citation": "2026 INSC 1074",
-       "coram": "Manoj Misra, Vijay Bishnoi, JJ.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "IO must collect evidence, not create it",
+       "caseName": "Prabha Devi v. State of Bihar & Ors.",
+       "coram": "Satish Chandra Sharma, N.K. Singh, JJ.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "Not stopping a son isn't cruelty by mother-in-law",
        "kind": "Held",
-       "text": "Acquittal in a double murder upheld; a DNA match showed presence at some time, not on the day of the crime.",
+       "text": "Case against a mother-in-law quashed; vague claims of taunts or failing to restrain her son don't make out Section 498A.",
        "tag": "Criminal law",
-       "src": "https://www.verdictum.in/supreme-court/the-state-of-himachal-pradesh-v-anchla-chanchla-2026-insc-1074-dna-match-accuseds-blood-showed-presence-some-point-double-murder-investigating-officer-1623269",
+       "src": "https://www.verdictum.in/supreme-court/failure-restrain-son-does-not-constitute-cruelty-section-498a-ipc-1623288",
        "srcName": "Verdictum"
-      },
+      }
+     ]
+    },
+    {
+     "title": "Orders",
+     "items": [
       {
-       "caseName": "Central Bureau of Investigation v. Anil Dixit",
-       "citation": "2026 INSC 1064",
-       "coram": "J.B. Pardiwala, K. Vinod Chandran, JJ.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Accused may seek 'unrelied' documents",
-       "kind": "Held",
-       "text": "An accused is entitled to documents held by the prosecution for the defence, with timing managed by the court.",
-       "tag": "Criminal procedure",
-       "src": "https://www.verdictum.in/supreme-court/central-bureau-of-investigation-v-anil-dixit-2026-insc-1064-accused-documents-prosecuting-agency-1623253",
-       "srcName": "Verdictum"
+       "caseName": "Case title not yet reported",
+       "coram": "P.V. Sanjay Kumar, Sanjeev Sachdeva, JJ.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "Suo motu case on moving 135-year-old library",
+       "kind": "Pending",
+       "text": "SC took up on its own the plan to shift the Central Secretariat Library's 8.5 lakh volumes into two rooms; listed for 5 Oct.",
+       "tag": "Heritage & governance",
+       "src": "https://www.barandbench.com/news/supreme-court-initiates-suo-motu-case-on-proposed-relocation-of-135-year-old-central-secretariat-library",
+       "srcName": "Bar & Bench"
       }
      ]
     }
@@ -144,117 +147,73 @@
      "court": "Allahabad",
      "items": [
       {
-       "caseName": "Kalawati Devi v. State of U.P.",
-       "citation": "2026 LiveLaw (AB) 785",
-       "coram": "Sandeep Jain, J.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "No habeas corpus to force adult daughter home",
-       "kind": "Held",
-       "text": "Parents cannot use habeas corpus to make an adult daughter live with them when she is not illegally detained.",
-       "tag": "Personal liberty",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-parents-habeas-corpus-compel-adult-daughter-reside-against-will-552910",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Bhavna Yadav v. State of U.P.",
-       "coram": "Rajan Roy, Manjive Shukla, JJ.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Meritorious reserved candidates go to open list early",
-       "kind": "Held",
-       "text": "Reserved candidates above the general cut-off must be counted as unreserved at screening, not only at final selection.",
-       "tag": "Reservation",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-reserved-category-candidates-adjusted-against-unreserved-posts-552899",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Case title not yet reported",
-       "coram": "Rajnish Kumar, Babita Rani, JJ.",
+       "caseName": "Pooja Devi v. State of U.P. and 3 Others",
+       "citation": "2026 LiveLaw (AB) 791",
+       "coram": "Ajay Bhanot, Divesh Chandra Samant, JJ.",
        "date": "Reported 4 Oct 2026",
-       "headline": "Action against advocate who solemnised child marriage",
+       "headline": "DM must refer Gangsters Act property plea to court",
        "kind": "Held",
-       "text": "Calling it disgraceful, the Court ordered prosecution of the advocate and asked the Bar Council to act on his licence.",
-       "tag": "Child marriage",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-disgraceful-demeaning-action-advocate-solemnizing-child-marriage-553001",
+       "text": "A DM who rejects a plea to release attached property must refer it to court under Section 16(1); the order was quashed.",
+       "tag": "Criminal law",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-16-up-gangsters-act-dm-reject-release-attached-property-553003",
        "srcName": "LiveLaw"
       }
      ]
     },
     {
-     "court": "Delhi",
+     "court": "Andhra Pradesh",
      "items": [
       {
-       "caseName": "A v. State",
-       "coram": "Sanjeev Narula, J.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Later marriage can't legalise sex with a minor",
+       "caseName": "X v. State of Andhra Pradesh & Others",
+       "caseNo": "Criminal Petition No. 5220 of 2023",
+       "coram": "Tuhin Kumar Gedela, J.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "No trial of NRI in-laws without Centre's sanction",
        "kind": "Held",
-       "text": "Under POCSO, marrying after both become adults does not cure intercourse that happened when the girl was a minor.",
-       "tag": "POCSO",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/pocso-subsequent-marriage-as-adults-cant-retrospectively-legalise-sexual-intercourse-with-minor-552923",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Himanshu v. State (GNCT of Delhi)",
-       "coram": "Sanjeev Narula, J.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Digital arrest scams: trace the money mules",
-       "kind": "Held",
-       "text": "Tracking those who receive and move the money is as important as finding the callers.",
-       "tag": "Cyber fraud",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/digital-arrest-fraud-delhi-high-court-says-tracing-those-who-receive-and-dissipate-funds-as-important-as-identifying-callers-552920",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Dr. Rita Bakshi v. Seema Bajaj",
-       "citation": "2026 LiveLaw (Del) 955",
-       "caseNo": "CRL.M.C. 2551/2025",
-       "coram": "Navin Chawla, Ravinder Dudeja, JJ.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Examine complainant before hearing accused",
-       "kind": "Held",
-       "text": "Under Section 223 BNSS, the Magistrate must first record the complainant and witnesses on oath.",
+       "text": "Cruelty case against NRI relatives quashed: acts abroad needed Section 188 CrPC sanction and Indian allegations were vague.",
        "tag": "Criminal procedure",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/magistrate-must-examine-complainant-witnesses-before-hearing-accused-on-cognizance-of-private-complaint-delhi-high-court-552933",
+       "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-quashes-498a-proceedings-husband-siblings-central-govt-sanction-section188-crpc-552959",
        "srcName": "LiveLaw"
       },
       {
-       "caseName": "State v. Om Parkash @ Kallu",
-       "caseNo": "CRL.A. 91/2012",
-       "coram": "Vimal Kumar Yadav, J.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Section 164 statement can't replace testimony",
+       "caseName": "X v. State & Anr.",
+       "caseNo": "Criminal Petition No. 7328 of 2022",
+       "coram": "Tuhin Kumar Gedela, J.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "Retaliatory 498A case against husband quashed",
        "kind": "Held",
-       "text": "An acquittal was upheld while the Court noted how society blames rape survivors.",
-       "tag": "Criminal law",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/rape-violates-victims-soul-but-society-blames-survivor-makes-her-life-a-living-hell-delhi-high-court-552931",
+       "text": "No specific overt acts were alleged, and the complaint followed her kin's conviction for assaulting the husband's family.",
+       "tag": "Family law",
+       "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-quashes-498a-proceedings-against-husband-lacking-specific-overt-acts-552940",
        "srcName": "LiveLaw"
       },
       {
-       "caseName": "Aditya Vikram Bohra v. State (NCT of Delhi)",
-       "coram": "Girish Kathpalia, J.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Stray dogs: authorities faulted",
-       "kind": "Pending",
-       "text": "The Court said people suffer because authorities have not implemented Supreme Court directions on stray dogs.",
-       "tag": "Civic governance",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/stray-dogs-public-suffering-due-authorities-failure-implement-sc-directions-552919",
+       "caseName": "B Vijaya Sai v. State of Andhra Pradesh & Another",
+       "caseNo": "Criminal Petition No. 5860 of 2026",
+       "coram": "Maheswara Rao Kuncheam, J.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "NBWs need reasons, not routine issue",
+       "kind": "Held",
+       "text": "Non-bailable warrant against a 70-year-old in a cheque case recalled; courts must record reasons before coercive steps.",
+       "tag": "Criminal procedure",
+       "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-recalls-non-bailable-warrant-courts-cannot-resort-coercive-process-routinely-552957",
        "srcName": "LiveLaw"
       }
      ]
     },
     {
-     "court": "Karnataka",
+     "court": "Gauhati",
      "items": [
       {
-       "caseName": "Amrita M. v. State of Karnataka",
-       "caseNo": "CRL.P No. 4343 of 2026",
-       "coram": "S.R. Krishna Kumar, J.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Body-shaming alone isn't insulting modesty",
+       "caseName": "Harbinder Singh Kalsi & Anr. v. State of Assam & Ors.",
+       "caseNo": "WA/51/2026",
+       "coram": "Ashutosh Kumar, CJ; Arun Dev Choudhury, J.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "Lawyers aren't guarantors of a client's whereabouts",
        "kind": "Held",
-       "text": "Verbal remarks on a woman's looks, without more, do not make out the offence under Section 509 IPC.",
-       "tag": "Criminal law",
-       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-body-shaming-allegations-not-equivalent-insulting-modesty-552898",
+       "text": "Costs of ₹50,000 and a Bar Council referral against advocates set aside; they must still verify a vakalatnama is genuine.",
+       "tag": "Legal profession",
+       "src": "https://www.livelaw.in/high-court/gauhati-high-court/advocates-not-responsible-for-petitioners-whereabouts-after-filing-but-must-verify-genuineness-while-accepting-vakalatnama-gauhati-high-court-553014",
        "srcName": "LiveLaw"
       }
      ]
@@ -263,34 +222,33 @@
      "court": "Kerala",
      "items": [
       {
-       "caseName": "Praveen Sodharan v. State of Kerala",
-       "citation": "2026 LiveLaw (Ker) 543",
-       "caseNo": "Crl.MC No. 5824 of 2026",
-       "coram": "Jobin Sebastian, J.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Brothel case can't be quashed for lack of victim grievance",
+       "caseName": "X & Anr. v. Kochi Municipal Corporation",
+       "citation": "2026 LiveLaw (Ker) 544",
+       "caseNo": "WP(C) No. 18646 of 2026",
+       "coram": "P.V. Kunhikrishnan, J.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "Fix father's name without DNA test if paternity undisputed",
        "kind": "Held",
-       "text": "Offences under the Immoral Traffic Act concern the public; charges against some accused were partly quashed.",
-       "tag": "Trafficking",
-       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-immoral-traffic-act-quash-552936",
+       "text": "Birth record correction ordered for the child's sake; the Court asked the legislature to rethink the DNA test rule.",
+       "tag": "Child rights",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-birth-record-correction-father-552955",
        "srcName": "LiveLaw"
       }
      ]
     },
     {
-     "court": "Madras",
+     "court": "Punjab & Haryana",
      "items": [
       {
-       "caseName": "A v. S",
-       "citation": "2026 LiveLaw (Mad) 477",
-       "caseNo": "CMA(MD) No. 724 of 2022",
-       "coram": "G.R. Swaminathan, M.D. Sumathi, JJ.",
-       "date": "Reported 3 Oct 2026",
-       "headline": "Childlessness is not cruelty",
+       "caseName": "Parteek Goel v. State of Haryana and Another",
+       "caseNo": "CRM-M-54551-2026",
+       "coram": "Ramesh Kumari, J.",
+       "date": "Reported 4 Oct 2026",
+       "headline": "Bail plea can't wait on an unstayed transfer petition",
        "kind": "Held",
-       "text": "Marriage is not only for procreation; a husband's divorce plea on that ground was rejected.",
-       "tag": "Family law",
-       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-sole-object-marriage-not-procreation-wife-not-failed-552895",
+       "text": "Trial courts must decide bail and not keep adjourning it just because a transfer plea is pending in the High Court without a stay.",
+       "tag": "Bail",
+       "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-trial-court-cannot-keep-adjourning-bail-plea-merely-because-transfer-petition-is-pending-in-high-court-without-stay-552958",
        "srcName": "LiveLaw"
       }
      ]
@@ -306,20 +264,7 @@
    "pages": [
     {
      "title": "Reported rulings",
-     "items": [
-      {
-       "caseName": "Ram Niwas Sharma v. Rekha Gupta",
-       "coram": "Ashwani Panwar, ACJM",
-       "date": "Decided 3 Oct 2026",
-       "court": "Rouse Avenue Court, New Delhi, Delhi",
-       "headline": "Police report sought on plea for FIR against Delhi CM",
-       "kind": "Notice",
-       "text": "Status report due by 15 October on a complaint over the CM's remark comparing officials to Lord Hanuman.",
-       "tag": "Criminal law",
-       "src": "https://www.barandbench.com/news/delhi-court-seeks-police-report-on-plea-for-fir-against-cm-rekha-gupta-for-comparing-government-officials-to-hanuman",
-       "srcName": "Bar & Bench"
-      }
-     ]
+     "note": "No district, sessions or family court judgments or orders passed in this window were reported by legal publications."
     }
    ]
   }
@@ -330,12 +275,12 @@
    "url": "https://www.verdictum.in/court-updates/supreme-court"
   },
   {
-   "title": "LiveLaw: High Courts",
-   "url": "https://www.livelaw.in/high-court"
+   "title": "Bar & Bench: Supreme Court suo motu case on Central Secretariat Library",
+   "url": "https://www.barandbench.com/news/supreme-court-initiates-suo-motu-case-on-proposed-relocation-of-135-year-old-central-secretariat-library"
   },
   {
-   "title": "Bar & Bench: Litigation news",
-   "url": "https://www.barandbench.com/news/litigation"
+   "title": "LiveLaw: All High Courts",
+   "url": "https://www.livelaw.in/high-court/all-high-courts"
   }
  ]
 }
