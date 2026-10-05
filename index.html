@@ -146,6 +146,7 @@ main{padding-block:0 64px}
 .search{display:flex;align-items:center;gap:8px;border:1px solid var(--rule);background:var(--sheet);padding:8px 12px;width:280px;max-width:100%}
 .search input{border:0;background:transparent;color:var(--ink);font:14px var(--sans);width:100%;outline:none}
 .chips{display:flex;flex-wrap:wrap;gap:8px;padding-block:14px 6px}
+.chip.revbtn{font-weight:600;color:var(--ink);border-color:var(--ink);}
 .chip{font:500 12px var(--sans);border:1px solid var(--rule);background:var(--sheet);color:var(--ink-2);padding:6px 12px;border-radius:999px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
 .chip[aria-pressed="true"]{background:var(--stamp);color:#fff;border-color:var(--stamp)}
 .chip .c{font-family:var(--mono);opacity:.7}
@@ -923,7 +924,7 @@ async function loadData(){
 }
 const loadingView = () => `<div class="view"><p class="empty">${LOADED?"This section could not be loaded right now. Please refresh the page.":"Loading the latest edition…"}</p></div>`;
 
-let state={q:"",f:"all",cat:"all",theme:"all",lcourt:"all",more:3};
+let state={q:"",f:"all",cat:"all",theme:"all",lcourt:"all",more:3,rev:false};
 const kindCls = k => ({held:"k-held",notice:"k-notice",reserved:"k-wait",pending:"k-wait",split:"k-wait",referred:"k-wait"})[String(k||"held").toLowerCase()]||"k-held";
 function caseCard(it, courtLabel){
   const cite=[it.citation?`<b>${esc(it.citation)}</b>`:"",it.caseNo?esc(it.caseNo):""].filter(Boolean).join(" · ");
@@ -1072,6 +1073,7 @@ function landmarkPage(){
   if(state.lcourt!=="all") items=items.filter(x=>lvlOf(x)===state.lcourt);
   const q=state.q.trim().toLowerCase();
   if(q) items=items.filter(x=>[x.name,x.cit,x.no,x.held,x.court,THEMES[x.t],x.y].join(" ").toLowerCase().includes(q));
+  if(state.rev) items=[...items].reverse();
   let html="", dec=null;
   items.forEach(x=>{
     const d=Math.floor(x.y/10)*10;
@@ -1096,7 +1098,7 @@ function landmarkPage(){
       <div class="chips" role="group" aria-label="Filter by court">
         <button class="chip" data-lc="all" aria-pressed="${state.lcourt==="all"}">All courts<span class="c">${all.length}</span></button>
         ${Object.entries(LVL).filter(([k])=>lc[k]).map(([k,v])=>`<button class="chip" data-lc="${k}" aria-pressed="${state.lcourt===k}">${ico(v[1])}${v[0]}<span class="c">${lc[k]}</span></button>`).join("")}
-        <label class="search" style="margin-left:auto"><span aria-hidden="true">⌕</span><input id="q-lm" type="search" placeholder="Search case, citation, year" value="${esc(state.q)}" aria-label="Search landmark judgments"></label>
+        ${revBtn(!state.rev)}<label class="search" style="margin-left:auto"><span aria-hidden="true">⌕</span><input id="q-lm" type="search" placeholder="Search case, citation, year" value="${esc(state.q)}" aria-label="Search landmark judgments"></label>
       </div>
       <div class="chips" role="group" aria-label="Filter by subject" style="padding-top:0">
         <button class="chip" data-th="all" aria-pressed="${state.theme==="all"}">All subjects</button>
@@ -1212,6 +1214,7 @@ function reflow(t){
   return out;
 }
 let RS={slug:null,data:null,q:"",hits:[],hi:-1,orig:false,size:17};
+function revBtn(oldFirst){return `<button class="chip revbtn" data-rev aria-label="Reverse the order: show ${oldFirst?"newest":"oldest"} judgments first" title="Tap to reverse the order">⇅ ${oldFirst?"Oldest first":"Newest first"}</button>`;}
 function libraryPage(){
   if(!LIB) return loadingView();
   const q=state.q.trim().toLowerCase();
@@ -1221,7 +1224,9 @@ function libraryPage(){
   if(state.lcourt==="daily") items=items.filter(x=>x.origin==="daily");
   if(state.lcourt==="landmark") items=items.filter(x=>x.origin==="landmark");
   if(q) items=items.filter(x=>[x.name,x._cit,x._y].join(" ").toLowerCase().includes(q));
-  items.sort((a,b)=>b._y-a._y);
+  items.forEach(x=>{const l=lm.get(x.name); x._d=(l&&l.d)||x.date||String(x._y);});
+  items.sort((a,b)=>String(b._d).localeCompare(String(a._d)));
+  if(state.rev) items.reverse();
   const nD=LIB.items.filter(x=>x.origin==="daily").length, nL=LIB.items.length-nD;
   const totPages=LIB.items.reduce((a,x)=>a+(x.pages||0),0);
   return `<div class="view">
@@ -1232,7 +1237,7 @@ function libraryPage(){
       <button class="chip" data-lc="all" aria-pressed="${state.lcourt==="all"}">All<span class="c">${LIB.items.length}</span></button>
       <button class="chip" data-lc="landmark" aria-pressed="${state.lcourt==="landmark"}">${ico("pillar")}Landmark judgments<span class="c">${nL}</span></button>
       <button class="chip" data-lc="daily" aria-pressed="${state.lcourt==="daily"}">${ico("news")}From the daily digest<span class="c">${nD}</span></button>
-      <label class="search" style="margin-left:auto"><span aria-hidden="true">⌕</span><input type="search" placeholder="Search case name, citation, year" value="${esc(state.q)}" aria-label="Search full judgments"></label>
+      ${revBtn(state.rev)}<label class="search" style="margin-left:auto"><span aria-hidden="true">⌕</span><input type="search" placeholder="Search case name, citation, year" value="${esc(state.q)}" aria-label="Search full judgments"></label>
     </div>
     <div class="libgrid">${items.map(x=>`<a class="libcard" href="#j-${x.slug}" style="--c:${x._t?COL[x._t]:"#9E2A2B"}">
       <span class="ly">${x._y||""}</span><span class="ln">${esc(x.name)}</span>
@@ -1455,12 +1460,13 @@ function render(){
   app.querySelectorAll("[data-cat]").forEach(b=>b.onclick=()=>{state.cat=b.dataset.cat;render();});
   app.querySelectorAll("[data-th]").forEach(b=>b.onclick=()=>{state.theme=b.dataset.th;render();});
   app.querySelectorAll("[data-lc]").forEach(b=>b.onclick=()=>{state.lcourt=b.dataset.lc;render();});
+  app.querySelectorAll("[data-rev]").forEach(b=>b.onclick=()=>{state.rev=!state.rev;render();const n=app.querySelector("[data-rev]");if(n){n.focus({preventScroll:true});}});
   app.querySelectorAll("[data-ac]").forEach(b=>b.onclick=()=>{state.theme=b.dataset.ac;render();});
   app.querySelectorAll("[data-more]").forEach(b=>b.onclick=()=>{state.more+=5;render();});
   const inp=app.querySelector("input[type=search]");
   if(inp) inp.oninput=e=>{state.q=e.target.value;const pos=e.target.selectionStart;render();const n=app.querySelector("input[type=search]");n.focus();n.setSelectionRange(pos,pos);};
 }
-window.addEventListener("hashchange",()=>{state.q="";state.f="all";state.cat="all";state.theme="all";state.lcourt="all";state.more=3;render();
+window.addEventListener("hashchange",()=>{state.q="";state.f="all";state.cat="all";state.theme="all";state.lcourt="all";state.more=3;state.rev=false;render();
   const nav=document.querySelector("nav.main"); if(window.scrollY>nav.offsetTop) window.scrollTo({top:nav.offsetTop,behavior:"smooth"});});
 document.getElementById("refresh").onclick=()=>{ try{ window.nirnayTrack&&window.nirnayTrack("refresh_click",{}); }catch(e){}
   location.replace(location.pathname+"?r="+Date.now()+location.hash); };
