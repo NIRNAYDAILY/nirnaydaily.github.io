@@ -50,6 +50,13 @@ def check_word(party):
     return max(words, key=len) if words else None
 
 
+def status(msg):
+    import datetime
+    print("sci_latest:", msg)
+    with open("data/sci-latest-status.json", "w", encoding="utf-8") as fh:
+        json.dump({"checked": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ"), "result": msg}, fh)
+
+
 def main():
     lib = json.load(open("data/sc-library.json", encoding="utf-8"))
     have = set()
@@ -64,7 +71,7 @@ def main():
     rows = re.findall(r'<a href="(https://www\.sci\.gov\.in/view-pdf/\?diary_no=(\d+)&(?:amp;)?type=j&(?:amp;)?order_date=([\d-]+)'
                       r'&(?:amp;)?from=latest_judgements_order)"[^>]*>(.*?)</a>', page, flags=re.S)
     if not rows:
-        print("sci_latest: no judgments found on the Supreme Court home page (layout may have changed)")
+        status("no judgments found on the Supreme Court home page (layout may have changed)")
         return
     queued = defaultdict(list)
     seen = set()
@@ -99,11 +106,11 @@ def main():
         with open(f"inbox/sc_{odate}-auto.json", "w", encoding="utf-8") as fh:
             json.dump({"date": odate, "items": items}, fh, ensure_ascii=False, indent=1)
         n += len(items)
-    print(f"sci_latest: {len(rows)} on the Court's list, {n} new queued")
+    status(f"{len(rows)} on the Court's list, {n} new queued")
 
 
 if __name__ == "__main__":
     try:
         main()
     except Exception as ex:   # never block the rest of the daily update
-        print("sci_latest: skipped –", ex, file=sys.stderr)
+        status(f"skipped – {ex}")
