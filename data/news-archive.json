@@ -1,6 +1,38 @@
 [
  {
   "edition": {
+   "edition_id": "2026-10-04-am",
+   "iso": "2026-10-04",
+   "slot": "10 AM",
+   "dateShort": "4 Oct 2026",
+   "dateLong": "Sunday, 4 October 2026 · Morning edition",
+   "window": "News from 4:00 PM IST, 3 October to 10:00 AM IST, 4 October 2026"
+  },
+  "items": [
+   {
+    "cat": "Executive & Government",
+    "region": "Maharashtra",
+    "body": "National Human Rights Commission",
+    "headline": "NHRC takes cognizance of children allegedly used as shields at Mumbai protest",
+    "text": "The Commission issued notices to Mumbai Police, MeitY and X Corp. over reports that minors were brought to a 2 October protest at Shivaji Park and used against police action. It asked for an inquiry into who organised their presence and for FIRs where offences are disclosed.",
+    "date": "3 Oct 2026",
+    "src": "https://www.verdictum.in/news/human-rights-commission-cockroach-janta-party-mumbai-protest-children-1623283",
+    "srcName": "Verdictum"
+   },
+   {
+    "cat": "Other Legal News",
+    "region": "Delhi",
+    "body": "Delhi High Court",
+    "headline": "Youth Congress moves Delhi High Court after police refuse Jantar Mantar protest",
+    "text": "Indian Youth Congress president Uday Bhanu Chib has challenged the Delhi Police order of 1 October refusing permission for a protest seeking the Chief Election Commissioner's resignation. The plea says the refusal came only on the day of the protest and was disproportionate.",
+    "date": "3 Oct 2026",
+    "src": "https://www.livelaw.in/top-stories/indian-youth-congress-moves-delhi-high-court-against-denial-of-permission-to-protest-against-cec-gyanesh-kumar-at-jantar-mantar-552966",
+    "srcName": "LiveLaw"
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-10-03-am",
    "iso": "2026-10-03",
    "slot": "10 AM",

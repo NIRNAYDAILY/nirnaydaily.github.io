@@ -1,6 +1,11 @@
 {
- "updated": "2026-10-05T02:50+05:30",
+ "updated": "2026-10-05T09:58+05:30",
  "news": [
+  {
+   "edition": "2026-10-05-am",
+   "headline": "Justice Ujjal Bhuyan: any process that disenfranchises millions of voters is arbitrary",
+   "src": "https://www.livelaw.in/top-stories/any-process-taking-away-voting-rights-of-millions-of-citizens-is-unjustifiable-no-court-can-condone-it-justice-ujjal-bhuyan-553012"
+  },
   {
    "edition": "2026-10-04-am",
    "headline": "NHRC takes cognizance of children allegedly used as shields at Mumbai protest",
@@ -482,7 +487,7 @@
  "latest": {
   "digest": "4 Oct 2026",
   "tribunals": "4 Oct 2026",
-  "news": "2026-10-04-am",
+  "news": "2026-10-05-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-04"
  }
