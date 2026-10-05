@@ -250,6 +250,15 @@ main{padding-block:0 64px}
 .cstat{display:flex;flex-wrap:wrap;gap:12px 36px;margin:16px 0 6px;padding:14px 18px;background:var(--tint);border:1px solid var(--rule);font:12px var(--mono);color:var(--ink-3)}
 .cstat b{display:block;font:400 26px var(--display);color:var(--ink)}
 .cstat b.warn{color:var(--warn)}
+.cstat .cbtn{all:unset;cursor:pointer;display:block;padding:4px 10px;margin:-4px -10px;border-radius:6px;border:1px solid transparent;font:12px var(--mono);color:var(--ink-3)}
+.cstat .cbtn:hover,.cstat .cbtn:focus-visible{background:var(--sheet);border-color:var(--rule)}
+.cstat .cbtn[aria-pressed="true"]{background:var(--sheet);border-color:var(--warn)}
+.cstat .cbtn .tap{display:block;margin-top:2px;font-size:11px;color:var(--stamp);text-decoration:underline}
+.dlgroup{margin-top:22px}
+.dlgroup h4{display:flex;align-items:baseline;gap:10px;font:600 13px var(--official);letter-spacing:.12em;text-transform:uppercase;color:var(--stamp);padding-bottom:6px;border-bottom:2px solid var(--rule)}
+.dlgroup h4 .c{font:12px var(--mono);color:var(--ink-3);letter-spacing:0;text-transform:none}
+.dlgroup.urgent h4{color:var(--warn)}
+.dlsec{font:11px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
 .job.soon{border-color:#EBCB8E;box-shadow:inset 3px 0 0 var(--warn)}
 .edition{margin-top:18px}
 .edhead{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;align-items:flex-end;padding:14px 18px;background:var(--tint);border:1px solid var(--rule);border-left:4px solid var(--ink-3)}
@@ -1150,8 +1159,18 @@ function careersPage(){
   const F=CAR&&CAR.feature;
   const total=P.secs.reduce((a,s)=>a+s.items.length,0);
   const soon=P.secs.reduce((a,s)=>a+s.items.filter(i=>careerStatus(i)[0]==="soon").length,0);
-  const chips=`<div class="chips" role="group" aria-label="Filter openings"><button class="chip" data-cat="all" aria-pressed="${state.cat==="all"}">All open<span class="c">${total}</span></button>${P.secs.map(s=>`<button class="chip" data-cat="${esc(s.id)}" aria-pressed="${state.cat===s.id}">${esc(s.title)}<span class="c">${s.items.length}</span></button>`).join("")}</div>`;
+  const chips=`<div class="chips" role="group" aria-label="Filter openings"><button class="chip" data-cat="all" aria-pressed="${state.cat==="all"}">All open<span class="c">${total}</span></button><button class="chip" data-cat="deadlines" aria-pressed="${state.cat==="deadlines"}">⏳ By last date</button>${P.secs.map(s=>`<button class="chip" data-cat="${esc(s.id)}" aria-pressed="${state.cat===s.id}">${esc(s.title)}<span class="c">${s.items.length}</span></button>`).join("")}</div>`;
   let html="";
+  if(state.cat==="deadlines"){
+    const B=[["Closes today",0,0,1],["Closing in 1–3 days",1,3,1],["Closing in 4–7 days",4,7,1],["Closing in 8–15 days",8,15,0],["Closing in 16–30 days",16,30,0],["Closing after 30 days",31,1e9,0]];
+    const all=[]; P.secs.forEach(s=>s.items.filter(matches).forEach(it=>all.push({it,sec:s.title})));
+    all.sort((a,b)=>(deadlineOf(a.it)||"9999").localeCompare(deadlineOf(b.it)||"9999"));
+    const card=x=>jobCard(x.it).replace('<div class="org">',`<div class="dlsec">${esc(x.sec)}</div><div class="org">`);
+    B.forEach(([lab,lo,hi,urg])=>{ const g=all.filter(x=>{const d=deadlineOf(x.it); if(!d) return false; const n=daysTo(d); return n>=lo&&n<=hi;});
+      if(g.length) html+=`<section class="dlgroup${urg?" urgent":""}"><h4>${lab}<span class="c">${g.length} ${g.length===1?"opening":"openings"}</span></h4><div class="jobs">${g.map(card).join("")}</div></section>`; });
+    const nd=all.filter(x=>!deadlineOf(x.it));
+    if(nd.length) html+=`<section class="dlgroup"><h4>Last date not announced yet<span class="c">${nd.length} awaited</span></h4><div class="jobs">${nd.map(card).join("")}</div></section>`;
+  } else
   P.secs.filter(s=>state.cat==="all"||s.id===state.cat).forEach(s=>{
     const its=s.items.filter(matches);
     if(!its.length&&state.q) return;
@@ -1163,8 +1182,8 @@ function careersPage(){
   const upd=P.updated?new Date(P.updated+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"long",year:"numeric"}):"";
   return `<div class="view">
     ${pageHead("Careers Portal","Build your career in law","Only opportunities that are open or about to open are shown. Listings disappear on their own once the last date passes, and new judiciary posts, jobs, internships, entrance tests and admissions are added as they are notified.").replace("Search this and earlier editions","Search openings, organisations, courses")}
-    <div class="cstat"><div><b>${total}</b>open or upcoming</div><div><b class="warn">${soon}</b>closing within 7 days</div><div><b>${esc(upd||"—")}</b>last checked</div></div>
-    ${F&&!state.q?`<section class="feature"><span class="label">${esc(F.kicker||"")}</span><h3>${esc(F.headline||"")}</h3><p>${esc(F.text||"")}</p>${F.points&&F.points.length?`<ul>${F.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`:""}${F.src?`<a href="${esc(F.src)}" target="_blank" rel="noopener">${esc(F.srcName||"Source")} ↗</a>`:""}</section>`:""}
+    <div class="cstat"><div><button class="cbtn" data-cat="all" aria-pressed="${state.cat==="all"}"><b>${total}</b>open or upcoming<span class="tap">Show all</span></button></div><div><button class="cbtn" data-cat="deadlines" aria-pressed="${state.cat==="deadlines"}" title="See every opening sorted by when it closes"><b class="warn">${soon}</b>closing within 7 days<span class="tap">See what closes when →</span></button></div><div><b>${esc(upd||"—")}</b>last checked</div></div>
+    ${F&&!state.q&&state.cat!=="deadlines"?`<section class="feature"><span class="label">${esc(F.kicker||"")}</span><h3>${esc(F.headline||"")}</h3><p>${esc(F.text||"")}</p>${F.points&&F.points.length?`<ul>${F.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`:""}${F.src?`<a href="${esc(F.src)}" target="_blank" rel="noopener">${esc(F.srcName||"Source")} ↗</a>`:""}</section>`:""}
     ${chips}${html||`<p class="empty">No listings match your search.</p>`}
     <p class="src-note">Every listing links to the recruiting body's official website, where dates, fees and eligibility were read. Always confirm there before applying.</p>
   </div>`;
@@ -1458,7 +1477,7 @@ function render(){
   const navR=r==="news-archive"?"news":r;
   document.querySelectorAll("nav.main a").forEach(a=>{ if(a.dataset.r===navR) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
   app.querySelectorAll("[data-f]").forEach(b=>b.onclick=()=>{state.f=b.dataset.f;render();});
-  app.querySelectorAll("[data-cat]").forEach(b=>b.onclick=()=>{state.cat=b.dataset.cat;render();});
+  app.querySelectorAll("[data-cat]").forEach(b=>b.onclick=()=>{const fromBox=b.classList.contains("cbtn");state.cat=b.dataset.cat;render();if(fromBox){const t=app.querySelector(".cstat");if(t)window.scrollTo({top:t.getBoundingClientRect().top+window.scrollY-60,behavior:"smooth"});}});
   app.querySelectorAll("[data-th]").forEach(b=>b.onclick=()=>{state.theme=b.dataset.th;render();});
   app.querySelectorAll("[data-lc]").forEach(b=>b.onclick=()=>{state.lcourt=b.dataset.lc;render();});
   app.querySelectorAll("[data-rev]").forEach(b=>b.onclick=()=>{state.rev=!state.rev;render();const n=app.querySelector("[data-rev]");if(n){n.focus({preventScroll:true});}});
