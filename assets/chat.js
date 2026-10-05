@@ -23,13 +23,13 @@
     "trade":["trade"], "union":["union"], "telegraph":["telecommunications"], "sc":["supreme court"], "hc":["high court"],
     "llm":["ll.m","llm"], "judge":["judicial","civil judge","judge"], "judiciary":["judicial","judiciary","civil judge"]
   };
-  const TIER_C = {central:"#9E2A2B", maharashtra:"#C2610F"};
+  const TIER_C = {central:"#9E2A2B", maharashtra:"#C2610F", "madhya-pradesh":"#2E7D8C", rajasthan:"#B4477A", chhattisgarh:"#4E8A3E"};
 
   /* ---------- index of everything on the site ---------- */
   function buildIndex(){
     const X=[];
     const add=(o)=>{ o.nt=norm(o.t); o.nx=norm(o.x+" "+o.t+" "+(o.s||"")); X.push(o); };
-    try{ (typeof actList==="function"?actList():[]).forEach(a=>add({type:"act",k:(a.tier==="maharashtra"?"Maharashtra Act":"Central Act")+(a.cat?" · "+a.cat:""),
+    try{ (typeof actList==="function"?actList():[]).forEach(a=>add({type:"act",k:((typeof TIER_ACT!=="undefined"&&TIER_ACT[a.tier])||"Central Act")+(a.cat?" · "+a.cat:""),
       t:a.title, s:[a.short, typeof actNo==="function"?actNo(a):"", a.replaces?"Replaced "+a.replaces:""].filter(Boolean).join(" · "),
       x:[a.short,a.replaces,a.cat,"act bare act law statute",a.tier].join(" "), c:TIER_C[a.tier], slug:a.slug, a,
       go:()=>go("#a-"+a.slug)})); }catch(e){}

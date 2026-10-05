@@ -1,0 +1,32 @@
+name: Store State Acts PDFs
+# Uploads the official India Code PDF of every Madhya Pradesh, Rajasthan and
+# Chhattisgarh Act (listed in data/state-acts-pdfs.json) to this repository's
+# Releases, which the Bare Acts section links to. Safe to re-run: files already
+# stored are skipped.
+on:
+  push:
+    branches: [main]
+    paths: ["data/state-acts-pdfs.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: state-acts-pdfs
+  cancel-in-progress: false
+jobs:
+  store:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            data/state-acts-pdfs.json
+            tools/state_acts_pdfs.py
+      - name: Upload official PDFs to Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/state_acts_pdfs.py
+      - name: Remove the old test branch
+        if: always()
+        run: git push origin --delete probe-wf || true
