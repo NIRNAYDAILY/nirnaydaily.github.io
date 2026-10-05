@@ -8,10 +8,11 @@ do not count towards that limit and download from github.com directly.
 
 Each PDF is fetched from India Code (indiacode.gov.in), the Government of India's
 official repository of Acts, and must match the SHA-256 recorded in the manifest
-(taken from the copy checked when the list was built). Files already uploaded are
+(taken from the copy checked when the list was built), ignoring the file ID
+that India Code stamps afresh into every download. Files already uploaded are
 skipped, so the workflow can be re-run safely.
 """
-import hashlib, json, os, subprocess, sys, time, urllib.request
+import hashlib, json, os, re, subprocess, sys, time, urllib.request
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "NIRNAYDAILY/nirnaydaily.github.io")
 MAN = json.load(open("data/state-acts-pdfs.json"))
@@ -60,7 +61,8 @@ for st, items in MAN["states"].items():
         tmp = "/tmp/" + name
         ok = fetch(it["id"], tmp)
         if ok:
-            h = hashlib.sha256(open(tmp, "rb").read()).hexdigest()
+            # India Code stamps a fresh file ID into each download, so that ID is ignored
+            h = hashlib.sha256(re.sub(rb"/ID\s*\[\s*<[0-9A-Fa-f]*>\s*<[0-9A-Fa-f]*>\s*\]", b"", open(tmp, "rb").read())).hexdigest()
             ok = h == it["sha256"]
             if not ok:
                 print("  checksum differs, skipped:", name, flush=True)
