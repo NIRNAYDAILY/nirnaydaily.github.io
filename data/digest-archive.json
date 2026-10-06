@@ -1,6 +1,292 @@
 [
  {
   "edition": {
+   "vol": "Vol. I · No. 11",
+   "badge": "",
+   "dateLong": "Monday, 5 October 2026",
+   "dateShort": "5 Oct 2026",
+   "window": "Judgments and orders passed between 10:00 AM IST on 4 October 2026 and 9:30 AM IST on 5 October 2026",
+   "next": "Next edition: tomorrow at 10:00 AM IST"
+  },
+  "highlights": [
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Prabha Devi v. State of Bihar & Ors.",
+    "text": "Not restraining her son isn't cruelty by a mother-in-law.",
+    "ref": "sc:0"
+   },
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Suo motu case (title not yet reported)",
+    "text": "SC takes up plan to cram a 135-year-old library into two rooms.",
+    "ref": "sc:1"
+   },
+   {
+    "court": "High Court of Kerala",
+    "caseName": "X & Anr. v. Kochi Municipal Corporation",
+    "text": "No DNA test needed to fix father's name when paternity is undisputed.",
+    "ref": "hc:Kerala"
+   },
+   {
+    "court": "High Court of Gauhati",
+    "caseName": "Harbinder Singh Kalsi & Anr. v. State of Assam & Ors.",
+    "text": "Advocates aren't answerable for a client's whereabouts.",
+    "ref": "hc:Gauhati"
+   },
+   {
+    "court": "High Court of Andhra Pradesh",
+    "caseName": "X v. State of Andhra Pradesh & Others",
+    "text": "NRI in-laws can't be tried for acts abroad without Centre's sanction.",
+    "ref": "hc:Andhra Pradesh"
+   }
+  ],
+  "chapters": [
+   {
+    "id": "sc",
+    "num": "I",
+    "title": "Supreme Court of India",
+    "short": "Supreme Court",
+    "tab": "SC",
+    "seat": "New Delhi",
+    "pages": [
+     {
+      "title": "Judgments",
+      "items": [
+       {
+        "caseName": "Prabha Devi v. State of Bihar & Ors.",
+        "coram": "Satish Chandra Sharma, N.K. Singh, JJ.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "Not stopping a son isn't cruelty by mother-in-law",
+        "kind": "Held",
+        "text": "Case against a mother-in-law quashed; vague claims of taunts or failing to restrain her son don't make out Section 498A.",
+        "tag": "Criminal law",
+        "src": "https://www.verdictum.in/supreme-court/failure-restrain-son-does-not-constitute-cruelty-section-498a-ipc-1623288",
+        "srcName": "Verdictum"
+       }
+      ]
+     },
+     {
+      "title": "Orders",
+      "items": [
+       {
+        "caseName": "Case title not yet reported",
+        "coram": "P.V. Sanjay Kumar, Sanjeev Sachdeva, JJ.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "Suo motu case on moving 135-year-old library",
+        "kind": "Pending",
+        "text": "SC took up on its own the plan to shift the Central Secretariat Library's 8.5 lakh volumes into two rooms; listed for 5 Oct.",
+        "tag": "Heritage & governance",
+        "src": "https://www.barandbench.com/news/supreme-court-initiates-suo-motu-case-on-proposed-relocation-of-135-year-old-central-secretariat-library",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hc",
+    "num": "II",
+    "title": "High Courts",
+    "short": "High Courts",
+    "tab": "HC",
+    "roster": [
+     "Allahabad",
+     "Andhra Pradesh",
+     "Bombay",
+     "Calcutta",
+     "Chhattisgarh",
+     "Delhi",
+     "Gauhati",
+     "Gujarat",
+     "Himachal Pradesh",
+     "Jammu & Kashmir and Ladakh",
+     "Jharkhand",
+     "Karnataka",
+     "Kerala",
+     "Madhya Pradesh",
+     "Madras",
+     "Manipur",
+     "Meghalaya",
+     "Orissa",
+     "Patna",
+     "Punjab & Haryana",
+     "Rajasthan",
+     "Sikkim",
+     "Telangana",
+     "Tripura",
+     "Uttarakhand"
+    ],
+    "seats": {
+     "Allahabad": "Prayagraj",
+     "Andhra Pradesh": "Amaravati",
+     "Bombay": "Mumbai",
+     "Calcutta": "Kolkata",
+     "Chhattisgarh": "Bilaspur",
+     "Delhi": "New Delhi",
+     "Gauhati": "Guwahati",
+     "Gujarat": "Ahmedabad",
+     "Himachal Pradesh": "Shimla",
+     "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+     "Jharkhand": "Ranchi",
+     "Karnataka": "Bengaluru",
+     "Kerala": "Kochi",
+     "Madhya Pradesh": "Jabalpur",
+     "Madras": "Chennai",
+     "Manipur": "Imphal",
+     "Meghalaya": "Shillong",
+     "Orissa": "Cuttack",
+     "Patna": "Patna",
+     "Punjab & Haryana": "Chandigarh",
+     "Rajasthan": "Jodhpur",
+     "Sikkim": "Gangtok",
+     "Telangana": "Hyderabad",
+     "Tripura": "Agartala",
+     "Uttarakhand": "Nainital"
+    },
+    "pages": [
+     {
+      "court": "Allahabad",
+      "items": [
+       {
+        "caseName": "Pooja Devi v. State of U.P. and 3 Others",
+        "citation": "2026 LiveLaw (AB) 791",
+        "coram": "Ajay Bhanot, Divesh Chandra Samant, JJ.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "DM must refer Gangsters Act property plea to court",
+        "kind": "Held",
+        "text": "A DM who rejects a plea to release attached property must refer it to court under Section 16(1); the order was quashed.",
+        "tag": "Criminal law",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-16-up-gangsters-act-dm-reject-release-attached-property-553003",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Andhra Pradesh",
+      "items": [
+       {
+        "caseName": "X v. State of Andhra Pradesh & Others",
+        "caseNo": "Criminal Petition No. 5220 of 2023",
+        "coram": "Tuhin Kumar Gedela, J.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "No trial of NRI in-laws without Centre's sanction",
+        "kind": "Held",
+        "text": "Cruelty case against NRI relatives quashed: acts abroad needed Section 188 CrPC sanction and Indian allegations were vague.",
+        "tag": "Criminal procedure",
+        "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-quashes-498a-proceedings-husband-siblings-central-govt-sanction-section188-crpc-552959",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "X v. State & Anr.",
+        "caseNo": "Criminal Petition No. 7328 of 2022",
+        "coram": "Tuhin Kumar Gedela, J.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "Retaliatory 498A case against husband quashed",
+        "kind": "Held",
+        "text": "No specific overt acts were alleged, and the complaint followed her kin's conviction for assaulting the husband's family.",
+        "tag": "Family law",
+        "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-quashes-498a-proceedings-against-husband-lacking-specific-overt-acts-552940",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "B Vijaya Sai v. State of Andhra Pradesh & Another",
+        "caseNo": "Criminal Petition No. 5860 of 2026",
+        "coram": "Maheswara Rao Kuncheam, J.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "NBWs need reasons, not routine issue",
+        "kind": "Held",
+        "text": "Non-bailable warrant against a 70-year-old in a cheque case recalled; courts must record reasons before coercive steps.",
+        "tag": "Criminal procedure",
+        "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-recalls-non-bailable-warrant-courts-cannot-resort-coercive-process-routinely-552957",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Gauhati",
+      "items": [
+       {
+        "caseName": "Harbinder Singh Kalsi & Anr. v. State of Assam & Ors.",
+        "caseNo": "WA/51/2026",
+        "coram": "Ashutosh Kumar, CJ; Arun Dev Choudhury, J.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "Lawyers aren't guarantors of a client's whereabouts",
+        "kind": "Held",
+        "text": "Costs of ₹50,000 and a Bar Council referral against advocates set aside; they must still verify a vakalatnama is genuine.",
+        "tag": "Legal profession",
+        "src": "https://www.livelaw.in/high-court/gauhati-high-court/advocates-not-responsible-for-petitioners-whereabouts-after-filing-but-must-verify-genuineness-while-accepting-vakalatnama-gauhati-high-court-553014",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Kerala",
+      "items": [
+       {
+        "caseName": "X & Anr. v. Kochi Municipal Corporation",
+        "citation": "2026 LiveLaw (Ker) 544",
+        "caseNo": "WP(C) No. 18646 of 2026",
+        "coram": "P.V. Kunhikrishnan, J.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "Fix father's name without DNA test if paternity undisputed",
+        "kind": "Held",
+        "text": "Birth record correction ordered for the child's sake; the Court asked the legislature to rethink the DNA test rule.",
+        "tag": "Child rights",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-birth-record-correction-father-552955",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Punjab & Haryana",
+      "items": [
+       {
+        "caseName": "Parteek Goel v. State of Haryana and Another",
+        "caseNo": "CRM-M-54551-2026",
+        "coram": "Ramesh Kumari, J.",
+        "date": "Reported 4 Oct 2026",
+        "headline": "Bail plea can't wait on an unstayed transfer petition",
+        "kind": "Held",
+        "text": "Trial courts must decide bail and not keep adjourning it just because a transfer plea is pending in the High Court without a stay.",
+        "tag": "Bail",
+        "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-trial-court-cannot-keep-adjourning-bail-plea-merely-because-transfer-petition-is-pending-in-high-court-without-stay-552958",
+        "srcName": "LiveLaw"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc",
+    "num": "III",
+    "title": "District & Sessions Courts",
+    "short": "District Courts",
+    "tab": "District",
+    "pages": [
+     {
+      "title": "Reported rulings",
+      "note": "No district, sessions or family court judgments or orders passed in this window were reported by legal publications."
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "title": "Verdictum: Supreme Court",
+    "url": "https://www.verdictum.in/court-updates/supreme-court"
+   },
+   {
+    "title": "Bar & Bench: Supreme Court suo motu case on Central Secretariat Library",
+    "url": "https://www.barandbench.com/news/supreme-court-initiates-suo-motu-case-on-proposed-relocation-of-135-year-old-central-secretariat-library"
+   },
+   {
+    "title": "LiveLaw: All High Courts",
+    "url": "https://www.livelaw.in/high-court/all-high-courts"
+   }
+  ]
+ },
+ {
+  "edition": {
    "vol": "Vol. I · No. 10",
    "badge": "",
    "dateLong": "Sunday, 4 October 2026",

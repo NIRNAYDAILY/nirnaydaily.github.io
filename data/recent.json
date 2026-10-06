@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:10+05:30",
+ "updated": "2026-10-06T11:46+05:30",
  "news": [
   {
    "edition": "2026-10-06-am",
@@ -198,6 +198,61 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Prateek Jain v. Anurag Nirbhaya & Ors",
+   "src": "https://www.livelawbiz.com/ibc/shareholder-is-not-an-aggrieved-person-to-challenge-resolution-plan-approval-under-ibc-nclat-cites-park-energy-553166"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Rock Bottom Mines Pvt Ltd. And Anr. v. Sanjeev Chaudhary",
+   "src": "https://www.livelawbiz.com/company-law/nclat-holds-directions-in-quashed-nclt-order-cannot-continue-independently-553168"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Priyanka Srivastava v. NBCC (I) Ltd & Ors.",
+   "src": "https://www.livelawbiz.com/ibc/supertech-north-eye-homebuyers-moves-contempt-proceedings-before-nclat-against-nbcc-553272"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Abinandan Holdings Private Limited v. Sanjai Kumar Gupta, IRP of Howrah Mills Company Limited",
+   "src": "https://www.livelawbiz.com/nclt/related-party-status-under-section-524d-depends-on-shareholding-threshold-not-actual-exercise-of-control-nclt-553067"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Mr. Ronny George (Since Deceased) through his legal heirs v. M/s. The Professional Couriers Private Limited & Ors.",
+   "src": "https://www.livelawbiz.com/nclt/removal-of-promoter-director-in-quasi-partnership-company-can-amount-to-oppression-nclt-mumbai-553164"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "State Bank of India v. Mahesh Rajpal",
+   "src": "https://www.livelawbiz.com/ibc/resignation-as-director-does-not-extinguish-personal-guarantee-liability-nclt-indore-553154"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Ilaben Ashosbhai Modi v. Chiccem Healthcare Pvt. Ltd & Ors",
+   "src": "https://www.livelawbiz.com/amp/company-law/mere-non-payment-of-outstanding-amount-does-not-amount-to-contempt-without-wilful-disobedience-nclt-ahmedabad-553178"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "M/s Jai Enterprises v. Dr Anupama Goyal, Commissioner/Assistant Commissioner, State Tax Kanpur & Ors.",
+   "src": "https://www.livelawbiz.com/gst/reuse-e-way-bills-cannot-be-presumed-proof-earlier-journey-completion-gstat-lucknow-553159"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "GMG Electric, Kochi v. Commissioner of State Tax, State GST Department, Kerala",
+   "src": "https://www.livelawbiz.com/gst/gst-order-passed-445-days-after-section-129-notice-gstat-ernakulam-quashes-penalty-553142"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Cyqurex Systems Private Limited v. Deputy Commissioner of Income Tax, Central Circle-2(3), Mumbai",
+   "src": "https://www.livelawbiz.com/income-tax/rejection-of-tax-claim-alone-cannot-mean-concealment-itat-mumbai-deletes-123-crore-penalty-553189"
+  },
+  {
+   "edition": "6 Oct 2026",
+   "caseName": "Nirav Dineshbhai Bhavsar v. Income Tax Officer, Ward 5(3)(2), Ahmedabad",
+   "src": "https://www.livelawbiz.com/income-tax/ao-required-examine-expenditure-fmv-itat-ahmedabad-deletes-18-76-lakh-commission-disallowance-553110"
+  },
   {
    "edition": "4 Oct 2026",
    "caseName": "Chanda Athish Kumar v. PVR Cinemas",
@@ -477,73 +532,13 @@
    "edition": "27 Sep 2026",
    "caseName": "Pankaj Chhabildas Sheth v. Abhyudaya Co-operative Bank Ltd.",
    "src": "https://www.taxscan.in/top-stories/nclat-rejects-personal-guarantors-plea-as-application-for-personal-insolvency-resolution-cannot-be-used-as-shield-to-stall-sarfaesi-possession-1452079"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "In the matter of Vidarbha Industries Power Limited",
-   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-mumbai-approves-vidarbha-industries-power-merger-with-adani-power-551852"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "India1 Payments Limited v. Registrar of Companies",
-   "src": "https://www.livelawbiz.com/company-law/nclt/national-company-law-tribunal-bengaluru-approves-india1-payments-share-capital-reduction-facilitate-69-crore-investor-exit-551824"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "M.K. Nazar v. Indiavision Satellite Communications Limited",
-   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-kochi-dismisses-insolvency-plea-against-indivision-satellite-communication-limited-551798"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "Aegon Shipping India Private Limited v. Commissioner of Customs (General)",
-   "src": "https://www.livelawbiz.com/custom-excise-service-tax/nvoccs-bound-by-hccar-waiver-requirements-suspension-of-registration-upheld-551818"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "Parle Products Private Limited",
-   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-mumbai-approves-second-motion-in-composite-scheme-of-parle-products-demerger-and-parle-biscuits-merger-551808"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "Small Industries Development Bank of India v. Vyshnavi Spices LLP",
-   "src": "https://www.taxscan.in/top-stories/leasehold-rights-of-land-treated-as-assets-of-company-nclt-allows-ia-1451939"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "State Bank of India v. Pangea Fabrics India Pvt. Ltd.",
-   "src": "https://www.taxscan.in/top-stories/absence-of-separate-postal-receipt-or-acknowledgement-cannot-invalidate-demand-notice-nclt-read-order-1451938"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "State Bank of India v. Suryajyoti Infotech Ltd.",
-   "src": "https://www.taxscan.in/top-stories/contents-of-notice-demonstrate-intention-to-enforce-liability-of-guarantors-nclt-admits-petition-read-order-1451936"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "Naksh Steel Ltd. v. Auri Grow India Ltd.",
-   "src": "https://www.livelawbiz.com/ibc/nclt-indore-admits-insolvency-plea-against-auri-grow-india-over-default-of-rs-7804-crore-principal-debt-551800"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "Chellanam Service Cooperative Bank v. Income Tax Officer, Non Corp Ward 2(4)",
-   "src": "https://www.taxscan.in/top-stories/denial-of-the-deduction-without-examining-and-appreciating-the-annual-accounts-itat-directs-ao-to-decide-issue-afresh-read-order-1451937"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "Keshav Khaneja v. Mufin Green Finance Limited",
-   "src": "https://www.livelawbiz.com/ibc/nclt-ahmedabad-orders-forensic-audit-to-verify-security-deposit-adjustment-in-gensol-mufin-dispute-551828"
-  },
-  {
-   "edition": "26 Sep 2026",
-   "caseName": "The Cosmos Co-op. Bank Ltd. v. Rajendra Singhal",
-   "src": "https://www.livelawbiz.com/ibc/guarantors-personal-benefit-not-necessary-for-enforcing-guarantee-nclt-indore-551843"
   }
  ],
  "latest": {
-  "digest": "5 Oct 2026",
-  "tribunals": "4 Oct 2026",
+  "digest": "6 Oct 2026",
+  "tribunals": "6 Oct 2026",
   "news": "2026-10-06-am",
   "careersBooklet": "2026-10-03",
-  "careersPool": "2026-10-04"
+  "careersPool": "2026-10-06"
  }
 }

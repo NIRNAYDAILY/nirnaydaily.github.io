@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-06",
  "sections": [
   {
    "id": "judiciary",
@@ -163,6 +163,92 @@
      "added": "2026-09-26"
     },
     {
+     "name": "Winter Internship Programme 2026 (14 Dec 2026 – 8 Jan 2027)",
+     "org": "National Human Rights Commission (NHRC), New Delhi",
+     "sector": "Government",
+     "status": "Open",
+     "eligibility": "University students including <b>law students in the senior years of LLB and LLM students</b>; at least 65% in Class XII and every semester since; age up to 28. Earlier NHRC summer/winter interns cannot apply.",
+     "facts": [
+      {
+       "k": "Interns",
+       "v": "About 80"
+      },
+      {
+       "k": "Duration",
+       "v": "4 weeks, in person, New Delhi"
+      },
+      {
+       "k": "Stipend",
+       "v": "₹12,000 plus 3rd AC train fare"
+      },
+      {
+       "k": "Announced",
+       "v": "1 Oct 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "15 Oct 2026, 6 PM",
+       "iso": "2026-10-15"
+      }
+     ],
+     "note": "Applications are taken online only through NHRC's HRCNet portal, linked from the NHRC homepage. Keep scanned mark sheets, a statement of purpose and a recent recommendation letter from your Dean or HoD ready before you start.",
+     "links": [
+      {
+       "label": "Official internship page",
+       "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes",
+       "primary": true
+      },
+      {
+       "label": "Announcement (PDF)",
+       "url": "https://nhrc.nic.in/assets/uploads/summer_winter/1790831008_0ade143f0c1d2ae01354.pdf"
+      }
+     ],
+     "added": "2026-10-01"
+    },
+    {
+     "name": "Legal Consultant (Maritime Law), Directorate General of Shipping",
+     "org": "NALSAR University of Law, Hyderabad, with the Directorate General of Shipping",
+     "sector": "Government",
+     "status": "Open",
+     "eligibility": "<b>LL.M. in Maritime Law, Insurance Law, Maritime Security Law or International Law</b>; 1–2 years' experience is preferred, not required. Below 35 years on 30 Sep 2026; fluent English.",
+     "facts": [
+      {
+       "k": "Posts",
+       "v": "3"
+      },
+      {
+       "k": "Pay",
+       "v": "₹60,000 / month (consolidated)"
+      },
+      {
+       "k": "Based at",
+       "v": "DG Shipping HQ, Mumbai"
+      },
+      {
+       "k": "Tenure",
+       "v": "1 year, renewable"
+      },
+      {
+       "k": "Posted",
+       "v": "29 Sep 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "18 Oct 2026",
+       "iso": "2026-10-18"
+      }
+     ],
+     "note": "Contract role placed with the shipping regulator in Mumbai. Apply through NALSAR's online form with a CV and a statement of purpose of up to 750 words; shortlisted candidates are interviewed.",
+     "links": [
+      {
+       "label": "Official call for applications",
+       "url": "https://nalsar.ac.in/news-and-events/job-openings/applications-for-the-post-of-legal-consultant-maritime-law/",
+       "primary": true
+      }
+     ],
+     "added": "2026-10-06"
+    },
+    {
      "name": "Legal Assistant, High Court Legal Services Committee",
      "org": "High Court of Meghalaya, Shillong · Advt. No. HCM.II/I09/2020-Rect/54",
      "sector": "Government",
@@ -206,55 +292,52 @@
      "added": "2026-09-26"
     },
     {
-     "name": "Winter Internship Programme 2026 (14 Dec 2026 – 8 Jan 2027)",
-     "org": "National Human Rights Commission (NHRC), New Delhi",
+     "name": "Associate (Mitigation), Square Circle Clinic",
+     "org": "NALSAR University of Law, Hyderabad (Square Circle Clinic, New Delhi office)",
      "sector": "Government",
-     "status": "Awaited",
-     "eligibility": "University students including <b>law students in the senior years of LLB and LLM students</b>; at least 65% in Class XII and every semester since; age up to 28. Earlier NHRC summer/winter interns cannot apply.",
+     "status": "Open",
+     "eligibility": "<b>Postgraduate degree</b> in law, social work, psychology, criminology, sociology or a related field; two years' work experience is preferred, not required. Strong Hindi needed.",
      "facts": [
       {
-       "k": "Interns",
-       "v": "About 80"
+       "k": "Posts",
+       "v": "3"
       },
       {
-       "k": "Duration",
-       "v": "4 weeks, in person, New Delhi"
+       "k": "Pay",
+       "v": "₹65,000 / month"
       },
       {
-       "k": "Stipend",
-       "v": "₹12,000 plus 3rd AC train fare"
+       "k": "Based in",
+       "v": "New Delhi"
       },
       {
-       "k": "Announced",
-       "v": "1 Oct 2026"
+       "k": "Tenure",
+       "v": "1 year, renewable"
+      },
+      {
+       "k": "Posted",
+       "v": "25 Sep 2026"
       },
       {
        "k": "Last date",
-       "v": "See the official announcement"
+       "v": "25 Oct 2026, 11:59 PM",
+       "iso": "2026-10-25"
       }
      ],
-     "note": "NHRC has announced the winter programme; check the official announcement for the application window and last date before applying. Apply online with a 300–500 word write-up on why you want to intern at NHRC.",
+     "note": "Mitigation work for people facing the death penalty: building life histories through prison and family visits and drafting reports for courts. The application includes an 800-word written assignment.",
      "links": [
       {
-       "label": "Official internship page",
-       "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes",
+       "label": "Official call for applications",
+       "url": "https://nalsar.ac.in/news-and-events/job-openings/call-for-applications-associate-mitigation/",
        "primary": true
-      },
-      {
-       "label": "Announcement (PDF)",
-       "url": "https://nhrc.nic.in/assets/uploads/summer_winter/1790831008_0ade143f0c1d2ae01354.pdf"
       }
      ],
-     "added": "2026-10-01"
+     "added": "2026-10-06"
     }
    ],
    "also": {
     "title": "Also open, but they need practice experience",
     "list": [
-     {
-      "text": "UPSC Advt. 11/2026: Assistant Public Prosecutor, Delhi, 140 posts (3 years at the Bar), closes 2 Oct 2026; Law Officer, UT of Ladakh, 4 posts (2 years' practice), closes 9 Oct 2026",
-      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-11-2026-Engl-100926.pdf"
-     },
      {
       "text": "OPSC Assistant Public Prosecutor (Advt. 09 of 2026-27), 172 posts: 2 years' practice; a 2nd corrigendum was issued on 22 Sep, check it for current dates",
       "url": "https://www.opsc.gov.in/"
@@ -270,6 +353,18 @@
      {
       "text": "UPSC Advt. 12/2026: Law Officer, Land & Building Dept, GNCT Delhi, 3 posts (2 years' legal experience); Assistant Legislative Counsel, Ministry of Law, 8 posts (7 years' experience); closes 16 Oct 2026",
       "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
+     },
+     {
+      "text": "UPSC Advt. 11/2026: Law Officer, UT of Ladakh, 4 posts (2 years' practice), closes 9 Oct 2026",
+      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-11-2026-Engl-100926.pdf"
+     },
+     {
+      "text": "National Housing Bank (Advt. NHB/HRMD/Recruitment/2026-27/01): Manager (Legal), 1 post (3 years' post-qualification experience in banking/recovery law), closes 18 Oct 2026",
+      "url": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01-1.pdf"
+     },
+     {
+      "text": "BECIL Advt. No. 559: Legal Consultant, 2 posts at a Central Government hospital in Delhi/NCR (2 years' legal advisory experience), closes 11 Oct 2026",
+      "url": "https://www.becil.com/uploads/topics/17903366883226.pdf"
      }
     ]
    }
