@@ -1,6 +1,69 @@
 [
  {
   "edition": {
+   "edition_id": "2026-10-06-am",
+   "iso": "2026-10-06",
+   "slot": "10 AM",
+   "dateShort": "6 Oct 2026",
+   "dateLong": "Tuesday, 6 October 2026 · Morning edition",
+   "window": "News from 4:00 PM IST, 5 October to 10:00 AM IST, 6 October 2026"
+  },
+  "items": [
+   {
+    "cat": "Judiciary",
+    "region": "Delhi",
+    "body": "Delhi High Court / Ministry of Law and Justice",
+    "headline": "Justice Nitin Wasudeo Sambre named Acting Chief Justice of Delhi High Court",
+    "text": "The Centre has notified Justice Nitin Wasudeo Sambre as Acting Chief Justice of the Delhi High Court under Article 223 of the Constitution. He will carry out the Chief Justice's duties once Chief Justice Devendra Kumar Upadhyaya leaves office on his elevation to the Supreme Court.",
+    "why": "Delhi High Court will be led by an acting head until a regular Chief Justice is appointed.",
+    "date": "5 Oct 2026",
+    "src": "https://www.livelaw.in/high-court/delhi-high-court/justice-nitin-sambre-appointed-as-delhi-high-court-acting-chief-justice-553231",
+    "srcName": "LiveLaw"
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Gujarat",
+    "body": "Gujarat High Court / Ministry of Law and Justice",
+    "headline": "Justice Manash Ranjan Pathak named Acting Chief Justice of Gujarat High Court",
+    "text": "The Centre has notified Justice Manash Ranjan Pathak to perform the duties of Chief Justice of the Gujarat High Court under Article 223. The appointment follows the elevation of Chief Justice Sunita Agarwal to the Supreme Court, notified the same day.",
+    "date": "5 Oct 2026",
+    "src": "https://www.livelaw.in/high-court/gujarat-high-court/centre-notifies-appointment-of-justice-manash-ranjan-as-acting-chief-justice-of-gujarat-high-court-553228",
+    "srcName": "LiveLaw"
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Telangana",
+    "body": "Telangana High Court / Ministry of Law and Justice",
+    "headline": "Justice P Sam Koshy named Acting Chief Justice of Telangana High Court",
+    "text": "The Centre has notified Justice Puthichira Sam Koshy as Acting Chief Justice of the Telangana High Court under Article 223. He takes charge once Chief Justice Aparesh Kumar Singh relinquishes office on his elevation to the Supreme Court.",
+    "date": "5 Oct 2026",
+    "src": "https://www.livelaw.in/high-court/telangana-high-court/centre-notifies-appointment-justice-p-sam-koshy-acting-chief-justice-telangana-high-court-553229",
+    "srcName": "LiveLaw"
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Gujarat",
+    "body": "Gujarat High Court",
+    "headline": "Outgoing Gujarat Chief Justice Sunita Agarwal urges women lawyers not to let others' doubts limit them",
+    "text": "At her farewell reference before moving to the Supreme Court, Chief Justice Sunita Agarwal told young women lawyers not to let circumstances or other people's doubts set the limits of what they achieve. She asked senior women in the profession to mentor newcomers and said integrity, hard work and humility build a lasting reputation at the Bar.",
+    "date": "5 Oct 2026",
+    "src": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-chief-justice-sunita-agarwal-farewell-553213",
+    "srcName": "LiveLaw"
+   },
+   {
+    "cat": "Other Legal News",
+    "region": "All India",
+    "body": "Election Commission of India",
+    "headline": "Election Commission says Bihar SIR order was a unanimous decision upheld by Supreme Court",
+    "text": "Responding to allegations by Congress leader Rahul Gandhi, the Election Commission said its June 2025 order for the Special Intensive Revision of Bihar's voter rolls was approved unanimously by the full Commission. It pointed out that the Supreme Court upheld the exercise in May 2026; separate petitions questioning alleged unilateral decisions by the Chief Election Commissioner, including changes to Form 6, remain pending.",
+    "date": "5 Oct 2026",
+    "src": "https://lawbeat.in/top-stories/bihar-sir-was-a-unanimous-decision-consequently-upheld-by-supreme-court-election-commission-of-india-1638682",
+    "srcName": "LawBeat"
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-10-05-pm",
    "iso": "2026-10-05",
    "slot": "6 PM",

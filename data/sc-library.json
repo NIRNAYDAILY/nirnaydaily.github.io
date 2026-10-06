@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05",
+ "updated": "2026-10-06",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1392,6 +1392,50 @@
    "pdf": "judgments/sc/pdf/ajit-kumar-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 317891
+  },
+  {
+   "slug": "santosh-b-2026",
+   "name": "Santosh B Naik v. State of Goa",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-06.json",
+   "pages": 23,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3554,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=116002025&type=j&order_date=2026-10-06&from=latest_judgements_order",
+   "added": "2026-10-06",
+   "keys": [
+    "santosh b naik",
+    "state of goa"
+   ],
+   "citation": "2026 INSC 1089",
+   "caseNo": "C.A. No. 13460/2026",
+   "date": "2026-10-06",
+   "pdf": "judgments/sc/pdf/santosh-b-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 330745
+  },
+  {
+   "slug": "chhaganbhai-kohyabhai-2026",
+   "name": "Chhaganbhai Kohyabhai Pateiliya v. The State of Gujarat",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-06.json",
+   "pages": 8,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1940,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=186782025&type=j&order_date=2026-10-06&from=latest_judgements_order",
+   "added": "2026-10-06",
+   "keys": [
+    "chhaganbhai kohyabhai pateiliya",
+    "the state of gujarat"
+   ],
+   "citation": "2026 INSC 1088",
+   "caseNo": "C.A. No. 13454/2026",
+   "date": "2026-10-06",
+   "pdf": "judgments/sc/pdf/chhaganbhai-kohyabhai-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 332610
   }
  ]
 }

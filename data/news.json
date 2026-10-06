@@ -1,63 +1,65 @@
 {
  "edition": {
-  "edition_id": "2026-10-06-am",
+  "edition_id": "2026-10-06-pm",
   "iso": "2026-10-06",
-  "slot": "10 AM",
+  "slot": "6 PM",
   "dateShort": "6 Oct 2026",
-  "dateLong": "Tuesday, 6 October 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 5 October to 10:00 AM IST, 6 October 2026"
+  "dateLong": "Tuesday, 6 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 6 October 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "Delhi",
-   "body": "Delhi High Court / Ministry of Law and Justice",
-   "headline": "Justice Nitin Wasudeo Sambre named Acting Chief Justice of Delhi High Court",
-   "text": "The Centre has notified Justice Nitin Wasudeo Sambre as Acting Chief Justice of the Delhi High Court under Article 223 of the Constitution. He will carry out the Chief Justice's duties once Chief Justice Devendra Kumar Upadhyaya leaves office on his elevation to the Supreme Court.",
-   "why": "Delhi High Court will be led by an acting head until a regular Chief Justice is appointed.",
-   "date": "5 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/delhi-high-court/justice-nitin-sambre-appointed-as-delhi-high-court-acting-chief-justice-553231",
-   "srcName": "LiveLaw"
-  },
-  {
-   "cat": "Judiciary",
-   "region": "Gujarat",
-   "body": "Gujarat High Court / Ministry of Law and Justice",
-   "headline": "Justice Manash Ranjan Pathak named Acting Chief Justice of Gujarat High Court",
-   "text": "The Centre has notified Justice Manash Ranjan Pathak to perform the duties of Chief Justice of the Gujarat High Court under Article 223. The appointment follows the elevation of Chief Justice Sunita Agarwal to the Supreme Court, notified the same day.",
-   "date": "5 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/gujarat-high-court/centre-notifies-appointment-of-justice-manash-ranjan-as-acting-chief-justice-of-gujarat-high-court-553228",
-   "srcName": "LiveLaw"
-  },
-  {
-   "cat": "Judiciary",
-   "region": "Telangana",
-   "body": "Telangana High Court / Ministry of Law and Justice",
-   "headline": "Justice P Sam Koshy named Acting Chief Justice of Telangana High Court",
-   "text": "The Centre has notified Justice Puthichira Sam Koshy as Acting Chief Justice of the Telangana High Court under Article 223. He takes charge once Chief Justice Aparesh Kumar Singh relinquishes office on his elevation to the Supreme Court.",
-   "date": "5 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/telangana-high-court/centre-notifies-appointment-justice-p-sam-koshy-acting-chief-justice-telangana-high-court-553229",
-   "srcName": "LiveLaw"
-  },
-  {
-   "cat": "Judiciary",
-   "region": "Gujarat",
-   "body": "Gujarat High Court",
-   "headline": "Outgoing Gujarat Chief Justice Sunita Agarwal urges women lawyers not to let others' doubts limit them",
-   "text": "At her farewell reference before moving to the Supreme Court, Chief Justice Sunita Agarwal told young women lawyers not to let circumstances or other people's doubts set the limits of what they achieve. She asked senior women in the profession to mentor newcomers and said integrity, hard work and humility build a lasting reputation at the Bar.",
-   "date": "5 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-chief-justice-sunita-agarwal-farewell-553213",
-   "srcName": "LiveLaw"
-  },
-  {
-   "cat": "Other Legal News",
    "region": "All India",
-   "body": "Election Commission of India",
-   "headline": "Election Commission says Bihar SIR order was a unanimous decision upheld by Supreme Court",
-   "text": "Responding to allegations by Congress leader Rahul Gandhi, the Election Commission said its June 2025 order for the Special Intensive Revision of Bihar's voter rolls was approved unanimously by the full Commission. It pointed out that the Supreme Court upheld the exercise in May 2026; separate petitions questioning alleged unilateral decisions by the Chief Election Commissioner, including changes to Form 6, remain pending.",
-   "date": "5 Oct 2026",
-   "src": "https://lawbeat.in/top-stories/bihar-sir-was-a-unanimous-decision-consequently-upheld-by-supreme-court-election-commission-of-india-1638682",
+   "body": "Supreme Court of India",
+   "headline": "Three High Court Chief Justices take oath as Supreme Court judges; strength rises to 37",
+   "text": "Justices Sunita Agarwal, Devendra Kumar Upadhyaya and Aparesh Kumar Singh were sworn in as judges of the Supreme Court at an afternoon ceremony, with Chief Justice of India Surya Kant administering the oath. They were until now the Chief Justices of the Gujarat, Delhi and Telangana High Courts respectively. The Court's working strength, including the CJI, goes up from 34 to 37 against a sanctioned strength of 38.",
+   "why": "With Justice Agarwal's elevation the Supreme Court has three sitting women judges, and only one vacancy is left.",
+   "date": "6 Oct 2026",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-justices-sunita-agarwal-devendra-kumar-upadhyay-aparesh-kumar-singh-take-oath-sc-strength-rises-to-37-553353",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Judiciary",
+   "region": "Delhi",
+   "body": "Delhi High Court",
+   "headline": "Delhi High Court bids farewell to Chief Justice Devendra Kumar Upadhyaya",
+   "text": "The Delhi High Court held a full-court farewell reference for Chief Justice Devendra Kumar Upadhyaya on his elevation to the Supreme Court, attended by the court's judges, government counsel and members of the Bar. He said that where the law could not deliver a just outcome he had 'tried to softly bend the law towards justice', and described the Delhi High Court's mix of cases as unparalleled. Acting Chief Justice Nitin Wasudeo Sambre, who now heads the court, spoke of his administrative and collegial approach.",
+   "why": "The Delhi High Court will function under an Acting Chief Justice until a permanent appointment is made.",
+   "date": "6 Oct 2026",
+   "src": "https://www.livelaw.in/high-court/delhi-high-court/tried-to-softly-bend-law-towards-justice-chief-justice-devendra-kumar-upadhyaya-bids-farewell-to-delhi-high-court-553330",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Chief Justice of India",
+   "headline": "CJI Surya Kant says compassion, not only efficiency, must govern court proceedings",
+   "text": "Delivering the second Prof. (Dr.) N.R. Madhava Menon Memorial Lecture, Chief Justice of India Surya Kant repeated his line that algorithms may schedule hearings but compassion must govern proceedings. He said compassionate judging means looking at the whole human context of a case rather than legal abstractions, and set out five questions for courts, including how unheard victims are treated and how compassion can be built into legal aid and courtroom procedure. He also called for closer work between the judiciary and legal academia.",
+   "date": "6 Oct 2026",
+   "src": "https://lawbeat.in/top-stories/cji-surya-kant-on-compassion-in-judging-let-algorithms-schedule-hearings-but-let-compassion-govern-proceedings-1638811",
    "srcName": "LawBeat"
+  },
+  {
+   "cat": "Bar & Bar Councils",
+   "region": "Delhi",
+   "body": "Delhi High Court",
+   "headline": "Delhi High Court's new Senior Advocate designation rules take over from the 2024 framework",
+   "text": "The Delhi High Court Designation of Senior Advocate Rules, 2026 replace the rules notified in 2024 and reset how the court confers the senior gown. An applicant must ordinarily have ten years of practice and be 40 years of age, subject to the exceptions written into the rules, and the designation is decided by the Full Court after assessment and voting. The rules also set out the application route and the evaluation parameters.",
+   "why": "Senior designation decides who can appear as lead counsel, so the eligibility and voting rules matter to the whole Bar in Delhi.",
+   "date": "6 Oct 2026",
+   "src": "https://www.scconline.com/blog/post/2026/10/06/delhi-hc-senior-advocate-designation-rules-2026/",
+   "srcName": "SCC Online"
+  },
+  {
+   "cat": "Legal Education & Careers",
+   "region": "Assam",
+   "body": "National Law University and Judicial Academy, Assam",
+   "headline": "NLUJA Assam to hold its fourth convocation on 10 October in Guwahati",
+   "text": "The National Law University and Judicial Academy, Assam will hold its fourth convocation on 10 October at the Sri Sri Damodardeva International Auditorium in Guwahati. Supreme Court judge Justice Vikram Nath will be the chief guest and Justice Ujjal Bhuyan the guest of honour, with Gauhati High Court Chief Justice Ashutosh Kumar, the university's Chancellor, also present. In all 107 graduands and scholars will receive degrees: 53 from the five-year B.A. LL.B. (Hons.) course, 48 from the one-year LL.M. and six Ph.D. scholars.",
+   "date": "6 Oct 2026",
+   "src": "https://www.livelaw.in/lawschool/news/nluja-assam-hold-fourth-convocation-october-10-553329",
+   "srcName": "LiveLaw"
   }
  ]
 }
