@@ -1,9 +1,6 @@
 {
- "ran": "2026-10-06T18:22+05:30",
- "processed": [
-  "news_2026-10-06-pm.json: legal news 2026-10-06-pm: 5 items",
-  "sc_2026-10-06-auto.json: supreme court full texts: 2 added"
- ],
+ "ran": "2026-10-06T19:25+05:30",
+ "processed": [],
  "errors": [],
  "notes": []
 }
