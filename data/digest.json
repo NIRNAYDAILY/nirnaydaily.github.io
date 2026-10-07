@@ -1,42 +1,42 @@
 {
  "edition": {
-  "vol": "Vol. I · No. 12",
+  "vol": "Vol. I · No. 13",
   "badge": "",
-  "dateLong": "Tuesday, 6 October 2026",
-  "dateShort": "6 Oct 2026",
-  "window": "Judgments and orders passed between 10:00 AM IST on 5 October 2026 and 9:30 AM IST on 6 October 2026",
+  "dateLong": "Wednesday, 7 October 2026",
+  "dateShort": "7 Oct 2026",
+  "window": "Judgments and orders passed between 10:00 AM IST on 6 October 2026 and 9:30 AM IST on 7 October 2026",
   "next": "Next edition: tomorrow at 10:00 AM IST"
  },
  "highlights": [
   {
    "court": "Supreme Court of India",
-   "caseName": "Rakesh Kumar Singh v. Union of India",
-   "text": "SC refuses to suspend CEC Gyanesh Kumar, but seeks ECI and Centre's reply.",
-   "ref": "sc:1"
-  },
-  {
-   "court": "Supreme Court of India",
-   "caseName": "Martanda Singh v. State of Chhattisgarh & Anr.",
-   "text": "Three-year consensual relationship isn't rape on a false marriage promise.",
+   "caseName": "Gopal Pathak v. Nitin @ Pappu & Anr.",
+   "text": "Courts must compare disputed signatures themselves, not call experts by default.",
    "ref": "sc:0"
   },
   {
+   "court": "Supreme Court of India",
+   "caseName": "SVKM's Narsee Monjee Institute of Management Studies v. Bar Council of India",
+   "text": "Law school attendance verdict reserved; key Delhi HC direction stayed.",
+   "ref": "sc:1"
+  },
+  {
+   "court": "High Court of Kerala",
+   "caseName": "K v. I",
+   "text": "A Muslim wife's khula needs no consent from her husband.",
+   "ref": "hc:Kerala"
+  },
+  {
    "court": "High Court of Delhi",
-   "caseName": "Shaikh Mujtaba Farooq & Ors. v. Union of India & Ors.",
-   "text": "Pleas for independent probe into 2020 riots and Jamia violence dismissed.",
+   "caseName": "Case title not yet reported",
+   "text": "PepsiCo, Monster may sell existing 'energy drink' stock but make no more.",
    "ref": "hc:Delhi"
   },
   {
-   "court": "High Court of Punjab & Haryana",
-   "caseName": "Case title not yet reported",
-   "text": "CBI told to register a corruption case against Punjab CM's close aide.",
-   "ref": "hc:Punjab & Haryana"
-  },
-  {
-   "court": "High Court of Rajasthan",
-   "caseName": "Muslim Khan v. National Investigation Agency",
-   "text": "Bail denied to five accused in tailor Kanhaiya Lal's murder.",
-   "ref": "hc:Rajasthan"
+   "court": "High Court of Calcutta",
+   "caseName": "Joy Krishna Nag @ Joy Kumar Nag @ Rohit v. State of West Bengal & Ors.",
+   "text": "₹5.36 lakh awarded for 60 days' illegal jail after bail.",
+   "ref": "hc:Calcutta"
   }
  ],
  "chapters": [
@@ -52,28 +52,63 @@
      "title": "Judgments",
      "items": [
       {
-       "caseName": "Martanda Singh v. State of Chhattisgarh & Anr.",
-       "citation": "2026 LiveLaw (SC) 1015",
-       "coram": "J.B. Pardiwala, K. Vinod Chandran, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Long consensual relationship isn't rape by false promise",
+       "caseName": "Gopal Pathak v. Nitin @ Pappu & Anr.",
+       "citation": "2026 LiveLaw (SC) 1018",
+       "coram": "Ahsanuddin Amanullah, Manmohan, JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "Judges must compare disputed signatures themselves",
        "kind": "Held",
-       "text": "Rape case quashed: a three-year consensual relationship doesn't show consent was obtained by a false promise of marriage.",
-       "tag": "Criminal law",
-       "src": "https://www.livelaw.in/supreme-court/supreme-court-quashes-criminal-case-alleged-false-promise-marriage-consensual-relationship-553197",
+       "text": "Under Section 72 BSA courts must compare handwriting themselves; experts only when in doubt or writing is unclear.",
+       "tag": "Evidence",
+       "src": "https://www.livelaw.in/supreme-court/s-72-bsa-courts-must-compare-signatures-themselves-expert-evidence-cannot-be-called-routinely-in-handwriting-disputes-supreme-court-553298",
        "srcName": "LiveLaw"
       },
       {
-       "caseName": "Additional Commissioner, Commercial Tax v. Cadila Health Care Ltd.",
-       "citation": "2026 LiveLaw (SC) 1017",
-       "coram": "Manmohan, Arun Palli, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Tax goods by their form at sale, not end use",
+       "caseName": "P & Anr. v. State of West Bengal & Anr.",
+       "citation": "2026 INSC 1087",
+       "coram": "N. Kotiswar Singh, N.V. Anjaria, JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "Vague 498A charges against in-laws quashed",
        "kind": "Held",
-       "text": "Powders and biscuits can't be taxed as beverages just because buyers may mix them with milk or water.",
-       "tag": "Taxation",
-       "src": "https://www.livelaw.in/supreme-court/tax-classification-must-be-based-on-form-of-good-at-stage-of-sale-not-its-end-use-supreme-court-553219",
+       "text": "Case against the husband's parents quashed: the allegations were not specific, cogent or credible.",
+       "tag": "Criminal law",
+       "src": "https://www.verdictum.in/supreme-court/p-v-state-of-west-bengal-2026-insc-1087-in-laws-not-specific-cogent-credible-498a-ipc-1623459",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "Chhaganbhai Kohyabhai Pateliya & Ors. v. State of Gujarat & Ors.",
+       "citation": "2026 LiveLaw (SC) 1020",
+       "coram": "Sanjay Kumar, Sanjeev Sachdeva, JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "Ex-daily wagers can't be denied post-regularisation increments",
+       "kind": "Held",
+       "text": "Regularised workers get the increment due after retirement; dues to be paid in 30 days, with 6% interest on delay.",
+       "tag": "Service law",
+       "src": "https://www.livelaw.in/supreme-court/original-status-as-daily-wager-cannot-be-ground-to-deny-annual-increment-after-regularisation-supreme-court-553358",
        "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Dr. M.K. Ravi Varma v. National Institute of Technology & Ors.",
+       "citation": "2026 LiveLaw (SC) 1019",
+       "coram": "Dipankar Datta, Sheel Nagu, JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "Excess pay can be recovered from teachers who gave undertakings",
+       "kind": "Held",
+       "text": "NIT Calicut may recover Academic Grade Pay paid by mistake, as the teachers had undertaken to refund it.",
+       "tag": "Service law",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-excess-pay-given-mistake-recovered-teachers-553309",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Tapasmita Sutar v. Union of India",
+       "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "Bench clerk work isn't law clerk experience",
+       "kind": "Held",
+       "text": "Bench clerk service can't count towards the practice needed for judicial service; plea rejected.",
+       "tag": "Judicial service",
+       "src": "https://www.barandbench.com/news/law-clerk-experience-cannot-be-equated-with-bench-clerks-for-judicial-service-eligibility-supreme-court",
+       "srcName": "Bar & Bench"
       }
      ]
     },
@@ -81,110 +116,38 @@
      "title": "Orders",
      "items": [
       {
-       "caseName": "Rakesh Kumar Singh v. Union of India",
-       "caseNo": "W.P.(C) No. 1204 of 2024",
-       "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "No ex parte suspension of CEC; ECI must respond",
-       "kind": "Notice",
-       "text": "Plea to suspend CEC Gyanesh Kumar refused for now; notice issued to the Centre and ECI on claims of unilateral decisions.",
-       "tag": "Election law",
-       "src": "https://www.verdictum.in/supreme-court/refuses-interim-order-suspend-cec-gyanesh-kumar-1623373",
-       "srcName": "Verdictum"
-      },
-      {
-       "caseName": "Union of India v. Meena Gupta & Ors.",
-       "caseNo": "Diary No. 44246/2026",
-       "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Great Nicobar PILs to go on in Calcutta HC",
-       "kind": "Held",
-       "text": "Centre's challenge to PIL maintainability rejected; Calcutta HC to hear the petitions on 25–26 November.",
-       "tag": "Environment",
-       "src": "https://www.verdictum.in/supreme-court/plea-against-maintainability-of-pils-in-hc-in-great-nicobar-project-1623381",
-       "srcName": "Verdictum"
-      },
-      {
-       "caseName": "Ashish Mishra @ Monu v. State of U.P.",
-       "caseNo": "SLP(Crl) No. 7857/2022",
-       "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Lakhimpur Kheri: trial judge report sent to HC Chief Justice",
-       "kind": "Pending",
-       "text": "Vigilance report on the trial judge sent to the Allahabad HC Chief Justice; UP to appoint a new special prosecutor.",
-       "tag": "Criminal law",
-       "src": "https://www.livelaw.in/top-stories/supreme-court-lakhimpur-kheri-violence-ashish-mishra-bail-553135",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Association of Retired Judges of Supreme Court and High Courts of India v. NHRC & Ors.",
-       "caseNo": "W.P.(C) No. 1202/2026",
-       "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Notice on vacant State Human Rights Commissions",
-       "kind": "Notice",
-       "text": "Notice issued on a PIL to fill vacancies in State Human Rights Commissions within a fixed time.",
-       "tag": "Human rights",
-       "src": "https://www.livelaw.in/top-stories/supreme-court-state-human-rights-commissions-defunct-non-functional-plea-to-fill-vacancies-notice-issued-553181",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "In Re: Recent Rape Incidents in Delhi NCR",
-       "caseNo": "SMW (Crl) No. 6/2026",
-       "coram": "J.B. Pardiwala, K. Vinod Chandran, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Safety audits ordered across Delhi-NCR",
-       "kind": "Pending",
-       "text": "Police told to run safety audits, map high-risk zones and monitor CCTV live; compliance due by 16 November.",
-       "tag": "Women's safety",
-       "src": "https://www.verdictum.in/supreme-court/delhi-rapes-must-ensure-woman-in-delhi-feel-safe-at-night-delhi-police-steps-to-crimes-1623363",
-       "srcName": "Verdictum"
-      },
-      {
-       "caseName": "In Re: 135-Year-Old Library, 8.5 Lakh Books and No Room in the New Central Vista Plan",
-       "caseNo": "SMW(C) No. 21/2026",
-       "coram": "Sanjay Kumar, Sanjeev Sachdeva, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Centre must show space for 135-year-old library",
-       "kind": "Pending",
-       "text": "Centre to file an affidavit with layout plans for the library's new space; Haripriya Padmanabhan made amicus.",
-       "tag": "Heritage",
-       "src": "https://www.verdictum.in/supreme-court/suo-motu-cognizance-of-135-year-old-library-two-rooms-central-vista-plan-1623356",
-       "srcName": "Verdictum"
-      },
-      {
-       "caseName": "In Re: Fundamental Right to Walk and Footpath v. Ministry of Housing and Urban Affairs",
-       "caseNo": "W.P.(C) No. 844/2026",
-       "coram": "P.S. Narasimha, Alok Aradhe, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Centre to name an authority for footpaths on every road",
-       "kind": "Pending",
-       "text": "Centre to identify a funded authority to ensure footpaths, pick five pilot towns and report in three weeks.",
-       "tag": "Urban governance",
-       "src": "https://www.livelaw.in/top-stories/identify-authority-which-will-ensure-every-road-has-footpaths-supreme-court-to-centre-553157",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "State of Tamil Nadu v. Vignesh",
-       "caseNo": "SLP(Crl) No. 12743/2026",
-       "coram": "B.V. Nagarathna, R. Mahadevan, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "NDPS bail for unsupplied arrest grounds: order reserved",
+       "caseName": "SVKM's Narsee Monjee Institute of Management Studies v. Bar Council of India",
+       "caseNo": "SLP(Crl) No. 9450/2026",
+       "coram": "Vikram Nath, Sandeep Mehta, Augustine George Masih, JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "Law school attendance case: verdict reserved",
        "kind": "Reserved",
-       "text": "Verdict reserved on whether bail can follow failure to give arrest grounds even when Section 37 NDPS bars aren't met.",
-       "tag": "NDPS",
-       "src": "https://www.livelaw.in/top-stories/can-bail-be-granted-in-ndps-case-for-failure-to-supply-arrest-grounds-though-s37-conditions-not-met-supreme-court-reserves-order-553187",
+       "text": "Verdict reserved on the Delhi HC attendance ruling; para 249 stays stayed, with one-time exam protection for students.",
+       "tag": "Legal education",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-reserves-judgment-on-pleas-against-delhi-hc-verdict-diluting-mandatory-attendance-requirement-for-law-students-553414",
        "srcName": "LiveLaw"
       },
       {
-       "caseName": "Rajpal Naurang Yadav & Anr. v. M/s Murli Projects Pvt. Ltd.",
-       "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "Actor Rajpal Yadav told to deposit ₹5 crore",
-       "kind": "Pending",
-       "text": "Rebuked for not depositing ₹5 crore in cheque cases; told to pay by 6 Oct, matter listed first on 7 Oct.",
-       "tag": "Cheque bounce",
-       "src": "https://www.barandbench.com/news/litigation/your-place-is-in-jail-supreme-court-slams-rajpal-yadav-for-failure-to-pay-in-cheque-bounce-case",
+       "caseName": "N. Ravi v. Speaker, Legislative Assembly, Chennai",
+       "caseNo": "W.P.(Crl.) Nos. 206-210/2003",
+       "coram": "7-judge bench led by Surya Kant, CJI",
+       "date": "Decided 6 Oct 2026",
+       "headline": "23-year-old privilege vs free speech reference closed",
+       "kind": "Held",
+       "text": "Reference disposed of as infructuous since the 2003 TN Assembly resolution was withdrawn; questions left open.",
+       "tag": "Constitutional law",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-7-judge-reference-on-legislative-privilege-free-speech-interplay-closed-as-2003-tamil-nadu-assembly-decision-withdrawn-553277",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Dheeraj Kumar v. Union of India & Anr.",
+       "coram": "Vikram Nath, Sandeep Mehta, Augustine George Masih, JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "No order for daily Preamble recitation in schools",
+       "kind": "Held",
+       "text": "PIL dismissed; the Court noted the Preamble is already taught in schools from Class 6.",
+       "tag": "Education",
+       "src": "https://www.barandbench.com/news/litigation/supreme-court-dismisses-plea-for-recitation-of-preamble-during-morning-assembly-in-schools",
        "srcName": "Bar & Bench"
       }
      ]
@@ -256,50 +219,44 @@
      "court": "Allahabad",
      "items": [
       {
-       "caseName": "Shanawaz Khan & 5 Ors. v. State of U.P. & 4 Ors.",
-       "citation": "2026 LiveLaw (AB) 801",
-       "coram": "Ajit Kumar, Garima Prashad, JJ.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Don't stop five-time azan if noise rules are kept",
+       "caseName": "A v. State of U.P.",
+       "citation": "2026:AHC:203794",
+       "coram": "Jai Krishna Upadhyay, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Uncertified Instagram chats can't prove adultery",
        "kind": "Held",
-       "text": "Police told not to interfere with azan at a Saharanpur mosque if noise rules are followed, on an undertaking.",
-       "tag": "Religious freedom",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-police-5-time-azan-saharanpur-mosque-noise-rules-loudspeaker-553224",
+       "text": "Husband's revision against maintenance dismissed; chats without the statutory certificate aren't admissible.",
+       "tag": "Family law",
+       "src": "https://www.verdictum.in/allahabad-high-court/a-v-state-of-up-2026ahc203794-instagram-chats-certification-maintenance-1623462",
+       "srcName": "Verdictum"
+      }
+     ]
+    },
+    {
+     "court": "Andhra Pradesh",
+     "items": [
+      {
+       "caseName": "Mallampudi Veera Venkata Krishna Reddy & Ors. v. Syamala Satyanarayana Reddy & Ors.",
+       "caseNo": "CMA No. 118 of 2017",
+       "coram": "Balaji Medamalli, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Same-day sales to relatives are an act of insolvency",
+       "kind": "Held",
+       "text": "Debtor declared insolvent: sale deeds to relatives were made to defeat creditors; receiver to be appointed.",
+       "tag": "Insolvency",
+       "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-transfers-intended-keep-properties-beyond-creditors-reach-553338",
        "srcName": "LiveLaw"
       },
       {
-       "caseName": "Moti Ram Jaat @ Moti Ram Jaat Fauji v. State of U.P. & Anr.",
-       "citation": "2026 LiveLaw (AB) 799",
-       "coram": "Manish Mathur, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Arrest in a second case is a fresh arrest",
+       "caseName": "X v. Y",
+       "caseNo": "C.R.P. No. 1791 of 2026",
+       "coram": "K. Sreenivasa Reddy, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Husband may amend his counter after trial begins",
        "kind": "Held",
-       "text": "Grounds must be given under Art. 22(1) for a new case, but that plea can be raised only up to the remand stage.",
-       "tag": "Criminal procedure",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-article-22-second-arrest-already-custody-fresh-grounds-communicate-553092",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Fanindra Das v. The General Manager & Anr.",
-       "citation": "2026 LiveLaw (AB) 794",
-       "coram": "Prakash Padia, Vivek Saran, JJ.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Railways can't refuse power citing private land",
-       "kind": "Held",
-       "text": "Where only the Railways can supply power, it must give the connection within 30 days; electricity is part of Art. 21.",
-       "tag": "Constitutional law",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-railway-deny-electricity-connection-citing-private-land-553045",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "National Insurance Co. Ltd. v. Reeta & 4 Ors.",
-       "coram": "Prashant Kumar, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Accident payout raised on insurer's own appeal",
-       "kind": "Held",
-       "text": "Once an insurer disputes the amount, the court must ensure just compensation, even without a cross-appeal.",
-       "tag": "Motor accidents",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-mv-act-compensation-enhanced-insurer-appeal-cross-appeal-cross-objection-553062",
+       "text": "Amendment allowed in a conjugal rights case to fix typing errors; courts shouldn't be hyper-technical.",
+       "tag": "Family law",
+       "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-allows-husband-amend-counter-restitution-of-conjugal-rights-proceedings-553310",
        "srcName": "LiveLaw"
       }
      ]
@@ -308,15 +265,16 @@
      "court": "Bombay",
      "items": [
       {
-       "caseName": "Sagar Gawai & Anr. v. Election Commission of India & Ors.",
-       "coram": "Mahesh Chandra Tripathi, CJ; Advait Sethna, J.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "No stay on Maharashtra SIR voter deletions",
-       "kind": "Pending",
-       "text": "Stay refused as the Supreme Court is hearing SIR challenges; matter deferred by three weeks.",
-       "tag": "Election law",
-       "src": "https://www.barandbench.com/news/litigation/bombay-high-court-refuses-to-stay-deletions-in-maharashtra-sir-citing-supreme-court-hearing",
-       "srcName": "Bar & Bench"
+       "caseName": "Sajiduzzaman Mhammad Hanif Shahid v. Sagar Durgadas Rathod & Anr.",
+       "citation": "2026:BHC-NAG:13168-DB",
+       "coram": "Urmila Joshi Phalke, Raj D. Wakode, JJ.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Lawyers convicted for threatening a judge in court",
+       "kind": "Held",
+       "text": "Ex-bar president and son guilty of contempt; fined, ₹50,000 costs each and referred to the Bar Council.",
+       "tag": "Contempt",
+       "src": "https://www.verdictum.in/bombay-high-court/sajiduzzaman-mhammad-hanif-shahid-v-sagar-durgadas-rathod-2026bhc-nag13168-db-bar-president-advocate-son-contempt-1623461",
+       "srcName": "Verdictum"
       }
      ]
     },
@@ -324,15 +282,36 @@
      "court": "Calcutta",
      "items": [
       {
-       "caseName": "Raj Kumar Jaiswal v. State of West Bengal & Anr.",
-       "caseNo": "CRR 257 of 2023",
-       "coram": "Uday Kumar, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Obscene gesture and remark outraged modesty",
+       "caseName": "Joy Krishna Nag @ Joy Kumar Nag @ Rohit v. State of West Bengal & Ors.",
+       "coram": "Debangsu Basak, Aryak Dutt, JJ.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "₹5.36 lakh for 60 days' jail after bail",
        "kind": "Held",
-       "text": "Six-month jail under Section 509 IPC upheld; the woman's testimony was found credible.",
-       "tag": "Criminal law",
-       "src": "https://www.livelaw.in/high-court/calcutta-high-court/unzipping-pants-telling-woman-i-will-make-you-pregnant-outrages-modesty-calcutta-high-court-upholds-6-month-jail-for-man-553129",
+       "text": "Custody after bail was 'not sanctioned by law'; State to pay ₹5.36 lakh within four weeks.",
+       "tag": "Personal liberty",
+       "src": "https://www.livelaw.in/high-court/calcutta-high-court/not-sanctioned-by-law-calcutta-high-court-awards-536-lakh-to-man-illegally-detained-for-60-days-after-bail-553287",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Ranjeet Kumar Ghosh v. State of West Bengal & Ors.",
+       "coram": "Krishna Rao, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Driver's wife may donate kidney to his employer",
+       "kind": "Held",
+       "text": "Refusal set aside as there was no sign of payment or a middleman; committee to reconsider in two weeks.",
+       "tag": "Health law",
+       "src": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-allows-kidney-donation-by-drivers-wife-to-employer-says-non-relative-donation-permissible-553284",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "Krishna Rao, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "FRO rapped for deciding citizenship during SIR appeal",
+       "kind": "Pending",
+       "text": "Bilaspur FRO made a party for deciding citizenship while appeals were pending; report sought, listed 8 Oct.",
+       "tag": "Citizenship",
+       "src": "https://www.livelaw.in/high-court/calcutta-high-court/playing-with-people-calcutta-high-court-raps-bilaspur-fros-move-to-decide-citizenship-during-pendency-of-sir-appeal-553300",
        "srcName": "LiveLaw"
       }
      ]
@@ -341,104 +320,124 @@
      "court": "Delhi",
      "items": [
       {
-       "caseName": "Shaikh Mujtaba Farooq & Ors. v. Union of India & Ors.",
-       "coram": "Vivek Chaudhary, Manoj Jain, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "No independent probe into 2020 riots, Jamia violence",
-       "kind": "Held",
-       "text": "Pleas for an independent probe and FIRs against politicians dismissed; no material showed police compromised the probe.",
-       "tag": "Criminal law",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-riots-jamia-violence-delhi-high-court-dismisses-pleas-seeking-independent-probe-firs-against-politicians-553065",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "ANI Media Pvt. Ltd. v. RSY News",
-       "coram": "Purushaindra Kumar Kaurav, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Copying whole news videos isn't fair dealing",
-       "kind": "Held",
-       "text": "Summary judgment for ANI: RSY News barred from using its videos and told to take down infringing content.",
-       "tag": "Copyright",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/wholesale-reproduction-of-news-videos-not-fair-dealing-delhi-high-court-grants-relief-to-ani-in-copyright-suit-against-rsy-news-553191",
-       "srcName": "LiveLaw"
-      }
-     ]
-    },
-    {
-     "court": "Madhya Pradesh",
-     "items": [
-      {
-       "caseName": "Imrat Singh v. Chimna",
-       "citation": "2026 LiveLaw (MP) 403",
-       "caseNo": "Second Appeal 30 of 2015",
-       "coram": "Anuradha Shukla, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Elderly men may rely on a younger woman for litigation",
-       "kind": "Held",
-       "text": "Refusal to condone delay set aside; assuming a woman can't handle family litigation was called gender-biased.",
-       "tag": "Civil procedure",
-       "src": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/elderly-male-members-can-depend-on-younger-female-member-to-handle-family-litigation-553102",
-       "srcName": "LiveLaw"
-      }
-     ]
-    },
-    {
-     "court": "Madras",
-     "items": [
-      {
-       "caseName": "Dravida Munnetra Kazhagam v. CTR Nirmal Kumar & Ors.",
-       "citation": "2026 LiveLaw (Mad) 481",
-       "caseNo": "A 4180 of 2026",
-       "coram": "Govindarajan Thilakavadi, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "DMK may sue TN ministers for defamation",
-       "kind": "Held",
-       "text": "Leave granted to sue over remarks in the Veeramani POCSO case; they were personal remarks, not official acts.",
-       "tag": "Defamation",
-       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-dmk-permitted-sue-aadhav-arjuna-ctr-nirmal-kumar-defamation-553114",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "G v. A",
-       "citation": "2026 LiveLaw (Mad) 482",
-       "caseNo": "Crl. R.C. No. 1116 of 2026",
-       "coram": "Sunder Mohan, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Woman misled about husband's divorce gets maintenance",
-       "kind": "Held",
-       "text": "Strict proof of marriage isn't needed under Section 125 CrPC where the couple lived together long-term.",
-       "tag": "Family law",
-       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-woman-made-to-believe-first-wife-divorced-125crpc-maintenance-553172",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "V. Thangavel v. The Inspector of Police",
-       "citation": "2026 LiveLaw (Mad) 480",
-       "caseNo": "Crl. A. (MD) No. 930 of 2025",
-       "coram": "B. Pugalendhi, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Make attachment mandatory in graft cases, says HC",
-       "kind": "Held",
-       "text": "Confiscation order set aside for want of attachment; the Court urged a law making attachment mandatory.",
-       "tag": "Anti-corruption",
-       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-prevention-corruption-act-mandatory-attachment-suggestion-553107",
-       "srcName": "LiveLaw"
-      }
-     ]
-    },
-    {
-     "court": "Orissa",
-     "items": [
-      {
-       "caseName": "Tata Steel v. State Pollution Control Board",
-       "coram": "Sibo Sankar Mishra, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Pollution case against Tata Steel quashed",
-       "kind": "Held",
-       "text": "Section 32A IBC shields Tata Steel from liability for Bhushan Steel's old management's acts.",
-       "tag": "Insolvency",
-       "src": "https://www.barandbench.com/news/litigation/orissa-high-court-quashes-pollution-case-against-tata-steel",
+       "caseName": "Case title not yet reported",
+       "coram": "Amit Mahajan, J.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "PepsiCo, Monster may sell existing 'energy drink' stock",
+       "kind": "Pending",
+       "text": "No coercive action on FSSAI's label directions; old stock may be sold but none made. Next hearing 5 Nov.",
+       "tag": "Food safety",
+       "src": "https://www.barandbench.com/news/delhi-high-court-says-pepsico-monster-can-sell-existing-stocks-of-energy-drinks-but-cant-make-more",
        "srcName": "Bar & Bench"
+      }
+     ]
+    },
+    {
+     "court": "Karnataka",
+     "items": [
+      {
+       "caseName": "J. Shivakumar v. Chairman, Karnataka State Bar Council & Anr.",
+       "caseNo": "W.P. No. 16895 of 2024",
+       "coram": "Suraj Govindaraj, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Bar Council can't reject enrolment for lack of a degree",
+       "kind": "Held",
+       "text": "It must refer equivalence to the BCI under Section 26(2); BCI to decide within 60 days.",
+       "tag": "Advocates Act",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-state-bar-council-cannot-reject-enrolment-bachelor-degree-lack-553355",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Dr. K. Prem Anand v. Dr. Susan Isaac",
+       "caseNo": "W.P. No. 24806 of 2026",
+       "coram": "Lalitha Kanneganti, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Husband already paying can't plead inability",
+       "kind": "Held",
+       "text": "Challenge to ₹1.1 lakh monthly interim maintenance dismissed with ₹2 lakh costs.",
+       "tag": "Family law",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-husband-paying-maintenance-without-court-order-claim-unable-to-pay-wife-553375",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "X v. Y",
+       "caseNo": "W.P. No. 5358 of 2026",
+       "coram": "Lalitha Kanneganti, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Share-sale gains count as husband's income",
+       "kind": "Held",
+       "text": "Maintenance for wife and son raised from ₹50,000 to ₹1.2 lakh a month.",
+       "tag": "Family law",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-enhances-monthly-maintenance-earnings-from-sale-stocks-part-husband-income-553380",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Kerala",
+     "items": [
+      {
+       "caseName": "Aswathi G.R. v. State of Kerala & Ors.",
+       "citation": "2026 LiveLaw (Ker) 554",
+       "caseNo": "WP(Crl.) 1269/2026",
+       "coram": "Anil K. Narendran, Muralee Krishna S., JJ.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "BJP councillor's KAAPA detention quashed",
+       "kind": "Held",
+       "text": "R. Sugathan freed: the order was passed casually and illegible documents were supplied.",
+       "tag": "Preventive detention",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-sugathan-r-bjp-councillor-553341",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "K v. I",
+       "citation": "2026 LiveLaw (Ker) 548",
+       "caseNo": "OP(FC) No. 375/2026",
+       "coram": "J. Nisha Banu, Shoba Annamma Eapen, JJ.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Khula doesn't need the husband's consent",
+       "kind": "Held",
+       "text": "Family court need only check three conditions, not hold a detailed inquiry.",
+       "tag": "Muslim law",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/muslim-wife-divorce-khula-husband-consent-immaterial-553283",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Udayan v. X & Ors.",
+       "caseNo": "Crl.A. No. 1231 of 2026",
+       "coram": "A. Badharudeen, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Hiding live-in partner and child is 'deceitful means'",
+       "kind": "Held",
+       "text": "Anticipatory bail refused under Section 69 BNS; accused told to surrender.",
+       "tag": "Criminal law",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-section-69-bns-sex-deceitful-means-553377",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "X v. State of Kerala",
+       "citation": "2026 LiveLaw (Ker) 550",
+       "caseNo": "Crl.Rev.Pet. No. 1007/2026",
+       "coram": "Jobin Sebastian, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Low IQ alone doesn't make an accused unfit for trial",
+       "kind": "Held",
+       "text": "Under Section 368 BNSS, an accused who can follow proceedings is fit for trial.",
+       "tag": "Criminal procedure",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-low-iq-intellectual-disability-fit-trial-553312",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "A v. D",
+       "caseNo": "RPFC No. 122/2024",
+       "coram": "G. Girish, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Disability no excuse to evade maintenance",
+       "kind": "Held",
+       "text": "Husband who married knowing his incapacity must pay ₹10,000 a month; he has the means.",
+       "tag": "Family law",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/person-evade-maintenance-marriage-incapable-fulfilling-conjugal-obligation-553328",
+       "srcName": "LiveLaw"
       }
      ]
     },
@@ -446,73 +445,45 @@
      "court": "Punjab & Haryana",
      "items": [
       {
-       "caseName": "Case title not yet reported",
-       "coram": "Ashwani Kumar Mishra, CJ; Rohit Kapoor, J.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "CBI to probe graft claims against CM's aide",
+       "caseName": "Avtar Singh v. M/s Des Raj & Co.",
+       "citation": "2026:PHHC:183802",
+       "coram": "Sumeet Goel, J.",
+       "date": "Decided 6 Oct 2026",
+       "headline": "Section 311 CrPC can't fill gaps after evidence closes",
        "kind": "Held",
-       "text": "CBI told to register a case on ED's referral against CM Bhagwant Mann's OSD; State must assist.",
-       "tag": "Anti-corruption",
-       "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-directs-cbi-to-register-case-against-punjab-cm-office-553082",
-       "srcName": "LiveLaw"
+       "text": "Plea to reopen defence evidence in a cheque case rejected.",
+       "tag": "Criminal procedure",
+       "src": "https://www.verdictum.in/punjab-and-haryana-high-court/2026-phhc-183802-avtar-singh-v-ms-des-raj-1623471",
+       "srcName": "Verdictum"
       },
       {
-       "caseName": "Case title not yet reported",
-       "caseNo": "CWP-PIL-238-2026",
-       "coram": "Ashwani Kumar Mishra, CJ; Rohit Kapoor, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Demolition against whistleblower lawyer goes to CBI",
+       "caseName": "Amit Kumar v. State of Punjab & Ors.",
+       "caseNo": "CRWP-8138-2024",
+       "coram": "Sumeet Goel, J.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Biological father alone can't get habeas corpus",
        "kind": "Held",
-       "text": "Demolition of a lawyer's farm stay soon after he flagged corruption showed apparent malice; CBI to probe.",
-       "tag": "Rule of law",
-       "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-flags-malice-in-demolition-drive-against-pil-petitioner-hands-probe-to-cbi-553139",
+       "text": "Custody plea dismissed as guardianship proceedings are pending before a competent court.",
+       "tag": "Child custody",
+       "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/biological-father-habeas-corpus-child-custody-guardianship-case-pending-553333",
        "srcName": "LiveLaw"
       }
      ]
     },
     {
-     "court": "Rajasthan",
+     "court": "Uttarakhand",
      "items": [
       {
-       "caseName": "Muslim Khan v. National Investigation Agency",
-       "citation": "2026 LiveLaw (Raj) 415",
-       "coram": "Sanjay K. Agrawal, CJ; Sameer Jain, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "No bail for five in Kanhaiya Lal murder case",
+       "caseName": "Rajiv Kashyap v. State of Uttarakhand",
+       "caseNo": "Criminal Jail Appeal No. 72 of 2019",
+       "coram": "Ravindra Maithani, Siddhartha Sah, JJ.",
+       "date": "Reported 6 Oct 2026",
+       "headline": "Juvenility can be claimed at any stage",
        "kind": "Held",
-       "text": "UAPA bail appeals dismissed; the terror act was said to strike at the nation's 'psychological sovereignty'.",
-       "tag": "UAPA",
-       "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-denies-bail-accused-tailor-kanhaiya-lal-udaipur-murder-case-553060",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Mahesh Kumar Gupta & Ors. v. State of Rajasthan",
-       "citation": "2026 LiveLaw (Raj) 414",
-       "coram": "Farjand Ali, J.",
-       "date": "Reported 5 Oct 2026",
-       "headline": "Accused parents may fly abroad for son's surgery",
-       "kind": "Held",
-       "text": "Travel to the US allowed despite a pending probe; a parent's care isn't limited to hospitalisation.",
-       "tag": "Personal liberty",
-       "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-allows-foreign-travel-attend-son-surgery-553053",
-       "srcName": "LiveLaw"
-      }
-     ]
-    },
-    {
-     "court": "Telangana",
-     "items": [
-      {
-       "caseName": "S.Q. Masood & Anr. v. Election Commission of India & Ors.",
-       "caseNo": "WP No. 32975 of 2026",
-       "coram": "P. Sam Koshy, Narsing Rao Nandikonda, JJ.",
-       "date": "Decided 5 Oct 2026",
-       "headline": "ECI must explain voter's exclusion without notice",
-       "kind": "Notice",
-       "text": "ECI asked why a voter was dropped in the AI-based SIR without notice; listed on 13 October.",
-       "tag": "Election law",
-       "src": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-sir-notice-ai-response-voter-roll-553094",
-       "srcName": "LiveLaw"
+       "text": "Murder conviction upheld but life term set aside, as he was 17 at the time.",
+       "tag": "Juvenile justice",
+       "src": "https://www.verdictum.in/uttarakhand-high-court/rajiv-kashyap-v-state-of-uttarakhand-criminal-jail-appeal-no-72-of-2019-claim-of-juvenility-upholds-conviction-1623452",
+       "srcName": "Verdictum"
       }
      ]
     }
@@ -529,15 +500,15 @@
      "title": "Reported rulings",
      "items": [
       {
-       "court": "Patiala House Courts, New Delhi, Delhi",
-       "caseName": "Case title not yet reported",
-       "coram": "Animesh Kumar, JMFC",
+       "court": "Rouse Avenue Courts, New Delhi, Delhi",
+       "caseName": "NCB v. Nympha",
+       "coram": "Sandeep Yadav, Special Judge",
        "date": "Reported 6 Oct 2026",
-       "headline": "Bail for 17 students, journalists after CEC protest",
+       "headline": "Charas export bid convict; NCB lapse flagged",
        "kind": "Held",
-       "text": "Bail on ₹15,000 bonds; the court noted they are young first-time accused, though the allegations were serious.",
-       "tag": "Bail",
-       "src": "https://www.barandbench.com/news/protest-against-cec-gyanesh-kumar-delhi-court-grants-bail-to-17-students-journalists",
+       "text": "Filipino national convicted under NDPS for 560 g charas; court flagged NCB units' failure to cooperate.",
+       "tag": "NDPS",
+       "src": "https://www.barandbench.com/news/litigation/delhi-court-flags-serious-lapse-after-ncbs-chandigarh-and-delhi-units-fail-to-cooperate-in-drug-probe",
        "srcName": "Bar & Bench"
       }
      ]
@@ -547,20 +518,24 @@
  ],
  "sources": [
   {
-   "title": "LiveLaw: Supreme Court Daily Round-Up, 5 October 2026",
-   "url": "https://www.livelaw.in/round-ups/supreme-court-daily-round-up-october-5-2026-553230"
+   "title": "LiveLaw: High Courts Daily Highlights, 6 October 2026",
+   "url": "https://livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-october-06-2026-553406"
   },
   {
-   "title": "LiveLaw: High Courts Daily Highlights, 5 October 2026",
-   "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-october-05-2026-553226"
+   "title": "LiveLaw: Supreme Court",
+   "url": "https://www.livelaw.in/supreme-court"
   },
   {
    "title": "Verdictum: Supreme Court",
    "url": "https://www.verdictum.in/court-updates/supreme-court"
   },
   {
-   "title": "Bar & Bench: Litigation news",
-   "url": "https://www.barandbench.com/news/litigation"
+   "title": "Verdictum: High Courts",
+   "url": "https://www.verdictum.in/court-updates/high-courts"
+  },
+  {
+   "title": "Bar & Bench: News",
+   "url": "https://www.barandbench.com/news"
   }
  ]
 }
