@@ -1,6 +1,11 @@
 {
- "updated": "2026-10-07T00:24+05:30",
+ "updated": "2026-10-07T10:09+05:30",
  "news": [
+  {
+   "edition": "2026-10-07-am",
+   "headline": "Former CJI BR Gavai and two retired judges criticise Justice Ujjal Bhuyan's public remarks on voter-roll revision",
+   "src": "https://lawbeat.in/top-stories/against-judicial-propriety-former-cji-br-gavai-retired-judges-criticize-justice-ujjal-bhuyans-remarks-on-sir-1639110"
+  },
   {
    "edition": "2026-10-06-pm",
    "headline": "Three High Court Chief Justices take oath as Supreme Court judges; strength rises to 37",
@@ -200,16 +205,6 @@
    "edition": "2026-09-29-am",
    "headline": "Supreme Court asks Centre to consider rules on minors' social media accounts; Centre says it will examine",
    "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-centre-to-consider-framing-rules-to-regulate-social-media-accounts-of-minors"
-  },
-  {
-   "edition": "2026-09-27-am",
-   "headline": "FSSAI to bring in red-hexagon warning labels on packaged food high in sugar, fat or salt",
-   "src": "https://www.livelaw.in/top-stories/adopting-canadian-model-on-warning-labels-for-packaged-foods-high-in-fat-sugar-or-salt-fssai-informs-supreme-court-551972"
-  },
-  {
-   "edition": "2026-09-27-am",
-   "headline": "Senior Advocate Dushyant Dave criticises SIR voter-roll revision in memorial lecture",
-   "src": "https://www.livelaw.in/top-stories/adult-franchise-going-away-thanks-to-supreme-court-election-commission-senior-advocate-dushyant-dave-criticises-sir-551991"
   }
  ],
  "tribunals": [
@@ -552,7 +547,7 @@
  "latest": {
   "digest": "6 Oct 2026",
   "tribunals": "6 Oct 2026",
-  "news": "2026-10-06-pm",
+  "news": "2026-10-07-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-06"
  }
