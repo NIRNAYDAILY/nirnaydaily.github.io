@@ -1457,6 +1457,138 @@
    "pdf": "judgments/sc/pdf/k-ravi-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 506049
+  },
+  {
+   "slug": "jk-paper-2026",
+   "name": "M/s Jk Paper Ltd v. Bipinchandra Natwarlal Shah",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-07.json",
+   "pages": 9,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2211,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=428992025&type=j&order_date=2026-10-07&from=latest_judgements_order",
+   "added": "2026-10-07",
+   "keys": [
+    "m s jk paper ltd",
+    "bipinchandra natwarlal shah"
+   ],
+   "citation": "2026 INSC 1095",
+   "caseNo": "C.A. No. 13477/2026",
+   "date": "2026-10-07",
+   "pdf": "judgments/sc/pdf/jk-paper-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 223468
+  },
+  {
+   "slug": "bihar-2026",
+   "name": "The State of Bihar v. Nandeshwar Kumar",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-07.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1925,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=68632026&type=j&order_date=2026-10-07&from=latest_judgements_order",
+   "added": "2026-10-07",
+   "keys": [
+    "the state of bihar",
+    "nandeshwar kumar"
+   ],
+   "citation": "2026 INSC 1094",
+   "caseNo": "C.A. No. 13079/2026",
+   "date": "2026-10-07",
+   "pdf": "judgments/sc/pdf/bihar-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 281336
+  },
+  {
+   "slug": "abhishek-2026",
+   "name": "Abhishek v. State of Rajasthan",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-07.json",
+   "pages": 15,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3013,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=381762025&type=j&order_date=2026-10-07&from=latest_judgements_order",
+   "added": "2026-10-07",
+   "keys": [
+    "abhishek",
+    "state of rajasthan"
+   ],
+   "citation": "2026 INSC 1093",
+   "caseNo": "Crl.A. No. 4767/2026",
+   "date": "2026-10-07",
+   "pdf": "judgments/sc/pdf/abhishek-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 175963
+  },
+  {
+   "slug": "mepco-industries-2026",
+   "name": "M/s Mepco Industries Ltd v. Commissioner of Income Tax Company Circle",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-07.json",
+   "pages": 12,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3426,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=354222012&type=j&order_date=2026-10-07&from=latest_judgements_order",
+   "added": "2026-10-07",
+   "keys": [
+    "m s mepco industries ltd",
+    "commissioner of income tax company circl"
+   ],
+   "citation": "2026 INSC 1090",
+   "caseNo": "C.A. No. 8694/2012",
+   "date": "2026-10-07",
+   "pdf": "judgments/sc/pdf/mepco-industries-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 291370
+  },
+  {
+   "slug": "v-pon-2026",
+   "name": "V. Pon. Paneerselvam v. S. Regupathy",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-07.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3303,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=508912026&type=j&order_date=2026-10-07&from=latest_judgements_order",
+   "added": "2026-10-07",
+   "keys": [
+    "v pon paneerselvam",
+    "s regupathy"
+   ],
+   "citation": "2026 INSC 1092",
+   "caseNo": "SLP(C) No. 30538/2026",
+   "date": "2026-10-07",
+   "pdf": "judgments/sc/pdf/v-pon-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 484073
+  },
+  {
+   "slug": "appa-2026",
+   "name": "Appa v. The State of Maharashtra",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-07.json",
+   "pages": 8,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1913,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=105222026&type=j&order_date=2026-10-07&from=latest_judgements_order",
+   "added": "2026-10-07",
+   "keys": [
+    "appa",
+    "the state of maharashtra"
+   ],
+   "citation": "2026 INSC 1091",
+   "caseNo": "Crl.A. No. 4766/2026",
+   "date": "2026-10-07",
+   "pdf": "judgments/sc/pdf/appa-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 280513
   }
  ]
 }

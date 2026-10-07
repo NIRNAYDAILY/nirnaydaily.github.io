@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-07T13:22+05:30",
+ "updated": "2026-10-07T18:08+05:30",
  "news": [
+  {
+   "edition": "2026-10-07-pm",
+   "headline": "Gurvinder Pal Singh sworn in as Delhi High Court judge; working strength reaches 50",
+   "src": "https://www.barandbench.com/news/litigation/gurvinder-pal-singh-sworn-in-as-additional-judge-delhi-high-court-working-strength-rises-to-50-judges"
+  },
+  {
+   "edition": "2026-10-07-pm",
+   "headline": "Supreme Court asks Delhi High Court why so many execution petitions are pending",
+   "src": "https://lawbeat.in/top-stories/supreme-court-seeks-delhi-hc-explanation-over-high-pendency-of-execution-petitions-1639187"
+  },
+  {
+   "edition": "2026-10-07-pm",
+   "headline": "CJI to examine plea to recall split verdict on Election Commissioners' appointment law",
+   "src": "https://livelaw.in/amp/top-stories/cji-to-take-a-call-on-application-to-recall-verdict-in-cec-appointment-law-553473"
+  },
+  {
+   "edition": "2026-10-07-pm",
+   "headline": "281 lawyers apply for Senior Advocate designation under Madras High Court's new rules",
+   "src": "https://www.barandbench.com/news/litigation/281-lawyers-apply-for-senior-advocate-designation-under-madras-high-courts-new-rules"
+  },
   {
    "edition": "2026-10-07-am",
    "headline": "Former CJI BR Gavai and two retired judges criticise Justice Ujjal Bhuyan's public remarks on voter-roll revision",
@@ -195,16 +215,6 @@
    "edition": "2026-09-29-pm",
    "headline": "JGLS pair win Mediation Championship of India 2026; GNLU student named top mediator",
    "src": "https://www.barandbench.com/Law-School/jgls-duo-wins-mediation-championship-of-india-2026-as-counsel-gnlu-student-top-mediator"
-  },
-  {
-   "edition": "2026-09-29-am",
-   "headline": "Collegium recommends three High Court Chief Justices for elevation to the Supreme Court",
-   "src": "https://www.livelaw.in/top-stories/collegium-recommends-elevation-of-three-high-court-chief-justices-as-supreme-court-judges-552143"
-  },
-  {
-   "edition": "2026-09-29-am",
-   "headline": "Supreme Court asks Centre to consider rules on minors' social media accounts; Centre says it will examine",
-   "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-centre-to-consider-framing-rules-to-regulate-social-media-accounts-of-minors"
   }
  ],
  "tribunals": [
@@ -532,7 +542,7 @@
  "latest": {
   "digest": "7 Oct 2026",
   "tribunals": "7 Oct 2026",
-  "news": "2026-10-07-am",
+  "news": "2026-10-07-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-07"
  }

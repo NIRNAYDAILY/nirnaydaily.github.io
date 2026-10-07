@@ -1,23 +1,56 @@
 {
  "edition": {
-  "edition_id": "2026-10-07-am",
+  "edition_id": "2026-10-07-pm",
   "iso": "2026-10-07",
-  "slot": "10 AM",
+  "slot": "6 PM",
   "dateShort": "7 Oct 2026",
-  "dateLong": "Wednesday, 7 October 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 6 October to 10:00 AM IST, 7 October 2026"
+  "dateLong": "Wednesday, 7 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 7 October 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
+   "region": "Delhi",
+   "body": "Delhi High Court",
+   "headline": "Gurvinder Pal Singh sworn in as Delhi High Court judge; working strength reaches 50",
+   "text": "Judicial officer Gurvinder Pal Singh took oath as an Additional Judge of the Delhi High Court on 7 October. Acting Chief Justice Nitin Wasudeo Sambre administered the oath. His appointment followed the Supreme Court Collegium's recommendation in September and the Centre's notification earlier this month.",
+   "why": "The court now has 50 working judges against a sanctioned strength of 60, leaving 10 posts vacant.",
+   "date": "7 Oct 2026",
+   "src": "https://www.barandbench.com/news/litigation/gurvinder-pal-singh-sworn-in-as-additional-judge-delhi-high-court-working-strength-rises-to-50-judges",
+   "srcName": "Bar & Bench"
+  },
+  {
+   "cat": "Judiciary",
    "region": "All India",
    "body": "Supreme Court of India",
-   "headline": "Former CJI BR Gavai and two retired judges criticise Justice Ujjal Bhuyan's public remarks on voter-roll revision",
-   "text": "Former Chief Justice of India BR Gavai said judicial propriety would not allow him to comment on a matter that is pending before the courts, and stressed that sitting judges should avoid speaking publicly on pending cases. Retired Delhi High Court judges SN Dhingra and RS Sodhi also criticised Justice Bhuyan's address at NALSAR on the Special Intensive Revision (SIR) of electoral rolls, an issue still being heard by the Supreme Court.",
-   "why": "The exchange revives the debate over how far sitting judges may speak in public on issues that are sub judice.",
-   "date": "6 Oct 2026",
-   "src": "https://lawbeat.in/top-stories/against-judicial-propriety-former-cji-br-gavai-retired-judges-criticize-justice-ujjal-bhuyans-remarks-on-sir-1639110",
+   "headline": "Supreme Court asks Delhi High Court why so many execution petitions are pending",
+   "text": "A bench of Justices JB Pardiwala and K Vinod Chandran asked the Delhi High Court to explain its unusually high pendency of execution petitions. The matter arises from the Supreme Court's earlier direction that all High Courts clear pending execution petitions within six months. The court noted that about 2 lakh such petitions were disposed of across High Courts in the last six months, but about 8.8 lakh are still pending, with Maharashtra alone accounting for over 3.4 lakh.",
+   "why": "Execution petitions are how people actually get what a civil decree awards them, so delays here leave court wins unenforced.",
+   "date": "7 Oct 2026",
+   "src": "https://lawbeat.in/top-stories/supreme-court-seeks-delhi-hc-explanation-over-high-pendency-of-execution-petitions-1639187",
    "srcName": "LawBeat"
+  },
+  {
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court of India",
+   "headline": "CJI to examine plea to recall split verdict on Election Commissioners' appointment law",
+   "text": "An application was mentioned before Chief Justice Surya Kant seeking recall of the 23 September split verdict on the 2023 law on appointing the Chief Election Commissioner and Election Commissioners. It says Justice Satish Chandra Sharma, one of the two judges, did not disclose that his son is standing counsel for the Election Commission. The CJI agreed to examine it; a separate curative petition raises the same ground.",
+   "why": "The plea raises the question of when a judge must disclose a possible conflict of interest and step aside from a case.",
+   "date": "7 Oct 2026",
+   "src": "https://livelaw.in/amp/top-stories/cji-to-take-a-call-on-application-to-recall-verdict-in-cec-appointment-law-553473",
+   "srcName": "LiveLaw"
+  },
+  {
+   "cat": "Bar & Bar Councils",
+   "region": "Tamil Nadu",
+   "body": "Madras High Court",
+   "headline": "281 lawyers apply for Senior Advocate designation under Madras High Court's new rules",
+   "text": "In the first round under its 2026 designation rules, the Madras High Court received 281 applications for Senior Advocate designation. The court published the list of applicants on 6 October and will accept views from the Bar on them until 27 October. The new rules, notified in July 2026, replaced the old 100-point scoring system, following a May 2025 Supreme Court judgment.",
+   "why": "This is the first test of the new system, which assesses ability, standing and professional ethics instead of awarding points.",
+   "date": "7 Oct 2026",
+   "src": "https://www.barandbench.com/news/litigation/281-lawyers-apply-for-senior-advocate-designation-under-madras-high-courts-new-rules",
+   "srcName": "Bar & Bench"
   }
  ]
 }
