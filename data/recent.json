@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-08T00:28+05:30",
+ "updated": "2026-10-08T10:11+05:30",
  "news": [
+  {
+   "edition": "2026-10-08-am",
+   "headline": "NLSIU confirms CJI Surya Kant will preside over its October 17 convocation",
+   "src": "https://www.livelaw.in/top-stories/cji-surya-kant-to-preside-nlsiu-convocation-arundhati-nag-to-be-chief-guest-553553"
+  },
+  {
+   "edition": "2026-10-08-am",
+   "headline": "Harish Salve says sitting judges should speak only through their judgments",
+   "src": "https://lawbeat.in/top-stories/you-are-criticising-yourself-harish-salve-asks-judges-to-stop-attacking-supreme-court-judgments-in-public-1639469"
+  },
   {
    "edition": "2026-10-07-pm",
    "headline": "Gurvinder Pal Singh sworn in as Delhi High Court judge; working strength reaches 50",
@@ -205,16 +215,6 @@
    "edition": "2026-09-30-am",
    "headline": "GNLU students protest over health, water and sanitation problems on campus",
    "src": "https://www.barandbench.com/Law-School/gnlu-students-protest-over-health-water-and-sanitation-conditions-on-campus"
-  },
-  {
-   "edition": "2026-09-29-pm",
-   "headline": "RBI shortens deadline for bringing export money home from 15 months to 9 months",
-   "src": "https://www.scconline.com/blog/post/2026/09/29/rbi-amends-fema-export-import-goods-services-regulations-2026/"
-  },
-  {
-   "edition": "2026-09-29-pm",
-   "headline": "JGLS pair win Mediation Championship of India 2026; GNLU student named top mediator",
-   "src": "https://www.barandbench.com/Law-School/jgls-duo-wins-mediation-championship-of-india-2026-as-counsel-gnlu-student-top-mediator"
   }
  ],
  "tribunals": [
@@ -542,7 +542,7 @@
  "latest": {
   "digest": "7 Oct 2026",
   "tribunals": "7 Oct 2026",
-  "news": "2026-10-07-pm",
+  "news": "2026-10-08-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-07"
  }

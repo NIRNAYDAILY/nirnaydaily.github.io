@@ -1,56 +1,34 @@
 {
  "edition": {
-  "edition_id": "2026-10-07-pm",
-  "iso": "2026-10-07",
-  "slot": "6 PM",
-  "dateShort": "7 Oct 2026",
-  "dateLong": "Wednesday, 7 October 2026 · Evening edition",
-  "window": "News from 10:00 AM to 4:00 PM IST, 7 October 2026"
+  "edition_id": "2026-10-08-am",
+  "iso": "2026-10-08",
+  "slot": "10 AM",
+  "dateShort": "8 Oct 2026",
+  "dateLong": "Thursday, 8 October 2026 · Morning edition",
+  "window": "News from 4:00 PM IST, 7 October to 10:00 AM IST, 8 October 2026"
  },
  "items": [
   {
-   "cat": "Judiciary",
-   "region": "Delhi",
-   "body": "Delhi High Court",
-   "headline": "Gurvinder Pal Singh sworn in as Delhi High Court judge; working strength reaches 50",
-   "text": "Judicial officer Gurvinder Pal Singh took oath as an Additional Judge of the Delhi High Court on 7 October. Acting Chief Justice Nitin Wasudeo Sambre administered the oath. His appointment followed the Supreme Court Collegium's recommendation in September and the Centre's notification earlier this month.",
-   "why": "The court now has 50 working judges against a sanctioned strength of 60, leaving 10 posts vacant.",
+   "cat": "Legal Education & Careers",
+   "region": "Karnataka",
+   "body": "National Law School of India University, Bengaluru",
+   "headline": "NLSIU confirms CJI Surya Kant will preside over its October 17 convocation",
+   "text": "NLSIU has confirmed that Chief Justice of India Surya Kant will attend its convocation on 17 October and preside as the university's Chancellor. Theatre artist Arundhati Nag will be the Chief Guest and give the convocation address. The ceremony had been cancelled in August after hundreds of students and alumni objected to the CJI's presence, and the cancellation was later withdrawn.",
+   "why": "It settles weeks of uncertainty over the convocation at India's oldest National Law University.",
    "date": "7 Oct 2026",
-   "src": "https://www.barandbench.com/news/litigation/gurvinder-pal-singh-sworn-in-as-additional-judge-delhi-high-court-working-strength-rises-to-50-judges",
-   "srcName": "Bar & Bench"
-  },
-  {
-   "cat": "Judiciary",
-   "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "Supreme Court asks Delhi High Court why so many execution petitions are pending",
-   "text": "A bench of Justices JB Pardiwala and K Vinod Chandran asked the Delhi High Court to explain its unusually high pendency of execution petitions. The matter arises from the Supreme Court's earlier direction that all High Courts clear pending execution petitions within six months. The court noted that about 2 lakh such petitions were disposed of across High Courts in the last six months, but about 8.8 lakh are still pending, with Maharashtra alone accounting for over 3.4 lakh.",
-   "why": "Execution petitions are how people actually get what a civil decree awards them, so delays here leave court wins unenforced.",
-   "date": "7 Oct 2026",
-   "src": "https://lawbeat.in/top-stories/supreme-court-seeks-delhi-hc-explanation-over-high-pendency-of-execution-petitions-1639187",
-   "srcName": "LawBeat"
-  },
-  {
-   "cat": "Judiciary",
-   "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "CJI to examine plea to recall split verdict on Election Commissioners' appointment law",
-   "text": "An application was mentioned before Chief Justice Surya Kant seeking recall of the 23 September split verdict on the 2023 law on appointing the Chief Election Commissioner and Election Commissioners. It says Justice Satish Chandra Sharma, one of the two judges, did not disclose that his son is standing counsel for the Election Commission. The CJI agreed to examine it; a separate curative petition raises the same ground.",
-   "why": "The plea raises the question of when a judge must disclose a possible conflict of interest and step aside from a case.",
-   "date": "7 Oct 2026",
-   "src": "https://livelaw.in/amp/top-stories/cji-to-take-a-call-on-application-to-recall-verdict-in-cec-appointment-law-553473",
+   "src": "https://www.livelaw.in/top-stories/cji-surya-kant-to-preside-nlsiu-convocation-arundhati-nag-to-be-chief-guest-553553",
    "srcName": "LiveLaw"
   },
   {
-   "cat": "Bar & Bar Councils",
-   "region": "Tamil Nadu",
-   "body": "Madras High Court",
-   "headline": "281 lawyers apply for Senior Advocate designation under Madras High Court's new rules",
-   "text": "In the first round under its 2026 designation rules, the Madras High Court received 281 applications for Senior Advocate designation. The court published the list of applicants on 6 October and will accept views from the Bar on them until 27 October. The new rules, notified in July 2026, replaced the old 100-point scoring system, following a May 2025 Supreme Court judgment.",
-   "why": "This is the first test of the new system, which assesses ability, standing and professional ethics instead of awarding points.",
+   "cat": "Other Legal News",
+   "region": "All India",
+   "body": "Senior Advocate Harish Salve",
+   "headline": "Harish Salve says sitting judges should speak only through their judgments",
+   "text": "Senior Advocate Harish Salve said in an interview that sitting judges, especially Supreme Court judges, should not publicly criticise the Court's judgments, because every judge is part of the institution. He warned that such remarks can permanently damage public trust in the judiciary. His comments add to the debate set off by Justice Ujjal Bhuyan's public remarks on the voter-roll revision (SIR), which is pending before the Supreme Court.",
+   "why": "It is a prominent voice from the Bar in the continuing debate over judicial propriety and public speeches by judges.",
    "date": "7 Oct 2026",
-   "src": "https://www.barandbench.com/news/litigation/281-lawyers-apply-for-senior-advocate-designation-under-madras-high-courts-new-rules",
-   "srcName": "Bar & Bench"
+   "src": "https://lawbeat.in/top-stories/you-are-criticising-yourself-harish-salve-asks-judges-to-stop-attacking-supreme-court-judgments-in-public-1639469",
+   "srcName": "LawBeat"
   }
  ]
 }
