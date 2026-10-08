@@ -1,10 +1,6 @@
 {
- "ran": "2026-10-08T11:17+05:30",
- "processed": [
-  "digest_2026-10-08.json: judgments & orders 8 Oct 2026: 29 items",
-  "pool_2026-10-08.json: careers portal: 18 listings (0 closed removed)",
-  "tribunals_2026-10-08.json: tribunals 8 Oct 2026: 9 items"
- ],
+ "ran": "2026-10-08T13:23+05:30",
+ "processed": [],
  "errors": [],
  "notes": []
 }
