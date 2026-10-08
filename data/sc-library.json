@@ -1677,6 +1677,28 @@
    "pdf": "judgments/sc/pdf/ramkrushna-prahllad-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 346541
+  },
+  {
+   "slug": "modern-asset-2026",
+   "name": "Modern Asset v. Knk Constructions Private Limited",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-08.json",
+   "pages": 24,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5061,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=263172026&type=j&order_date=2026-10-08&from=latest_judgements_order",
+   "added": "2026-10-08",
+   "keys": [
+    "modern asset",
+    "knk constructions private limited"
+   ],
+   "citation": "2026 INSC 1103",
+   "caseNo": "C.A. No. 13536/2026",
+   "date": "2026-10-08",
+   "pdf": "judgments/sc/pdf/modern-asset-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 300204
   }
  ]
 }
