@@ -241,6 +241,14 @@ main{padding-block:0 64px}
 .eyebrow{font:600 12px var(--official);letter-spacing:.26em;color:var(--stamp);margin-bottom:14px;text-transform:uppercase}
 .about-h{font-family:var(--display);font-size:clamp(34px,5vw,56px);line-height:1.05;margin-bottom:24px}
 .about-p{font-family:var(--serif);font-size:18.5px;line-height:1.8;color:#34312C;text-align:justify;hyphens:auto;max-width:72ch}
+.hm-lede{font-size:21px;line-height:1.6;text-align:left;margin-bottom:22px}
+.hm-cta{margin-bottom:30px}
+.hm-pillars{display:grid;gap:14px;margin-bottom:22px}
+.hm-p{border-left:3px solid #9E2A2B;padding:4px 0 4px 16px}
+.hm-p h3{font-family:var(--display);font-size:21px;color:#3A1618;margin-bottom:6px}
+.hm-p p{font-family:var(--serif);font-size:16.5px;line-height:1.65;color:#3B332A}
+.hm-trust{font:600 11.5px var(--official);letter-spacing:.14em;text-transform:uppercase;color:#9E2A2B;margin-bottom:10px}
+.hm-close{font-family:var(--serif);font-style:italic;font-size:20px;color:#3A1618}
 .dropcap{float:left;font:400 76px/.8 var(--display);color:var(--stamp);margin:8px 12px 0 0}
 .meaning{display:block;background:var(--tint);border:1px solid var(--rule);border-top:4px solid var(--gold);padding:28px;position:sticky;top:70px}
 .meaning .dv{font-family:var(--deva);font-size:84px;line-height:1;color:var(--stamp)}
@@ -920,9 +928,17 @@ function home(){
 
   <div class="about-grid">
     <div>
-      <div class="eyebrow">About the portal</div>
-      <h1 class="about-h">India's courts, read and explained every day.</h1>
-      <p class="about-p"><span class="dropcap">N</span>irnay Daily is an independent Indian legal information portal built for law students, advocates, judicial aspirants, researchers and every citizen who wants to understand how the courts are shaping the law of the land. Each day, our editorial desk reads through the judgments and orders delivered by the Supreme Court of India, all twenty-five High Courts, district and sessions courts, and the country's principal tribunals, and distils them into clear, accurate and readable summaries. Every entry carries what a legal professional needs to rely on it: the full case title, the neutral or reported citation, the case number, the coram and the date of decision, together with a direct link to the judgment or to an established legal publication, so that each reader can go to the source and read the court's own words. Alongside the daily digest, Nirnay Daily maintains a growing library of landmark judgments, from the foundational constitutional rulings of the 1950s to the most significant decisions of the present day, arranged by decade and subject so that students and practitioners can trace how a principle took shape. Our Careers Portal brings together judicial service examinations, court and government legal posts, internships, fellowships, the All India Bar Examination and LLM admissions, with every listing verified against the recruiting body's official website. We work only from official and recognised legal sources, never invent a case or a citation, and correct ourselves openly. Our aim is simple: to make the working of Indian justice accessible, dependable and useful to everyone who studies, practises or cares about the law.</p>
+      <div class="eyebrow">Know the law · Know your rights</div>
+      <h1 class="about-h">Every Nirnay Matters.</h1>
+      <p class="about-p hm-lede">India's courts and lawmakers take decisions every day that shape your rights, your society and your future. Nirnay Daily brings them to you — clear, verified and on time.</p>
+      <div class="btns hm-cta"><a class="btn primary" href="#supreme-court">Read Today's Judgments</a><a class="btn" href="#careers">Explore Careers in Law</a></div>
+      <div class="hm-pillars">
+        <div class="hm-p"><h3>⚖️ The Decisions That Shape India</h3><p>From the Supreme Court to your district court, from Parliament to the State Legislatures, we follow the judgments, orders and laws that define how India is governed and how your rights are protected. Every ruling is summarised in plain language and linked to its source.</p></div>
+        <div class="hm-p"><h3>🎯 The Decisions That Shape You</h3><p>Your career is your own Nirnay. We track judicial service exams, government legal posts, LLM admissions, internships and fellowships, each verified on the official website, so you can focus on preparing, not searching.</p></div>
+        <div class="hm-p"><h3>📚 Knowledge You Can Rely On</h3><p>Landmark judgments, full Supreme Court texts, Bare Acts and a monthly journal, built from official records and established legal publications, not hearsay.</p></div>
+      </div>
+      <p class="hm-trust">Judgments daily · Legal News at 10 AM &amp; 6 PM · Careers every Saturday · Sourced from official records</p>
+      <p class="hm-close">Know the law. Know your rights. Make your Nirnay.</p>
     </div>
     <aside class="meaning">
       <div class="dv" lang="hi">निर्णय</div>
