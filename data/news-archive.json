@@ -1,6 +1,68 @@
 [
  {
   "edition": {
+   "edition_id": "2026-10-08-am",
+   "iso": "2026-10-08",
+   "slot": "10 AM",
+   "dateShort": "8 Oct 2026",
+   "dateLong": "Thursday, 8 October 2026 · Morning edition",
+   "window": "News from 4:00 PM IST, 7 October to 10:00 AM IST, 8 October 2026"
+  },
+  "items": [
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Karnataka",
+    "body": "National Law School of India University, Bengaluru",
+    "headline": "NLSIU confirms CJI Surya Kant will preside over its October 17 convocation",
+    "text": "NLSIU has confirmed that Chief Justice of India Surya Kant will attend its convocation on 17 October and preside as the university's Chancellor. Theatre artist Arundhati Nag will be the Chief Guest and give the convocation address. The ceremony had been cancelled in August after hundreds of students and alumni objected to the CJI's presence, and the cancellation was later withdrawn.",
+    "why": "It settles weeks of uncertainty over the convocation at India's oldest National Law University.",
+    "date": "7 Oct 2026",
+    "src": "https://www.livelaw.in/top-stories/cji-surya-kant-to-preside-nlsiu-convocation-arundhati-nag-to-be-chief-guest-553553",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "NLSIU ने पुष्टि की: CJI सूर्य कांत 17 अक्टूबर के दीक्षांत समारोह की अध्यक्षता करेंगे",
+      "text": "NLSIU ने पुष्टि की है कि भारत के मुख्य न्यायाधीश सूर्य कांत 17 अक्टूबर को उसके दीक्षांत समारोह में शामिल होंगे और विश्वविद्यालय के कुलाधिपति के रूप में अध्यक्षता करेंगे। रंगमंच कलाकार अरुंधति नाग मुख्य अतिथि होंगी और दीक्षांत भाषण देंगी। अगस्त में सैकड़ों छात्रों और पूर्व छात्रों द्वारा CJI की उपस्थिति पर आपत्ति के बाद समारोह रद्द किया गया था, और बाद में वह रद्दीकरण वापस ले लिया गया।",
+      "why": "इससे भारत के सबसे पुराने राष्ट्रीय विधि विश्वविद्यालय के दीक्षांत समारोह को लेकर हफ़्तों से चली आ रही अनिश्चितता ख़त्म होती है।",
+      "body": "नेशनल लॉ स्कूल ऑफ़ इंडिया यूनिवर्सिटी, बेंगलुरु"
+     },
+     "mr": {
+      "headline": "CJI सूर्य कांत 17 ऑक्टोबरच्या दीक्षांत समारंभाचे अध्यक्षस्थान भूषवणार, NLSIU ची पुष्टी",
+      "text": "भारताचे सरन्यायाधीश सूर्य कांत 17 ऑक्टोबर रोजी दीक्षांत समारंभाला उपस्थित राहून विद्यापीठाचे कुलपती म्हणून अध्यक्षस्थान भूषवतील, याची NLSIU ने पुष्टी केली आहे. रंगभूमी कलाकार अरुंधती नाग प्रमुख पाहुण्या असतील आणि दीक्षांत भाषण करतील. ऑगस्टमध्ये शेकडो विद्यार्थी व माजी विद्यार्थ्यांनी CJI यांच्या उपस्थितीवर आक्षेप घेतल्यानंतर समारंभ रद्द झाला होता, आणि नंतर तो रद्द करण्याचा निर्णय मागे घेण्यात आला.",
+      "why": "भारतातील सर्वांत जुन्या राष्ट्रीय विधी विद्यापीठाच्या दीक्षांत समारंभाबाबत आठवडाभर चाललेली अनिश्चितता यामुळे संपते.",
+      "body": "नॅशनल लॉ स्कूल ऑफ इंडिया युनिव्हर्सिटी, बंगळुरू"
+     }
+    }
+   },
+   {
+    "cat": "Other Legal News",
+    "region": "All India",
+    "body": "Senior Advocate Harish Salve",
+    "headline": "Harish Salve says sitting judges should speak only through their judgments",
+    "text": "Senior Advocate Harish Salve said in an interview that sitting judges, especially Supreme Court judges, should not publicly criticise the Court's judgments, because every judge is part of the institution. He warned that such remarks can permanently damage public trust in the judiciary. His comments add to the debate set off by Justice Ujjal Bhuyan's public remarks on the voter-roll revision (SIR), which is pending before the Supreme Court.",
+    "why": "It is a prominent voice from the Bar in the continuing debate over judicial propriety and public speeches by judges.",
+    "date": "7 Oct 2026",
+    "src": "https://lawbeat.in/top-stories/you-are-criticising-yourself-harish-salve-asks-judges-to-stop-attacking-supreme-court-judgments-in-public-1639469",
+    "srcName": "LawBeat",
+    "i18n": {
+     "hi": {
+      "headline": "हरीश साल्वे: कार्यरत न्यायाधीशों को केवल अपने निर्णयों के माध्यम से बोलना चाहिए",
+      "text": "वरिष्ठ अधिवक्ता हरीश साल्वे ने एक साक्षात्कार में कहा कि कार्यरत न्यायाधीशों, विशेषकर सर्वोच्च न्यायालय के न्यायाधीशों, को न्यायालय के निर्णयों की सार्वजनिक आलोचना नहीं करनी चाहिए, क्योंकि हर न्यायाधीश उस संस्था का हिस्सा है। उन्होंने चेताया कि ऐसी टिप्पणियाँ न्यायपालिका में जनता के विश्वास को स्थायी नुकसान पहुँचा सकती हैं। उनकी बात मतदाता सूची पुनरीक्षण (SIR) पर न्यायमूर्ति उज्ज्वल भुइयाँ की सार्वजनिक टिप्पणियों से शुरू हुई बहस को आगे बढ़ाती है; यह मामला सर्वोच्च न्यायालय में लंबित है।",
+      "why": "न्यायिक मर्यादा और न्यायाधीशों के सार्वजनिक भाषणों पर चल रही बहस में यह बार की एक प्रमुख आवाज़ है।",
+      "body": "वरिष्ठ अधिवक्ता हरीश साल्वे"
+     },
+     "mr": {
+      "headline": "हरीश साळवे: कार्यरत न्यायाधीशांनी फक्त त्यांच्या निकालांमधूनच बोलावे",
+      "text": "ज्येष्ठ वकील हरीश साळवे यांनी एका मुलाखतीत सांगितले की कार्यरत न्यायाधीशांनी, विशेषतः सर्वोच्च न्यायालयाच्या न्यायाधीशांनी, न्यायालयाच्या निकालांवर जाहीर टीका करू नये, कारण प्रत्येक न्यायाधीश त्या संस्थेचा भाग आहे. अशा टिप्पण्यांमुळे न्यायव्यवस्थेवरील लोकांच्या विश्वासाला कायमची हानी पोहोचू शकते, असा इशारा त्यांनी दिला. मतदार यादी फेरतपासणीवर (SIR) न्यायमूर्ती उज्ज्वल भुयान यांनी केलेल्या जाहीर टिप्पण्यांनंतर सुरू झालेल्या चर्चेत त्यांच्या विधानाची भर पडते; हे प्रकरण सर्वोच्च न्यायालयात प्रलंबित आहे.",
+      "why": "न्यायिक औचित्य आणि न्यायाधीशांच्या जाहीर भाषणांवरील चर्चेत हा बारमधील एक प्रमुख आवाज आहे.",
+      "body": "ज्येष्ठ वकील हरीश साळवे"
+     }
+    }
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-10-07-pm",
    "iso": "2026-10-07",
    "slot": "6 PM",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1589,6 +1589,94 @@
    "pdf": "judgments/sc/pdf/appa-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 280513
+  },
+  {
+   "slug": "rajnikant-dudhabhai-2026",
+   "name": "Rajnikant Dudhabhai Parmar v. State of Gujarat",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-05.json",
+   "pages": 3,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 660,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=514872025&type=j&order_date=2026-10-05&from=latest_judgements_order",
+   "added": "2026-10-08",
+   "keys": [
+    "rajnikant dudhabhai parmar",
+    "state of gujarat"
+   ],
+   "citation": "2026 INSC 1101",
+   "caseNo": "Crl.A. No. 4800/2026",
+   "date": "2026-10-05",
+   "pdf": "judgments/sc/pdf/rajnikant-dudhabhai-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 199475
+  },
+  {
+   "slug": "shubham-equipment-2026",
+   "name": "Shubham Equipment Private Limited v. Rothwell Water Company Limited",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-08.json",
+   "pages": 14,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2564,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=30632025&type=j&order_date=2026-10-08&from=latest_judgements_order",
+   "added": "2026-10-08",
+   "keys": [
+    "shubham equipment private limited",
+    "rothwell water company limited"
+   ],
+   "citation": "2026 INSC 1098",
+   "caseNo": "ARBIT.PETITON No. 7/2025",
+   "date": "2026-10-08",
+   "pdf": "judgments/sc/pdf/shubham-equipment-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 272748
+  },
+  {
+   "slug": "federation-medical-2026",
+   "name": "Federation of Medical and Sales Representatives Associations of India v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-08.json",
+   "pages": 23,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3883,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=36162021&type=j&order_date=2026-10-08&from=latest_judgements_order",
+   "added": "2026-10-08",
+   "keys": [
+    "federation of medical and sales represen",
+    "union of india"
+   ],
+   "citation": "2026 INSC 1097",
+   "caseNo": "W.P.(C) No. 323/2021",
+   "date": "2026-10-08",
+   "pdf": "judgments/sc/pdf/federation-medical-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 243902
+  },
+  {
+   "slug": "ramkrushna-prahllad-2026",
+   "name": "Ramkrushna Prahllad Dongardive v. The State of Maharashtra",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-08.json",
+   "pages": 29,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 7543,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=363402017&type=j&order_date=2026-10-08&from=latest_judgements_order",
+   "added": "2026-10-08",
+   "keys": [
+    "ramkrushna prahllad dongardive",
+    "the state of maharashtra"
+   ],
+   "citation": "2026 INSC 1099",
+   "caseNo": "Crl.A. No. 1432/2019",
+   "date": "2026-10-08",
+   "pdf": "judgments/sc/pdf/ramkrushna-prahllad-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 346541
   }
  ]
 }

@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-08T13:23+05:30",
+ "updated": "2026-10-08T18:05+05:30",
  "news": [
+  {
+   "edition": "2026-10-08-pm",
+   "headline": "Gujarat High Court starts sending daily cause lists to lawyers on WhatsApp",
+   "src": "https://www.livelaw.in/news-updates/gujarat-high-court-launches-whatsapp-messaging-service-with-daily-cause-list-delivery-to-lawyers-553677"
+  },
+  {
+   "edition": "2026-10-08-pm",
+   "headline": "Supreme Court asks NALSA to consider plea for better pay for permanent Lok Adalat members",
+   "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-nalsa-to-examine-plea-seeking-better-remuneration-for-permanent-lok-adalat-members"
+  },
+  {
+   "edition": "2026-10-08-pm",
+   "headline": "Justice C Sudha retires from Delhi High Court after three decades as a judge",
+   "src": "https://www.livelaw.in/high-court/delhi-high-court/some-experiences-encourage-some-test-some-make-us-stronger-delhi-high-court-justice-c-sudha-retires-after-3-decade-judicial-journey-553735"
+  },
+  {
+   "edition": "2026-10-08-pm",
+   "headline": "Justice Dipankar Datta says repeated commutation of death sentences has fuelled crime",
+   "src": "https://lawbeat.in/top-stories/our-forgiving-nature-has-to-come-to-an-end-justice-dipankar-datta-links-death-sentence-commutations-to-rise-in-crime-1639743"
+  },
+  {
+   "edition": "2026-10-08-pm",
+   "headline": "New petition in Supreme Court challenges appointments of CEC Gyanesh Kumar and two Election Commissioners",
+   "src": "https://www.livelaw.in/amp/top-stories/plea-in-supreme-court-challenges-appointment-of-cec-gyanesh-kumar-election-commissioners-sukhbir-sandhu-vivek-joshi-553673"
+  },
+  {
+   "edition": "2026-10-08-pm",
+   "headline": "Supreme Court asks Centre to set up committee on regulating pharma marketing practices",
+   "src": "https://lawbeat.in/top-stories/supreme-court-directs-centre-to-form-committee-on-unethical-pharma-marketing-practices-1639557"
+  },
   {
    "edition": "2026-10-08-am",
    "headline": "NLSIU confirms CJI Surya Kant will preside over its October 17 convocation",
@@ -195,26 +225,6 @@
    "edition": "2026-09-30-pm",
    "headline": "Pension scheme amended so more EPF members earning up to ₹25,000 a month get pension cover",
    "src": "https://www.scconline.com/blog/post/2026/09/30/employees-pension-scheme-2026-amendment-epf-members-explained/"
-  },
-  {
-   "edition": "2026-09-30-am",
-   "headline": "Collegium recommends sending Justice T Vinod Kumar back to Telangana High Court before he retires",
-   "src": "https://www.livelaw.in/high-court/madras-high-court/supreme-court-collegium-recommends-repatriation-of-justice-t-vinod-kumar-to-telangana-hc-ahead-of-retirement-552301"
-  },
-  {
-   "edition": "2026-09-30-am",
-   "headline": "Karnataka High Court sets up 3-judge panel to study new benches in 8 regions",
-   "src": "https://www.barandbench.com/news/litigation/karnataka-high-court-constitutes-3-member-committee-to-examine-feasibility-of-more-hc-benches"
-  },
-  {
-   "edition": "2026-09-30-am",
-   "headline": "Supreme Court asks its Registry to explain why a listed contempt case was dropped from the cause list",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-questions-registry-for-deleting-capf-contempt-matter-from-list-552324"
-  },
-  {
-   "edition": "2026-09-30-am",
-   "headline": "GNLU students protest over health, water and sanitation problems on campus",
-   "src": "https://www.barandbench.com/Law-School/gnlu-students-protest-over-health-water-and-sanitation-conditions-on-campus"
   }
  ],
  "tribunals": [
@@ -562,7 +572,7 @@
  "latest": {
   "digest": "8 Oct 2026",
   "tribunals": "8 Oct 2026",
-  "news": "2026-10-08-am",
+  "news": "2026-10-08-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"
  }
