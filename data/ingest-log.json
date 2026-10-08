@@ -1,7 +1,9 @@
 {
- "ran": "2026-10-08T10:11+05:30",
+ "ran": "2026-10-08T11:17+05:30",
  "processed": [
-  "news_2026-10-08-am.json: legal news 2026-10-08-am: 2 items"
+  "digest_2026-10-08.json: judgments & orders 8 Oct 2026: 29 items",
+  "pool_2026-10-08.json: careers portal: 18 listings (0 closed removed)",
+  "tribunals_2026-10-08.json: tribunals 8 Oct 2026: 9 items"
  ],
  "errors": [],
  "notes": []
