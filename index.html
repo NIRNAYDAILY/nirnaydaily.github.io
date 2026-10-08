@@ -26,7 +26,7 @@
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Nirnay Daily", "alternateName": ["NIRNAY DAILY", "निर्णय"], "url": "https://nirnaydaily.github.io/", "email": "nirnaydaily@gmail.com", "sameAs": ["https://www.instagram.com/nirnay_daily_/"], "description": "Daily Indian court judgments and orders, full Supreme Court judgments, landmark cases, Bare Acts of India, Maharashtra, Madhya Pradesh, Rajasthan and Chhattisgarh, and a careers portal for law students.", "publisher": {"@id": "https://nirnaydaily.github.io/#org"}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Tiro+Devanagari+Hindi&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Tiro+Devanagari+Hindi&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@400;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
 :root{
   color-scheme:light;
@@ -37,10 +37,10 @@
   --ok:#2F7D4F; --ok-soft:#EAF4EE; --warn:#B7791F; --warn-soft:#FBF3E4; --muted-soft:#F1EFEB;
   --official:"Cinzel","Trajan Pro","Iowan Old Style",Georgia,serif;
   --display:"Libre Caslon Display","Iowan Old Style",Georgia,serif;
-  --serif:"Libre Caslon Text","Iowan Old Style",Georgia,serif;
+  --serif:"Libre Caslon Text","Iowan Old Style",Georgia,"Noto Serif Devanagari",serif;
   --deva:"Tiro Devanagari Hindi","Noto Serif Devanagari",serif;
-  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI","Noto Sans Devanagari",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,"Noto Sans Devanagari",monospace;
 }
 
 *{box-sizing:border-box}
@@ -61,6 +61,12 @@ p{margin:0}
 .ig{display:inline-flex;align-items:center;gap:5px;color:inherit;text-decoration:none;border-bottom:1px solid currentColor;line-height:1.3}.ig:hover{opacity:.8}.ig svg{flex:none}
 .refresh{font:600 11.5px var(--mono);letter-spacing:.04em;color:#221E1B;background:#F3C46B;border:0;border-radius:999px;padding:4px 12px;cursor:pointer}
 .refresh:hover{background:#FFD98A}
+.rf-col{display:inline-flex;flex-direction:column;align-items:center;gap:5px}
+.langsel{font:500 11.5px var(--sans);color:#221E1B;background:#FFF8EA;border:1px solid #F3C46B;border-radius:999px;padding:3px 22px 3px 10px;cursor:pointer;appearance:none;-webkit-appearance:none;background-image:linear-gradient(45deg,transparent 50%,#221E1B 50%),linear-gradient(135deg,#221E1B 50%,transparent 50%);background-position:calc(100% - 11px) 50%,calc(100% - 7px) 50%;background-size:4px 4px;background-repeat:no-repeat}
+.langsel:focus-visible{outline:2px solid #F3C46B;outline-offset:2px}
+html[data-lang=hi] .dropcap,html[data-lang=mr] .dropcap{display:none}
+html[data-lang=hi] .label,html[data-lang=mr] .label,html[data-lang=hi] .tagline,html[data-lang=mr] .tagline,html[data-lang=hi] .decade,html[data-lang=mr] .decade{letter-spacing:.04em}
+html[data-lang=hi] body,html[data-lang=mr] body{line-height:1.7}
 nav.main a.nw{color:#1F6F6A}
 .newscat{font:600 10.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:3px;color:#fff;background:var(--nc,#6E1E22)}
 .newsmeta{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;font:12px var(--mono);color:var(--ink-3)}
@@ -479,7 +485,7 @@ if(window.NIRNAY_FIREBASE&&window.NIRNAY_LOGIN.mode==="site")document.documentEl
 
 <div class="strip"><div class="wrap">
   <span><b>●</b> <span id="today"></span></span>
-  <span class="strip-r"><span>Judgments daily · Legal news 10 AM & 6 PM · Careers every Saturday</span><a class="ig" href="https://www.instagram.com/nirnay_daily_/" target="_blank" rel="noopener" onclick="window.nirnayTrack&&nirnayTrack('instagram_click',{where:'header'})" title="Follow Nirnay Daily on Instagram"><svg viewBox="0 0 24 24" width="13" height="13" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg> @nirnay_daily_</a><button type="button" class="refresh" id="refresh" title="Load the latest version of the website">↻ Refresh</button></span>
+  <span class="strip-r"><span>Judgments daily · Legal news 10 AM & 6 PM · Careers every Saturday</span><a class="ig" href="https://www.instagram.com/nirnay_daily_/" target="_blank" rel="noopener" onclick="window.nirnayTrack&&nirnayTrack('instagram_click',{where:'header'})" title="Follow Nirnay Daily on Instagram"><svg viewBox="0 0 24 24" width="13" height="13" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg> @nirnay_daily_</a><span class="rf-col"><button type="button" class="refresh" id="refresh" title="Load the latest version of the website">↻ Refresh</button><select id="nd-lang" class="langsel" aria-label="Language / भाषा" title="Language / भाषा"><option value="en">English</option><option value="hi" lang="hi">हिन्दी</option><option value="mr" lang="mr">मराठी</option></select></span></span>
 </div></div>
 
 <header class="mast">
@@ -551,6 +557,8 @@ if(window.NIRNAY_FIREBASE&&window.NIRNAY_LOGIN.mode==="site")document.documentEl
 </div>
 <div class="wrap fine"><span>© 2026 Nirnay Daily · निर्णय</span><span>This site counts visits, searches and link clicks (through Google Analytics) to improve the site. Readers who sign in share only their name and email, kept to manage their free account. <a href="privacy.html" style="color:inherit;text-decoration:underline">Privacy Notice</a></span><span>Email: <a href="mailto:nirnaydaily@gmail.com" style="color:inherit">nirnaydaily@gmail.com</a></span><span>Instagram: <a class="ig" href="https://www.instagram.com/nirnay_daily_/" target="_blank" rel="noopener" onclick="window.nirnayTrack&&nirnayTrack('instagram_click',{where:'footer'})" title="Follow Nirnay Daily on Instagram"><svg viewBox="0 0 24 24" width="13" height="13" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg> @nirnay_daily_</a></span></div></footer>
 
+<script src="assets/i18n-landmarks.js"></script>
+<script src="assets/i18n.js"></script>
 <script>
 const IK = id => "https://indiankanoon.org/doc/" + id + "/";
 const L = [
@@ -869,6 +877,7 @@ L.push(
   src:IK(54000789)}
 );
 THEMES.crime = "Criminal Justice";
+if(window.ndLandmarks) window.ndLandmarks(L);
 
 const COL = {constitution:"#9E2A2B",liberty:"#D35F14",life:"#C2185B",privacy:"#7B3F8C",equality:"#2F7D4F",gender:"#B0306F",
   speech:"#B7791F",environment:"#3E8E2F",democracy:"#E07A10",judiciary:"#6B1F1F",family:"#B5523B",education:"#8A7A12",
@@ -935,7 +944,7 @@ function home(){
 
 /* ---------- LIVE DATA (latest editions first, then archive) ---------- */
 let NEWS=null, NEWS_AR=[], POOL=null, DIG=null, CAR=null, TRI=null, DIG_AR=[], CAR_AR=[], TRI_AR=[], LOADED=false;
-async function getJSON(p){ const r=await fetch(p,{cache:"no-store"}); if(!r.ok) throw new Error(p); return r.json(); }
+async function getJSON(p){ const r=await fetch(p,{cache:"no-store"}); if(!r.ok) throw new Error(p); const j=await r.json(); return window.ndLocalize?window.ndLocalize(j):j; }
 async function loadData(){
   if(window.NIRNAY_MODE){ try{ ACTS=await getJSON("data/bare-acts.json"); }catch(e){} LOADED=true; render(); return; }
   const names=["digest","careers","tribunals","digest-archive","careers-archive","tribunals-archive","careers-pool","sc-library","bare-acts","news","news-archive"];
@@ -1161,7 +1170,8 @@ function careerPool(){
   const src=POOL||CAR; if(!src) return null;
   const secs=(src.sections||[]).map(s=>({...s,items:[...(s.items||[])]}));
   if(POOL&&CAR){ (CAR.sections||[]).forEach(cs=>{ const t=secs.find(s=>s.id===cs.id); if(!t) return;
-    cs.items.forEach(it=>{ const k=(it.name+"|"+it.org).toLowerCase(); if(!t.items.some(x=>(x.name+"|"+x.org).toLowerCase()===k)) t.items.push(it); }); }); }
+    const ck=x=>(((x._en&&x._en.name)||x.name)+"|"+((x._en&&x._en.org)||x.org)).toLowerCase();
+    cs.items.forEach(it=>{ const k=ck(it); if(!t.items.some(x=>ck(x)===k)) t.items.push(it); }); }); }
   const rank={soon:0,open:1,await:2};
   secs.forEach(s=>{ s.items=s.items.filter(it=>careerStatus(it)[0]!=="closed")
     .sort((a,b)=>{ const ra=rank[careerStatus(a)[0]], rb=rank[careerStatus(b)[0]]; if(ra!==rb) return ra-rb; return (deadlineOf(a)||"9999").localeCompare(deadlineOf(b)||"9999"); }); });
