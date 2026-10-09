@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-09T00:26+05:30",
+ "updated": "2026-10-09T10:29+05:30",
  "news": [
+  {
+   "edition": "2026-10-09-am",
+   "headline": "Former Supreme Court judge Abhay Oka says Justice Ujjal Bhuyan's voter-roll remarks were not improper",
+   "src": "https://www.livelaw.in/amp/top-stories/justice-abhay-oka-says-no-judicial-impropriety-in-justice-ujjal-bhuyan-comment-on-sir-disenfranchisement-of-voters-while-matter-sub-judice-553731"
+  },
+  {
+   "edition": "2026-10-09-am",
+   "headline": "Punjab and Haryana High Court Bar Association condemns MLA Sukhpal Khaira's remark on Punjab's government lawyers",
+   "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-bar-association-condemns-sukhpal-khairas-alleged-bhade-de-tattu-remark-against-punjab-law-officers-553766"
+  },
+  {
+   "edition": "2026-10-09-am",
+   "headline": "Former Supreme Court judge Gopala Gowda says the SIR voter-roll judgment should be recalled",
+   "src": "https://www.livelaw.in/top-stories/sir-judgment-must-be-recalled-as-eci-played-fraud-on-supreme-court-by-misrepresenting-facts-ex-sc-judge-gopala-gowda-553783"
+  },
   {
    "edition": "2026-10-08-pm",
    "headline": "Gujarat High Court starts sending daily cause lists to lawyers on WhatsApp",
@@ -210,21 +225,6 @@
    "edition": "2026-10-01-am",
    "headline": "Orissa High Court lawyers to march to Governor's house and stay away from work over judge vacancies",
    "src": "https://livelaw.in/high-court/orissa-high-court/orissa-high-court-bar-association-hold-peaceful-march-governor-residence-552528"
-  },
-  {
-   "edition": "2026-09-30-pm",
-   "headline": "Special bench questions how CAPF contempt case was moved; ASG says she had asked the CJI for joint hearing",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-special-bench-criticises-manner-of-capf-contempt-case-listing-centre-says-request-was-made-before-cji-552469"
-  },
-  {
-   "edition": "2026-09-30-pm",
-   "headline": "Karnataka tells High Court it will not act against cinemas over 2% ticket cess for now",
-   "src": "https://www.barandbench.com/news/litigation/will-not-take-action-against-cinema-exhibitors-over-2-cinema-ticket-cess-state-to-karnataka-high-court"
-  },
-  {
-   "edition": "2026-09-30-pm",
-   "headline": "Pension scheme amended so more EPF members earning up to ₹25,000 a month get pension cover",
-   "src": "https://www.scconline.com/blog/post/2026/09/30/employees-pension-scheme-2026-amendment-epf-members-explained/"
   }
  ],
  "tribunals": [
@@ -572,7 +572,7 @@
  "latest": {
   "digest": "8 Oct 2026",
   "tribunals": "8 Oct 2026",
-  "news": "2026-10-08-pm",
+  "news": "2026-10-09-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"
  }
