@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1699,6 +1699,116 @@
    "pdf": "judgments/sc/pdf/modern-asset-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 300204
+  },
+  {
+   "slug": "irfan-ahmad-2026",
+   "name": "Irfan Ahmad Hakak v. Union Territory of Jammu and Kashmir",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-05.json",
+   "pages": 6,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1579,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=87742026&type=j&order_date=2026-10-05&from=latest_judgements_order",
+   "added": "2026-10-09",
+   "keys": [
+    "irfan ahmad hakak",
+    "union territory of jammu and kashmir"
+   ],
+   "citation": "2026 INSC 1104",
+   "caseNo": "C.A. No. 13568-13569/2026",
+   "date": "2026-10-05",
+   "pdf": "judgments/sc/pdf/irfan-ahmad-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 274374
+  },
+  {
+   "slug": "meerut-development-2026",
+   "name": "Meerut Development Authority v. Sundar Das",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-08.json",
+   "pages": 7,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1677,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=307632026&type=j&order_date=2026-10-08&from=latest_judgements_order",
+   "added": "2026-10-09",
+   "keys": [
+    "meerut development authority",
+    "sundar das"
+   ],
+   "citation": "2026 INSC 1106",
+   "caseNo": "SLP(C) No. 36324/2026",
+   "date": "2026-10-08",
+   "pdf": "judgments/sc/pdf/meerut-development-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 266030
+  },
+  {
+   "slug": "prema-2026",
+   "name": "M.Prema v. The State of Tamil Nadu Rep by Its Secretary to the Government and Ors",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-09.json",
+   "pages": 22,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6667,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=113102007&type=j&order_date=2026-10-09&from=latest_judgements_order",
+   "added": "2026-10-09",
+   "keys": [
+    "m prema",
+    "the state of tamil nadu rep by its secre"
+   ],
+   "citation": "2026 INSC 1105",
+   "caseNo": "C.A. No. 8757/2013",
+   "date": "2026-10-09",
+   "pdf": "judgments/sc/pdf/prema-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 448436
+  },
+  {
+   "slug": "sultan-singh-2026",
+   "name": "Sultan Singh (dead) Thru. Lrs v. The Financial Commissioner Govt. of Nct of Delhi",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-09.json",
+   "pages": 28,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 7993,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=356882012&type=j&order_date=2026-10-09&from=latest_judgements_order",
+   "added": "2026-10-09",
+   "keys": [
+    "sultan singh dead thru lrs",
+    "the financial commissioner govt of nct o"
+   ],
+   "citation": "2026 INSC 1107",
+   "caseNo": "C.A. No. 9146/2012",
+   "date": "2026-10-09",
+   "pdf": "judgments/sc/pdf/sultan-singh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 499989
+  },
+  {
+   "slug": "charming-rupon-2026",
+   "name": "Charming Rupon v. The State of Meghalaya",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-09.json",
+   "pages": 37,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 7249,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=320652022&type=j&order_date=2026-10-09&from=latest_judgements_order",
+   "added": "2026-10-09",
+   "keys": [
+    "charming rupon",
+    "the state of meghalaya"
+   ],
+   "citation": "2026 INSC 1102",
+   "caseNo": "Crl.A. No. 4845/2026",
+   "date": "2026-10-09",
+   "pdf": "judgments/sc/pdf/charming-rupon-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 331959
   }
  ]
 }
