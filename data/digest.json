@@ -1,42 +1,48 @@
 {
  "edition": {
-  "vol": "Vol. I · No. 14",
+  "vol": "Vol. I · No. 15",
   "badge": "",
-  "dateLong": "Thursday, 8 October 2026",
-  "dateShort": "8 Oct 2026",
-  "window": "Judgments and orders passed between 10:00 AM IST on 7 October 2026 and 9:30 AM IST on 8 October 2026",
+  "dateLong": "Friday, 9 October 2026",
+  "dateShort": "9 Oct 2026",
+  "window": "Judgments and orders passed between 10:00 AM IST on 8 October 2026 and 9:00 AM IST on 9 October 2026",
   "next": "Next edition: tomorrow at 10:00 AM IST"
  },
  "highlights": [
   {
    "court": "Supreme Court of India",
-   "caseName": "Saurashtra Aaj Tak v. TV Today Network",
-   "text": "Gujarati paper told to drop the 'Aaj Tak' name within three months.",
+   "caseName": "Federation of Medical and Sales Representatives Associations of India v. Union of India",
+   "text": "Centre told to form a panel on pharma freebies to doctors.",
    "ref": "sc:0"
   },
   {
-   "court": "High Court of Punjab & Haryana",
-   "caseName": "State of Haryana v. Hem Raj",
-   "text": "Death row convict acquitted in 2018 Hisar child murder.",
-   "ref": "hc:Punjab & Haryana"
+   "court": "Supreme Court of India",
+   "caseName": "Ramkrushna Prahllad Dongardive v. State of Maharashtra",
+   "text": "Search lapses don't void a seizure, only weaken it.",
+   "ref": "sc:0"
   },
   {
-   "court": "High Court of Kerala",
-   "caseName": "Suo Motu v. State of Kerala",
-   "text": "Sabarimala gold theft: SIT given deadlines for final reports.",
-   "ref": "hc:Kerala"
+   "court": "Supreme Court of India",
+   "caseName": "Prakash Singh v. Union of India",
+   "text": "Jharkhand's DGP rule prima facie breaches Prakash Singh.",
+   "ref": "sc:1"
+  },
+  {
+   "court": "High Court of Delhi",
+   "caseName": "Dipinder Kaur v. Bar Council of Delhi & Ors.",
+   "text": "Fake caste certificate alone can't strike an advocate off the rolls.",
+   "ref": "hc:Delhi"
   },
   {
    "court": "High Court of Karnataka",
-   "caseName": "Atul Kumar Sabarwal v. State of Karnataka & Ors.",
-   "text": "FIR over a 'jihadi' Facebook post quashed.",
+   "caseName": "Dr. Ravi Basalingappagowda Pati v. State of Karnataka",
+   "text": "BJP leader shielded in SIR voter-deletion FIR.",
    "ref": "hc:Karnataka"
   },
   {
-   "court": "High Court of Gauhati",
-   "caseName": "Sarifuddin v. State of Assam & 17 Ors.",
-   "text": "₹5 lakh for death in illegal police custody.",
-   "ref": "hc:Gauhati"
+   "court": "High Court of Madras",
+   "caseName": "C. Joseph Vijay v. S. Dinesh",
+   "text": "Orders reserved on CM Vijay's plea against poll petition.",
+   "ref": "hc:Madras"
   }
  ],
  "chapters": [
@@ -52,122 +58,68 @@
      "title": "Judgments",
      "items": [
       {
-       "caseName": "Saurashtra Aaj Tak v. TV Today Network",
+       "caseName": "Federation of Medical and Sales Representatives Associations of India v. Union of India",
+       "citation": "2026 INSC 1097",
+       "caseNo": "W.P.(C) No. 323/2021",
+       "coram": "Vikram Nath, Sandeep Mehta, JJ.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Centre told to set up panel on pharma freebies to doctors",
+       "kind": "Held",
+       "text": "Union to form a committee in 2 weeks to suggest rules curbing unethical drug marketing. Compliance due; listed 29 Jan 2027.",
+       "tag": "Health regulation",
+       "src": "https://www.livelaw.in/top-stories/freebies-to-doctors-supreme-court-asks-union-to-form-committee-to-recommend-regulations-on-pharma-marketing-practices-553638",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Ramkrushna Prahllad Dongardive v. State of Maharashtra",
+       "citation": "2026 LiveLaw (SC) 1032 · 2026 INSC 1099",
+       "caseNo": "Criminal Appeal No. 1432 of 2019",
+       "coram": "Ujjal Bhuyan, Atul S. Chandurkar, JJ.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Search lapses don't void a seizure, but weaken it",
+       "kind": "Held",
+       "text": "Breach of S.100 CrPC affects only the weight of seizure evidence. HC's reversal set aside; acquittal restored.",
+       "tag": "Criminal evidence",
+       "src": "https://www.livelaw.in/supreme-court/procedural-violation-will-not-vitiate-seizure-but-can-affect-evidentiary-value-supreme-court-553763",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Modern Asset v. KNK Construction(s) Pvt. Ltd.",
+       "citation": "2026 INSC 1103",
+       "caseNo": "Arising from SLP (C) No. 25068 of 2026",
+       "coram": "J.B. Pardiwala, K. Vinod Chandran, JJ.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "After IBC plan, counterclaim works only as set-off",
+       "kind": "Held",
+       "text": "Arbitrator appointment upheld, but the counterclaim can only be set off up to the admitted claim; no fresh recovery.",
+       "tag": "Insolvency · Arbitration",
+       "src": "https://indiankanoon.org/doc/21698478/",
+       "srcName": "Indian Kanoon"
+      },
+      {
+       "caseName": "Shubham Equipment Pvt. Ltd. v. Rothwell Water Company Ltd.",
+       "citation": "2026 INSC 1098",
+       "caseNo": "Arbitration Petition (C) Nos. 7 & 8 of 2025",
        "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Gujarati paper must drop the 'Aaj Tak' name",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Sole arbitrator named in joint venture dispute",
        "kind": "Held",
-       "text": "Plea against Delhi HC passing-off ruling dismissed; paper gets three months to rebrand, not the six it sought.",
-       "tag": "Trademark",
-       "src": "https://www.barandbench.com/news/change-your-name-supreme-court-to-gujarati-newspaper-using-aaj-tak-name",
-       "srcName": "Bar & Bench",
-       "i18n": {
-        "hi": {
-         "headline": "गुजराती अख़बार को 'आज तक' नाम छोड़ना होगा",
-         "text": "दिल्ली उच्च न्यायालय के पासिंग-ऑफ़ निर्णय के विरुद्ध याचिका खारिज; अख़बार को नया नाम अपनाने के लिए तीन महीने मिले, उसकी माँगी गई छह महीने की मोहलत नहीं।",
-         "tag": "ट्रेडमार्क"
-        },
-        "mr": {
-         "headline": "गुजराती वृत्तपत्राला 'आज तक' नाव सोडावे लागणार",
-         "text": "दिल्ली उच्च न्यायालयाच्या पासिंग-ऑफ निकालाविरुद्धची याचिका फेटाळली; वृत्तपत्राला नवे नाव घेण्यासाठी तीन महिने मिळाले, मागितलेले सहा महिने नाहीत.",
-         "tag": "ट्रेडमार्क"
-        }
-       }
+       "text": "JV and MoU disputes go under their own clauses, not the Korea-seated one. Former CJ R.D. Dhanuka appointed.",
+       "tag": "Arbitration",
+       "src": "https://indiankanoon.org/doc/71253258/",
+       "srcName": "Indian Kanoon"
       },
       {
-       "caseName": "V. Pon. Paneerselvam v. S. Regupathy",
-       "caseNo": "SLP (C) No. 30538 of 2026",
-       "coram": "Prashant Kumar Mishra, Shree Chandrashekhar, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Election petition must be filed by petitioner himself",
-       "kind": "Held",
-       "text": "An RP Act election petition presented by counsel, not the petitioner in person, is liable to dismissal.",
-       "tag": "Election law",
-       "src": "https://www.livelaw.in/supreme-court/rp-act-election-petition-must-be-presented-petitioner-himself-not-counsel-supreme-court-553574",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "चुनाव याचिका याचिकाकर्ता को स्वयं दायर करनी होगी",
-         "text": "लोक प्रतिनिधित्व अधिनियम के तहत जो चुनाव याचिका याचिकाकर्ता ने स्वयं नहीं, बल्कि वकील ने प्रस्तुत की हो, वह खारिज की जा सकती है।",
-         "tag": "चुनाव कानून"
-        },
-        "mr": {
-         "headline": "निवडणूक याचिका याचिकाकर्त्याने स्वतःच दाखल करावी",
-         "text": "लोकप्रतिनिधित्व अधिनियमाअंतर्गतची निवडणूक याचिका याचिकाकर्त्याने स्वतः नव्हे तर वकिलाने सादर केली असल्यास ती फेटाळली जाऊ शकते.",
-         "tag": "निवडणूक कायदा"
-        }
-       }
-      },
-      {
-       "caseName": "M/s. MEPCO Industries Ltd. v. Commissioner of Income Tax",
-       "caseNo": "Civil Appeal No. 8694 of 2012",
-       "coram": "Prashant Kumar Mishra, Shree Chandrashekhar, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Power subsidy cutting running costs is taxable",
-       "kind": "Held",
-       "text": "Applying the purpose test, a power subsidy tied to electricity charges was a revenue receipt; appeal dismissed.",
-       "tag": "Income tax",
-       "src": "https://www.livelaw.in/supreme-court/income-tax-subsidy-can-become-taxable-depending-on-purpose-test-supreme-court-553578",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "चालू खर्च घटाने वाली बिजली सब्सिडी कर-योग्य है",
-         "text": "उद्देश्य की कसौटी लगाकर, बिजली शुल्क से जुड़ी बिजली सब्सिडी को राजस्व प्राप्ति माना गया; अपील खारिज।",
-         "tag": "आयकर"
-        },
-        "mr": {
-         "headline": "चालू खर्च कमी करणारे वीज अनुदान करपात्र",
-         "text": "उद्देशाची कसोटी लावून, वीज शुल्काशी जोडलेले वीज अनुदान महसुली जमा ठरवले; अपील फेटाळले.",
-         "tag": "आयकर"
-        }
-       }
-      },
-      {
-       "caseName": "State of West Bengal v. Milan Pradhan",
-       "caseNo": "SLP (Crl) No. 18996/2026",
-       "coram": "Surya Kant, CJI; V. Mohana, J.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Interim bail to Nandigram candidate left intact",
-       "kind": "Held",
-       "text": "State's plea dismissed; interim bail stands till 20 Oct so he can contest and attend counting, then surrender.",
-       "tag": "Bail",
-       "src": "https://www.livelaw.in/top-stories/supreme-court-refuses-to-interfere-with-interim-bail-to-congress-nandigram-candidate-milan-pradhan-553565",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "नंदीग्राम के उम्मीदवार की अंतरिम ज़मानत बरकरार",
-         "text": "राज्य की याचिका खारिज; अंतरिम ज़मानत 20 अक्टूबर तक बनी रहेगी ताकि वह चुनाव लड़ सकें और मतगणना में शामिल हो सकें, उसके बाद आत्मसमर्पण करना होगा।",
-         "tag": "ज़मानत"
-        },
-        "mr": {
-         "headline": "नंदीग्रामच्या उमेदवाराचा अंतरिम जामीन कायम",
-         "text": "राज्याची याचिका फेटाळली; अंतरिम जामीन 20 ऑक्टोबरपर्यंत कायम राहील, जेणेकरून ते निवडणूक लढवू शकतील व मतमोजणीला हजर राहू शकतील, त्यानंतर शरण यावे लागेल.",
-         "tag": "जामीन"
-        }
-       }
-      },
-      {
-       "caseName": "Nallapu Manideep v. Union of India",
+       "caseName": "Roonam Kaushik v. Union of India",
+       "caseNo": "Diary No. 36768/2026",
        "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "AP High Court to monitor anti-malaria death probe",
+       "date": "Decided 8 Oct 2026",
+       "headline": "NALSA to decide Lok Adalat members' pay plea",
        "kind": "Held",
-       "text": "Case over a girl's death after a chloroquine drive sent to the AP HC to monitor the probe on priority.",
-       "tag": "Public health",
-       "src": "https://www.livelaw.in/top-stories/supreme-court-asks-ap-high-court-to-monitor-probe-into-death-of-girl-after-anti-malaria-drive-553593",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "मलेरिया-रोधी अभियान में मृत्यु की जाँच पर आंध्र प्रदेश उच्च न्यायालय निगरानी करेगा",
-         "text": "क्लोरोक्वीन अभियान के बाद एक बच्ची की मृत्यु का मामला आंध्र प्रदेश उच्च न्यायालय को भेजा गया, जो प्राथमिकता से जाँच की निगरानी करेगा।",
-         "tag": "जन स्वास्थ्य"
-        },
-        "mr": {
-         "headline": "मलेरियाविरोधी मोहिमेतील मृत्यूच्या तपासावर आंध्र प्रदेश उच्च न्यायालय देखरेख ठेवणार",
-         "text": "क्लोरोक्विन मोहिमेनंतर एका मुलीच्या मृत्यूचे प्रकरण आंध्र प्रदेश उच्च न्यायालयाकडे पाठवले; ते प्राधान्याने तपासावर देखरेख ठेवेल.",
-         "tag": "सार्वजनिक आरोग्य"
-        }
-       }
+       "text": "Plea by Permanent Lok Adalat members sent to NALSA as a representation, to be decided in 4 months.",
+       "tag": "Judicial services",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-nalsa-to-consider-plea-for-better-pay-scale-permanent-lok-adalat-members-expanded-jurisdiction-553779",
+       "srcName": "LiveLaw"
       }
      ]
     },
@@ -175,28 +127,40 @@
      "title": "Orders",
      "items": [
       {
-       "caseName": "Rajpal Naurang Yadav v. M/s Murli Projects Pvt. Ltd.",
-       "caseNo": "SLP (Crl) 16923/2026",
+       "caseName": "Prakash Singh v. Union of India",
+       "caseNo": "WP(C) No. 310/1996",
        "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "Rajpal Yadav cheque cases: more deposit ordered",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Jharkhand DGP rule prima facie breaches Prakash Singh",
        "kind": "Pending",
-       "text": "₹1.15 crore deposited; ₹85 lakh more due by 13 Oct. Court warned the sentence could be enhanced.",
-       "tag": "Cheque bounce",
-       "src": "https://www.livelaw.in/top-stories/supreme-court-actor-rajpal-yadav-movie-loss-plea-against-conviction-sentence-in-7-cheque-dishonor-cases-sc-warns-enhancement-of-sentence-553542",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "राजपाल यादव चेक मामले: और राशि जमा करने का आदेश",
-         "text": "₹1.15 करोड़ जमा हो चुके हैं; ₹85 लाख और 13 अक्टूबर तक जमा करने होंगे। न्यायालय ने चेतावनी दी कि सज़ा बढ़ाई जा सकती है।",
-         "tag": "चेक बाउंस"
-        },
-        "mr": {
-         "headline": "राजपाल यादव धनादेश प्रकरणे: आणखी रक्कम जमा करण्याचा आदेश",
-         "text": "₹1.15 कोटी जमा झाले; आणखी ₹85 लाख 13 ऑक्टोबरपर्यंत भरावे लागतील. शिक्षा वाढवली जाऊ शकते, असा इशारा न्यायालयाने दिला.",
-         "tag": "चेक बाउन्स"
-        }
-       }
+       "text": "Notice to DGP Tadasha Mishra; amicus to examine other States' DGP laws. Listed after a week.",
+       "tag": "Police reform",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-jharkhand-dgp-appointment-union-files-application-amicus-to-examine-dgp-appointments-and-laws-of-other-states-prakash-singh-judgment-553714",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "P.C. Hary v. Guruvayoor Devaswom Managing Committee",
+       "caseNo": "C.A. No. 15381/2025",
+       "coram": "Aravind Kumar, Vipul M. Pancholi, JJ.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Guruvayur Ekadasi pooja to be held as last year",
+       "kind": "Pending",
+       "text": "Udayasthamana Pooja to be held on Ekadasi (21 Nov) as per past practice; appeal hearing expedited.",
+       "tag": "Religious endowments",
+       "src": "https://www.livelaw.in/top-stories/guruvayur-temple-hold-udayasthamana-pooja-on-ekadashi-as-last-year-supreme-court-directs-devaswom-board-553789",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "In re: Lack of Adequate and Systematic Treatment for SMA Patients",
+       "caseNo": "SMW(C) No. 20/2026",
+       "coram": "Surya Kant, CJI; Joymalya Bagchi, V. Mohana, JJ.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Centre asked to propose a corpus for SMA patients",
+       "kind": "Pending",
+       "text": "Union and amicus to suggest a permanent fund, from CSR and grants, to help Spinal Muscular Atrophy patients.",
+       "tag": "Right to health",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-mulls-dedicated-corpus-for-financial-assistance-to-spinal-muscular-atrophy-patients-csr-government-contributions-553680",
+       "srcName": "LiveLaw"
       }
      ]
     }
@@ -268,108 +232,14 @@
      "items": [
       {
        "caseName": "Case title not yet reported",
-       "citation": "2026 LiveLaw (AB) 809",
        "coram": "Atul Sreedharan, Achal Sachdev, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Noida man's illegal detention: release ordered",
-       "kind": "Held",
-       "text": "Habeas plea allowed: he was held before any FIR or S.130 BNSS notice. Release ordered.",
-       "tag": "Personal liberty",
-       "src": "https://www.livelaw.in/top-stories/allahabad-hc-police-condition-uttar-pradesh-mess-noida-illegal-detention-553544",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "नोएडा के व्यक्ति की अवैध हिरासत: रिहाई का आदेश",
-         "text": "बंदी प्रत्यक्षीकरण याचिका स्वीकार: उसे किसी एफ़आईआर या BNSS की धारा 130 के नोटिस से पहले ही पकड़ा गया था। रिहाई का आदेश दिया गया।",
-         "tag": "व्यक्तिगत स्वतंत्रता"
-        },
-        "mr": {
-         "headline": "नोएडातील व्यक्तीची बेकायदा स्थानबद्धता: सुटकेचा आदेश",
-         "text": "बंदी प्रत्यक्षीकरण याचिका मंजूर: कोणताही एफआयआर किंवा BNSS कलम 130 ची नोटीस नसताना त्याला ताब्यात घेतले होते. सुटकेचा आदेश दिला.",
-         "tag": "वैयक्तिक स्वातंत्र्य"
-        }
-       }
-      }
-     ]
-    },
-    {
-     "court": "Andhra Pradesh",
-     "items": [
-      {
-       "caseName": "United India Insurance Co. Ltd. v. C. Nagamani & Ors.",
-       "caseNo": "MACMA No. 804 of 2018",
-       "coram": "Tuhin Kumar Gedela, J.",
-       "date": "Reported 8 Oct 2026",
-       "headline": "Accident award can exceed the amount claimed",
-       "kind": "Held",
-       "text": "Tribunals must award what evidence supports; compensation raised to ₹29.89 lakh.",
-       "tag": "Motor accidents",
-       "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-enhances-compensation-tribunal-cannot-restrict-award-claim-amount-553610",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "दुर्घटना मुआवज़ा दावे की राशि से अधिक हो सकता है",
-         "text": "अधिकरणों को उतना मुआवज़ा देना चाहिए जितना साक्ष्य से सिद्ध हो; मुआवज़ा बढ़ाकर ₹29.89 लाख किया गया।",
-         "tag": "मोटर दुर्घटना"
-        },
-        "mr": {
-         "headline": "अपघात भरपाई दाव्याच्या रकमेपेक्षा जास्त असू शकते",
-         "text": "पुराव्याने सिद्ध होईल तेवढी भरपाई न्यायाधिकरणांनी द्यावी; भरपाई वाढवून ₹29.89 लाख केली.",
-         "tag": "मोटार अपघात"
-        }
-       }
-      }
-     ]
-    },
-    {
-     "court": "Bombay",
-     "items": [
-      {
-       "caseName": "Amit Supekar & Anr. v. State of Maharashtra & Ors.",
-       "coram": "Mahesh Chandra Tripathi, CJ; Advait Sethna, J.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "MPSC protest: State told to report on vacancies",
-       "kind": "Notice",
-       "text": "Notice to State; report on MPSC inquiry and vacancies due in 3 weeks. Protesting students aren't anti-social.",
-       "tag": "Recruitment",
-       "src": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-asks-state-take-steps-filling-up-vacant-posts-mpsc-553507",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "MPSC आंदोलन: राज्य से रिक्तियों पर रिपोर्ट माँगी",
-         "text": "राज्य को नोटिस; MPSC जाँच और रिक्तियों पर 3 सप्ताह में रिपोर्ट देनी होगी। आंदोलन कर रहे छात्र असामाजिक तत्व नहीं हैं।",
-         "tag": "भर्ती"
-        },
-        "mr": {
-         "headline": "MPSC आंदोलन: राज्याकडून रिक्त पदांचा अहवाल मागवला",
-         "text": "राज्याला नोटीस; MPSC चौकशी व रिक्त पदांचा अहवाल 3 आठवड्यांत द्यावा. आंदोलन करणारे विद्यार्थी समाजविघातक नाहीत.",
-         "tag": "भरती"
-        }
-       }
-      },
-      {
-       "caseName": "Kannamwar Co-op Hsg. Soc. Association v. Union of India",
-       "caseNo": "WP 790 of 2018",
-       "coram": "Girish Kulkarni, Neela Gokhale, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "BMC told to file disease data over Mumbai garbage",
-       "kind": "Pending",
-       "text": "BMC to give hospital data on dengue, malaria and H1N1; Court to monitor hygiene in all wards. Next date 22 Oct.",
-       "tag": "Municipal law",
-       "src": "https://www.livelaw.in/high-court/bombay-high-court/we-dont-see-any-improvement-bombay-high-court-pulls-up-bmc-over-garbage-poor-hygiene-across-mumbai-553603",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "मुंबई में कचरे के मामले में BMC से बीमारियों के आँकड़े माँगे",
-         "text": "BMC डेंगू, मलेरिया और H1N1 के अस्पताल आँकड़े देगी; न्यायालय सभी वार्डों में स्वच्छता की निगरानी करेगा। अगली सुनवाई 22 अक्टूबर।",
-         "tag": "नगरपालिका कानून"
-        },
-        "mr": {
-         "headline": "मुंबईतील कचऱ्याप्रकरणी BMC कडून आजारांची आकडेवारी मागवली",
-         "text": "BMC डेंग्यू, मलेरिया व H1N1 ची रुग्णालयीन आकडेवारी देईल; न्यायालय सर्व प्रभागांतील स्वच्छतेवर देखरेख ठेवेल. पुढील सुनावणी 22 ऑक्टोबर.",
-         "tag": "महानगरपालिका कायदा"
-        }
-       }
+       "date": "Decided 8 Oct 2026",
+       "headline": "Verdict reserved on journalist's NSA detention",
+       "kind": "Reserved",
+       "text": "Judgment reserved on Satyam Verma's habeas plea; bench questioned the word 'Aandolanjeevi' in the grounds.",
+       "tag": "Preventive detention",
+       "src": "https://www.livelaw.in/top-stories/allahabad-hc-aandolanjeevi-satyam-verma-nsa-detention-noida-dm-553757",
+       "srcName": "LiveLaw"
       }
      ]
     },
@@ -377,56 +247,60 @@
      "court": "Delhi",
      "items": [
       {
-       "caseName": "Chahat Raghav v. Union of India & Ors.",
-       "coram": "Nitin Wasudeo Sambre, ACJ; Arun Bhardwaj, J.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Centre to decide body-worn camera plea in 6 months",
+       "caseName": "Dipinder Kaur v. Bar Council of Delhi & Ors.",
+       "coram": "Swarana Kanta Sharma, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Fake caste certificate alone can't remove an advocate",
        "kind": "Held",
-       "text": "PIL for body cameras on police at protests disposed of; Centre to decide it as a representation in 6 months.",
-       "tag": "Policing",
-       "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-centre-police-sop-body-worn-cameras-protest-control-duties-553481",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "बॉडी-वॉर्न कैमरे की माँग पर केंद्र 6 महीने में निर्णय ले",
-         "text": "प्रदर्शनों में पुलिस पर बॉडी कैमरे लगाने की जनहित याचिका का निपटारा; केंद्र इसे अभ्यावेदन मानकर 6 महीने में निर्णय लेगा।",
-         "tag": "पुलिस व्यवस्था"
-        },
-        "mr": {
-         "headline": "बॉडी-वॉर्न कॅमेऱ्यांच्या मागणीवर केंद्राने 6 महिन्यांत निर्णय घ्यावा",
-         "text": "आंदोलनांच्या वेळी पोलिसांना बॉडी कॅमेरे लावण्याची जनहित याचिका निकाली; केंद्र हे निवेदन मानून 6 महिन्यांत निर्णय घेईल.",
-         "tag": "पोलीस व्यवस्था"
-        }
-       }
-      }
-     ]
-    },
-    {
-     "court": "Gauhati",
-     "items": [
+       "text": "Removal needs proof the fraud secured enrolment. BCI order set aside; advocate restored but reprimanded.",
+       "tag": "Advocates Act",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/mere-fabricated-caste-certificate-not-enough-to-remove-advocate-from-state-rolls-delhi-high-court-553770",
+       "srcName": "LiveLaw"
+      },
       {
-       "caseName": "Sarifuddin v. State of Assam & 17 Ors.",
-       "caseNo": "WP(C)/4329/2015",
-       "coram": "Kalyan Rai Surana, Susmita Phukan Khaund, JJ.",
-       "date": "Reported 8 Oct 2026",
-       "headline": "₹5 lakh for death in illegal police custody",
+       "caseName": "Vishal Sharma v. State NCT of Delhi",
+       "caseNo": "BAIL APPLN. 2347/2026",
+       "coram": "Girish Kathpalia, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Bail after 10 months; probe called 'sham paperwork'",
        "kind": "Held",
-       "text": "2012 arrest illegal (no 41A notice or memo); ₹5 lakh in 3 months, recoverable from guilty officers.",
-       "tag": "Custodial death",
-       "src": "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-awards-5-lakh-compensation-death-during-illegal-police-custody-553611",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "अवैध पुलिस हिरासत में मृत्यु पर ₹5 लाख",
-         "text": "2012 की गिरफ्तारी अवैध थी (न 41A नोटिस, न ज्ञापन); 3 महीने में ₹5 लाख, जिसे दोषी अधिकारियों से वसूला जा सकता है।",
-         "tag": "हिरासत में मृत्यु"
-        },
-        "mr": {
-         "headline": "बेकायदा पोलीस कोठडीतील मृत्यूसाठी ₹5 लाख",
-         "text": "2012 ची अटक बेकायदा होती (41A नोटीस किंवा मेमो नाही); 3 महिन्यांत ₹5 लाख, जे दोषी अधिकाऱ्यांकडून वसूल करता येतील.",
-         "tag": "कोठडीतील मृत्यू"
-        }
-       }
+       "text": "Cyber-fraud accused bailed as the probe had stalled and co-accused were never traced.",
+       "tag": "Bail",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-slams-cop-over-sham-paperwork-in-cyber-fraud-probe-grants-bail-to-man-after-10-months-in-jail-553784",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Kangana Ranaut v. Meta Platforms & Ors.",
+       "coram": "Vikas Mahajan, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Summons in Kangana's suit on obscene AI content",
+       "kind": "Notice",
+       "text": "Summons and notice on her injunction plea; counsel to name defendants for takedowns. Listed Feb 2027.",
+       "tag": "Personality rights",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-issues-summons-in-actor-and-bjp-mp-kangana-ranauts-suit-against-obscene-ai-generated-content-553652",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Vijay Sai Deverakonda v. Ashok Kumar/John Doe & Ors.",
+       "coram": "Vikas Mahajan, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Deverakonda's suit on AI fakes: summons issued",
+       "kind": "Notice",
+       "text": "Summons and notice on the actor's suit over AI content and fake endorsements; interim order to follow.",
+       "tag": "Personality rights",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-to-pass-order-on-actor-vijay-deverakondas-plea-against-ai-generated-content-fake-endorsements-553647",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Sahib Singh v. State",
+       "coram": "Sachin Datta, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Parvesh Verma slap row: police report sought",
+       "kind": "Notice",
+       "text": "Notice on AAP worker's plea for protection and a probe into the alleged assault. Listed 17 Nov.",
+       "tag": "Police inaction",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/parvesh-verma-slap-aap-worker-delhi-road-inspection-probe-police-protection-plea-553654",
+       "srcName": "LiveLaw"
       }
      ]
     },
@@ -434,302 +308,43 @@
      "court": "Karnataka",
      "items": [
       {
-       "caseName": "Atul Kumar Sabarwal v. State of Karnataka & Ors.",
-       "caseNo": "WP No. 22820 of 2024",
-       "coram": "V. Srishananda, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "FIR over 'jihadi' Facebook post quashed",
-       "kind": "Held",
-       "text": "Using the word 'jihadi' in a post made out no offence under Sections 295A or 505(2) IPC.",
-       "tag": "Speech offences",
-       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-proceedings-man-social-media-post-553540",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "'जिहादी' फ़ेसबुक पोस्ट पर एफ़आईआर रद्द",
-         "text": "पोस्ट में 'जिहादी' शब्द के उपयोग से IPC की धारा 295A या 505(2) के तहत कोई अपराध नहीं बनता।",
-         "tag": "अभिव्यक्ति संबंधी अपराध"
-        },
-        "mr": {
-         "headline": "'जिहादी' फेसबुक पोस्टवरील एफआयआर रद्द",
-         "text": "पोस्टमध्ये 'जिहादी' शब्द वापरल्याने IPC कलम 295A किंवा 505(2) अंतर्गत कोणताही गुन्हा होत नाही.",
-         "tag": "अभिव्यक्तीसंबंधी गुन्हे"
-        }
-       }
+       "caseName": "Dr. Ravi Basalingappagowda Pati v. State of Karnataka",
+       "caseNo": "CRL.P 102783/2026",
+       "coram": "Venkatesh Naik T, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "No coercive steps against BJP leader in voter-deletion FIR",
+       "kind": "Pending",
+       "text": "Interim protection till 13 Oct in FIR over bids to delete 198 Muslim voters in Belagavi during SIR.",
+       "tag": "Election offences",
+       "src": "https://www.barandbench.com/news/litigation/karnataka-high-court-halts-police-action-against-bjp-leader-accused-of-trying-to-delete-muslim-voters-in-belagavi",
+       "srcName": "Bar & Bench"
       },
       {
-       "caseName": "Winzo US Inc. & Anr. v. Union of India & Ors.",
-       "caseNo": "WP 22761/2026",
-       "coram": "C.M. Poonacha, J.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Order reserved on WinZO plea over ED-attached funds",
-       "kind": "Reserved",
-       "text": "Order reserved on WinZO's plea to shift ED-attached funds to another US bank account; ED opposed.",
-       "tag": "PMLA",
-       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-reserves-order-winzo-plea-relocate-attached-us-bank-funds-553559",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "ED द्वारा कुर्क धन पर WinZO की याचिका पर आदेश सुरक्षित",
-         "text": "ED द्वारा कुर्क धन को अमेरिका के दूसरे बैंक खाते में ले जाने की WinZO की याचिका पर आदेश सुरक्षित; ED ने विरोध किया।",
-         "tag": "PMLA"
-        },
-        "mr": {
-         "headline": "ED ने जप्त केलेल्या निधीवरील WinZO च्या याचिकेवर आदेश राखून ठेवला",
-         "text": "ED ने जप्त केलेला निधी अमेरिकेतील दुसऱ्या बँक खात्यात हलवण्याच्या WinZO च्या याचिकेवर आदेश राखून ठेवला; ED ने विरोध केला.",
-         "tag": "PMLA"
-        }
-       }
-      },
-      {
-       "caseName": "Byju Raveendran v. Pankaj Srivastava",
-       "caseNo": "CCC 184/2025",
-       "coram": "Jayant Banerji, N.V. Bhavani, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Byju Raveendran's contempt plea against IRP withdrawn",
-       "kind": "Held",
-       "text": "Bench found no breach shown; contempt plea against the IRP dismissed as withdrawn.",
-       "tag": "Insolvency",
-       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-dismisses-byju-raveendran-contempt-plea-irp-pankaj-srivastava-withdrawn-553529",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "बायजू रवींद्रन की IRP के विरुद्ध अवमानना याचिका वापस",
-         "text": "पीठ को कोई उल्लंघन नहीं दिखा; IRP के विरुद्ध अवमानना याचिका वापस लेने के आधार पर खारिज।",
-         "tag": "दिवाला"
-        },
-        "mr": {
-         "headline": "बायजू रवींद्रन यांची IRP विरुद्धची अवमान याचिका मागे",
-         "text": "खंडपीठाला कोणतेही उल्लंघन दिसले नाही; IRP विरुद्धची अवमान याचिका मागे घेतल्याने फेटाळली.",
-         "tag": "दिवाळखोरी"
-        }
-       }
-      },
-      {
-       "caseName": "L (Minor) v. State of Karnataka & Ors.",
-       "citation": "2026 LiveLaw (Kar) 404",
-       "caseNo": "RFA No. 703 of 2026",
-       "coram": "Hanchate Sanjeevkumar, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "Minor may change name for astrological reasons",
-       "kind": "Held",
-       "text": "Being known by one's name is a civil right; suit maintainable and records to be changed.",
-       "tag": "Civil rights",
-       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-allows-minor-plea-change-name-per-astrological-beliefs-553568",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "नाबालिग ज्योतिषीय कारणों से नाम बदल सकता है",
-         "text": "अपने नाम से पहचाना जाना एक नागरिक अधिकार है; वाद सुनवाई योग्य है और अभिलेख बदले जाएँगे।",
-         "tag": "नागरिक अधिकार"
-        },
-        "mr": {
-         "headline": "अल्पवयीन मुलगा ज्योतिषीय कारणांसाठी नाव बदलू शकतो",
-         "text": "स्वतःच्या नावाने ओळखले जाणे हा नागरी हक्क आहे; दावा चालवण्यायोग्य असून नोंदी बदलल्या जातील.",
-         "tag": "नागरी हक्क"
-        }
-       }
-      },
-      {
-       "caseName": "Manjunath v. State of Karnataka & Anr.",
-       "caseNo": "WP No. 11821 of 2023",
-       "coram": "V. Srishananda, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "SC/ST Act case against cameraman quashed",
-       "kind": "Held",
-       "text": "No intent shown: filming a vaccination drive that caught a woman by chance is no offence.",
-       "tag": "SC/ST Act",
-       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-proceedings-against-cameraman-553496",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "कैमरामैन के विरुद्ध SC/ST अधिनियम का मामला रद्द",
-         "text": "कोई इरादा नहीं दिखा: टीकाकरण अभियान की वीडियो बनाते समय संयोग से एक महिला का कैमरे में आ जाना अपराध नहीं है।",
-         "tag": "SC/ST अधिनियम"
-        },
-        "mr": {
-         "headline": "कॅमेरामनविरुद्धचे SC/ST अधिनियमाचे प्रकरण रद्द",
-         "text": "हेतू दिसला नाही: लसीकरण मोहिमेचे चित्रीकरण करताना एखादी महिला योगायोगाने कॅमेऱ्यात येणे हा गुन्हा नाही.",
-         "tag": "SC/ST अधिनियम"
-        }
-       }
-      },
-      {
-       "caseName": "A v. M",
-       "caseNo": "WP No. 26598/2026",
-       "coram": "Lalitha Kanneganti, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "Say 'parenting time', not 'visitation'",
-       "kind": "Held",
-       "text": "Family courts told to use 'parenting time'; order giving father 50% custody stayed. Listed 15 Oct.",
-       "tag": "Child custody",
-       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-directs-family-courts-replace-visitation-with-parenting-time-553495",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "'विज़िटेशन' नहीं, 'पेरेंटिंग टाइम' कहें",
-         "text": "कुटुंब न्यायालयों को 'पेरेंटिंग टाइम' शब्द उपयोग करने को कहा; पिता को 50% कस्टडी देने वाले आदेश पर रोक। सुनवाई 15 अक्टूबर को।",
-         "tag": "बच्चे की कस्टडी"
-        },
-        "mr": {
-         "headline": "'व्हिजिटेशन' नव्हे, 'पेरेंटिंग टाइम' म्हणा",
-         "text": "कौटुंबिक न्यायालयांनी 'पेरेंटिंग टाइम' हा शब्द वापरावा; वडिलांना 50% ताबा देणाऱ्या आदेशाला स्थगिती. सुनावणी 15 ऑक्टोबरला.",
-         "tag": "मुलाचा ताबा"
-        }
-       }
+       "caseName": "Laxman Sangappa Savadi v. State of Karnataka",
+       "coram": "Anant Ramanath Hegde, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "2018 assault case against Minister Savadi stayed",
+       "kind": "Pending",
+       "text": "Proceedings stayed; trial court's S.319 CrPC summons after the complainant turned hostile looked unlawful.",
+       "tag": "Criminal procedure",
+       "src": "https://www.barandbench.com/news/litigation/karnataka-high-court-stays-proceedings-against-minister-laxman-savadi-in-2018-assault-case",
+       "srcName": "Bar & Bench"
       }
      ]
     },
     {
-     "court": "Kerala",
+     "court": "Madhya Pradesh",
      "items": [
       {
-       "caseName": "Suo Motu v. State of Kerala",
-       "caseNo": "WP(C) 40608/2025",
-       "coram": "Raja Vijayaraghavan V., K.V. Jayakumar, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Sabarimala gold theft: deadlines set for SIT",
-       "kind": "Held",
-       "text": "SIT to seek sanction and file final reports by 25 Oct (doorframes) and 25 Nov (Dwarapalaka).",
-       "tag": "Criminal investigation",
-       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-sabarimala-gold-theft-553560",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "सबरीमाला सोना चोरी: SIT के लिए समय-सीमा तय",
-         "text": "SIT मंज़ूरी लेकर 25 अक्टूबर (दरवाज़े की चौखट) और 25 नवंबर (द्वारपालक) तक अंतिम रिपोर्ट दाखिल करेगी।",
-         "tag": "आपराधिक जाँच"
-        },
-        "mr": {
-         "headline": "शबरीमला सोने चोरी: SIT साठी कालमर्यादा ठरवली",
-         "text": "SIT मंजुरी घेऊन 25 ऑक्टोबर (दरवाजाची चौकट) व 25 नोव्हेंबर (द्वारपालक) पर्यंत अंतिम अहवाल दाखल करेल.",
-         "tag": "फौजदारी तपास"
-        }
-       }
-      },
-      {
-       "caseName": "Mohammed J.I. & Ors. v. State of Kerala & Anr.",
-       "citation": "2026 LiveLaw (Ker) 559",
-       "caseNo": "Crl.M.C. No. 8147 of 2026",
-       "coram": "C.S. Dias, J.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "No in-camera trial in Abhimanyu murder case",
-       "kind": "Held",
-       "text": "In-camera trial refused, but no photos or video of the accused in court; entry may be limited for eyewitnesses.",
-       "tag": "Criminal trial",
-       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-abhimanyu-in-camera-trial-553498",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "अभिमन्यु हत्या मामले में बंद कमरे में सुनवाई नहीं",
-         "text": "बंद कमरे में सुनवाई से इनकार, पर अदालत में आरोपियों की फ़ोटो या वीडियो नहीं ली जाएगी; प्रत्यक्षदर्शियों के बयान के समय प्रवेश सीमित किया जा सकता है।",
-         "tag": "आपराधिक विचारण"
-        },
-        "mr": {
-         "headline": "अभिमन्यू खून प्रकरणात बंद दाराआड सुनावणी नाही",
-         "text": "बंद दाराआड सुनावणी नाकारली, पण न्यायालयात आरोपींचे फोटो किंवा व्हिडिओ घेता येणार नाहीत; प्रत्यक्षदर्शींच्या साक्षीवेळी प्रवेश मर्यादित करता येईल.",
-         "tag": "फौजदारी खटला"
-        }
-       }
-      },
-      {
-       "caseName": "AIIMS Kasargod Janakeeya Koottayma v. Union of India",
-       "caseNo": "WP(C) 18550/2024",
-       "coram": "Soumen Sen, CJ; Syam Kumar V.M., J.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Centre to review AIIMS proposal for Kerala",
+       "caseName": "Smt. Giribala Singh v. State of Madhya Pradesh",
+       "coram": "Ajay Kumar Nirankari, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Twisha Sharma case: bail plea amendment partly allowed",
        "kind": "Pending",
-       "text": "Better healthcare can't lower Kerala's priority; Centre's assurance to review recorded. Listed after 6 weeks.",
-       "tag": "Public health",
-       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-questions-centre-delay-establishment-aiims-553489",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "केरल के लिए AIIMS प्रस्ताव की केंद्र समीक्षा करेगा",
-         "text": "बेहतर स्वास्थ्य सेवा होने से केरल की प्राथमिकता कम नहीं हो सकती; समीक्षा का केंद्र का आश्वासन दर्ज किया गया। सुनवाई 6 सप्ताह बाद।",
-         "tag": "जन स्वास्थ्य"
-        },
-        "mr": {
-         "headline": "केरळसाठीच्या AIIMS प्रस्तावाचा केंद्र आढावा घेणार",
-         "text": "आरोग्यसेवा चांगली असल्याने केरळचे प्राधान्य कमी होऊ शकत नाही; आढावा घेण्याचे केंद्राचे आश्वासन नोंदवले. सुनावणी 6 आठवड्यांनंतर.",
-         "tag": "सार्वजनिक आरोग्य"
-        }
-       }
-      },
-      {
-       "caseName": "Sindhu S. Nair v. State of Kerala & Anr.",
-       "citation": "2026 LiveLaw (Ker) 560",
-       "caseNo": "WP(C) No. 6142 of 2026",
-       "coram": "P.V. Kunhikrishnan, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "Headmistress in churidar must be let into school",
-       "kind": "Held",
-       "text": "Choice of dress is personal; police to ensure she can enter the school.",
-       "tag": "Fundamental rights",
-       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-dress-choice-fundamental-right-553512",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "चूड़ीदार पहनने वाली प्रधानाध्यापिका को स्कूल में आने दिया जाए",
-         "text": "पोशाक चुनना व्यक्तिगत अधिकार है; पुलिस सुनिश्चित करेगी कि वह स्कूल में प्रवेश कर सकें।",
-         "tag": "मौलिक अधिकार"
-        },
-        "mr": {
-         "headline": "चुडीदार परिधान करणाऱ्या मुख्याध्यापिकेला शाळेत येऊ द्यावे",
-         "text": "पोशाखाची निवड हा वैयक्तिक प्रश्न आहे; त्या शाळेत प्रवेश करू शकतील याची पोलिसांनी खात्री करावी.",
-         "tag": "मूलभूत हक्क"
-        }
-       }
-      },
-      {
-       "caseName": "Anilkumar v. Anitha Kumari & Ors.",
-       "citation": "2026 LiveLaw (Ker) 558",
-       "caseNo": "Crl.Rev.Pet. No. 830/2026",
-       "coram": "Jobin Sebastian, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "Delay condonation can't require a deposit",
-       "kind": "Held",
-       "text": "A deposit of the award fits only a stay of execution, not delay condonation. Matter remanded.",
-       "tag": "Limitation",
-       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-condition-award-amount-delay-condonation-553548",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "विलंब माफ़ी के लिए राशि जमा करने की शर्त नहीं लगाई जा सकती",
-         "text": "अवार्ड की राशि जमा करने की शर्त केवल निष्पादन पर रोक के लिए उचित है, विलंब माफ़ी के लिए नहीं। मामला वापस भेजा गया।",
-         "tag": "परिसीमा"
-        },
-        "mr": {
-         "headline": "विलंब माफीसाठी रक्कम जमा करण्याची अट घालता येणार नाही",
-         "text": "निवाड्याची रक्कम जमा करण्याची अट केवळ अंमलबजावणीच्या स्थगितीसाठी योग्य आहे, विलंब माफीसाठी नाही. प्रकरण परत पाठवले.",
-         "tag": "मुदतीचा कायदा"
-        }
-       }
-      },
-      {
-       "caseName": "X & Anr. v. State of Kerala & Ors.",
-       "citation": "2026 LiveLaw (Ker) 557",
-       "caseNo": "Crl.M.C. Nos. 6904/2025 & 1647/2024",
-       "coram": "G. Girish, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "498A case against in-laws goes to trial",
-       "kind": "Held",
-       "text": "Dowry cruelty case against parents-in-law to proceed; case against husband's brother quashed as vague.",
-       "tag": "Matrimonial cruelty",
-       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cruelty-498a-cancer-servant-553464",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "ससुराल वालों के विरुद्ध 498A मामले में मुकदमा चलेगा",
-         "text": "सास-ससुर के विरुद्ध दहेज क्रूरता का मामला चलेगा; पति के भाई के विरुद्ध मामला अस्पष्ट होने के कारण रद्द।",
-         "tag": "वैवाहिक क्रूरता"
-        },
-        "mr": {
-         "headline": "सासरच्यांविरुद्धचा 498A खटला चालणार",
-         "text": "सासू-सासऱ्यांविरुद्धचा हुंडा क्रूरतेचा खटला चालेल; पतीच्या भावाविरुद्धचे प्रकरण अस्पष्ट असल्याने रद्द.",
-         "tag": "वैवाहिक क्रूरता"
-        }
-       }
+       "text": "Amendment allowed only for the new S.108 BNS charge; CBI says dowry-death probe continues. Listed 14 Oct.",
+       "tag": "Bail",
+       "src": "https://lawbeat.in/news-updates/twisha-sharma-death-case-cbi-says-dowry-death-probe-still-on-mp-hc-partly-allows-bail-plea-amendment-for-s108-bns-1639684",
+       "srcName": "LawBeat"
       }
      ]
     },
@@ -737,107 +352,16 @@
      "court": "Madras",
      "items": [
       {
-       "caseName": "Kanzeon Public Charitable Trust v. Union of India",
-       "citation": "2026 LiveLaw (Mad) 485",
-       "caseNo": "CMA(MD) No. 1057 of 2026",
-       "coram": "G.R. Swaminathan, M.D. Sumathi, JJ.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "FCRA registration denied to Zen meditation trust",
-       "kind": "Held",
-       "text": "Trust should have declared it is religious; foreign funding is a privilege, not a right.",
-       "tag": "FCRA",
-       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-meditation-centre-buddhism-religious-institution-declare-fcra-553501",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "ज़ेन ध्यान ट्रस्ट को FCRA पंजीकरण नहीं",
-         "text": "ट्रस्ट को बताना चाहिए था कि वह धार्मिक है; विदेशी अंशदान एक विशेषाधिकार है, अधिकार नहीं।",
-         "tag": "FCRA"
-        },
-        "mr": {
-         "headline": "झेन ध्यान ट्रस्टला FCRA नोंदणी नाकारली",
-         "text": "ट्रस्टने आपण धार्मिक असल्याचे जाहीर करायला हवे होते; परदेशी देणगी हा विशेषाधिकार आहे, हक्क नाही.",
-         "tag": "FCRA"
-        }
-       }
-      },
-      {
-       "caseName": "Ala Alagappan v. Additional Director, Directorate of Enforcement",
-       "coram": "N. Ramesh, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "PMLA bail; ED told to chase big scams",
-       "kind": "Held",
-       "text": "Bail granted as ED didn't link the property to a scheduled offence; ED urged to focus on national-level scams.",
-       "tag": "PMLA",
-       "src": "https://www.barandbench.com/news/litigation/focus-on-scams-of-national-level-not-private-property-disputes-madras-high-court-to-ed",
-       "srcName": "Bar & Bench",
-       "i18n": {
-        "hi": {
-         "headline": "PMLA में ज़मानत; ED बड़े घोटालों पर ध्यान दे",
-         "text": "ज़मानत दी गई क्योंकि ED संपत्ति को किसी अनुसूचित अपराध से नहीं जोड़ पाई; ED से राष्ट्रीय स्तर के घोटालों पर ध्यान देने का आग्रह।",
-         "tag": "PMLA"
-        },
-        "mr": {
-         "headline": "PMLA मध्ये जामीन; ED ने मोठ्या घोटाळ्यांकडे लक्ष द्यावे",
-         "text": "ED मालमत्तेचा अनुसूचित गुन्ह्याशी संबंध दाखवू शकली नाही म्हणून जामीन मंजूर; राष्ट्रीय पातळीवरील घोटाळ्यांकडे लक्ष देण्याचे ED ला आवाहन.",
-         "tag": "PMLA"
-        }
-       }
-      },
-      {
-       "caseName": "Sujan v. State",
-       "citation": "2026 LiveLaw (Mad) 487",
-       "caseNo": "Crl.A. No. 1036 of 2026",
-       "coram": "M. Nirmal Kumar, J.",
-       "date": "Reported 7 Oct 2026",
-       "headline": "Default sentence cut for poor Bangladeshi migrants",
-       "kind": "Held",
-       "text": "Conviction upheld; default term cut from a month to a week as they can't pay the fine. Deport in 30 days.",
-       "tag": "Foreigners Act",
-       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-bangladeshi-nationals-default-sentence-reduced-unable-to-pay-fine-553575",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "गरीब बांग्लादेशी प्रवासियों की जुर्माना न भरने पर सज़ा घटी",
-         "text": "दोषसिद्धि बरकरार; जुर्माना न भर पाने के कारण बदले की सज़ा एक महीने से घटाकर एक सप्ताह की गई। 30 दिन में निर्वासन।",
-         "tag": "विदेशी विषयक अधिनियम"
-        },
-        "mr": {
-         "headline": "गरीब बांगलादेशी स्थलांतरितांची दंड न भरल्याबद्दलची शिक्षा कमी",
-         "text": "दोषसिद्धी कायम; दंड भरू शकत नसल्याने पर्यायी शिक्षा एका महिन्यावरून एका आठवड्यावर आणली. 30 दिवसांत हद्दपारी.",
-         "tag": "परकीय नागरिक अधिनियम"
-        }
-       }
-      }
-     ]
-    },
-    {
-     "court": "Punjab & Haryana",
-     "items": [
-      {
-       "caseName": "State of Haryana v. Hem Raj",
-       "citation": "2026 LiveLaw (PH) 261",
-       "caseNo": "MRC-2-2022 & CRA-D-250-2022",
-       "coram": "Anoop Chitkara, Harmeet Singh Deol, JJ.",
-       "date": "Decided 7 Oct 2026",
-       "headline": "Death row convict acquitted in 2018 child murder",
-       "kind": "Held",
-       "text": "Death sentence set aside; police ignored a Childline record naming another person.",
-       "tag": "Criminal law",
-       "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-sets-aside-death-sentence-acquits-man-in-2018-hisar-child-murder-case-553530",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "2018 के बाल हत्या मामले में मृत्युदंड पाए दोषी को बरी किया",
-         "text": "मृत्युदंड रद्द; पुलिस ने चाइल्डलाइन के उस रिकॉर्ड को नज़रअंदाज़ किया जिसमें किसी दूसरे व्यक्ति का नाम था।",
-         "tag": "आपराधिक कानून"
-        },
-        "mr": {
-         "headline": "2018 च्या बालहत्या प्रकरणात फाशीची शिक्षा झालेला दोषी निर्दोष मुक्त",
-         "text": "फाशीची शिक्षा रद्द; दुसऱ्या व्यक्तीचे नाव असलेल्या चाइल्डलाइनच्या नोंदीकडे पोलिसांनी दुर्लक्ष केले.",
-         "tag": "फौजदारी कायदा"
-        }
-       }
+       "caseName": "C. Joseph Vijay v. S. Dinesh",
+       "caseNo": "OA 909 of 2026 in ELP 50 of 2026",
+       "coram": "V. Lakshminarayanan, J.",
+       "date": "Decided 8 Oct 2026",
+       "headline": "Orders reserved on CM Vijay's bid to end poll petition",
+       "kind": "Reserved",
+       "text": "Court asked if hiding assets can be 'undue influence' before reserving orders on the CM's rejection plea.",
+       "tag": "Election law",
+       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-cm-vijay-reject-election-petition-voter-orders-reserved-553718",
+       "srcName": "LiveLaw"
       }
      ]
     }
@@ -852,47 +376,19 @@
    "pages": [
     {
      "title": "Reported rulings",
-     "items": [
-      {
-       "court": "Sessions Court, Bengaluru, Karnataka",
-       "caseName": "Priyank M. Kharge v. Tejas A. & Anr.",
-       "caseNo": "Crl. RP 572/2026",
-       "coram": "K.B. Shivaprasad, Sessions Judge",
-       "date": "Decided 7 Oct 2026",
-       "headline": "RSS defamation case against Priyank Kharge stayed",
-       "kind": "Pending",
-       "text": "Proceedings stayed as the Magistrate didn't test if the complainant was 'aggrieved'; notice issued, records called.",
-       "tag": "Criminal defamation",
-       "src": "https://www.livelaw.in/news-updates/bengaluru-court-stays-rss-defamation-proceedings-against-minister-priyank-kharge-553535",
-       "srcName": "LiveLaw",
-       "i18n": {
-        "hi": {
-         "headline": "प्रियांक खड़गे के विरुद्ध RSS मानहानि मामले पर रोक",
-         "text": "कार्यवाही पर रोक, क्योंकि मजिस्ट्रेट ने यह नहीं जाँचा कि शिकायतकर्ता 'व्यथित' व्यक्ति है या नहीं; नोटिस जारी, अभिलेख मँगाए गए।",
-         "tag": "आपराधिक मानहानि",
-         "court": "सत्र न्यायालय, बेंगलुरु, कर्नाटक"
-        },
-        "mr": {
-         "headline": "प्रियांक खरगे यांच्याविरुद्धच्या RSS बदनामी प्रकरणाला स्थगिती",
-         "text": "तक्रारदार 'पीडित' व्यक्ती आहे का, हे दंडाधिकाऱ्यांनी तपासले नाही म्हणून कार्यवाहीला स्थगिती; नोटीस जारी, नोंदी मागवल्या.",
-         "tag": "फौजदारी बदनामी",
-         "court": "सत्र न्यायालय, बंगळुरू, कर्नाटक"
-        }
-       }
-      }
-     ]
+     "note": "No district, sessions or family court judgments or orders from this window were reported by legal publications."
     }
    ]
   }
  ],
  "sources": [
   {
-   "title": "LiveLaw: Supreme Court Daily Round-Up, 7 October 2026",
-   "url": "https://www.livelaw.in/round-ups/supreme-court-daily-round-up-october-7-2026-553599"
+   "title": "LiveLaw: Supreme Court Daily Round-Up, 8 October 2026",
+   "url": "https://www.livelaw.in/round-ups/supreme-court-daily-round-up-october-8-2026-553785"
   },
   {
-   "title": "LiveLaw: High Courts Daily Highlights, 7 October 2026",
-   "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-october-07-2026-553604"
+   "title": "Indian Kanoon: Supreme Court judgments of 8 October 2026",
+   "url": "https://indiankanoon.org/doc/21698478/"
   },
   {
    "title": "LiveLaw: High Courts",
@@ -901,6 +397,10 @@
   {
    "title": "Bar & Bench: Litigation",
    "url": "https://www.barandbench.com/news/litigation"
+  },
+  {
+   "title": "LawBeat: News updates",
+   "url": "https://lawbeat.in/news-updates"
   },
   {
    "title": "Verdictum: High Courts",

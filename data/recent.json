@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:29+05:30",
+ "updated": "2026-10-09T11:39+05:30",
  "news": [
   {
    "edition": "2026-10-09-am",
@@ -228,6 +228,76 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Debashis Nanda v. Gokul Anil Kumar & SCC",
+   "src": "https://www.livelawbiz.com/ibc/going-concern-sale-commences-with-liquidation-order-not-auction-notice-nclat-553750"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Manju Sirohi v. Assets Care & Reconstruction Enterprise Ltd & Anup Kumar",
+   "src": "https://www.livelawbiz.com/ibc/bankrupt-personal-guarantor-cannot-withdraw-funds-after-property-vests-in-bankruptcy-trustee-nclat-553734"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Sonal Sumit Mehta v. Chirag R Shah",
+   "src": "https://www.taxscan.in/corporate-laws/nclat-upholds-extension-of-resolution-plan-timeline-delay-in-property-handover-cannot-burden-successful-resolution-applicant-read-order"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Darshan Singh Anand v. Bimla Devi Jindal & Ors",
+   "src": "https://www.livelawbiz.com/ibc/mere-directorship-cannot-attract-liability-of-fraudulent-trading-without-evidence-of-participation-nclt-chandigarh-553729"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Asier Metal Private Limited v. Polycab India Limited",
+   "src": "https://www.livelawbiz.com/ibc/nclt-ahmedabad-admits-asier-metals-insolvency-plea-against-polycab-india-over-default-of-rs278-crore-553725"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Sujatha Venkateswaran v. Registrar of Companies, Chennai",
+   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-chennai-allows-winding-up-of-struck-off-company-to-realise-assets-settle-liabilities-553646"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Omkara Assets Reconstruction Pvt. Ltd. v. ESPO Developers Pvt. Ltd.",
+   "src": "https://www.taxscan.in/corporate-laws/nclt-admits-16403-cr-cirp-plea-rejects-claim-of-debt-discharge-and-pending-arbitration"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "State Bank of India v. Bhakti Extractions Private Limited",
+   "src": "https://www.taxscan.in/corporate-laws/nclt-admits-6627-cr-sbi-insolvency-plea-upholds-msme-revival-framework-inapplicable-beyond-25-cr-loan-limit-read-order"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Insta Capital Pvt Ltd & Richbond Capital Pvt Ltd v. Shubh Food Industries Ltd",
+   "src": "https://www.taxscan.in/corporate-laws/joint-financial-creditors-can-aggregate-dues-to-meet-1-crore-ibc-threshold-nclt-read-order"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Case title not yet reported",
+   "src": "https://www.taxscan.in/corporate-laws/running-accounts-with-post-supply-trade-discounts-become-due-only-at-financial-year-end-nclt-admits-cirp-over-192-crore-default-read-order"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "M/s North East Carriers Private Limited v. Commissioner of CGST & CX, Guwahati",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/gta-service-tax-cannot-be-demanded-from-transporter-if-recipient-paid-under-rcm-cestat-kolkata-553759"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "M/s Agribiotech Industries Ltd. v. Commissioner, CGST & Central Excise, Alwar",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/contract-manufacture-of-alcoholic-liquor-for-another-entity-attracts-service-tax-553747"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Shri R. Dewakar v. Commissioner of Customs (Seaport, Imports)",
+   "src": "https://www.livelawbiz.com/customs/cestat/suzuki-hayabusa-imported-in-parts-through-different-ports-can-be-treated-as-complete-motorcycle-for-customs-duty-cestat-chennai-553716"
+  },
+  {
+   "edition": "9 Oct 2026",
+   "caseName": "Case title not yet reported",
+   "src": "https://www.taxscan.in/excise-customs/purchase-invoices-bank-statements-itrs-sufficient-to-prove-source-of-seized-gold-cestat-orders-release-read-order"
+  },
   {
    "edition": "8 Oct 2026",
    "caseName": "Monitoring Committee of Earth Towne Project Earth Infrastructures Limited v. Earth Towne Infrastructure Private Limited & Ors.",
@@ -517,61 +587,11 @@
    "edition": "30 Sep 2026",
    "caseName": "DCIT, Central Circle-6 v. Sahara Airlines Ltd. (now known as Jet Lite (India) Ltd.) and connected appeals",
    "src": "https://www.livelawbiz.com/income-tax/itat-delhi-dismisses-appeals-against-sahara-airlines-after-claims-extinguished-in-cirp-552331"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "Nikhil Rai & Ors v. VCare Technologies Private Limited & Ors",
-   "src": "https://www.livelawbiz.com/company-law/commercial-necessity-of-restructuring-cannot-dispense-with-nclts-adjudication-of-oppression-claims-nclat-552104"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "Mrs V Lakshmi",
-   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-chennai-cirp-threshold-corporate-debtor-not-applicable-to-personal-guarantor-552121"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "Equentia Financial Service Pvt. Ltd. v. Saloni Ayush Aggarwal",
-   "src": "https://www.livelawbiz.com/nclt/ibc-amendment-excluding-personal-guarantors-from-section-96-moratorium-applies-to-pending-proceedings-nclt-new-delhi-552093"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "Mukesh Goyal v. CA Santanu Brahma & Ors.",
-   "src": "https://www.livelawbiz.com/nclt/appellate-challenge-affecting-resolution-plan-implementation-automatically-extends-implementation-timeline-nclt-kolkata-552113"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "Think & Learn Pvt Ltd v. Aakash Educational Services Ltd and Others",
-   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-bengaluru-seeks-compliance-before-passing-orders-think-and-learn-akash-rights-issue-settlement-552053"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "DGAP, DG Anti Profiteering, Director General of Anti-Profiteering v. Bengal Emami Housing Ltd.",
-   "src": "https://www.livelawbiz.com/gstat/gstat-directs-bengal-emami-housing-to-refund-7058-lakh-to-hig-homebuyers-with-18-interest-552134"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "Amit Tyagi v. Tata Play Limited, Managing Director & CEO",
-   "src": "https://www.livelawbiz.com/gstat/different-vehicle-number-e-way-bill-deliberate-violation-gstat-agra-split-verdict-vp-552091"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "R R Infrastructure Projects v. Shashi Bhushan Singh, Additional Commissioner, Grade II Appeal & Ors.",
-   "src": "https://www.livelawbiz.com/gstat/gstr-3b-gstr-2a-mismatch-alone-not-enough-to-deny-itc-gstat-lucknow-552089"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "DGAP, DG Anti Profiteering, Director General of Anti-Profiteering v. Devi 70MM",
-   "src": "https://www.livelawbiz.com/gstat/gstat-directs-deposit-for-cinema-theatre-ticket-gst-profiteering-552072"
-  },
-  {
-   "edition": "29 Sep 2026",
-   "caseName": "Sarda Energy and Minerals Ltd. v. Commissioner (Appeal), CGST, Central Excise and Customs",
-   "src": "https://www.livelawbiz.com/custom-excise-service-tax/indian-exporter-not-liable-for-service-tax-on-foreign-bank-charges-where-indian-bank-is-service-recipient-cestat-delhi-552126"
   }
  ],
  "latest": {
-  "digest": "8 Oct 2026",
-  "tribunals": "8 Oct 2026",
+  "digest": "9 Oct 2026",
+  "tribunals": "9 Oct 2026",
   "news": "2026-10-09-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"

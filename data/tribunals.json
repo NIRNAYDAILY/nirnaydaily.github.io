@@ -1,251 +1,213 @@
 {
  "edition": {
-  "dateLong": "Thursday, 8 October 2026",
-  "dateShort": "8 Oct 2026",
-  "window": "Orders and decisions passed or reported between 10:00 AM IST on 7 October 2026 and 11:00 AM IST on 8 October 2026"
+  "dateLong": "Friday, 9 October 2026",
+  "dateShort": "9 Oct 2026",
+  "window": "Orders and decisions passed or reported between 10:00 AM IST on 8 October 2026 and 11:00 AM IST on 9 October 2026"
  },
  "items": [
   {
    "tribunal": "NCLAT",
    "bench": "NCLAT, New Delhi",
-   "caseName": "Monitoring Committee of Earth Towne Project Earth Infrastructures Limited v. Earth Towne Infrastructure Private Limited & Ors.",
-   "citation": "2026 LLBiz NCLAT 390",
-   "caseNo": "Company Appeal (AT) (Insolvency) 1344/2026",
-   "coram": "Justice Mohammad Faiz Alam Khan (Judicial Member); Naresh Salecha (Technical Member)",
-   "date": "Reported 7 Oct 2026",
-   "headline": "No separate CIRP for Earth Towne once SC restored group plan",
+   "caseName": "Debashis Nanda v. Gokul Anil Kumar & SCC",
+   "citation": "2026 LLBiz NCLAT 392",
+   "caseNo": "Company Appeal (AT) (Insolvency) 1297/2026",
+   "coram": "Justice Mohammad Faiz Alam Khan (Judicial Member) and Naresh Salecha (Technical Member)",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Going-concern sale starts with liquidation order, not auction notice",
    "kind": "Held",
-   "text": "The NCLAT set aside the admission of a separate insolvency process against Earth Towne Infrastructure, holding that homebuyers' claims are covered by the Earth Infrastructures resolution plan restored by the Supreme Court and must be enforced through it. A single real estate project should be resolved together, not split into parallel processes. Parties are to appear before the NCLT on 15 October 2026.",
-   "tag": "Insolvency (IBC)",
-   "src": "https://www.livelawbiz.com/ibc/nclat-sets-aside-separate-cirp-against-earth-towne-after-supreme-court-restored-eils-resolution-plan-553579",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "सर्वोच्च न्यायालय द्वारा समूह योजना बहाल होने के बाद Earth Towne के लिए अलग CIRP नहीं",
-     "text": "NCLAT ने Earth Towne Infrastructure के विरुद्ध अलग दिवाला प्रक्रिया स्वीकार करने का आदेश रद्द किया, यह कहते हुए कि घर खरीदारों के दावे सर्वोच्च न्यायालय द्वारा बहाल Earth Infrastructures समाधान योजना में शामिल हैं और उसी के माध्यम से लागू होंगे। एक रियल एस्टेट परियोजना का समाधान एक साथ होना चाहिए, समानांतर प्रक्रियाओं में बाँटकर नहीं। पक्षकार 15 अक्टूबर 2026 को NCLT के सामने उपस्थित होंगे।",
-     "tag": "दिवाला (IBC)"
-    },
-    "mr": {
-     "headline": "सर्वोच्च न्यायालयाने समूह योजना पुनर्स्थापित केल्यानंतर Earth Towne साठी स्वतंत्र CIRP नाही",
-     "text": "NCLAT ने Earth Towne Infrastructure विरुद्ध स्वतंत्र दिवाळखोरी प्रक्रिया दाखल करून घेण्याचा आदेश रद्दबातल केला; घर खरेदीदारांचे दावे सर्वोच्च न्यायालयाने पुनर्स्थापित केलेल्या Earth Infrastructures निराकरण योजनेत समाविष्ट असून त्याद्वारेच अंमलात आणावे लागतील. एका स्थावर मालमत्ता प्रकल्पाचे निराकरण समांतर प्रक्रियांमध्ये विभागून नव्हे, तर एकत्रितपणे व्हावे. पक्षकारांनी 15 ऑक्टोबर 2026 रोजी NCLT समोर हजर राहावे.",
-     "tag": "दिवाळखोरी (IBC)"
-    }
-   }
+   "text": "The liquidator of Chamber Constructions was barred by an NCLAT restraint from issuing an auction notice. After the 2025 amendment removed going-concern sales, the NCLT refused to extend his time. The NCLAT held that when the liquidation order directs a going-concern sale, the sale process starts with that order, so the auction notice is only a later step. It set aside the NCLT order and said the liquidator could not be blamed for obeying the restraint.",
+   "tag": "Insolvency",
+   "src": "https://www.livelawbiz.com/ibc/going-concern-sale-commences-with-liquidation-order-not-auction-notice-nclat-553750",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "NCLAT",
+   "bench": "NCLAT, New Delhi",
+   "caseName": "Manju Sirohi v. Assets Care & Reconstruction Enterprise Ltd & Anup Kumar",
+   "citation": "2026 LLBiz NCLAT 393",
+   "caseNo": "Company Appeal (AT) (Insolvency) 1172/2026 & 1173/2026",
+   "coram": "Justice Mohd Faiz Alam Khan (Judicial Member) and Naresh Salecha (Technical Member)",
+   "date": "Decided 7 Oct 2026",
+   "headline": "Bankrupt guarantor must repay funds withdrawn after estate vested",
+   "kind": "Held",
+   "text": "A personal guarantor of Saha Infratech was declared bankrupt and then withdrew about Rs 19 lakh from her bank account. The NCLAT upheld the order directing her to repay it. It held that the estate vests in the bankruptcy trustee from the commencement date, so her later withdrawals dealt with property that was no longer hers. It also held that the jewellery sale proceeds were not excluded assets.",
+   "tag": "Insolvency",
+   "src": "https://www.livelawbiz.com/ibc/bankrupt-personal-guarantor-cannot-withdraw-funds-after-property-vests-in-bankruptcy-trustee-nclat-553734",
+   "srcName": "LiveLaw Biz"
   },
   {
    "tribunal": "NCLAT",
    "bench": "NCLAT",
-   "caseName": "Tata Capital Limited v. Mr. Sanjay Mahajan",
-   "citation": "2026 LLBiz NCLAT 391",
-   "caseNo": "Company Appeal (AT) (Insolvency) 1067/2026",
-   "coram": "Justice Sharad Kumar Sharma (Judicial Member); Arun Baroka, Indevar Pandey (Technical Members)",
-   "date": "Reported 7 Oct 2026",
-   "headline": "Secured creditor must choose early: realise security or join liquidation",
+   "caseName": "Sonal Sumit Mehta v. Chirag R Shah",
+   "citation": "2026 TAXSCAN (NCLAT) 241",
+   "caseNo": "IA No. 5856/2026",
+   "coram": "Justice Yogesh Khanna (Officiating Chairperson); Barun Mitra and Ajai Das Mehrotra (Technical Members)",
+   "date": "Reported 9 Oct 2026",
+   "headline": "Extending a resolution plan's timeline is not a modification of the plan",
    "kind": "Held",
-   "text": "A secured creditor that filed its claim without electing to keep its security, and kept taking part in the liquidation, cannot later pull its assets out of the liquidation estate. The NCLAT found Tata Capital had not made a timely election under the liquidation regulations and upheld the NCLT Mumbai order.",
-   "tag": "Insolvency (IBC)",
-   "src": "https://www.livelawbiz.com/ibc/secured-creditor-cannot-participate-in-liquidation-while-keeping-option-to-withdraw-assets-later-nclat-553557",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "सुरक्षित लेनदार को जल्दी तय करना होगा: प्रतिभूति वसूले या परिसमापन में शामिल हो",
-     "text": "जिस सुरक्षित लेनदार ने अपनी प्रतिभूति रखने का विकल्प चुने बिना दावा दायर किया और परिसमापन में भाग लेता रहा, वह बाद में अपनी संपत्ति परिसमापन संपदा से बाहर नहीं निकाल सकता। NCLAT ने पाया कि Tata Capital ने परिसमापन विनियमों के तहत समय पर विकल्प नहीं चुना था, और NCLT मुंबई का आदेश बरकरार रखा।",
-     "tag": "दिवाला (IBC)"
-    },
-    "mr": {
-     "headline": "सुरक्षित धनकोने लवकर निवड करावी: तारण वसूल करायचे की अवसायनात सहभागी व्हायचे",
-     "text": "आपले तारण राखून ठेवण्याची निवड न करता दावा दाखल करून अवसायनात सहभागी होत राहिलेला सुरक्षित धनको नंतर आपली मालमत्ता अवसायन संपदेतून बाहेर काढू शकत नाही. Tata Capital ने अवसायन विनियमांनुसार वेळेत निवड केली नव्हती, असे NCLAT ला आढळले आणि NCLT मुंबईचा आदेश कायम ठेवला.",
-     "tag": "दिवाळखोरी (IBC)"
-    }
-   }
-  },
-  {
-   "tribunal": "NCLT",
-   "bench": "NCLT, Mumbai",
-   "caseName": "Shree Radhey Trading Company v. National Spot Exchange Limited",
-   "citation": "2026 LLBiz NCLT (MUM) 993",
-   "caseNo": "IA (Companies Act) No. 160 of 2026 in CP (CAA)/104 (MB) of 2025",
-   "coram": "Sushil Mahadeorao Kochey (Judicial Member); Prabhat Kumar (Technical Member)",
-   "date": "Reported 7 Oct 2026",
-   "headline": "NSEL scheme cannot be modified to let a decree-holder settle at scheme rate",
-   "kind": "Held",
-   "text": "The tribunal refused a trading firm's request to settle its roughly ₹32.77 crore NSEL decree at the scheme's 42% rate. The power to modify a sanctioned scheme is meant for schemes that have become unworkable, not to change their basic structure for one party. A similar application by Aastha Minmet was also dismissed.",
-   "tag": "Company law",
-   "src": "https://www.livelawbiz.com/amp/company-law/nclt/power-to-modify-sanctioned-scheme-can-be-used-if-unworkable-not-as-lever-to-alter-scheme-nclt-mumbai-in-nsel-case-553586",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "डिक्री-धारक को योजना की दर पर निपटारे के लिए NSEL योजना नहीं बदली जा सकती",
-     "text": "अधिकरण ने एक व्यापारिक फ़र्म का लगभग ₹32.77 करोड़ की NSEL डिक्री को योजना की 42% दर पर निपटाने का अनुरोध ठुकरा दिया। स्वीकृत योजना में बदलाव की शक्ति उन योजनाओं के लिए है जो अव्यवहार्य हो गई हों, किसी एक पक्ष के लिए उनकी मूल संरचना बदलने के लिए नहीं। Aastha Minmet का ऐसा ही आवेदन भी खारिज हुआ।",
-     "tag": "कंपनी कानून"
-    },
-    "mr": {
-     "headline": "डिक्रीधारकाला योजनेच्या दराने तडजोड करता यावी म्हणून NSEL योजना बदलता येणार नाही",
-     "text": "सुमारे ₹32.77 कोटींची NSEL डिक्री योजनेच्या 42% दराने निकाली काढण्याची एका व्यापारी फर्मची विनंती न्यायाधिकरणाने फेटाळली. मंजूर योजनेत बदल करण्याचा अधिकार अव्यवहार्य झालेल्या योजनांसाठी आहे, एका पक्षासाठी तिची मूळ रचना बदलण्यासाठी नाही. Aastha Minmet चा तसाच अर्जही फेटाळला.",
-     "tag": "कंपनी कायदा"
-    }
-   }
-  },
-  {
-   "tribunal": "CESTAT",
-   "bench": "CESTAT, Hyderabad",
-   "caseName": "M/s Gemini Edibles and Fats India Ltd. v. Commissioner of Customs (Preventive), Vijayawada",
-   "citation": "2026 LLBiz CESTAT(HYD) 601",
-   "caseNo": "Customs Appeal No. 30185 of 2023",
-   "coram": "Angad Prasad (Judicial Member); P. Anjani Kumar (Technical Member)",
-   "date": "Reported 7 Oct 2026",
-   "headline": "Refined palmolein does not become 'crude palm oil' for concessional duty",
-   "kind": "Held",
-   "text": "Removing two test parameters from the customs exemption notification did not turn refined palmolein into crude palm oil; the importer still had to prove the goods were crude. Part of the cargo was found to be RBD palmolein and the concession was denied. The redemption fine was halved to ₹1 crore and one penalty set aside, with the duty-rate question sent back for verification.",
-   "tag": "Customs",
-   "src": "https://www.livelawbiz.com/customs/cestat/deletion-of-parameters-from-exemption-notification-does-not-make-refined-palmolein-crude-palm-oil-cestat-hyderabad-553541",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "रिफ़ाइंड पामोलीन रियायती शुल्क के लिए 'कच्चा पाम तेल' नहीं बन जाता",
-     "text": "सीमा शुल्क छूट अधिसूचना से दो परीक्षण मानदंड हटाने से रिफ़ाइंड पामोलीन कच्चा पाम तेल नहीं बन गया; आयातक को अब भी सिद्ध करना था कि माल कच्चा था। माल का एक हिस्सा RBD पामोलीन पाया गया और रियायत नहीं दी गई। मोचन जुर्माना आधा करके ₹1 करोड़ किया गया और एक दंड रद्द हुआ, तथा शुल्क दर का प्रश्न सत्यापन के लिए वापस भेजा गया।",
-     "tag": "सीमा शुल्क"
-    },
-    "mr": {
-     "headline": "रिफाइंड पामोलिन सवलतीच्या शुल्कासाठी 'कच्चे पाम तेल' ठरत नाही",
-     "text": "सीमाशुल्क सूट अधिसूचनेतून दोन चाचणी निकष वगळल्याने रिफाइंड पामोलिन कच्चे पाम तेल ठरत नाही; माल कच्चा असल्याचे आयातदाराला सिद्ध करावेच लागेल. मालाचा काही भाग RBD पामोलिन आढळला आणि सवलत नाकारली. विमोचन दंड निम्मा करून ₹1 कोटी केला, एक दंड रद्द केला, आणि शुल्कदराचा प्रश्न पडताळणीसाठी परत पाठवला.",
-     "tag": "सीमाशुल्क"
-    }
-   }
-  },
-  {
-   "tribunal": "NCLT",
-   "bench": "NCLT, Ahmedabad",
-   "caseName": "Anoopama Shah v. Jonson Control-Hitachi Air Condition India Ltd & Ors.",
-   "citation": "2026 LLBiz NCLT (AHM) 990",
-   "caseNo": "Appeal/57(AHM)2023",
-   "coram": "Shammi Khan (Judicial Member); Sanjeev Sharma (Technical Member)",
-   "date": "Decided 28 Sep 2026",
-   "headline": "Shareholder's name to be restored to the register",
-   "kind": "Held",
-   "text": "The tribunal found that a shareholder's name had been removed from the register of members of Bosch Home Comfort India for 250 shares without sufficient cause, as the company had not properly verified documents. It ordered the register rectified within 30 days or, if the shares cannot be traced, payment of their market value with dividends.",
-   "tag": "Company law",
-   "src": "https://www.livelawbiz.com/company-law/nclt-ahmedabad-directs-bosch-home-comfort-to-restore-shareholders-name-after-finding-no-sufficient-cause-for-removal-553523",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "शेयरधारक का नाम रजिस्टर में फिर दर्ज होगा",
-     "text": "अधिकरण ने पाया कि Bosch Home Comfort India के सदस्य रजिस्टर से 250 शेयरों के एक शेयरधारक का नाम पर्याप्त कारण के बिना हटाया गया था, क्योंकि कंपनी ने दस्तावेज़ों की ठीक से जाँच नहीं की थी। उसने 30 दिन में रजिस्टर सुधारने का आदेश दिया, या शेयर न मिलें तो लाभांश सहित उनका बाज़ार मूल्य चुकाने का।",
-     "tag": "कंपनी कानून"
-    },
-    "mr": {
-     "headline": "भागधारकाचे नाव नोंदवहीत पुन्हा नोंदवले जाणार",
-     "text": "Bosch Home Comfort India च्या सदस्य नोंदवहीतून 250 समभागांच्या एका भागधारकाचे नाव पुरेशा कारणाशिवाय काढले गेले, कारण कंपनीने कागदपत्रांची नीट पडताळणी केली नव्हती, असे न्यायाधिकरणाला आढळले. 30 दिवसांत नोंदवही दुरुस्त करण्याचा, किंवा समभाग सापडत नसल्यास लाभांशासह त्यांचे बाजारमूल्य देण्याचा आदेश दिला.",
-     "tag": "कंपनी कायदा"
-    }
-   }
+   "text": "The NCLAT dismissed an application to recall its earlier order, which had extended the time to implement the approved resolution plan for Krystal Stone Exports. The delay in handing over the debtor's Jaipur property, part of which a third party occupied, was not the resolution applicant's fault. The tribunal said that extending payment timelines does not modify an approved plan.",
+   "tag": "Insolvency",
+   "src": "https://www.taxscan.in/corporate-laws/nclat-upholds-extension-of-resolution-plan-timeline-delay-in-property-handover-cannot-burden-successful-resolution-applicant-read-order",
+   "srcName": "Taxscan"
   },
   {
    "tribunal": "NCLT",
    "bench": "NCLT, Chandigarh",
-   "caseName": "Bhagwati Lacto Vegetarian Exports Pvt. Ltd. v. RB Assets and Developers Pvt. Ltd.",
-   "citation": "2026 LLBiz NCLT (CHA) 987",
-   "caseNo": "IA (IBC) No. 1079/2025 in CP (IB) No. 283/Chd/Pb/2023",
-   "coram": "Khetrabasi Biswal (Judicial Member); Shishir Agarwal (Technical Member)",
-   "date": "Reported 7 Oct 2026",
-   "headline": "Rejoinder documents on debt and default stay on record",
+   "caseName": "Darshan Singh Anand v. Bimla Devi Jindal & Ors",
+   "citation": "2026 LLBiz NCLT (CHA) 997",
+   "caseNo": "IA(I.B.C.)/1537 (CH)2022 in CP(IB) No.315/Chd/Hry/2019",
+   "coram": "Kaushalendra Kumar Singh (Technical Member) and Khetrabasi Biswal (Judicial Member)",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Being a director alone does not create fraudulent trading liability",
    "kind": "Held",
-   "text": "The tribunal refused to strike out documents an operational creditor added in its rejoinder, since they bear on whether a debt and default exist; their weight will be judged at the final hearing. Civil-procedure precedents cited by the corporate debtor were held inapplicable, and it was given two weeks to file a sur-rejoinder.",
-   "tag": "Insolvency (IBC)",
-   "src": "https://www.livelawbiz.com/nclt/rejoinder-material-cannot-be-excluded-at-preliminary-stage-if-it-relates-to-debt-default-nclt-chandigarh-553461",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "ऋण और चूक से जुड़े प्रत्युत्तर के दस्तावेज़ अभिलेख पर रहेंगे",
-     "text": "अधिकरण ने एक परिचालन लेनदार द्वारा प्रत्युत्तर में जोड़े गए दस्तावेज़ हटाने से इनकार किया, क्योंकि वे ऋण और चूक के अस्तित्व से जुड़े हैं; उनका महत्व अंतिम सुनवाई में आँका जाएगा। कॉर्पोरेट देनदार द्वारा उद्धृत सिविल प्रक्रिया के पूर्व निर्णय लागू नहीं माने गए, और उसे जवाब दाखिल करने के लिए दो सप्ताह दिए गए।",
-     "tag": "दिवाला (IBC)"
-    },
-    "mr": {
-     "headline": "कर्ज व थकबाकीशी संबंधित प्रत्युत्तरातील कागदपत्रे अभिलेखावर राहणार",
-     "text": "परिचालन धनकोने प्रत्युत्तरात जोडलेली कागदपत्रे काढून टाकण्यास न्यायाधिकरणाने नकार दिला, कारण ती कर्ज व थकबाकी अस्तित्वात आहे की नाही याच्याशी संबंधित आहेत; त्यांचे महत्त्व अंतिम सुनावणीत ठरवले जाईल. कॉर्पोरेट ऋणकोने दिलेले दिवाणी प्रक्रियेचे पूर्वनिर्णय लागू नसल्याचे ठरवले, आणि त्याला उत्तर दाखल करण्यासाठी दोन आठवडे दिले.",
-     "tag": "दिवाळखोरी (IBC)"
-    }
-   }
+   "text": "The resolution professional of Vikas WSP sought Section 66 action against 18 former directors, relying on a draft transaction audit report. The final audit report found no fraud. The NCLT held that liability needs proof that a person personally took part with dishonest intent, and that holding a directorship or committee seat is not enough. It dismissed the application.",
+   "tag": "Insolvency",
+   "src": "https://www.livelawbiz.com/ibc/mere-directorship-cannot-attract-liability-of-fraudulent-trading-without-evidence-of-participation-nclt-chandigarh-553729",
+   "srcName": "LiveLaw Biz"
   },
   {
    "tribunal": "NCLT",
    "bench": "NCLT, Ahmedabad",
-   "caseName": "Arvind Mukundchand Soni v. Girdharbhai Bavchandbhai Viramgama & Ors.",
-   "citation": "2026 LLBiz NCLT (AHM) 994",
-   "caseNo": "IA No. 99 of 2026 in Contempt Petition No. 3 of 2026 in TP No. 45 of 2016",
-   "coram": "Shammi Khan (Judicial Member); Sanjeev Sharma (Technical Member)",
-   "date": "Reported 8 Oct 2026",
-   "headline": "No recall of withdrawal made by authorised counsel",
+   "caseName": "Asier Metal Private Limited v. Polycab India Limited",
+   "citation": "2026 LLBiz NCLT (AHM) 996",
+   "caseNo": "C.P.(IB)/273(AHM)2026",
+   "coram": "Shammi Khan (Judicial Member) and Sanjeev Sharma (Technical Member)",
+   "date": "Decided 7 Oct 2026",
+   "headline": "Polycab admitted to CIRP over Rs 2.78 cr unpaid ingot supplies",
    "kind": "Held",
-   "text": "The tribunal declined to recall its order dismissing a contempt petition as withdrawn, as the vakalatnama authorised counsel to withdraw and no revocation was shown. A claimed communication gap with counsel and the lack of a decision on merits are not grounds for recall, which cannot be used to rehear a matter.",
+   "text": "An aluminium ingot supplier claimed Rs 2.78 crore in unpaid invoices from Polycab. Polycab argued that the bills were provisional and raised a large counterclaim. The NCLT found that the goods had been received and that the disputes surfaced only after the demand notice, without contemporaneous records. It admitted the Section 9 petition and appointed an interim resolution professional.",
+   "tag": "Insolvency",
+   "src": "https://www.livelawbiz.com/ibc/nclt-ahmedabad-admits-asier-metals-insolvency-plea-against-polycab-india-over-default-of-rs278-crore-553725",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "NCLT",
+   "bench": "NCLT, Chennai",
+   "caseName": "Sujatha Venkateswaran v. Registrar of Companies, Chennai",
+   "citation": "2026 LLBiz NCLT (CHE) 995",
+   "caseNo": "CP (CA) No.135 (CHE) of 2025",
+   "coram": "Sanjiv Jain (Judicial Member) and Venkataraman Subramaniam (Technical Member)",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Struck-off company can still be wound up to realise its assets",
+   "kind": "Held",
+   "text": "A shareholder sought the winding up of Jaipriya Holdings, which was struck off in 2011 but still held listed shares and owed loans to shareholders. The NCLT held that Section 248(8) keeps its power to wind up a struck-off company. It found winding up just and equitable, admitted the petition and appointed a provisional liquidator.",
    "tag": "Company law",
-   "src": "https://www.livelawbiz.com/nclt/nclt-ahmedabad-refuses-to-recall-withdrawal-order-where-counsel-was-authorised-to-withdraw-petition-553627",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "अधिकृत वकील द्वारा याचिका वापस लेने का आदेश वापस नहीं होगा",
-     "text": "अधिकरण ने अवमानना याचिका को वापस लिए जाने के आधार पर खारिज करने वाला आदेश वापस लेने से इनकार किया, क्योंकि वकालतनामे में वकील को याचिका वापस लेने का अधिकार दिया गया था और उसे रद्द करने का कोई प्रमाण नहीं था। वकील से संवाद की कमी का दावा या गुण-दोष पर निर्णय न होना आदेश वापस लेने के आधार नहीं हैं; इससे मामले की दोबारा सुनवाई नहीं कराई जा सकती।",
-     "tag": "कंपनी कानून"
-    },
-    "mr": {
-     "headline": "अधिकृत वकिलाने याचिका मागे घेतल्याचा आदेश मागे घेतला जाणार नाही",
-     "text": "अवमान याचिका मागे घेतल्याने फेटाळण्याचा आदेश मागे घेण्यास न्यायाधिकरणाने नकार दिला, कारण वकीलपत्राने वकिलाला याचिका मागे घेण्याचा अधिकार दिला होता आणि तो रद्द केल्याचे दिसले नाही. वकिलाशी संवाद न झाल्याचा दावा किंवा गुणवत्तेवर निर्णय न होणे ही आदेश मागे घेण्याची कारणे नाहीत; याद्वारे प्रकरणाची पुन्हा सुनावणी करता येत नाही.",
-     "tag": "कंपनी कायदा"
-    }
-   }
+   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-chennai-allows-winding-up-of-struck-off-company-to-realise-assets-settle-liabilities-553646",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "NCLT",
+   "bench": "NCLT, New Delhi",
+   "caseName": "Omkara Assets Reconstruction Pvt. Ltd. v. ESPO Developers Pvt. Ltd.",
+   "citation": "2026 TAXSCAN (NCLT) 313",
+   "caseNo": "CP (IB) No. 207/(ND)/2026",
+   "coram": "Ashok Kumar Bhardwaj (Judicial Member) and Atul Chaturvedi (Technical Member)",
+   "date": "Decided 29 Sep 2026",
+   "headline": "Part payment under failed settlement no bar to Rs 164 cr CIRP",
+   "kind": "Held",
+   "text": "The NCLT admitted Omkara ARC's Section 7 petition against ESPO Developers. It held that the Rs 77.03 crore paid under a settlement did not discharge the debt, because the settlement's benefits depended on meeting all its terms. A pending arbitration did not stop the tribunal from deciding the petition, and the allegation of malicious filing was rejected.",
+   "tag": "Insolvency",
+   "src": "https://www.taxscan.in/corporate-laws/nclt-admits-16403-cr-cirp-plea-rejects-claim-of-debt-discharge-and-pending-arbitration",
+   "srcName": "Taxscan"
   },
   {
    "tribunal": "NCLT",
    "bench": "NCLT, Mumbai",
-   "caseName": "Guardian Nutrition & Healthcare Private Limited, Guardian Healthcare Services Private Limited and Idam Natural Wellness Private Limited",
-   "caseNo": "C.P.(CAA)/112/MB/2026 c/w C.A.(CAA)/91/MB/2026",
-   "coram": "K.R. Saji Kumar (Judicial Member); Anil Raj Chellan (Technical Member)",
-   "date": "Reported 7 Oct 2026",
-   "headline": "Guardian's GNC business demerger to Bella Vita owner sanctioned",
+   "caseName": "State Bank of India v. Bhakti Extractions Private Limited",
+   "citation": "2026 TAXSCAN (NCLT) 314",
+   "caseNo": "C.P. (IB)/730(MB)2026",
+   "coram": "Sameer Kakar (Technical Member) and Nilesh Sharma (Judicial Member)",
+   "date": "Decided 30 Sep 2026",
+   "headline": "MSME revival framework can't block SBI plea above Rs 25 cr exposure",
    "kind": "Held",
-   "text": "The Mumbai bench sanctioned a scheme moving Guardian Healthcare Services' nutrition division, including the GNC business, to Idam Natural Wellness. The scheme also cancels shares of Guardian Nutrition held by shareholders other than Idam at ₹59 a share. No objections were received and regulators' observations had been addressed.",
-   "tag": "Mergers & schemes",
-   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-mumbai-sanctions-demerger-of-guardians-gnc-business-to-bella-vita-owner-idam-natural-wellness-553567",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "Guardian के GNC व्यवसाय का Bella Vita के मालिक को विभाजन स्वीकृत",
-     "text": "मुंबई पीठ ने Guardian Healthcare Services के पोषण प्रभाग, जिसमें GNC व्यवसाय भी है, को Idam Natural Wellness में ले जाने की योजना स्वीकृत की। योजना में Idam के अलावा अन्य शेयरधारकों के Guardian Nutrition के शेयर ₹59 प्रति शेयर पर रद्द किए जाते हैं। कोई आपत्ति नहीं आई और नियामकों की टिप्पणियों का समाधान कर दिया गया था।",
-     "tag": "विलय एवं योजनाएँ"
-    },
-    "mr": {
-     "headline": "Guardian च्या GNC व्यवसायाचे Bella Vita च्या मालकाकडे विभाजन मंजूर",
-     "text": "मुंबई खंडपीठाने Guardian Healthcare Services चा पोषण विभाग, GNC व्यवसायासह, Idam Natural Wellness कडे हस्तांतरित करण्याची योजना मंजूर केली. योजनेत Idam वगळता इतर भागधारकांचे Guardian Nutrition चे समभाग ₹59 प्रति समभाग दराने रद्द होतात. कोणतीही हरकत आली नाही आणि नियामकांच्या निरीक्षणांचे निराकरण झाले होते.",
-     "tag": "विलीनीकरण व योजना"
-    }
-   }
+   "text": "The NCLT admitted SBI's Section 7 petition over a Rs 66.27 crore default. The debtor relied on the RBI MSME revival framework, but the tribunal noted that the framework covers only loan exposure up to Rs 25 crore and that no restructuring application had been made. Once default is shown, the debtor's ability to pay need not be examined.",
+   "tag": "Insolvency",
+   "src": "https://www.taxscan.in/corporate-laws/nclt-admits-6627-cr-sbi-insolvency-plea-upholds-msme-revival-framework-inapplicable-beyond-25-cr-loan-limit-read-order",
+   "srcName": "Taxscan"
   },
   {
    "tribunal": "NCLT",
-   "bench": "NCLT, Principal Bench, New Delhi",
-   "caseName": "Yamaha Motor India Private Limited, Yamaha Motor India Sales Private Limited & India Yamaha Motor Private Limited",
-   "citation": "2026 LLBiz NCLT (DEL) 991",
-   "caseNo": "Company Application No. (CAA) 7/(PB)/2026",
-   "coram": "Justice Anupinder Singh Grewal (President); Ravindra Chaturvedi (Technical Member)",
-   "date": "Decided 30 Sep 2026",
-   "headline": "Yamaha group demerger and amalgamation scheme sanctioned",
+   "bench": "NCLT, Mumbai",
+   "caseName": "Insta Capital Pvt Ltd & Richbond Capital Pvt Ltd v. Shubh Food Industries Ltd",
+   "citation": "2026 TAXSCAN (NCLT) 311",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Joint financial creditors may club dues to cross Rs 1 cr threshold",
    "kind": "Held",
-   "text": "The Principal Bench sanctioned a scheme under Sections 230–232 moving Yamaha Motor India's advisory and consulting business into India Yamaha Motor and merging Yamaha Motor India Sales into it. Sanction does not exempt the companies from stamp duty, taxes or other compliance, and annual Form CAA-8 filings are required until implementation.",
-   "tag": "Mergers & schemes",
-   "src": "https://www.livelawbiz.com/company-law/nclt-delhi-sanctions-yamaha-motor-indias-composite-scheme-of-demerger-and-amalgamation-553563",
-   "srcName": "LiveLaw Biz",
-   "i18n": {
-    "hi": {
-     "headline": "Yamaha समूह की विभाजन और समामेलन योजना स्वीकृत",
-     "text": "प्रधान पीठ ने धारा 230–232 के तहत एक योजना स्वीकृत की, जिससे Yamaha Motor India का सलाहकार और परामर्श व्यवसाय India Yamaha Motor में जाएगा और Yamaha Motor India Sales का उसमें विलय होगा। स्वीकृति से कंपनियों को स्टाम्प शुल्क, करों या अन्य अनुपालन से छूट नहीं मिलती, और कार्यान्वयन तक हर वर्ष फ़ॉर्म CAA-8 दाखिल करना होगा।",
-     "tag": "विलय एवं योजनाएँ"
-    },
-    "mr": {
-     "headline": "Yamaha समूहाची विभाजन व एकत्रीकरण योजना मंजूर",
-     "text": "प्रधान खंडपीठाने कलम 230–232 अंतर्गत योजना मंजूर केली, ज्याद्वारे Yamaha Motor India चा सल्लागार व सल्लामसलत व्यवसाय India Yamaha Motor कडे जाईल आणि Yamaha Motor India Sales चे त्यात विलीनीकरण होईल. मंजुरीमुळे कंपन्यांना मुद्रांक शुल्क, कर किंवा इतर अनुपालनातून सूट मिळत नाही, आणि अंमलबजावणी होईपर्यंत दरवर्षी फॉर्म CAA-8 दाखल करावा लागेल.",
-     "tag": "विलीनीकरण व योजना"
-    }
-   }
+   "text": "Two financial creditors filed a joint Section 7 application against Shubh Food Industries, claiming a combined default of about Rs 1.14 crore. The NCLT held that co-applicants can combine their defaults to meet the Rs 1 crore minimum. It found the statutory requirements met and admitted the company into insolvency.",
+   "tag": "Insolvency",
+   "src": "https://www.taxscan.in/corporate-laws/joint-financial-creditors-can-aggregate-dues-to-meet-1-crore-ibc-threshold-nclt-read-order",
+   "srcName": "Taxscan"
+  },
+  {
+   "tribunal": "NCLT",
+   "bench": "NCLT, New Delhi",
+   "caseName": "Case title not yet reported",
+   "citation": "2026 TAXSCAN (NCLT) 312",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Running-account dues with trade discounts fall due at year-end",
+   "kind": "Held",
+   "text": "In a Section 9 petition over about Rs 1.92 crore, the NCLT held that limitation runs from when the operational debt became payable, not from when the goods were delivered. Because the parties ran an account with post-supply trade discounts, the liability crystallised on 31 March 2023. The petition, filed in March 2026, was therefore within time and CIRP was admitted.",
+   "tag": "Insolvency",
+   "src": "https://www.taxscan.in/corporate-laws/running-accounts-with-post-supply-trade-discounts-become-due-only-at-financial-year-end-nclt-admits-cirp-over-192-crore-default-read-order",
+   "srcName": "Taxscan"
+  },
+  {
+   "tribunal": "CESTAT",
+   "bench": "CESTAT, Kolkata",
+   "caseName": "M/s North East Carriers Private Limited v. Commissioner of CGST & CX, Guwahati",
+   "citation": "2026 LLBiz CESTAT(KOL) 604",
+   "caseNo": "Service Tax Appeal No. 75725 of 2021",
+   "coram": "R. Muralidhar (Judicial Member) and K. Anpazhakan (Technical Member)",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Transporter not liable for GTA tax already paid by recipients",
+   "kind": "Held",
+   "text": "The department confirmed a demand of about Rs 1.2 crore against a road transporter, based largely on income tax data. CESTAT held that the freight-paying recipients were liable under reverse charge, so taxing the transporter as well would be double taxation. It also rejected the extended limitation period and set aside the demand, interest and the Section 78 penalty, keeping only a Rs 10,000 penalty.",
+   "tag": "Service tax",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/gta-service-tax-cannot-be-demanded-from-transporter-if-recipient-paid-under-rcm-cestat-kolkata-553759",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "CESTAT",
+   "bench": "CESTAT, New Delhi",
+   "caseName": "M/s Agribiotech Industries Ltd. v. Commissioner, CGST & Central Excise, Alwar",
+   "citation": "2026 LLBiz CESTAT(DEL) 603",
+   "caseNo": "Service Tax Appeal Nos. 52725, 52726, 52727 of 2019; 50235 of 2021; 51010 of 2021",
+   "coram": "Ashok Jindal (Judicial Member) and P.V. Subba Rao (Technical Member)",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Contract bottling of liquor for a brand owner attracts service tax",
+   "kind": "Held",
+   "text": "Agribiotech made and bottled liquor for Allied Blenders under a revenue-sharing arrangement and argued that this was manufacture, not a service. CESTAT followed the Delhi High Court's Carlsberg India ruling and held the activity to be a taxable service under the negative-list regime. It dismissed the appeals.",
+   "tag": "Service tax",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/contract-manufacture-of-alcoholic-liquor-for-another-entity-attracts-service-tax-553747",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "CESTAT",
+   "bench": "CESTAT, Chennai",
+   "caseName": "Shri R. Dewakar v. Commissioner of Customs (Seaport, Imports)",
+   "citation": "2026 LLBiz CESTAT(CHE) 602",
+   "caseNo": "Customs Appeal No. 263 of 2011",
+   "coram": "Ajayan T.V. (Judicial Member) and M. Ajit Kumar (Technical Member)",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Hayabusa split across two ports treated as one bike for duty",
+   "kind": "Held",
+   "text": "Two consignments of parts from one Singapore supplier landed at Tuticorin and Chennai four days apart. Markings, inspection reports and a foreign number plate showed that they came from a single registered Suzuki Hayabusa. CESTAT upheld the roughly Rs 10.36 lakh duty and confiscation, but because of the long delay it removed joint liability and reduced the penalties and fines.",
+   "tag": "Customs",
+   "src": "https://www.livelawbiz.com/customs/cestat/suzuki-hayabusa-imported-in-parts-through-different-ports-can-be-treated-as-complete-motorcycle-for-customs-duty-cestat-chennai-553716",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "CESTAT",
+   "bench": "CESTAT, Kolkata",
+   "caseName": "Case title not yet reported",
+   "citation": "2026 TAXSCAN (CESTAT) 1055",
+   "date": "Reported 8 Oct 2026",
+   "headline": "Invoices, bank records and ITRs prove lawful source of seized gold",
+   "kind": "Held",
+   "text": "Railway police in Guwahati seized gold from the appellant, Kanheya Lal, on a tip that it was smuggled. CESTAT found that his purchase invoices, bank statements and income tax returns discharged the Section 123 burden, and that the revenue failed to rebut them. It ordered the gold to be released.",
+   "tag": "Customs",
+   "src": "https://www.taxscan.in/excise-customs/purchase-invoices-bank-statements-itrs-sufficient-to-prove-source-of-seized-gold-cestat-orders-release-read-order",
+   "srcName": "Taxscan"
   }
  ]
 }
