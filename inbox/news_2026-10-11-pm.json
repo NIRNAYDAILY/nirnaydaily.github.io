@@ -1,0 +1,59 @@
+{
+ "edition": {
+  "edition_id": "2026-10-11-pm",
+  "iso": "2026-10-11",
+  "slot": "6 PM",
+  "dateShort": "11 Oct 2026",
+  "dateLong": "Sunday, 11 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 11 October 2026"
+ },
+ "items": [
+  {
+   "cat": "Judiciary",
+   "region": "Delhi",
+   "body": "Supreme Court of India",
+   "headline": "Supreme Court holds special Sunday sitting on Delhi protest curbs; orders removal of Section 163 BNSS board outside court",
+   "text": "A Bench of Justices Joymalya Bagchi and V Mohana sat on Sunday, 11 October, to hear contempt and habeas corpus petitions over Metro station closures and detentions during the 10 October protests in Delhi. In interim directions, it ordered that Metro and rail services run normally, barricades be reviewed, and no one be detained except by procedure established by law. It also directed that the Section 163 BNSS board outside the Supreme Court be taken down so that lawyers and citizens can reach the court, and asked the authorities to file a short affidavit by Tuesday, 13 October, showing why contempt proceedings should not begin.",
+   "why": "The Bench recorded the Solicitor General's assurance that lawyers, journalists and other professionals will not be obstructed in their work.",
+   "date": "11 Oct 2026",
+   "src": "https://www.barandbench.com/news/litigation/delhi-protests-supreme-court-orders-no-detentions-traffic-or-metro-restrictions-except-as-per-law",
+   "srcName": "Bar & Bench",
+   "i18n": {
+    "hi": {
+     "body": "भारत का सर्वोच्च न्यायालय",
+     "headline": "सर्वोच्च न्यायालय ने दिल्ली प्रदर्शन से जुड़ी पाबंदियों पर रविवार को विशेष सुनवाई की; न्यायालय के बाहर लगा धारा 163 BNSS का बोर्ड हटाने का आदेश",
+     "text": "न्यायमूर्ति Joymalya Bagchi और न्यायमूर्ति V Mohana की पीठ ने रविवार, 11 अक्टूबर को दिल्ली में 10 अक्टूबर के प्रदर्शनों के दौरान मेट्रो स्टेशन बंद करने और लोगों को हिरासत में लेने के खिलाफ अवमानना और बंदी प्रत्यक्षीकरण याचिकाओं पर सुनवाई की। अंतरिम निर्देशों में पीठ ने कहा कि मेट्रो और रेल सेवाएं सामान्य रूप से चलें, बैरिकेड की समीक्षा की जाए, और किसी को भी कानून द्वारा स्थापित प्रक्रिया के बिना हिरासत में न लिया जाए। पीठ ने सर्वोच्च न्यायालय के बाहर लगा धारा 163 BNSS का बोर्ड हटाने का निर्देश दिया ताकि वकील और नागरिक न्यायालय तक पहुंच सकें, और अधिकारियों से मंगलवार, 13 अक्टूबर तक संक्षिप्त हलफनामा दाखिल कर यह बताने को कहा कि उनके खिलाफ अवमानना की कार्यवाही क्यों न शुरू की जाए।",
+     "why": "पीठ ने सॉलिसिटर जनरल का यह आश्वासन दर्ज किया कि वकीलों, पत्रकारों और अन्य पेशेवरों को उनके काम में रोका नहीं जाएगा।"
+    },
+    "mr": {
+     "body": "भारताचे सर्वोच्च न्यायालय",
+     "headline": "दिल्लीतील आंदोलनाशी संबंधित निर्बंधांवर सर्वोच्च न्यायालयाची रविवारी विशेष सुनावणी; न्यायालयाबाहेरील कलम 163 BNSS चा फलक हटवण्याचा आदेश",
+     "text": "न्यायमूर्ती Joymalya Bagchi आणि न्यायमूर्ती V Mohana यांच्या खंडपीठाने रविवारी, 11 ऑक्टोबर रोजी, दिल्लीत 10 ऑक्टोबरच्या आंदोलनांदरम्यान मेट्रो स्थानके बंद करणे आणि लोकांना ताब्यात घेणे याविरोधातील अवमान आणि बंदी प्रत्यक्षीकरण याचिकांवर सुनावणी घेतली. अंतरिम निर्देशांमध्ये खंडपीठाने मेट्रो आणि रेल्वे सेवा सामान्यपणे सुरू ठेवाव्यात, बॅरिकेड्सचा आढावा घ्यावा आणि कायद्याने स्थापित केलेल्या प्रक्रियेशिवाय कोणालाही ताब्यात घेऊ नये, असे सांगितले. वकील आणि नागरिकांना न्यायालयापर्यंत पोहोचता यावे म्हणून सर्वोच्च न्यायालयाबाहेरील कलम 163 BNSS चा फलक हटवण्याचे निर्देश खंडपीठाने दिले, आणि अवमानाची कारवाई का सुरू करू नये हे सांगणारे संक्षिप्त प्रतिज्ञापत्र मंगळवार, 13 ऑक्टोबरपर्यंत दाखल करण्यास अधिकाऱ्यांना सांगितले.",
+     "why": "वकील, पत्रकार आणि इतर व्यावसायिकांना त्यांच्या कामात अडथळा आणला जाणार नाही, हे सॉलिसिटर जनरल यांनी दिलेले आश्वासन खंडपीठाने नोंदवले."
+    }
+   }
+  },
+  {
+   "cat": "Bar & Bar Councils",
+   "region": "Delhi",
+   "body": "Supreme Court of India",
+   "headline": "Lawyers' group seeks to join Supreme Court hearing, says advocates belong in court, not on the street",
+   "text": "Senior Advocate Kirti Uppal, appearing for a group of lawyers, filed an application to be made a party in the contempt pleas over the Delhi protest curbs, saying public demonstrations by lawyers were harming the profession. Her submission drew protests from some lawyers in the courtroom; the Bench said every side would get an equal chance to be heard, and the SCAORA President asked lawyers to stay calm and maintain the court's decorum.",
+   "date": "11 Oct 2026",
+   "src": "https://www.verdictum.in/supreme-court/senior-advocate-kirti-uppal-protest-by-advocates-police-action-delhi-1623793",
+   "srcName": "Verdictum",
+   "i18n": {
+    "hi": {
+     "body": "भारत का सर्वोच्च न्यायालय",
+     "headline": "वकीलों के एक समूह ने सर्वोच्च न्यायालय की सुनवाई में पक्षकार बनने की मांग की, कहा वकीलों की जगह न्यायालय में है, सड़क पर नहीं",
+     "text": "वरिष्ठ अधिवक्ता Kirti Uppal ने वकीलों के एक समूह की ओर से दिल्ली प्रदर्शन से जुड़ी पाबंदियों पर दायर अवमानना याचिकाओं में पक्षकार बनाए जाने के लिए आवेदन दायर किया और कहा कि वकीलों के सार्वजनिक प्रदर्शन इस पेशे को नुकसान पहुंचा रहे हैं। उनकी दलील पर न्यायालय कक्ष में कुछ वकीलों ने विरोध जताया; पीठ ने कहा कि हर पक्ष को अपनी बात रखने का बराबर मौका मिलेगा, और SCAORA के अध्यक्ष ने वकीलों से शांत रहने और न्यायालय की मर्यादा बनाए रखने की अपील की।"
+    },
+    "mr": {
+     "body": "भारताचे सर्वोच्च न्यायालय",
+     "headline": "वकिलांच्या एका गटाची सर्वोच्च न्यायालयातील सुनावणीत पक्षकार होण्याची मागणी; वकिलांची जागा न्यायालयात आहे, रस्त्यावर नव्हे, असे प्रतिपादन",
+     "text": "ज्येष्ठ वकील Kirti Uppal यांनी वकिलांच्या एका गटाच्या वतीने दिल्लीतील आंदोलनाशी संबंधित निर्बंधांवरील अवमान याचिकांमध्ये पक्षकार करून घेण्यासाठी अर्ज दाखल केला आणि वकिलांच्या सार्वजनिक निदर्शनांमुळे या व्यवसायाचे नुकसान होत असल्याचे सांगितले. त्यांच्या युक्तिवादाला न्यायालय कक्षातील काही वकिलांनी विरोध केला; प्रत्येक बाजूला आपले म्हणणे मांडण्याची समान संधी मिळेल असे खंडपीठाने सांगितले, आणि SCAORA च्या अध्यक्षांनी वकिलांना शांत राहून न्यायालयाची प्रतिष्ठा राखण्याचे आवाहन केले."
+    }
+   }
+  }
+ ]
+}
