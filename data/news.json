@@ -1,82 +1,57 @@
 {
  "edition": {
-  "edition_id": "2026-10-09-am",
-  "iso": "2026-10-09",
-  "slot": "10 AM",
-  "dateShort": "9 Oct 2026",
-  "dateLong": "Friday, 9 October 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 8 October to 10:00 AM IST, 9 October 2026"
+  "edition_id": "2026-10-11-pm",
+  "iso": "2026-10-11",
+  "slot": "6 PM",
+  "dateShort": "11 Oct 2026",
+  "dateLong": "Sunday, 11 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 11 October 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "All India",
+   "region": "Delhi",
    "body": "Supreme Court of India",
-   "headline": "Former Supreme Court judge Abhay Oka says Justice Ujjal Bhuyan's voter-roll remarks were not improper",
-   "text": "Former Supreme Court judge Abhay S. Oka said in an interview that Justice Ujjal Bhuyan did not commit any judicial impropriety by speaking against mass removal of voters from electoral rolls. He said a sitting judge must not comment on the merits of a pending case, but Justice Bhuyan had not done so. He added that retired judges who disagree, such as former CJI B.R. Gavai, should express it respectfully and with reasons.",
-   "why": "It adds a senior voice to the ongoing debate on how far sitting judges may speak in public on issues pending before the courts.",
-   "date": "8 Oct 2026",
-   "src": "https://www.livelaw.in/amp/top-stories/justice-abhay-oka-says-no-judicial-impropriety-in-justice-ujjal-bhuyan-comment-on-sir-disenfranchisement-of-voters-while-matter-sub-judice-553731",
-   "srcName": "LiveLaw",
+   "headline": "Supreme Court holds special Sunday sitting on Delhi protest curbs; orders removal of Section 163 BNSS board outside court",
+   "text": "A Bench of Justices Joymalya Bagchi and V Mohana sat on Sunday, 11 October, to hear contempt and habeas corpus petitions over Metro station closures and detentions during the 10 October protests in Delhi. In interim directions, it ordered that Metro and rail services run normally, barricades be reviewed, and no one be detained except by procedure established by law. It also directed that the Section 163 BNSS board outside the Supreme Court be taken down so that lawyers and citizens can reach the court, and asked the authorities to file a short affidavit by Tuesday, 13 October, showing why contempt proceedings should not begin.",
+   "why": "The Bench recorded the Solicitor General's assurance that lawyers, journalists and other professionals will not be obstructed in their work.",
+   "date": "11 Oct 2026",
+   "src": "https://www.barandbench.com/news/litigation/delhi-protests-supreme-court-orders-no-detentions-traffic-or-metro-restrictions-except-as-per-law",
+   "srcName": "Bar & Bench",
    "i18n": {
     "hi": {
      "body": "भारत का सर्वोच्च न्यायालय",
-     "headline": "सर्वोच्च न्यायालय के पूर्व न्यायाधीश अभय ओका बोले: मतदाता सूची पर न्यायमूर्ति उज्ज्वल भुइयां की टिप्पणी अनुचित नहीं",
-     "text": "सर्वोच्च न्यायालय के पूर्व न्यायाधीश अभय एस. ओका ने एक साक्षात्कार में कहा कि मतदाता सूचियों से बड़े पैमाने पर नाम हटाने के ख़िलाफ़ बोलकर न्यायमूर्ति उज्ज्वल भुइयां ने कोई न्यायिक अनौचित्य नहीं किया। उन्होंने कहा कि कार्यरत न्यायाधीश को लंबित मामले के गुण-दोष पर टिप्पणी नहीं करनी चाहिए, लेकिन न्यायमूर्ति भुइयां ने ऐसा नहीं किया। उन्होंने यह भी कहा कि पूर्व मुख्य न्यायाधीश बी.आर. गवई जैसे असहमति रखने वाले सेवानिवृत्त न्यायाधीशों को अपनी बात सम्मान के साथ और कारण बताकर रखनी चाहिए।",
-     "why": "इससे इस बहस में एक वरिष्ठ आवाज़ जुड़ती है कि अदालतों में लंबित मुद्दों पर कार्यरत न्यायाधीश सार्वजनिक रूप से कितना बोल सकते हैं।"
+     "headline": "सर्वोच्च न्यायालय ने दिल्ली प्रदर्शन से जुड़ी पाबंदियों पर रविवार को विशेष सुनवाई की; न्यायालय के बाहर लगा धारा 163 BNSS का बोर्ड हटाने का आदेश",
+     "text": "न्यायमूर्ति Joymalya Bagchi और न्यायमूर्ति V Mohana की पीठ ने रविवार, 11 अक्टूबर को दिल्ली में 10 अक्टूबर के प्रदर्शनों के दौरान मेट्रो स्टेशन बंद करने और लोगों को हिरासत में लेने के खिलाफ अवमानना और बंदी प्रत्यक्षीकरण याचिकाओं पर सुनवाई की। अंतरिम निर्देशों में पीठ ने कहा कि मेट्रो और रेल सेवाएं सामान्य रूप से चलें, बैरिकेड की समीक्षा की जाए, और किसी को भी कानून द्वारा स्थापित प्रक्रिया के बिना हिरासत में न लिया जाए। पीठ ने सर्वोच्च न्यायालय के बाहर लगा धारा 163 BNSS का बोर्ड हटाने का निर्देश दिया ताकि वकील और नागरिक न्यायालय तक पहुंच सकें, और अधिकारियों से मंगलवार, 13 अक्टूबर तक संक्षिप्त हलफनामा दाखिल कर यह बताने को कहा कि उनके खिलाफ अवमानना की कार्यवाही क्यों न शुरू की जाए।",
+     "why": "पीठ ने सॉलिसिटर जनरल का यह आश्वासन दर्ज किया कि वकीलों, पत्रकारों और अन्य पेशेवरों को उनके काम में रोका नहीं जाएगा।"
     },
     "mr": {
      "body": "भारताचे सर्वोच्च न्यायालय",
-     "headline": "सर्वोच्च न्यायालयाचे माजी न्यायाधीश अभय ओका म्हणाले: मतदार यादीवरील न्यायमूर्ती उज्ज्वल भुयान यांचे विधान अनुचित नाही",
-     "text": "सर्वोच्च न्यायालयाचे माजी न्यायाधीश अभय एस. ओका यांनी एका मुलाखतीत सांगितले की मतदार याद्यांमधून मोठ्या प्रमाणावर नावे वगळण्याविरोधात बोलून न्यायमूर्ती उज्ज्वल भुयान यांनी कोणताही न्यायिक अनौचित्य केलेला नाही. कार्यरत न्यायाधीशाने प्रलंबित प्रकरणाच्या गुणवत्तेवर भाष्य करू नये, पण न्यायमूर्ती भुयान यांनी तसे केलेले नाही, असे ते म्हणाले. माजी सरन्यायाधीश बी.आर. गवई यांच्यासारख्या असहमत निवृत्त न्यायाधीशांनी आपले मत आदराने आणि कारणे देऊन मांडावे, असेही त्यांनी नमूद केले.",
-     "why": "न्यायालयांसमोर प्रलंबित विषयांवर कार्यरत न्यायाधीश सार्वजनिकपणे किती बोलू शकतात, या चर्चेत यामुळे एका ज्येष्ठ व्यक्तीचे मत जोडले जाते."
+     "headline": "दिल्लीतील आंदोलनाशी संबंधित निर्बंधांवर सर्वोच्च न्यायालयाची रविवारी विशेष सुनावणी; न्यायालयाबाहेरील कलम 163 BNSS चा फलक हटवण्याचा आदेश",
+     "text": "न्यायमूर्ती Joymalya Bagchi आणि न्यायमूर्ती V Mohana यांच्या खंडपीठाने रविवारी, 11 ऑक्टोबर रोजी, दिल्लीत 10 ऑक्टोबरच्या आंदोलनांदरम्यान मेट्रो स्थानके बंद करणे आणि लोकांना ताब्यात घेणे याविरोधातील अवमान आणि बंदी प्रत्यक्षीकरण याचिकांवर सुनावणी घेतली. अंतरिम निर्देशांमध्ये खंडपीठाने मेट्रो आणि रेल्वे सेवा सामान्यपणे सुरू ठेवाव्यात, बॅरिकेड्सचा आढावा घ्यावा आणि कायद्याने स्थापित केलेल्या प्रक्रियेशिवाय कोणालाही ताब्यात घेऊ नये, असे सांगितले. वकील आणि नागरिकांना न्यायालयापर्यंत पोहोचता यावे म्हणून सर्वोच्च न्यायालयाबाहेरील कलम 163 BNSS चा फलक हटवण्याचे निर्देश खंडपीठाने दिले, आणि अवमानाची कारवाई का सुरू करू नये हे सांगणारे संक्षिप्त प्रतिज्ञापत्र मंगळवार, 13 ऑक्टोबरपर्यंत दाखल करण्यास अधिकाऱ्यांना सांगितले.",
+     "why": "वकील, पत्रकार आणि इतर व्यावसायिकांना त्यांच्या कामात अडथळा आणला जाणार नाही, हे सॉलिसिटर जनरल यांनी दिलेले आश्वासन खंडपीठाने नोंदवले."
     }
    }
   },
   {
    "cat": "Bar & Bar Councils",
-   "region": "Punjab",
-   "body": "Punjab and Haryana High Court Bar Association",
-   "headline": "Punjab and Haryana High Court Bar Association condemns MLA Sukhpal Khaira's remark on Punjab's government lawyers",
-   "text": "The Punjab and Haryana High Court Bar Association, through its President Rohit Sud, condemned a remark allegedly made by Congress MLA Sukhpal Singh Khaira in a widely shared video calling Punjab's government lawyers 'hired nags'. Acting on a representation from law officers of the Punjab Advocate General's office, it asked him to withdraw the remark and apologise. The Association said political criticism is part of democracy but must stay respectful.",
-   "why": "The Bar is asserting that law officers are part of the legal profession and entitled to the same respect as other advocates.",
-   "date": "8 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-bar-association-condemns-sukhpal-khairas-alleged-bhade-de-tattu-remark-against-punjab-law-officers-553766",
-   "srcName": "LiveLaw",
+   "region": "Delhi",
+   "body": "Supreme Court of India",
+   "headline": "Lawyers' group seeks to join Supreme Court hearing, says advocates belong in court, not on the street",
+   "text": "Senior Advocate Kirti Uppal, appearing for a group of lawyers, filed an application to be made a party in the contempt pleas over the Delhi protest curbs, saying public demonstrations by lawyers were harming the profession. Her submission drew protests from some lawyers in the courtroom; the Bench said every side would get an equal chance to be heard, and the SCAORA President asked lawyers to stay calm and maintain the court's decorum.",
+   "date": "11 Oct 2026",
+   "src": "https://www.verdictum.in/supreme-court/senior-advocate-kirti-uppal-protest-by-advocates-police-action-delhi-1623793",
+   "srcName": "Verdictum",
    "i18n": {
     "hi": {
-     "body": "पंजाब एवं हरियाणा उच्च न्यायालय बार एसोसिएशन",
-     "headline": "पंजाब एवं हरियाणा उच्च न्यायालय बार एसोसिएशन ने पंजाब के सरकारी वकीलों पर विधायक सुखपाल खैरा की टिप्पणी की निंदा की",
-     "text": "पंजाब एवं हरियाणा उच्च न्यायालय बार एसोसिएशन ने अपने अध्यक्ष रोहित सूद के माध्यम से कांग्रेस विधायक सुखपाल सिंह खैरा की उस कथित टिप्पणी की निंदा की, जिसमें एक व्यापक रूप से साझा किए गए वीडियो में पंजाब के सरकारी वकीलों को 'भाड़े के टट्टू' कहा गया। पंजाब महाधिवक्ता कार्यालय के विधि अधिकारियों के अभ्यावेदन पर एसोसिएशन ने उनसे टिप्पणी वापस लेने और माफ़ी माँगने को कहा। एसोसिएशन ने कहा कि राजनीतिक आलोचना लोकतंत्र का हिस्सा है, लेकिन वह सम्मानजनक होनी चाहिए।",
-     "why": "बार यह स्पष्ट कर रहा है कि विधि अधिकारी भी वकालत पेशे का हिस्सा हैं और उन्हें अन्य वकीलों (अधिवक्ताओं) जैसा ही सम्मान मिलना चाहिए।"
+     "body": "भारत का सर्वोच्च न्यायालय",
+     "headline": "वकीलों के एक समूह ने सर्वोच्च न्यायालय की सुनवाई में पक्षकार बनने की मांग की, कहा वकीलों की जगह न्यायालय में है, सड़क पर नहीं",
+     "text": "वरिष्ठ अधिवक्ता Kirti Uppal ने वकीलों के एक समूह की ओर से दिल्ली प्रदर्शन से जुड़ी पाबंदियों पर दायर अवमानना याचिकाओं में पक्षकार बनाए जाने के लिए आवेदन दायर किया और कहा कि वकीलों के सार्वजनिक प्रदर्शन इस पेशे को नुकसान पहुंचा रहे हैं। उनकी दलील पर न्यायालय कक्ष में कुछ वकीलों ने विरोध जताया; पीठ ने कहा कि हर पक्ष को अपनी बात रखने का बराबर मौका मिलेगा, और SCAORA के अध्यक्ष ने वकीलों से शांत रहने और न्यायालय की मर्यादा बनाए रखने की अपील की।"
     },
     "mr": {
-     "body": "पंजाब आणि हरियाणा उच्च न्यायालय बार असोसिएशन",
-     "headline": "पंजाब आणि हरियाणा उच्च न्यायालय बार असोसिएशनकडून पंजाबच्या सरकारी वकिलांबाबत आमदार सुखपाल खैरा यांच्या विधानाचा निषेध",
-     "text": "पंजाब आणि हरियाणा उच्च न्यायालय बार असोसिएशनने अध्यक्ष रोहित सूद यांच्यामार्फत काँग्रेस आमदार सुखपाल सिंह खैरा यांच्या कथित विधानाचा निषेध केला. मोठ्या प्रमाणावर पसरलेल्या एका व्हिडिओत पंजाबच्या सरकारी वकिलांना 'भाड्याचे तट्टू' म्हटल्याचा आरोप आहे. पंजाब महाधिवक्ता कार्यालयातील विधी अधिकाऱ्यांच्या निवेदनावरून असोसिएशनने त्यांना विधान मागे घेऊन माफी मागण्यास सांगितले. राजकीय टीका हा लोकशाहीचा भाग आहे, पण ती आदरपूर्वक असावी, असे असोसिएशनने म्हटले.",
-     "why": "विधी अधिकारी हेही वकिली व्यवसायाचा भाग असून त्यांना इतर वकिलांइतकाच (अधिवक्त्यांइतकाच) आदर मिळायला हवा, हे बार ठामपणे मांडत आहे."
-    }
-   }
-  },
-  {
-   "cat": "Other Legal News",
-   "region": "Karnataka",
-   "headline": "Former Supreme Court judge Gopala Gowda says the SIR voter-roll judgment should be recalled",
-   "text": "Former Supreme Court judge V. Gopala Gowda said the Supreme Court's May 2026 judgment upholding the Election Commission's Special Intensive Revision (SIR) of electoral rolls should be recalled, alleging the Commission misrepresented facts to the Court. He urged the Court to check Commission records on whether the full Commission approved the SIR decision. He spoke in an interview with LiveLaw and at a protest at Freedom Park, Bengaluru, on 8 October.",
-   "why": "It adds to calls from retired judges for the Supreme Court to revisit its SIR ruling.",
-   "date": "8 Oct 2026",
-   "src": "https://www.livelaw.in/top-stories/sir-judgment-must-be-recalled-as-eci-played-fraud-on-supreme-court-by-misrepresenting-facts-ex-sc-judge-gopala-gowda-553783",
-   "srcName": "LiveLaw",
-   "i18n": {
-    "hi": {
-     "headline": "सर्वोच्च न्यायालय के पूर्व न्यायाधीश गोपाल गौड़ा बोले: SIR मतदाता सूची निर्णय वापस लिया जाए",
-     "text": "सर्वोच्च न्यायालय के पूर्व न्यायाधीश वी. गोपाल गौड़ा ने कहा कि चुनाव आयोग के मतदाता सूचियों के विशेष गहन पुनरीक्षण (SIR) को बरकरार रखने वाला सर्वोच्च न्यायालय का मई 2026 का निर्णय वापस लिया जाना चाहिए। उनका आरोप है कि आयोग ने अदालत के सामने तथ्यों को गलत ढंग से रखा। उन्होंने अदालत से आयोग के रिकॉर्ड जाँचने का आग्रह किया कि क्या SIR के फ़ैसले को पूरे आयोग ने मंज़ूरी दी थी। उन्होंने यह बात LiveLaw को दिए साक्षात्कार में और 8 अक्टूबर को बेंगलुरु के फ़्रीडम पार्क में एक विरोध प्रदर्शन में कही।",
-     "why": "इससे सेवानिवृत्त न्यायाधीशों की उन माँगों को बल मिलता है कि सर्वोच्च न्यायालय SIR पर अपने निर्णय पर दोबारा विचार करे।"
-    },
-    "mr": {
-     "headline": "सर्वोच्च न्यायालयाचे माजी न्यायाधीश गोपाल गौडा म्हणाले: SIR मतदार यादी निकाल मागे घ्यावा",
-     "text": "सर्वोच्च न्यायालयाचे माजी न्यायाधीश व्ही. गोपाल गौडा यांनी म्हटले की निवडणूक आयोगाच्या मतदार याद्यांच्या विशेष सखोल पुनरीक्षणाला (SIR) कायम ठेवणारा सर्वोच्च न्यायालयाचा मे 2026 चा निकाल मागे घेतला पाहिजे. आयोगाने न्यायालयासमोर तथ्ये चुकीच्या पद्धतीने मांडली, असा त्यांचा आरोप आहे. SIR चा निर्णय संपूर्ण आयोगाने मंजूर केला होता का, हे आयोगाच्या नोंदी तपासून पाहावे, अशी विनंती त्यांनी न्यायालयाला केली. LiveLaw ला दिलेल्या मुलाखतीत आणि 8 ऑक्टोबर रोजी बंगळुरूच्या फ्रीडम पार्क येथील आंदोलनात ते बोलले.",
-     "why": "सर्वोच्च न्यायालयाने SIR वरील आपल्या निकालाचा फेरविचार करावा, या निवृत्त न्यायाधीशांच्या मागणीला यामुळे बळ मिळते."
+     "body": "भारताचे सर्वोच्च न्यायालय",
+     "headline": "वकिलांच्या एका गटाची सर्वोच्च न्यायालयातील सुनावणीत पक्षकार होण्याची मागणी; वकिलांची जागा न्यायालयात आहे, रस्त्यावर नव्हे, असे प्रतिपादन",
+     "text": "ज्येष्ठ वकील Kirti Uppal यांनी वकिलांच्या एका गटाच्या वतीने दिल्लीतील आंदोलनाशी संबंधित निर्बंधांवरील अवमान याचिकांमध्ये पक्षकार करून घेण्यासाठी अर्ज दाखल केला आणि वकिलांच्या सार्वजनिक निदर्शनांमुळे या व्यवसायाचे नुकसान होत असल्याचे सांगितले. त्यांच्या युक्तिवादाला न्यायालय कक्षातील काही वकिलांनी विरोध केला; प्रत्येक बाजूला आपले म्हणणे मांडण्याची समान संधी मिळेल असे खंडपीठाने सांगितले, आणि SCAORA च्या अध्यक्षांनी वकिलांना शांत राहून न्यायालयाची प्रतिष्ठा राखण्याचे आवाहन केले."
     }
    }
   }

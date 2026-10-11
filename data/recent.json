@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-11T13:20+05:30",
+ "updated": "2026-10-11T17:58+05:30",
  "news": [
+  {
+   "edition": "2026-10-11-pm",
+   "headline": "Supreme Court holds special Sunday sitting on Delhi protest curbs; orders removal of Section 163 BNSS board outside court",
+   "src": "https://www.barandbench.com/news/litigation/delhi-protests-supreme-court-orders-no-detentions-traffic-or-metro-restrictions-except-as-per-law"
+  },
+  {
+   "edition": "2026-10-11-pm",
+   "headline": "Lawyers' group seeks to join Supreme Court hearing, says advocates belong in court, not on the street",
+   "src": "https://www.verdictum.in/supreme-court/senior-advocate-kirti-uppal-protest-by-advocates-police-action-delhi-1623793"
+  },
   {
    "edition": "2026-10-09-am",
    "headline": "Former Supreme Court judge Abhay Oka says Justice Ujjal Bhuyan's voter-roll remarks were not improper",
@@ -215,16 +225,6 @@
    "edition": "2026-10-01-pm",
    "headline": "Rajanna R elected Chairperson of Karnataka State Bar Council; Shivamurthy is Vice-Chairperson",
    "src": "https://www.livelaw.in/news-updates/elected-chairman-karnataka-state-bar-council-552663"
-  },
-  {
-   "edition": "2026-10-01-am",
-   "headline": "Allahabad High Court judge calls for less Chief Justice-centric administration and more accountability",
-   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-chief-justice-centric-administration-participative-decision-making-552573"
-  },
-  {
-   "edition": "2026-10-01-am",
-   "headline": "Orissa High Court lawyers to march to Governor's house and stay away from work over judge vacancies",
-   "src": "https://livelaw.in/high-court/orissa-high-court/orissa-high-court-bar-association-hold-peaceful-march-governor-residence-552528"
   }
  ],
  "tribunals": [
@@ -592,7 +592,7 @@
  "latest": {
   "digest": "9 Oct 2026",
   "tribunals": "9 Oct 2026",
-  "news": "2026-10-09-am",
+  "news": "2026-10-11-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"
  }
