@@ -1,0 +1,68 @@
+name: Deploy Nirnay Mitra official-source search
+# Puts worker/mitra.js on Cloudflare (free) with the Anthropic key, then switches the
+# chat box on. Result is written to data/mitra-status.json (readable without Actions access).
+on:
+  push:
+    branches: [main]
+    paths: ["worker/**", ".github/workflows/mitra-worker.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: mitra-worker
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Deploy
+        id: d
+        run: |
+          set +e
+          status(){ printf '{"checked":"%s","ok":%s,"step":"%s","detail":%s,"url":"%s"}\n' "$(date -u +%FT%TZ)" "$1" "$2" "$(printf '%s' "$3" | head -c 600 | python3 -c 'import json,sys;print(json.dumps(sys.stdin.read()))')" "$4" > data/mitra-status.json; }
+          [ -n "$CLOUDFLARE_API_TOKEN" ] || { status false secrets "CLOUDFLARE_API_TOKEN secret is missing" ""; exit 0; }
+          [ -n "$ANTHROPIC_API_KEY" ] || { status false secrets "ANTHROPIC_API_KEY secret is missing" ""; exit 0; }
+          H="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          ACC=$(curl -s -H "$H" "https://api.cloudflare.com/client/v4/accounts?per_page=5" | python3 -c 'import json,sys;d=json.load(sys.stdin);r=d.get("result") or [];print(r[0]["id"] if r else "")')
+          [ -n "$ACC" ] || { status false cloudflare-account "Could not read the Cloudflare account with the token" ""; exit 0; }
+          export CLOUDFLARE_ACCOUNT_ID=$ACC
+          SUB=$(curl -s -H "$H" "https://api.cloudflare.com/client/v4/accounts/$ACC/workers/subdomain" | python3 -c 'import json,sys;d=json.load(sys.stdin);print((d.get("result") or {}).get("subdomain") or "")')
+          if [ -z "$SUB" ]; then
+            for s in nirnaydaily nirnay-daily nirnaydaily-in; do
+              R=$(curl -s -X PUT -H "$H" -H "Content-Type: application/json" -d "{\"subdomain\":\"$s\"}" "https://api.cloudflare.com/client/v4/accounts/$ACC/workers/subdomain")
+              echo "$R" | grep -q '"success":true' && { SUB=$s; break; }
+            done
+          fi
+          [ -n "$SUB" ] || { status false workers-subdomain "Could not set up the workers.dev address: $R" ""; exit 0; }
+          cd worker
+          OUT=$(npx -y wrangler@4 deploy 2>&1); RC=$?
+          [ $RC -eq 0 ] || { cd ..; status false deploy "$(echo "$OUT" | tail -15)" ""; exit 0; }
+          printf '%s' "$ANTHROPIC_API_KEY" | npx -y wrangler@4 secret put ANTHROPIC_API_KEY >/tmp/s.log 2>&1 || { cd ..; status false secret "$(tail -8 /tmp/s.log)" ""; exit 0; }
+          cd ..
+          URL="https://nirnay-mitra.$SUB.workers.dev"
+          for i in 1 2 3 4 5 6; do curl -s -m 15 "$URL" | grep -q 'Nirnay Mitra' && break; sleep 10; done
+          T=$(curl -s -m 60 -X POST -H "Origin: https://nirnaydaily.in" -H "Content-Type: application/json" -d '{"q":"What did the Supreme Court notify about summer vacation 2026?"}' "$URL")
+          sed -i "s#const MITRA_API=\"[^\"]*\";#const MITRA_API=\"$URL\";#" assets/chat.js
+          status true live "$T" "$URL"
+      - name: Commit
+        run: |
+          git config user.name "Nirnay Daily"
+          git config user.email "nirnaydaily@users.noreply.github.com"
+          git add data/mitra-status.json assets/chat.js
+          git diff --cached --quiet && exit 0
+          git commit -m "Nirnay Mitra official-source search: deployment status"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+      - name: Rebuild the website
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages build request not accepted"

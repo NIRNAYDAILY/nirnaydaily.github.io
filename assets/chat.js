@@ -1,6 +1,9 @@
 /* Nirnay Mitra (निर्णय मित्र): a search assistant for everything published on Nirnay Daily.
-   It runs entirely in the reader's browser and only searches this site's own content. */
+   It searches this site's own content in the reader's browser first (instant). When something
+   is not on the site, it asks the Nirnay Mitra search service, which looks it up on official
+   Indian government and court websites only and answers here with official links. */
 (function(){
+  const MITRA_API="";  /* set automatically by .github/workflows/mitra-worker.yml */
   const $ = s => document.querySelector(s);
   const E = s => String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   const norm = s => String(s||"").toLowerCase().replace(/[’']/g,"").replace(/[^a-z0-9ऀ-ॿ. ]/g," ").replace(/\s+/g," ").trim();
@@ -176,11 +179,48 @@
       if(e.type==="judgment") s*=1.15; return [e,s]; }).filter(Boolean).sort((a,b)=>b[1]-a[1]).map(x=>x[0]);
     const seen=new Set(); res=res.filter(e=>{ const k=e.type+"|"+e.t; if(seen.has(k)) return false; seen.add(k); return true; });
     if(res.length){
-      return bot(`<p>Here's what I found on Nirnay Daily for “${E(q)}”:</p>`,res.slice(0,7),null,
+      bot(`<p>Here's what I found on Nirnay Daily for “${E(q)}”:</p>`,res.slice(0,7),null,
         res.length>7?{label:"More results in Landmark Judgments",fn:()=>go("#landmarks",q)}:null);
+      if(MITRA_API){ const c=document.createElement("div"); c.className="nx-chips"; const b=document.createElement("button"); b.className="nx-chip"; b.textContent="Also search official government sites →";
+        b.onclick=()=>{ b.disabled=true; official(q,true); }; c.appendChild(b); log.lastElementChild.appendChild(c); }
+      return;
     }
-    return bot(`<p>I couldn't find “${E(q)}” on Nirnay Daily. Try a case name, an Act, a section (like “section 103 BNS”), a court, or a job/exam.</p>`,null,
-      ["Latest Supreme Court judgments","Judiciary exams open now","Article 21 Constitution","Maharashtra Rent Control Act"]);
+    return official(q,false);
+  }
+
+  /* ---------- official government sources (when it isn't on the site) ---------- */
+  function quickLinks(q){
+    const u=encodeURIComponent(q);
+    return [{k:"Supreme Court of India",t:"Search sci.gov.in for “"+q+"”",s:"sci.gov.in",c:"#1F4E79",go:()=>window.open("https://www.sci.gov.in/?s="+u,"_blank","noopener")},
+            {k:"India Code (Govt. of India)",t:"Search Acts & rules for “"+q+"”",s:"indiacode.gov.in",c:"#1F4E79",go:()=>window.open("https://indiacode.gov.in/search?query="+u,"_blank","noopener")}];
+  }
+  function official(q,also){
+    const lead=also?`<p>Checking official government and court websites for “${E(q)}”…</p>`
+      :`<p>“${E(q)}” isn't on Nirnay Daily yet. Checking official government and court websites…</p>`;
+    if(!MITRA_API){ return bot(`<p>I couldn't find “${E(q)}” on Nirnay Daily. You can search the official websites directly:</p>`,quickLinks(q),
+      ["Latest Supreme Court judgments","Judiciary exams open now","Article 21 Constitution"]); }
+    bot(lead+`<p class="nx-wait"><span></span><span></span><span></span></p>`);
+    const box=log.lastElementChild, t0=Date.now();
+    const ctl=new AbortController(); const timer=setTimeout(()=>ctl.abort(),60000);
+    fetch(MITRA_API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({q}),signal:ctl.signal})
+      .then(r=>r.json()).catch(()=>({status:"error"})).then(d=>{
+        clearTimeout(timer); box.remove();
+        try{ window.nirnayTrack&&window.nirnayTrack("official_search",{search_term:q.slice(0,100),status:d.status||"error",secs:Math.round((Date.now()-t0)/1000)}); }catch(e){}
+        if(d.status==="offtopic") return offTopic();
+        const links=(d.links||[]).map(l=>{ let h=""; try{h=new URL(l.url).hostname.replace(/^www\./,"");}catch(e){}
+          return {k:"Official source",t:l.title||h,s:h,c:"#1F4E79",go:()=>window.open(l.url,"_blank","noopener")}; });
+        if(d.status==="ok"){
+          const html=E(d.answer).split(/\n+/).map(p=>`<p>${p}</p>`).join("");
+          return bot(`<p class="nx-src">From official government sources:</p>${html}<p class="nx-src">Check the official page below before relying on it. Not legal advice.</p>`,links);
+        }
+        if(d.status==="notfound") return bot(`<p>I couldn't find “${E(q)}” on Nirnay Daily or on the official websites I checked. Try the case title, party name, Act or notification number, or search the official sites directly:</p>`,links.length?links:quickLinks(q));
+        return bot(`<p>${E(d.error||"The official-source search isn't available right now.")} You can search the official websites directly:</p>`,quickLinks(q));
+      });
+  }
+  function offTopic(){
+    bot(`<p class="nx-err"><b>Sorry, Nirnay Mitra only answers questions about Indian law, courts, government notifications and legal careers.</b> Starting a new chat…</p>`);
+    input.disabled=true;
+    setTimeout(()=>{ log.innerHTML=""; input.disabled=false; greet(); input.focus(); },3000);
   }
 
   /* ---------- chat UI ---------- */
@@ -212,12 +252,15 @@
     panel.innerHTML=`<div class="nx-head"><svg class="nx-seal" viewBox="0 0 400 400"><use href="#seal-mark"/></svg><div><b>NIRNAY MITRA <span class="nx-dv">निर्णय मित्र</span></b><small>Your guide to judgments, Acts, sections & careers</small></div><button class="nx-close" type="button" aria-label="Close">×</button></div>
       <div class="nx-log" role="log" aria-live="polite"></div>
       <form class="nx-form"><input type="text" placeholder="e.g. section 318 BNS, Puttaswamy, LLM admission" aria-label="Ask a question" autocomplete="off"><button type="submit">Ask</button></form>
-      <div class="nx-note">Searches Nirnay Daily's own pages. Not legal advice.</div>`;
+      <div class="nx-note">Searches Nirnay Daily, then official government websites. Not legal advice.</div>`;
     document.body.appendChild(panel); document.body.appendChild(fab);
     log=panel.querySelector(".nx-log"); input=panel.querySelector("input");
     fab.onclick=()=>toggle(); panel.querySelector(".nx-close").onclick=()=>toggle(false);
     panel.querySelector("form").onsubmit=ev=>{ ev.preventDefault(); const t=input.value; input.value=""; if(t.trim()) ask(t); };
     document.addEventListener("keydown",ev=>{ if(ev.key==="Escape"&&!panel.hidden) toggle(false); });
+    greet();
+  }
+  function greet(){
     bot(`<p><b>Namaste! I'm Nirnay Mitra.</b> I can help you find anything on Nirnay Daily: a case or judgment, a Bare Act or a specific section, today's court and tribunal updates, or jobs, exams and LLM admissions.</p><p>Type your question, or try one of these:</p>`,null,
       ["Section 103 BNS","Article 21 Constitution","Latest legal news","Latest Supreme Court judgments","Judiciary exams open now","Right to privacy","Maharashtra Rent Control Act","Jobs closing soon"]);
   }
