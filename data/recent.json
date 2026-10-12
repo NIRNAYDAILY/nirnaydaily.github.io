@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-12T13:27+05:30",
+ "updated": "2026-10-12T18:19+05:30",
  "news": [
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "CJI Surya Kant at NHRC Foundation Day: courts must step in when constitutional rights are violated",
+   "src": "https://www.barandbench.com/news/courts-must-intervene-when-constitutional-rights-are-violated-cji-surya-kant"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "Bombay High Court at Goa holds special Sunday sitting, orders release of seven anti-ECI protesters",
+   "src": "https://barandbench.com/news/sunday-hearing-bombay-high-court-orders-release-of-protestors-detainedover-anti-eci-protests"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "Supreme Court orders special police team to probe alleged assault on lawyers who protested outside BCI office",
+   "src": "https://verdictum.in/supreme-court/delhi-police-commissioner-to-ensure-probe-into-alleged-assault-on-lawyers-outside-bci-office-1623856"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "SCBA moves Supreme Court over detention of lawyers near the court during CEC protests",
+   "src": "https://www.livelaw.in/top-stories/scba-moves-supreme-court-over-lawyers-detention-internet-suspension-amid-cec-protests-554212"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "Bar bodies in Gujarat, Karnataka and Punjab-Haryana back lawyers detained during Delhi protests",
+   "src": "https://barandbench.com/news/litigation/bar-bodies-across-india-stand-in-solidarity-with-lawyers-detained-assaulted-during-delhi-protests"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "Lawyers read the Preamble together at the Delhi High Court",
+   "src": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-12-october-2026-554188"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "Delhi Police removes Jantar Mantar as a protest venue; Ramlila, Burari and CBD grounds designated instead",
+   "src": "https://www.barandbench.com/news/jantar-mantar-de-notified-as-protest-venue-by-delhi-police-three-new-venues-designated"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "NLUJA Assam confers 107 degrees at its fourth convocation",
+   "src": "https://www.livelaw.in/news-updates/nluja-assam-holds-fourth-convocation-justices-vikram-nath-ujjal-bhuyan-address-graduates-554260"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "Supreme Court says it has not ruled on the new voter registration Form 6",
+   "src": "https://www.livelaw.in/top-stories/new-form-6-wasnt-there-when-bihar-sir-judgment-was-delivered-we-havent-adjudicated-on-it-supreme-court-554233"
+  },
+  {
+   "edition": "2026-10-12-pm",
+   "headline": "Rajya Sabha MP AA Rahim moves Supreme Court over alleged detention and assault of DYFI members",
+   "src": "https://www.livelaw.in/top-stories/rajya-sabha-mp-aa-rahim-moves-supreme-court-alleging-illegal-detention-assault-of-dyfi-members-during-delhi-cec-protests-554251"
+  },
   {
    "edition": "2026-10-12-am",
    "headline": "CJI Surya Kant declines opposition leaders' request for a meeting on SIR and the CEC",
@@ -215,21 +265,6 @@
    "edition": "2026-10-03-am",
    "headline": "Lawyers' body sets up ex-judges' commission to examine the SIR voter-roll revision",
    "src": "https://www.livelaw.in/top-stories/lawyers-body-forms-ex-judges-commission-to-examine-sirs-legality-impact-552879"
-  },
-  {
-   "edition": "2026-10-02-am",
-   "headline": "Indian jurist Bimal N. Patel sworn in as judge of the Law of the Sea tribunal",
-   "src": "https://www.livelaw.in/news-updates/jurist-bimal-patel-oath-judge-of-international-tribunal-for-the-law-of-the-sea-552754"
-  },
-  {
-   "edition": "2026-10-02-am",
-   "headline": "Plea challenges Delhi's 15% deputation and contract route for Additional Public Prosecutors",
-   "src": "https://www.barandbench.com/news/plea-in-delhi-high-court-challenges-appointment-of-additional-public-prosecutors-on-deputation-short-term-contracts"
-  },
-  {
-   "edition": "2026-10-02-am",
-   "headline": "Petition in Supreme Court challenges orders mandating all six stanzas of Vande Mataram",
-   "src": "https://www.barandbench.com/news/buddhist-activist-moves-supreme-court-against-singing-full-version-of-vande-mataram-terms-it-islamophobic"
   }
  ],
  "tribunals": [
@@ -597,7 +632,7 @@
  "latest": {
   "digest": "9 Oct 2026",
   "tribunals": "9 Oct 2026",
-  "news": "2026-10-12-am",
+  "news": "2026-10-12-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"
  }
