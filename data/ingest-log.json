@@ -1,8 +1,6 @@
 {
- "ran": "2026-10-12T10:00+05:30",
- "processed": [
-  "news_2026-10-12-am.json: legal news 2026-10-12-am: 4 items"
- ],
+ "ran": "2026-10-12T13:27+05:30",
+ "processed": [],
  "errors": [],
  "notes": []
 }
