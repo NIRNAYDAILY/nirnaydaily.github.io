@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-12T00:23+05:30",
+ "updated": "2026-10-12T10:00+05:30",
  "news": [
+  {
+   "edition": "2026-10-12-am",
+   "headline": "CJI Surya Kant declines opposition leaders' request for a meeting on SIR and the CEC",
+   "src": "https://www.barandbench.com/news/litigation/cji-surya-kant-declines-meeting-with-rahul-gandhi-mallikarjuna-kharge-says-approach-court-judicially"
+  },
+  {
+   "edition": "2026-10-12-am",
+   "headline": "Justice BV Nagarathna: Juvenile Justice Act is clear on paper but weak in implementation",
+   "src": "https://www.livelaw.in/top-stories/when-child-breaks-the-law-law-must-not-break-the-child-justice-bv-nagarathna-554139"
+  },
+  {
+   "edition": "2026-10-12-am",
+   "headline": "SCAORA moves Supreme Court for probe into police action against lawyers during 10 October protest",
+   "src": "https://www.livelaw.in/top-stories/scaora-moves-supreme-court-police-excess-lawyers-during-cec-protest-554162"
+  },
+  {
+   "edition": "2026-10-12-am",
+   "headline": "Rajya Sabha MP John Brittas writes to CJI alleging police assault, seeks court-monitored probe",
+   "src": "https://www.livelaw.in/top-stories/rajya-sabha-mp-john-brittas-writes-to-cji-alleging-delhi-police-assault-seeks-judicial-intervention-554156"
+  },
   {
    "edition": "2026-10-11-pm",
    "headline": "Supreme Court holds special Sunday sitting on Delhi protest curbs; orders removal of Section 163 BNSS board outside court",
@@ -210,21 +230,6 @@
    "edition": "2026-10-02-am",
    "headline": "Petition in Supreme Court challenges orders mandating all six stanzas of Vande Mataram",
    "src": "https://www.barandbench.com/news/buddhist-activist-moves-supreme-court-against-singing-full-version-of-vande-mataram-terms-it-islamophobic"
-  },
-  {
-   "edition": "2026-10-01-pm",
-   "headline": "Retired judge heading a West Bengal voter-roll appeals tribunal offers to resign over 70-km daily commute",
-   "src": "https://www.livelaw.in/news-updates/west-bengal-sir-appellate-tribunal-judge-offers-to-resign-cites-70-km-daily-commute-552652"
-  },
-  {
-   "edition": "2026-10-01-pm",
-   "headline": "Supreme Court asks Attorney General to consider raising the 25-member cap on State Bar Councils",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-asks-ag-to-consider-plea-to-enhance-state-bar-councils-strength-552661"
-  },
-  {
-   "edition": "2026-10-01-pm",
-   "headline": "Rajanna R elected Chairperson of Karnataka State Bar Council; Shivamurthy is Vice-Chairperson",
-   "src": "https://www.livelaw.in/news-updates/elected-chairman-karnataka-state-bar-council-552663"
   }
  ],
  "tribunals": [
@@ -592,7 +597,7 @@
  "latest": {
   "digest": "9 Oct 2026",
   "tribunals": "9 Oct 2026",
-  "news": "2026-10-11-pm",
+  "news": "2026-10-12-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"
  }
