@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-12",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1809,6 +1809,116 @@
    "pdf": "judgments/sc/pdf/charming-rupon-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 331959
+  },
+  {
+   "slug": "umesh-chand-2026",
+   "name": "Umesh Chand v. State of U.P",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-07.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2273,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=10152026&type=j&order_date=2026-10-07&from=latest_judgements_order",
+   "added": "2026-10-12",
+   "keys": [
+    "umesh chand",
+    "state of u p"
+   ],
+   "citation": "2026 INSC 1114",
+   "caseNo": "Crl.A. No. 4882-4883/2026",
+   "date": "2026-10-07",
+   "pdf": "judgments/sc/pdf/umesh-chand-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 550126
+  },
+  {
+   "slug": "union-india-2026-2",
+   "name": "Union of India through Its Secretary v. Sgt Girish Kumar and Ors",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-12.json",
+   "pages": 4,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 801,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=435232026&type=j&order_date=2026-10-12&from=latest_judgements_order",
+   "added": "2026-10-12",
+   "keys": [
+    "union of india through its secretary",
+    "sgt girish kumar and ors"
+   ],
+   "citation": "2026 INSC 1113",
+   "caseNo": "MA 3060/2026 in C.A. No. 6820-6824/2018",
+   "date": "2026-10-12",
+   "pdf": "judgments/sc/pdf/union-india-2026-2.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 214347
+  },
+  {
+   "slug": "arcis-clean-2026",
+   "name": "Arcis Clean Energy Pvt. Ltd v. Parshva Innovation",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-12.json",
+   "pages": 18,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3894,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=707112025&type=j&order_date=2026-10-12&from=latest_judgements_order",
+   "added": "2026-10-12",
+   "keys": [
+    "arcis clean energy pvt ltd",
+    "parshva innovation"
+   ],
+   "citation": "2026 INSC 1109",
+   "caseNo": "C.A. No. 13663/2026",
+   "date": "2026-10-12",
+   "pdf": "judgments/sc/pdf/arcis-clean-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 707490
+  },
+  {
+   "slug": "hemant-d-2026",
+   "name": "Hemant D. Shah Huf v. Chittaranjan D. Shah Huf",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-12.json",
+   "pages": 10,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1961,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=461642026&type=j&order_date=2026-10-12&from=latest_judgements_order",
+   "added": "2026-10-12",
+   "keys": [
+    "hemant d shah huf",
+    "chittaranjan d shah huf"
+   ],
+   "citation": "2026 INSC 1111",
+   "caseNo": "C.A. No. 13686/2026",
+   "date": "2026-10-12",
+   "pdf": "judgments/sc/pdf/hemant-d-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 546744
+  },
+  {
+   "slug": "hardev-construction-2026",
+   "name": "Hardev Construction Private Limited v. Union of India",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-12.json",
+   "pages": 7,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1309,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=447362026&type=j&order_date=2026-10-12&from=latest_judgements_order",
+   "added": "2026-10-12",
+   "keys": [
+    "hardev construction private limited",
+    "union of india"
+   ],
+   "citation": "2026 INSC 1110",
+   "caseNo": "C.A. No. 13685/2026",
+   "date": "2026-10-12",
+   "pdf": "judgments/sc/pdf/hardev-construction-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 515326
   }
  ]
 }
