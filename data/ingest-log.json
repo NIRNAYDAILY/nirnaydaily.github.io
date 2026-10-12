@@ -1,11 +1,8 @@
 {
- "ran": "2026-10-12T19:35+05:30",
+ "ran": "2026-10-12T22:22+05:30",
  "processed": [
-  "sc_2026-10-07-auto.json: supreme court full texts: 1 added",
-  "sc_2026-10-12-auto.json: supreme court full texts: 4 added, 1 could not be verified"
+  "sc_2026-10-12-auto.json: supreme court full texts: 1 added"
  ],
  "errors": [],
- "notes": [
-  "Supreme Court judgments not hosted: Haramani Sahoo v. Lalita Nayak: download is not a PDF (the site may have refused it)"
- ]
+ "notes": []
 }

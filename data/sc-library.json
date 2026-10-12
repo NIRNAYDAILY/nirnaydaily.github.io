@@ -1919,6 +1919,28 @@
    "pdf": "judgments/sc/pdf/hardev-construction-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 515326
+  },
+  {
+   "slug": "haramani-sahoo-2026",
+   "name": "Haramani Sahoo v. Lalita Nayak",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-12.json",
+   "pages": 23,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5620,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=302432023&type=j&order_date=2026-10-12&from=latest_judgements_order",
+   "added": "2026-10-12",
+   "keys": [
+    "haramani sahoo",
+    "lalita nayak"
+   ],
+   "citation": "2026 INSC 1112",
+   "caseNo": "C.A. No. 13681/2026",
+   "date": "2026-10-12",
+   "pdf": "judgments/sc/pdf/haramani-sahoo-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 576973
   }
  ]
 }
