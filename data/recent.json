@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-13T00:27+05:30",
+ "updated": "2026-10-13T10:10+05:30",
  "news": [
+  {
+   "edition": "2026-10-13-am",
+   "headline": "SCBA and SCAORA condemn social media calls for CJI Surya Kant's resignation",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-bar-association-condemns-calls-for-cji-surya-kants-resignation-554318"
+  },
+  {
+   "edition": "2026-10-13-am",
+   "headline": "Over 50 Bombay High Court lawyers read the Preamble in a symbolic protest near the court",
+   "src": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-advocates-protest-read-preamble-554327"
+  },
+  {
+   "edition": "2026-10-13-am",
+   "headline": "Karnataka notifies statewide SOP for quick response to pregnancies of minor girls",
+   "src": "https://www.verdictum.in/karnataka-high-court/ms-x-v-state-of-karnataka-and-others-2026khc56135-sop-underage-pregnancies-1623861"
+  },
+  {
+   "edition": "2026-10-13-am",
+   "headline": "Journalists' groups ask Supreme Court for rules on police conduct towards reporters at protests",
+   "src": "https://www.livelaw.in/top-stories/plea-filed-in-supreme-court-against-detention-assault-of-journalists-covering-delhi-protests-554349"
+  },
   {
    "edition": "2026-10-12-pm",
    "headline": "CJI Surya Kant at NHRC Foundation Day: courts must step in when constitutional rights are violated",
@@ -255,16 +275,6 @@
    "edition": "2026-10-04-am",
    "headline": "Youth Congress moves Delhi High Court after police refuse Jantar Mantar protest",
    "src": "https://www.livelaw.in/top-stories/indian-youth-congress-moves-delhi-high-court-against-denial-of-permission-to-protest-against-cec-gyanesh-kumar-at-jantar-mantar-552966"
-  },
-  {
-   "edition": "2026-10-03-am",
-   "headline": "Gujarat Uniform Civil Code Bill gets the President's assent",
-   "src": "https://www.livelaw.in/news-updates/president-gives-assent-to-gujarats-uniform-civil-code-552901"
-  },
-  {
-   "edition": "2026-10-03-am",
-   "headline": "Lawyers' body sets up ex-judges' commission to examine the SIR voter-roll revision",
-   "src": "https://www.livelaw.in/top-stories/lawyers-body-forms-ex-judges-commission-to-examine-sirs-legality-impact-552879"
   }
  ],
  "tribunals": [
@@ -632,7 +642,7 @@
  "latest": {
   "digest": "9 Oct 2026",
   "tribunals": "9 Oct 2026",
-  "news": "2026-10-12-pm",
+  "news": "2026-10-13-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"
  }
