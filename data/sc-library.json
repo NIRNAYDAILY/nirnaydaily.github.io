@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1941,6 +1941,28 @@
    "pdf": "judgments/sc/pdf/haramani-sahoo-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 576973
+  },
+  {
+   "slug": "maharashtra-2026-2",
+   "name": "The State of Maharashtra v. Sudhir S/o Motiramji Hiwarkar",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-13.json",
+   "pages": 8,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1765,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=87782016&type=j&order_date=2026-10-13&from=latest_judgements_order",
+   "added": "2026-10-13",
+   "keys": [
+    "the state of maharashtra",
+    "sudhir s o motiramji hiwarkar"
+   ],
+   "citation": "2026 INSC 1118",
+   "caseNo": "C.A. No. 2963-2964/2016",
+   "date": "2026-10-13",
+   "pdf": "judgments/sc/pdf/maharashtra-2026-2.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 219725
   }
  ]
 }
