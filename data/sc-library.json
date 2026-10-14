@@ -2095,6 +2095,72 @@
    "pdf": "judgments/sc/pdf/assistant-commissioner-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 253399
+  },
+  {
+   "slug": "b-c-2026",
+   "name": "Dr. B.C. Roy Engineering College v. The State of West Bengal",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 27,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6289,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=205492026&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "dr b c roy engineering college",
+    "the state of west bengal"
+   ],
+   "citation": "2026 INSC 1120",
+   "caseNo": "C.A. No. 13769/2026",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/b-c-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 442486
+  },
+  {
+   "slug": "sanjay-prasad-2026",
+   "name": "Sanjay Prasad v. Madhusudan Dwivedi",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 30,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 8580,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=569462026&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "sanjay prasad",
+    "madhusudan dwivedi"
+   ],
+   "citation": "2026 INSC 1128",
+   "caseNo": "C.A. No. 13745/2026",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/sanjay-prasad-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 538412
+  },
+  {
+   "slug": "mohd-asad-2026",
+   "name": "Mohd. Asad Choudhary v. State of Himachal Pradesh",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 14,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2313,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=437132025&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "mohd asad choudhary",
+    "state of himachal pradesh"
+   ],
+   "citation": "2026 INSC 1127",
+   "caseNo": "C.A. No. 13767/2026",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/mohd-asad-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 272294
   }
  ]
 }
