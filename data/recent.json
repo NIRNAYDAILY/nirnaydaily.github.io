@@ -1,6 +1,31 @@
 {
- "updated": "2026-10-14T13:40+05:30",
+ "updated": "2026-10-14T18:29+05:30",
  "news": [
+  {
+   "edition": "2026-10-14-pm",
+   "headline": "Allahabad High Court orders fix for MP/MLA cases listed before the wrong benches",
+   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-mp-mla-cases-non-designated-courts-cause-list-554621"
+  },
+  {
+   "edition": "2026-10-14-pm",
+   "headline": "Nitin Ahlawat elected Chairman of the Bar Council of Delhi",
+   "src": "https://www.livelaw.in/news-updates/bar-council-delhi-elects-new-office-bearers-554610"
+  },
+  {
+   "edition": "2026-10-14-pm",
+   "headline": "SCBA issues show cause notice to advocate Balraj Malik over face-off with its President",
+   "src": "https://www.barandbench.com/news/litigation/scba-issues-show-cause-notice-to-balraj-malik-over-face-off-with-president-pradeep-rai"
+  },
+  {
+   "edition": "2026-10-14-pm",
+   "headline": "NLSIU Bengaluru wins the Manfred Lachs Space Law Moot world finals",
+   "src": "https://www.barandbench.com/Law-School/moot-courts/nlsiu-team-wins-manfred-lachs-space-law-moot-2026"
+  },
+  {
+   "edition": "2026-10-14-pm",
+   "headline": "Asaduddin Owaisi moves Supreme Court against the SIR of electoral rolls",
+   "src": "https://lawbeat.in/amp/top-stories/asaduddin-owaisi-moves-supreme-court-challenging-sir-of-electoral-rolls-1641612"
+  },
   {
    "edition": "2026-10-14-am",
    "headline": "Kerala High Court bars lawyers' 'symbolic impeachment' of the CEC inside court premises",
@@ -280,11 +305,6 @@
    "edition": "2026-10-05-pm",
    "headline": "NUSRL Ranchi women students protest over campus safety and hostel rules",
    "src": "https://barandbench.com/Law-School/nusrl-ranchi-students-hold-protest-over-womens-safety-and-hostel-restrictions"
-  },
-  {
-   "edition": "2026-10-05-am",
-   "headline": "Justice Ujjal Bhuyan: any process that disenfranchises millions of voters is arbitrary",
-   "src": "https://www.livelaw.in/top-stories/any-process-taking-away-voting-rights-of-millions-of-citizens-is-unjustifiable-no-court-can-condone-it-justice-ujjal-bhuyan-553012"
   }
  ],
  "tribunals": [
@@ -647,7 +667,7 @@
  "latest": {
   "digest": "14 Oct 2026",
   "tribunals": "14 Oct 2026",
-  "news": "2026-10-14-am",
+  "news": "2026-10-14-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-14"
  }

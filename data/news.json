@@ -1,110 +1,126 @@
 {
  "edition": {
-  "edition_id": "2026-10-14-am",
+  "edition_id": "2026-10-14-pm",
   "iso": "2026-10-14",
-  "slot": "10 AM",
+  "slot": "6 PM",
   "dateShort": "14 Oct 2026",
-  "dateLong": "Wednesday, 14 October 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 13 October to 10:00 AM IST, 14 October 2026"
+  "dateLong": "Wednesday, 14 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 14 October 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "Kerala",
-   "body": "Kerala High Court",
-   "headline": "Kerala High Court bars lawyers' 'symbolic impeachment' of the CEC inside court premises",
-   "text": "The Kerala High Court's Registrar General directed the Indian Association of Lawyers on 13 October not to assemble or hold any protest, demonstration or 'symbolic impeachment' of the Chief Election Commissioner inside the High Court premises, as no permission had been sought or granted. The direction followed a complaint to the Chief Justice by the High Court unit of the Bharatheeya Abhibhashaka Parishad. The event was then moved to the car porch of the nearby Chamber Complex building.",
-   "why": "It shows how High Courts are regulating lawyers' protests on court premises amid the nationwide agitation over the Election Commission.",
-   "date": "13 Oct 2026",
-   "src": "https://www.verdictum.in/news/indian-association-of-lawyers-protest-chief-election-commissioner-of-india-sir-1623910",
-   "srcName": "Verdictum",
-   "i18n": {
-    "hi": {
-     "body": "केरल उच्च न्यायालय",
-     "headline": "केरल उच्च न्यायालय ने परिसर के भीतर वकीलों के मुख्य चुनाव आयुक्त के 'प्रतीकात्मक महाभियोग' पर रोक लगाई",
-     "text": "केरल उच्च न्यायालय के रजिस्ट्रार जनरल ने 13 अक्टूबर को Indian Association of Lawyers को निर्देश दिया कि वह उच्च न्यायालय परिसर के भीतर न तो इकट्ठा हो और न ही मुख्य चुनाव आयुक्त के विरुद्ध कोई विरोध, प्रदर्शन या 'प्रतीकात्मक महाभियोग' करे, क्योंकि इसके लिए न अनुमति मांगी गई थी और न दी गई थी। यह निर्देश Bharatheeya Abhibhashaka Parishad की उच्च न्यायालय इकाई द्वारा मुख्य न्यायाधीश को दी गई शिकायत के बाद आया। इसके बाद यह कार्यक्रम पास के चैंबर कॉम्प्लेक्स भवन के कार पोर्च में ले जाया गया।",
-     "why": "इससे पता चलता है कि चुनाव आयोग को लेकर देशभर में चल रहे आंदोलन के बीच उच्च न्यायालय अपने परिसर में वकीलों के विरोध प्रदर्शनों को कैसे नियंत्रित कर रहे हैं।"
-    },
-    "mr": {
-     "body": "केरळ उच्च न्यायालय",
-     "headline": "केरळ उच्च न्यायालयाने परिसरात वकिलांच्या मुख्य निवडणूक आयुक्तांवरील 'प्रतीकात्मक महाभियोगा'ला मनाई केली",
-     "text": "केरळ उच्च न्यायालयाच्या रजिस्ट्रार जनरल यांनी 13 ऑक्टोबर रोजी Indian Association of Lawyers ला निर्देश दिले की उच्च न्यायालय परिसरात एकत्र जमू नये आणि मुख्य निवडणूक आयुक्तांविरोधात कोणतेही आंदोलन, निदर्शने किंवा 'प्रतीकात्मक महाभियोग' करू नये, कारण त्यासाठी परवानगी मागितली नव्हती आणि दिलीही नव्हती. Bharatheeya Abhibhashaka Parishad च्या उच्च न्यायालय शाखेने मुख्य न्यायमूर्तींकडे केलेल्या तक्रारीनंतर हे निर्देश देण्यात आले. त्यानंतर हा कार्यक्रम जवळच्या चेंबर कॉम्प्लेक्स इमारतीच्या कार पोर्चमध्ये हलवण्यात आला.",
-     "why": "निवडणूक आयोगाविरोधात देशभर सुरू असलेल्या आंदोलनादरम्यान उच्च न्यायालये आपल्या परिसरातील वकिलांच्या आंदोलनांचे नियमन कसे करत आहेत, हे यातून दिसते."
-    }
-   }
-  },
-  {
-   "cat": "Bar & Bar Councils",
-   "region": "Jammu & Kashmir and Ladakh",
-   "body": "High Court of Jammu & Kashmir and Ladakh",
-   "headline": "J&K and Ladakh High Court makes AIBE compulsory for advocates enrolled since 2009-10",
-   "text": "The High Court of Jammu & Kashmir and Ladakh has made the All India Bar Examination (AIBE) mandatory for advocates in the two Union Territories who graduated in 2009-10 or later and have not yet passed it. The Full Court accepted its Rules Committee's recommendation on 8 October and the Registrar General issued the notification on 10 October; it was reported on 14 October. New and provisionally enrolled advocates will get an absolute enrolment certificate only after passing the AIBE and producing a BCI Certificate of Practice within two years.",
-   "why": "It brings advocates in J&K and Ladakh in line with the BCI rule that has applied elsewhere since 2009-10.",
-   "date": "14 Oct 2026",
-   "src": "https://barandbench.com/news/jammu-and-kashmir-high-court-makes-aibe-mandatory-for-advocates-enrolled-since-2009-10",
-   "srcName": "Bar & Bench",
-   "i18n": {
-    "hi": {
-     "body": "जम्मू-कश्मीर और लद्दाख उच्च न्यायालय",
-     "headline": "जम्मू-कश्मीर और लद्दाख उच्च न्यायालय ने 2009-10 से नामांकित वकीलों के लिए AIBE अनिवार्य किया",
-     "text": "जम्मू-कश्मीर और लद्दाख उच्च न्यायालय ने दोनों केंद्र शासित प्रदेशों के उन वकीलों के लिए ऑल इंडिया बार एग्ज़ामिनेशन (AIBE) अनिवार्य कर दिया है, जिन्होंने 2009-10 या उसके बाद स्नातक किया है और अभी तक यह परीक्षा पास नहीं की है। पूर्ण न्यायालय ने 8 अक्टूबर को अपनी नियम समिति की सिफ़ारिश स्वीकार की और रजिस्ट्रार जनरल ने 10 अक्टूबर को अधिसूचना जारी की; इसकी ख़बर 14 अक्टूबर को आई। नए और अस्थायी रूप से नामांकित वकीलों को स्थायी नामांकन प्रमाणपत्र तभी मिलेगा जब वे दो वर्ष के भीतर AIBE पास करके BCI का सर्टिफ़िकेट ऑफ़ प्रैक्टिस प्रस्तुत करेंगे।",
-     "why": "इससे जम्मू-कश्मीर और लद्दाख के वकील भी BCI के उस नियम के दायरे में आ जाते हैं जो बाकी देश में 2009-10 से लागू है।"
-    },
-    "mr": {
-     "body": "जम्मू-काश्मीर आणि लडाख उच्च न्यायालय",
-     "headline": "जम्मू-काश्मीर आणि लडाख उच्च न्यायालयाने 2009-10 पासून नोंदणी झालेल्या वकिलांसाठी AIBE बंधनकारक केली",
-     "text": "जम्मू-काश्मीर आणि लडाख उच्च न्यायालयाने दोन्ही केंद्रशासित प्रदेशांतील ज्या वकिलांनी 2009-10 किंवा त्यानंतर पदवी घेतली आहे आणि अद्याप ही परीक्षा उत्तीर्ण केलेली नाही, त्यांच्यासाठी ऑल इंडिया बार एक्झामिनेशन (AIBE) बंधनकारक केली आहे. पूर्ण न्यायालयाने 8 ऑक्टोबर रोजी नियम समितीची शिफारस स्वीकारली आणि रजिस्ट्रार जनरल यांनी 10 ऑक्टोबर रोजी अधिसूचना जारी केली; याचे वृत्त 14 ऑक्टोबर रोजी प्रसिद्ध झाले. नव्याने आणि तात्पुरत्या स्वरूपात नोंदणी झालेल्या वकिलांना दोन वर्षांच्या आत AIBE उत्तीर्ण होऊन BCI चे सर्टिफिकेट ऑफ प्रॅक्टिस सादर केल्यानंतरच कायमस्वरूपी नोंदणी प्रमाणपत्र मिळेल.",
-     "why": "यामुळे जम्मू-काश्मीर आणि लडाखमधील वकीलही BCI च्या त्या नियमाच्या कक्षेत येतात, जो उर्वरित देशात 2009-10 पासून लागू आहे."
-    }
-   }
-  },
-  {
-   "cat": "Bar & Bar Councils",
    "region": "Uttar Pradesh",
-   "body": "Allahabad High Court, Lucknow Bench",
-   "headline": "Allahabad High Court sets campaign rules for Oudh Bar Association elections",
-   "text": "The Lucknow Bench of the Allahabad High Court has barred candidates in the upcoming Oudh Bar Association elections from putting up posters, stickers or banners in or around the court, holding processions or distributing food on the premises, and handing out pamphlets within 100 metres of the compound. Violations may lead to debarment from the election, a reference to the Bar Council or contempt action. The court said the Elders' Committee is primarily responsible for a free and fair election and that going to court should be the last resort.",
-   "why": "It sets clear limits on campaigning inside court premises for a bar election.",
-   "date": "13 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-oudh-bar-association-elections-554516",
+   "body": "Allahabad High Court",
+   "headline": "Allahabad High Court orders fix for MP/MLA cases listed before the wrong benches",
+   "text": "Hearing its 2023 suo motu PIL on monitoring criminal cases against sitting MPs and MLAs, a Division Bench found that such cases were being listed before non-designated benches or placed low in the cause list, so they were effectively not heard. It told the Registry to list them before the designated benches and asked for the monitoring portal to be upgraded with colour-coded timelines, reasons for delay and automatic reports. A revised status chart is due within three weeks; the next hearing is on 6 November.",
+   "why": "Trials against legislators are meant to be fast-tracked, and listing lapses at the High Court were stalling them.",
+   "date": "14 Oct 2026",
+   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-mp-mla-cases-non-designated-courts-cause-list-554621",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "body": "इलाहाबाद उच्च न्यायालय, लखनऊ पीठ",
-     "headline": "इलाहाबाद उच्च न्यायालय ने Oudh Bar Association चुनाव के लिए प्रचार के नियम तय किए",
-     "text": "इलाहाबाद उच्च न्यायालय की लखनऊ पीठ ने Oudh Bar Association के आगामी चुनाव के उम्मीदवारों पर न्यायालय के भीतर या आसपास पोस्टर, स्टिकर या बैनर लगाने, परिसर में जुलूस निकालने या भोजन बांटने, और परिसर के 100 मीटर के भीतर पर्चे बांटने पर रोक लगा दी है। उल्लंघन करने पर उम्मीदवार को चुनाव से वंचित किया जा सकता है, मामला बार काउंसिल को भेजा जा सकता है या न्यायालय की अवमानना की कार्रवाई हो सकती है। न्यायालय ने कहा कि स्वतंत्र और निष्पक्ष चुनाव की मुख्य ज़िम्मेदारी एल्डर्स कमेटी की है और न्यायालय जाना अंतिम उपाय होना चाहिए।",
-     "why": "यह आदेश न्यायालय परिसर के भीतर बार चुनाव के प्रचार की स्पष्ट सीमाएँ तय करता है।"
+     "body": "इलाहाबाद उच्च न्यायालय",
+     "headline": "सांसदों/विधायकों के मुक़दमे गलत पीठों के सामने सूचीबद्ध होने पर इलाहाबाद उच्च न्यायालय ने सुधार का आदेश दिया",
+     "text": "मौजूदा सांसदों और विधायकों के खिलाफ आपराधिक मामलों की निगरानी पर 2023 में स्वतः दर्ज जनहित याचिका की सुनवाई करते हुए खंडपीठ ने पाया कि ऐसे मामले उन पीठों के सामने सूचीबद्ध हो रहे थे जो इनके लिए नामित नहीं हैं, या वाद सूची में बहुत नीचे रखे जा रहे थे, जिससे उनकी सुनवाई ही नहीं हो पा रही थी। न्यायालय ने रजिस्ट्री को इन्हें नामित पीठों के सामने सूचीबद्ध करने को कहा और निगरानी पोर्टल में रंगों से समय-सीमा दिखाने, देरी का कारण दर्ज करने और अपने-आप रिपोर्ट बनाने की सुविधा जोड़ने को कहा। संशोधित स्थिति चार्ट तीन सप्ताह में देना है; अगली सुनवाई 6 नवंबर को है।",
+     "why": "जनप्रतिनिधियों के खिलाफ मुक़दमे तेज़ी से निपटाए जाने हैं, लेकिन उच्च न्यायालय में सूचीबद्धता की चूक से वे अटक रहे थे।"
     },
     "mr": {
-     "body": "अलाहाबाद उच्च न्यायालय, लखनऊ खंडपीठ",
-     "headline": "अलाहाबाद उच्च न्यायालयाने Oudh Bar Association निवडणुकीसाठी प्रचाराचे नियम ठरवले",
-     "text": "अलाहाबाद उच्च न्यायालयाच्या लखनऊ खंडपीठाने Oudh Bar Association च्या आगामी निवडणुकीतील उमेदवारांना न्यायालयात किंवा आसपास पोस्टर, स्टिकर किंवा बॅनर लावणे, परिसरात मिरवणुका काढणे किंवा जेवण वाटणे, तसेच परिसराच्या 100 मीटरच्या आत पत्रके वाटणे यास मनाई केली आहे. उल्लंघन केल्यास उमेदवाराला निवडणुकीतून अपात्र ठरवले जाऊ शकते, प्रकरण बार कौन्सिलकडे पाठवले जाऊ शकते किंवा न्यायालयाच्या अवमानाची कारवाई होऊ शकते. मुक्त आणि निष्पक्ष निवडणुकीची मुख्य जबाबदारी एल्डर्स कमिटीची असून न्यायालयात जाणे हा शेवटचा पर्याय असावा, असे न्यायालयाने म्हटले.",
-     "why": "हा आदेश न्यायालय परिसरातील बार निवडणुकीच्या प्रचारावर स्पष्ट मर्यादा घालतो."
+     "body": "अलाहाबाद उच्च न्यायालय",
+     "headline": "खासदार/आमदारांचे खटले चुकीच्या खंडपीठांसमोर सूचीबद्ध होत असल्याने अलाहाबाद उच्च न्यायालयाचे दुरुस्तीचे आदेश",
+     "text": "विद्यमान खासदार आणि आमदारांविरुद्धच्या फौजदारी खटल्यांच्या देखरेखीसाठी 2023 मध्ये स्वतःहून दाखल केलेल्या जनहित याचिकेच्या सुनावणीत खंडपीठाला असे आढळले की हे खटले त्यासाठी नेमलेल्या नसलेल्या खंडपीठांसमोर सूचीबद्ध होत होते किंवा कामकाज सूचीत खूप खाली ठेवले जात होते, त्यामुळे त्यांची सुनावणीच होत नव्हती. न्यायालयाने रजिस्ट्रीला ते नेमलेल्या खंडपीठांसमोर सूचीबद्ध करण्यास सांगितले आणि देखरेख पोर्टलवर रंगांनी मुदती दाखवणे, विलंबाचे कारण नोंदवणे आणि आपोआप अहवाल तयार होणे अशा सुविधा जोडण्यास सांगितले. सुधारित स्थिती तक्ता तीन आठवड्यांत द्यायचा आहे; पुढील सुनावणी 6 नोव्हेंबरला आहे.",
+     "why": "लोकप्रतिनिधींविरुद्धचे खटले जलद निकाली निघणे अपेक्षित आहे, पण उच्च न्यायालयातील सूचीतील त्रुटींमुळे ते रखडत होते."
+    }
+   }
+  },
+  {
+   "cat": "Bar & Bar Councils",
+   "region": "Delhi",
+   "body": "Bar Council of Delhi",
+   "headline": "Nitin Ahlawat elected Chairman of the Bar Council of Delhi",
+   "text": "The Bar Council of Delhi has elected its new office bearers: Nitin Ahlawat as Chairman, Sangeeta Sondhi as Vice-Chairman and Ramit Sehrawat as Honorary Secretary. B.S. Jakhar was elected Chairman of the Executive Committee and Piyush Gupta as the Council's representative member on the Bar Council of India.",
+   "date": "14 Oct 2026",
+   "src": "https://www.livelaw.in/news-updates/bar-council-delhi-elects-new-office-bearers-554610",
+   "srcName": "LiveLaw",
+   "i18n": {
+    "hi": {
+     "body": "बार काउंसिल ऑफ़ दिल्ली",
+     "headline": "नितिन अहलावत बार काउंसिल ऑफ़ दिल्ली के अध्यक्ष चुने गए",
+     "text": "बार काउंसिल ऑफ़ दिल्ली ने अपने नए पदाधिकारी चुन लिए हैं: नितिन अहलावत अध्यक्ष, संगीता सोंधी उपाध्यक्ष और रमित सहरावत मानद सचिव। बी.एस. जाखड़ कार्यकारी समिति के अध्यक्ष चुने गए और पीयूष गुप्ता बार काउंसिल ऑफ़ इंडिया में काउंसिल के प्रतिनिधि सदस्य चुने गए।"
+    },
+    "mr": {
+     "body": "बार कौन्सिल ऑफ दिल्ली",
+     "headline": "नितीन अहलावत बार कौन्सिल ऑफ दिल्लीच्या अध्यक्षपदी निवडून",
+     "text": "बार कौन्सिल ऑफ दिल्लीने आपले नवे पदाधिकारी निवडले आहेत: नितीन अहलावत अध्यक्ष, संगीता सोंधी उपाध्यक्ष आणि रमित सेहरावत मानद सचिव. बी.एस. जाखड कार्यकारी समितीचे अध्यक्ष म्हणून निवडले गेले आणि पीयूष गुप्ता बार कौन्सिल ऑफ इंडियावर कौन्सिलचे प्रतिनिधी सदस्य म्हणून निवडले गेले."
+    }
+   }
+  },
+  {
+   "cat": "Bar & Bar Councils",
+   "region": "All India",
+   "body": "Supreme Court Bar Association",
+   "headline": "SCBA issues show cause notice to advocate Balraj Malik over face-off with its President",
+   "text": "The Supreme Court Bar Association has asked advocate Balraj Singh Malik to explain within seven days why he should not be suspended or expelled. The notice, dated 13 October, follows a confrontation with SCBA President Pradeep Kumar Rai on the Supreme Court lawns, where the Executive Committee had gathered in solidarity with lawyers allegedly beaten during the 10 October protests. The Executive Committee found a prima facie case on a complaint that also cites a WhatsApp message allegedly insulting a committee member.",
+   "date": "14 Oct 2026",
+   "src": "https://www.barandbench.com/news/litigation/scba-issues-show-cause-notice-to-balraj-malik-over-face-off-with-president-pradeep-rai",
+   "srcName": "Bar & Bench",
+   "i18n": {
+    "hi": {
+     "body": "सुप्रीम कोर्ट बार एसोसिएशन",
+     "headline": "अध्यक्ष से टकराव पर SCBA ने वकील बलराज मलिक को कारण बताओ नोटिस जारी किया",
+     "text": "सुप्रीम कोर्ट बार एसोसिएशन ने वकील बलराज सिंह मलिक से सात दिन में यह बताने को कहा है कि उन्हें निलंबित या निष्कासित क्यों न किया जाए। 13 अक्टूबर का यह नोटिस सर्वोच्च न्यायालय के लॉन में SCBA अध्यक्ष प्रदीप कुमार राय से हुए टकराव के बाद आया है, जहाँ कार्यकारी समिति 10 अक्टूबर के प्रदर्शनों में कथित रूप से पीटे गए वकीलों के साथ एकजुटता दिखाने के लिए इकट्ठा हुई थी। कार्यकारी समिति ने उस शिकायत पर प्रथम दृष्टया मामला पाया, जिसमें एक व्हाट्सऐप संदेश का भी ज़िक्र है जिसमें कथित रूप से समिति के एक सदस्य का अपमान किया गया था।"
+    },
+    "mr": {
+     "body": "सुप्रीम कोर्ट बार असोसिएशन",
+     "headline": "अध्यक्षांशी झालेल्या वादावरून SCBA ची वकील बलराज मलिक यांना कारणे दाखवा नोटीस",
+     "text": "सुप्रीम कोर्ट बार असोसिएशनने वकील बलराज सिंह मलिक यांना निलंबित किंवा निष्कासित का करू नये, याचे स्पष्टीकरण सात दिवसांत देण्यास सांगितले आहे. 13 ऑक्टोबरची ही नोटीस सर्वोच्च न्यायालयाच्या हिरवळीवर SCBA अध्यक्ष प्रदीप कुमार राय यांच्याशी झालेल्या वादानंतर देण्यात आली. तेथे 10 ऑक्टोबरच्या आंदोलनात कथितरित्या मारहाण झालेल्या वकिलांशी एकजूट दाखवण्यासाठी कार्यकारी समिती जमली होती. कार्यकारी समितीला त्या तक्रारीत प्रथमदर्शनी तथ्य आढळले; तक्रारीत समितीच्या एका सदस्याचा कथित अपमान करणाऱ्या व्हॉट्सॲप संदेशाचाही उल्लेख आहे."
+    }
+   }
+  },
+  {
+   "cat": "Legal Education & Careers",
+   "region": "Karnataka",
+   "body": "NLSIU Bengaluru",
+   "headline": "NLSIU Bengaluru wins the Manfred Lachs Space Law Moot world finals",
+   "text": "A team of Anandita Pande, Nikhilesh Mukherjee and Shreya Rajesh from NLSIU Bengaluru won the world finals of the 35th Manfred Lachs Space Law Moot Court Competition in Antalya, Turkey, beating defending champion NYU School of Law. The final was judged by three sitting judges of the International Court of Justice. It is NLSIU's fourth title in the competition and the first Indian win since NLU Delhi in 2020.",
+   "date": "14 Oct 2026",
+   "src": "https://www.barandbench.com/Law-School/moot-courts/nlsiu-team-wins-manfred-lachs-space-law-moot-2026",
+   "srcName": "Bar & Bench",
+   "i18n": {
+    "hi": {
+     "body": "NLSIU बेंगलुरु",
+     "headline": "NLSIU बेंगलुरु ने मैनफ्रेड लैक्स स्पेस लॉ मूट का विश्व फ़ाइनल जीता",
+     "text": "NLSIU बेंगलुरु की अनंदिता पांडे, निखिलेश मुखर्जी और श्रेया राजेश की टीम ने तुर्की के अंताल्या में 35वीं मैनफ्रेड लैक्स स्पेस लॉ मूट कोर्ट प्रतियोगिता का विश्व फ़ाइनल जीता और पिछले विजेता NYU स्कूल ऑफ़ लॉ को हराया। फ़ाइनल में अंतरराष्ट्रीय न्यायालय के तीन मौजूदा न्यायाधीश निर्णायक थे। यह इस प्रतियोगिता में NLSIU का चौथा ख़िताब है और 2020 में NLU दिल्ली के बाद किसी भारतीय टीम की पहली जीत है।"
+    },
+    "mr": {
+     "body": "NLSIU बेंगळुरू",
+     "headline": "NLSIU बेंगळुरूने मॅनफ्रेड लॅक्स स्पेस लॉ मूटची जागतिक अंतिम फेरी जिंकली",
+     "text": "NLSIU बेंगळुरूच्या अनंदिता पांडे, निखिलेश मुखर्जी आणि श्रेया राजेश यांच्या संघाने तुर्कस्तानमधील अंताल्या येथे 35 व्या मॅनफ्रेड लॅक्स स्पेस लॉ मूट कोर्ट स्पर्धेची जागतिक अंतिम फेरी जिंकली आणि गतविजेत्या NYU स्कूल ऑफ लॉचा पराभव केला. अंतिम फेरीत आंतरराष्ट्रीय न्यायालयाचे तीन विद्यमान न्यायाधीश परीक्षक होते. हे NLSIU चे या स्पर्धेतील चौथे विजेतेपद असून 2020 मध्ये NLU दिल्लीनंतर भारतीय संघाचा हा पहिला विजय आहे."
     }
    }
   },
   {
    "cat": "Other Legal News",
-   "region": "Delhi",
+   "region": "All India",
    "body": "Supreme Court of India",
-   "headline": "Complaints portal for probe into July student protests is ready, Supreme Court told",
-   "text": "The High-Powered Enquiry Committee headed by former Supreme Court judge Justice R. Subhash Reddy told the Supreme Court that its online complaints portal, built by the National Informatics Centre, is ready to launch. It will have separate forms for protesters and police personnel, and complaints and evidence will be kept anonymous and confidential to protect witnesses. The Court directed the Ministry of Home Affairs to provide all facilities the Committee needs; public notices will be issued after launch.",
-   "why": "People affected by violence during the July student protests will soon be able to file complaints directly with the Committee.",
-   "date": "13 Oct 2026",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-jantar-mantar-protest-high-powered-enquiry-committee-status-report-complaints-portal-ready-for-launch-mha-to-provide-infrastructure-554520",
-   "srcName": "LiveLaw",
+   "headline": "Asaduddin Owaisi moves Supreme Court against the SIR of electoral rolls",
+   "text": "AIMIM chief Asaduddin Owaisi has filed a petition in the Supreme Court challenging the manner in which the Election Commission is conducting the Special Intensive Revision (SIR) of electoral rolls. When it was mentioned before his bench, Chief Justice Surya Kant said he would check and list it with the connected SIR cases due on Thursday.",
+   "why": "It adds to the growing set of challenges to the SIR before the Supreme Court, including one by opposition leaders.",
+   "date": "14 Oct 2026",
+   "src": "https://lawbeat.in/amp/top-stories/asaduddin-owaisi-moves-supreme-court-challenging-sir-of-electoral-rolls-1641612",
+   "srcName": "LawBeat",
    "i18n": {
     "hi": {
-     "body": "सर्वोच्च न्यायालय",
-     "headline": "जुलाई के छात्र आंदोलन की जांच के लिए शिकायत पोर्टल तैयार, सर्वोच्च न्यायालय को बताया गया",
-     "text": "सर्वोच्च न्यायालय के पूर्व न्यायाधीश Justice R. Subhash Reddy की अध्यक्षता वाली उच्चाधिकार प्राप्त जांच समिति ने सर्वोच्च न्यायालय को बताया कि National Informatics Centre द्वारा बनाया गया उसका ऑनलाइन शिकायत पोर्टल शुरू होने के लिए तैयार है। इसमें प्रदर्शनकारियों और पुलिसकर्मियों के लिए अलग-अलग फ़ॉर्म होंगे, और गवाहों की सुरक्षा के लिए शिकायतें और सबूत गुमनाम व गोपनीय रखे जाएंगे। न्यायालय ने Ministry of Home Affairs को समिति को सभी ज़रूरी सुविधाएँ देने का निर्देश दिया; पोर्टल शुरू होने के बाद सार्वजनिक सूचनाएँ जारी की जाएंगी।",
-     "why": "जुलाई के छात्र आंदोलन के दौरान हुई हिंसा से प्रभावित लोग जल्द ही सीधे समिति के पास शिकायत दर्ज कर सकेंगे।"
+     "body": "भारत का सर्वोच्च न्यायालय",
+     "headline": "असदुद्दीन ओवैसी ने मतदाता सूची के SIR के खिलाफ सर्वोच्च न्यायालय का रुख किया",
+     "text": "AIMIM प्रमुख असदुद्दीन ओवैसी ने सर्वोच्च न्यायालय में याचिका दायर कर चुनाव आयोग द्वारा मतदाता सूचियों के विशेष गहन पुनरीक्षण (SIR) के तरीके को चुनौती दी है। जब इसका उल्लेख उनकी पीठ के सामने किया गया, तो मुख्य न्यायाधीश सूर्य कांत ने कहा कि वे इसे देखकर गुरुवार को होने वाले SIR से जुड़े मामलों के साथ सूचीबद्ध करेंगे।",
+     "why": "इससे सर्वोच्च न्यायालय में SIR के खिलाफ बढ़ती चुनौतियों में एक और जुड़ गई है, जिनमें विपक्षी नेताओं की याचिका भी शामिल है।"
     },
     "mr": {
-     "body": "सर्वोच्च न्यायालय",
-     "headline": "जुलैतील विद्यार्थी आंदोलनाच्या चौकशीसाठी तक्रार पोर्टल तयार, सर्वोच्च न्यायालयाला माहिती",
-     "text": "सर्वोच्च न्यायालयाचे माजी न्यायमूर्ती Justice R. Subhash Reddy यांच्या अध्यक्षतेखालील उच्चाधिकार चौकशी समितीने सर्वोच्च न्यायालयाला सांगितले की National Informatics Centre ने तयार केलेले तिचे ऑनलाइन तक्रार पोर्टल सुरू होण्यास सज्ज आहे. त्यात आंदोलक आणि पोलीस कर्मचाऱ्यांसाठी स्वतंत्र अर्ज असतील, तसेच साक्षीदारांच्या संरक्षणासाठी तक्रारी आणि पुरावे निनावी व गोपनीय ठेवले जातील. न्यायालयाने Ministry of Home Affairs ला समितीला आवश्यक सर्व सुविधा देण्याचे निर्देश दिले; पोर्टल सुरू झाल्यानंतर जाहीर सूचना प्रसिद्ध केल्या जातील.",
-     "why": "जुलैतील विद्यार्थी आंदोलनादरम्यान झालेल्या हिंसाचाराने प्रभावित लोकांना लवकरच थेट समितीकडे तक्रार नोंदवता येईल."
+     "body": "भारताचे सर्वोच्च न्यायालय",
+     "headline": "असदुद्दीन ओवैसी यांची मतदार यादीच्या SIR विरोधात सर्वोच्च न्यायालयात धाव",
+     "text": "AIMIM प्रमुख असदुद्दीन ओवैसी यांनी सर्वोच्च न्यायालयात याचिका दाखल करून निवडणूक आयोग मतदार यादीचे विशेष सखोल पुनरीक्षण (SIR) ज्या पद्धतीने करत आहे त्याला आव्हान दिले आहे. त्यांच्या खंडपीठासमोर याचा उल्लेख झाल्यावर सरन्यायाधीश सूर्य कांत यांनी ती तपासून गुरुवारी होणाऱ्या SIR संबंधित प्रकरणांसोबत सूचीबद्ध करू, असे सांगितले.",
+     "why": "यामुळे सर्वोच्च न्यायालयातील SIR विरोधातील वाढत्या आव्हानांमध्ये आणखी एकाची भर पडली आहे; त्यात विरोधी नेत्यांच्या याचिकेचाही समावेश आहे."
     }
    }
   }

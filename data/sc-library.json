@@ -1985,6 +1985,116 @@
    "pdf": "judgments/sc/pdf/pooja-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 126746
+  },
+  {
+   "slug": "b-anasuyamma-2026",
+   "name": "B. Anasuyamma (died) Per Lrs v. B. Madhusudhan Reddy (died) As Per Lrs",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 8,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1879,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=91732023&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "b anasuyamma died per lrs",
+    "b madhusudhan reddy died as per lrs"
+   ],
+   "citation": "2026 INSC 1126",
+   "caseNo": "C.A. No. 13759/2026",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/b-anasuyamma-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 280582
+  },
+  {
+   "slug": "dhanlaxmi-merchandise-2026",
+   "name": "M/s Dhanlaxmi Merchandise Pvt. Ltd v. State of Madhya Pradesh",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 56,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 10808,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=180142026&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "m s dhanlaxmi merchandise pvt ltd",
+    "state of madhya pradesh"
+   ],
+   "citation": "2026 INSC 1125",
+   "caseNo": "C.A. No. 13749/2026",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/dhanlaxmi-merchandise-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 543400
+  },
+  {
+   "slug": "sanjay-sureka-2026",
+   "name": "Sanjay Sureka @sanjay Kumar Sureka v. Directorate of Enforcement",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 9,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1811,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=107292026&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "sanjay sureka sanjay kumar sureka",
+    "directorate of enforcement"
+   ],
+   "citation": "2026 INSC 1124",
+   "caseNo": "Crl.A. No. 4904/2026",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/sanjay-sureka-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 452430
+  },
+  {
+   "slug": "alladin-charities-2026",
+   "name": "Alladin Charities and Zakat Wakf v. Mohammad Saleem Alias Mohd Wajid Ali",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 10,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2477,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=456392025&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "alladin charities and zakat wakf",
+    "mohammad saleem alias mohd wajid ali"
+   ],
+   "citation": "2026 INSC 1122",
+   "caseNo": "C.A. No. 13762/2026",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/alladin-charities-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 264007
+  },
+  {
+   "slug": "assistant-commissioner-2026",
+   "name": "The Assistant Commissioner of Central Tax Cgst Division v. Sreenivasa Rao Ravinuthala",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-14.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2883,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=482462023&type=j&order_date=2026-10-14&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "the assistant commissioner of central ta",
+    "sreenivasa rao ravinuthala"
+   ],
+   "citation": "2026 INSC 1121",
+   "caseNo": "C.A. No. 7882/2023",
+   "date": "2026-10-14",
+   "pdf": "judgments/sc/pdf/assistant-commissioner-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 253399
   }
  ]
 }
