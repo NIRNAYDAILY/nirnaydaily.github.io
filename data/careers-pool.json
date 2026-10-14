@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-14",
  "sections": [
   {
    "id": "judiciary",
@@ -187,180 +187,6 @@
    "intro": "Government roles open to students and new graduates. Most PSU legal jobs hire through CLAT PG scores, so the exam page matters here too.",
    "items": [
     {
-     "name": "Young Professional (without prior experience)",
-     "org": "Centre for Trade and Investment Law (CTIL), Indian Institute of Foreign Trade, New Delhi",
-     "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "<b>LLB</b> (or a master's in economics, public policy or a related field) with at least 55%; <b>no experience needed</b>. Age up to 28.",
-     "facts": [
-      {
-       "k": "Posts",
-       "v": "2"
-      },
-      {
-       "k": "Pay",
-       "v": "₹50,000 / month"
-      },
-      {
-       "k": "Tenure",
-       "v": "1 year, extendable"
-      },
-      {
-       "k": "Advertised",
-       "v": "25 Sep 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "9 Oct 2026",
-       "iso": "2026-10-09"
-      }
-     ],
-     "note": "Work covers international trade and investment law (goods, services, IPR, trade agreements). Shortlisted candidates take a written test and an interview. Apply online only through the link in the advertisement.",
-     "links": [
-      {
-       "label": "Official advertisement",
-       "url": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf",
-       "primary": true
-      },
-      {
-       "label": "Apply online",
-       "url": "https://docs.iift.ac.in/recruit/solo.asp?jcode=YP(w)_Sep2026"
-      }
-     ],
-     "added": "2026-10-01",
-     "i18n": {
-      "hi": {
-       "name": "यंग प्रोफ़ेशनल (पूर्व अनुभव के बिना)",
-       "eligibility": "कम से कम 55% के साथ <b>LLB</b> (या अर्थशास्त्र, सार्वजनिक नीति या संबंधित विषय में मास्टर डिग्री); <b>अनुभव की आवश्यकता नहीं</b>। आयु 28 वर्ष तक।",
-       "note": "काम अंतरराष्ट्रीय व्यापार और निवेश कानून (माल, सेवाएँ, IPR, व्यापार समझौते) से जुड़ा है। चुने गए उम्मीदवारों की लिखित परीक्षा और साक्षात्कार होगा। केवल विज्ञापन में दिए लिंक से ऑनलाइन आवेदन करें।",
-       "facts": [
-        {
-         "k": "Posts",
-         "v": "2"
-        },
-        {
-         "k": "Pay",
-         "v": "₹50,000 / माह"
-        },
-        {
-         "k": "Tenure",
-         "v": "1 वर्ष, बढ़ाया जा सकता है"
-        },
-        {
-         "k": "Advertised",
-         "v": "25 Sep 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "9 Oct 2026",
-         "iso": "2026-10-09"
-        }
-       ]
-      },
-      "mr": {
-       "name": "यंग प्रोफेशनल (पूर्वानुभवाशिवाय)",
-       "eligibility": "किमान 55% सह <b>LLB</b> (किंवा अर्थशास्त्र, सार्वजनिक धोरण किंवा संबंधित विषयातील पदव्युत्तर पदवी); <b>अनुभवाची गरज नाही</b>. वय 28 पर्यंत.",
-       "note": "काम आंतरराष्ट्रीय व्यापार व गुंतवणूक कायद्याशी (वस्तू, सेवा, IPR, व्यापार करार) संबंधित आहे. निवडक उमेदवारांची लेखी परीक्षा व मुलाखत होईल. फक्त जाहिरातीतील लिंकद्वारे ऑनलाइन अर्ज करा.",
-       "facts": [
-        {
-         "k": "Posts",
-         "v": "2"
-        },
-        {
-         "k": "Pay",
-         "v": "₹50,000 / महिना"
-        },
-        {
-         "k": "Tenure",
-         "v": "1 वर्ष, वाढवता येईल"
-        },
-        {
-         "k": "Advertised",
-         "v": "25 Sep 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "9 Oct 2026",
-         "iso": "2026-10-09"
-        }
-       ]
-      }
-     }
-    },
-    {
-     "name": "NITI Aayog Internship",
-     "org": "NITI Aayog, Government of India, New Delhi",
-     "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "<b>Enrolled UG or PG students</b>, including LLB students.",
-     "facts": [
-      {
-       "k": "Window",
-       "v": "1–10 Oct 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "10 Oct 2026",
-       "iso": "2026-10-10"
-      },
-      {
-       "k": "Status",
-       "v": "Opens every month, 1st to 10th"
-      }
-     ],
-     "note": "The online form is open only from the 1st to the 10th of each month; read the guidelines on the official page before applying.",
-     "links": [
-      {
-       "label": "Official internship page",
-       "url": "https://www.niti.gov.in/internship",
-       "primary": true
-      }
-     ],
-     "added": "2026-09-26",
-     "i18n": {
-      "hi": {
-       "name": "नीति आयोग इंटर्नशिप",
-       "eligibility": "<b>UG या PG में नामांकित छात्र</b>, LLB छात्रों सहित।",
-       "note": "ऑनलाइन फ़ॉर्म हर महीने केवल 1 से 10 तारीख तक खुलता है; आवेदन से पहले आधिकारिक पृष्ठ पर दिशानिर्देश पढ़ें।",
-       "facts": [
-        {
-         "k": "Window",
-         "v": "1–10 अक्टूबर 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "10 Oct 2026",
-         "iso": "2026-10-10"
-        },
-        {
-         "k": "Status",
-         "v": "हर महीने 1 से 10 तारीख तक खुलता है"
-        }
-       ]
-      },
-      "mr": {
-       "name": "नीती आयोग इंटर्नशिप",
-       "eligibility": "<b>UG किंवा PG मध्ये प्रवेश घेतलेले विद्यार्थी</b>, LLB विद्यार्थ्यांसह.",
-       "note": "ऑनलाइन अर्ज दर महिन्याला फक्त 1 ते 10 तारखेपर्यंत सुरू असतो; अर्ज करण्यापूर्वी अधिकृत पानावरील मार्गदर्शक सूचना वाचा.",
-       "facts": [
-        {
-         "k": "Window",
-         "v": "1–10 ऑक्टोबर 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "10 Oct 2026",
-         "iso": "2026-10-10"
-        },
-        {
-         "k": "Status",
-         "v": "दर महिन्याला 1 ते 10 तारखेपर्यंत सुरू"
-        }
-       ]
-      }
-     }
-    },
-    {
      "name": "Winter Internship Programme 2026 (14 Dec 2026 – 8 Jan 2027)",
      "org": "National Human Rights Commission (NHRC), New Delhi",
      "sector": "Government",
@@ -465,7 +291,7 @@
      "name": "Legal Consultant (Maritime Law), Directorate General of Shipping",
      "org": "NALSAR University of Law, Hyderabad, with the Directorate General of Shipping",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>LL.M. in Maritime Law, Insurance Law, Maritime Security Law or International Law</b>; 1–2 years' experience is preferred, not required. Below 35 years on 30 Sep 2026; fluent English.",
      "facts": [
       {
@@ -793,28 +619,12 @@
       "url": "https://cr.indianrailways.gov.in/"
      },
      {
-      "text": "NALSA Assistant (Legal) and Assistant Legal Aid Advisor: 1–3 years' experience, closes 10 Oct 2026",
-      "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
-     },
-     {
       "text": "UPSC Advt. 12/2026: Law Officer, Land & Building Dept, GNCT Delhi, 3 posts (2 years' legal experience); Assistant Legislative Counsel, Ministry of Law, 8 posts (7 years' experience); closes 16 Oct 2026",
       "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
      },
      {
-      "text": "UPSC Advt. 11/2026: Law Officer, UT of Ladakh, 4 posts (2 years' practice), closes 9 Oct 2026",
-      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-11-2026-Engl-100926.pdf"
-     },
-     {
       "text": "National Housing Bank (Advt. NHB/HRMD/Recruitment/2026-27/01): Manager (Legal), 1 post (3 years' post-qualification experience in banking/recovery law), closes 18 Oct 2026",
       "url": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01-1.pdf"
-     },
-     {
-      "text": "BECIL Advt. No. 559: Legal Consultant, 2 posts at a Central Government hospital in Delhi/NCR (2 years' legal advisory experience), closes 11 Oct 2026",
-      "url": "https://www.becil.com/uploads/topics/17903366883226.pdf"
-     },
-     {
-      "text": "WAPCOS Ltd (Advt. WAP/HR/Empt./Advt./2026-03): Young Professional (Legal), 17 posts at Gurugram (1–2 years' post-qualification experience, age up to 30); hard-copy applications must reach by 8 Oct 2026",
-      "url": "https://www.wapcos.co.in/media/docs/Career/Advertisement_r5Nha0_RTkDd8.pdf"
      }
     ],
     "i18n": {
@@ -829,28 +639,12 @@
         "url": "https://cr.indianrailways.gov.in/"
        },
        {
-        "text": "NALSA सहायक (विधि) और सहायक विधिक सहायता सलाहकार: 1–3 वर्ष का अनुभव, 10 अक्टूबर 2026 को बंद",
-        "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
-       },
-       {
         "text": "UPSC विज्ञापन 12/2026: विधि अधिकारी, भूमि एवं भवन विभाग, GNCT दिल्ली, 3 पद (2 वर्ष का कानूनी अनुभव); सहायक विधायी परामर्शी, विधि मंत्रालय, 8 पद (7 वर्ष का अनुभव); 16 अक्टूबर 2026 को बंद",
         "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
        },
        {
-        "text": "UPSC विज्ञापन 11/2026: विधि अधिकारी, केंद्र शासित प्रदेश लद्दाख, 4 पद (2 वर्ष की वकालत), 9 अक्टूबर 2026 को बंद",
-        "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-11-2026-Engl-100926.pdf"
-       },
-       {
         "text": "नेशनल हाउसिंग बैंक (विज्ञापन NHB/HRMD/Recruitment/2026-27/01): प्रबंधक (विधि), 1 पद (बैंकिंग/वसूली कानून में योग्यता के बाद 3 वर्ष का अनुभव), 18 अक्टूबर 2026 को बंद",
         "url": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01-1.pdf"
-       },
-       {
-        "text": "BECIL विज्ञापन सं. 559: विधि सलाहकार, दिल्ली/NCR में एक केंद्र सरकार अस्पताल में 2 पद (2 वर्ष का कानूनी सलाह अनुभव), 11 अक्टूबर 2026 को बंद",
-        "url": "https://www.becil.com/uploads/topics/17903366883226.pdf"
-       },
-       {
-        "text": "WAPCOS Ltd (विज्ञापन WAP/HR/Empt./Advt./2026-03): यंग प्रोफ़ेशनल (विधि), गुरुग्राम में 17 पद (योग्यता के बाद 1–2 वर्ष का अनुभव, आयु 30 वर्ष तक); हार्ड-कॉपी आवेदन 8 अक्टूबर 2026 तक पहुँचने चाहिए",
-        "url": "https://www.wapcos.co.in/media/docs/Career/Advertisement_r5Nha0_RTkDd8.pdf"
        }
       ]
      },
@@ -865,28 +659,12 @@
         "url": "https://cr.indianrailways.gov.in/"
        },
        {
-        "text": "NALSA सहायक (कायदा) व सहायक विधी सहाय्य सल्लागार: 1–3 वर्षांचा अनुभव, 10 ऑक्टोबर 2026 रोजी बंद",
-        "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
-       },
-       {
         "text": "UPSC जाहिरात 12/2026: विधी अधिकारी, जमीन व इमारत विभाग, GNCT दिल्ली, 3 पदे (2 वर्षांचा कायदेविषयक अनुभव); सहायक विधायी सल्लागार, विधी मंत्रालय, 8 पदे (7 वर्षांचा अनुभव); 16 ऑक्टोबर 2026 रोजी बंद",
         "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
        },
        {
-        "text": "UPSC जाहिरात 11/2026: विधी अधिकारी, केंद्रशासित प्रदेश लडाख, 4 पदे (2 वर्षांची वकिली), 9 ऑक्टोबर 2026 रोजी बंद",
-        "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-11-2026-Engl-100926.pdf"
-       },
-       {
         "text": "नॅशनल हाउसिंग बँक (जाहिरात NHB/HRMD/Recruitment/2026-27/01): व्यवस्थापक (कायदा), 1 पद (बँकिंग/वसुली कायद्यातील पात्रतेनंतरचा 3 वर्षांचा अनुभव), 18 ऑक्टोबर 2026 रोजी बंद",
         "url": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01-1.pdf"
-       },
-       {
-        "text": "BECIL जाहिरात क्र. 559: कायदेविषयक सल्लागार, दिल्ली/NCR मधील केंद्र सरकारी रुग्णालयात 2 पदे (2 वर्षांचा कायदेविषयक सल्ल्याचा अनुभव), 11 ऑक्टोबर 2026 रोजी बंद",
-        "url": "https://www.becil.com/uploads/topics/17903366883226.pdf"
-       },
-       {
-        "text": "WAPCOS Ltd (जाहिरात WAP/HR/Empt./Advt./2026-03): यंग प्रोफेशनल (कायदा), गुरुग्राम येथे 17 पदे (पात्रतेनंतर 1–2 वर्षांचा अनुभव, वय 30 पर्यंत); छापील अर्ज 8 ऑक्टोबर 2026 पर्यंत पोहोचले पाहिजेत",
-        "url": "https://www.wapcos.co.in/media/docs/Career/Advertisement_r5Nha0_RTkDd8.pdf"
        }
       ]
      }
@@ -1400,115 +1178,6 @@
    "short": "Law firms, chambers, research fellowships",
    "intro": "Private jobs, fellowships and internships, taken only from the employer's own website. Big firms do not always post fresher roles publicly, so their official application portals are listed below.",
    "items": [
-    {
-     "name": "P. A. Sangma Fellowship for Legal and Policy Research (Sixth Cohort)",
-     "org": "National Law School of India University with the Government of Meghalaya",
-     "sector": "Fellowship",
-     "status": "Closing soon",
-     "eligibility": "<b>NLSIU bachelor's or master's graduates</b>, or <b>Meghalaya domiciles with a law degree</b> from any university.",
-     "facts": [
-      {
-       "k": "Fellowships",
-       "v": "4"
-      },
-      {
-       "k": "Stipend",
-       "v": "₹60,000 / month + ₹10,000 HRA"
-      },
-      {
-       "k": "Term",
-       "v": "12 months, extendable"
-      },
-      {
-       "k": "Based in",
-       "v": "Meghalaya"
-      },
-      {
-       "k": "Posted",
-       "v": "18 Sep 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "9 Oct 2026, 5 PM",
-       "iso": "2026-10-09"
-      }
-     ],
-     "note": "Apply through the form linked in the official call with a CV (2 pages max), a statement of purpose (up to 1,000 words) and two references.",
-     "links": [
-      {
-       "label": "Official call",
-       "url": "https://www.nls.ac.in/news-events/call-for-applications-sixth-cohort-of-the-p-a-sangma-fellowship-for-legal-and-policy-research/",
-       "primary": true
-      }
-     ],
-     "added": "2026-09-28",
-     "i18n": {
-      "hi": {
-       "name": "पी. ए. संगमा विधि एवं नीति अनुसंधान फ़ेलोशिप (छठा समूह)",
-       "eligibility": "<b>NLSIU के स्नातक या स्नातकोत्तर</b>, या किसी भी विश्वविद्यालय से <b>कानून की डिग्री वाले मेघालय के निवासी</b>।",
-       "note": "आधिकारिक सूचना में दिए फ़ॉर्म से CV (अधिकतम 2 पृष्ठ), उद्देश्य-पत्र (1,000 शब्दों तक) और दो संदर्भों के साथ आवेदन करें।",
-       "facts": [
-        {
-         "k": "Fellowships",
-         "v": "4"
-        },
-        {
-         "k": "Stipend",
-         "v": "₹60,000 / माह + ₹10,000 HRA"
-        },
-        {
-         "k": "Term",
-         "v": "12 महीने, बढ़ाया जा सकता है"
-        },
-        {
-         "k": "Based in",
-         "v": "मेघालय"
-        },
-        {
-         "k": "Posted",
-         "v": "18 Sep 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "9 अक्टूबर 2026, शाम 5 बजे",
-         "iso": "2026-10-09"
-        }
-       ]
-      },
-      "mr": {
-       "name": "पी. ए. संगमा कायदा व धोरण संशोधन फेलोशिप (सहावी तुकडी)",
-       "eligibility": "<b>NLSIU चे पदवीधर किंवा पदव्युत्तर पदवीधर</b>, किंवा कोणत्याही विद्यापीठाची <b>कायद्याची पदवी असलेले मेघालयचे अधिवासी</b>.",
-       "note": "अधिकृत सूचनेतील अर्जाद्वारे CV (जास्तीत जास्त 2 पाने), उद्देश निवेदन (1,000 शब्दांपर्यंत) व दोन संदर्भांसह अर्ज करा.",
-       "facts": [
-        {
-         "k": "Fellowships",
-         "v": "4"
-        },
-        {
-         "k": "Stipend",
-         "v": "₹60,000 / महिना + ₹10,000 HRA"
-        },
-        {
-         "k": "Term",
-         "v": "12 महिने, वाढवता येईल"
-        },
-        {
-         "k": "Based in",
-         "v": "मेघालय"
-        },
-        {
-         "k": "Posted",
-         "v": "18 Sep 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "9 ऑक्टोबर 2026, संध्याकाळी 5 वाजता",
-         "iso": "2026-10-09"
-        }
-       ]
-      }
-     }
-    },
     {
      "name": "Graduate Research Fellowship 2027",
      "org": "National Law School of India University, Bengaluru",

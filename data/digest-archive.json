@@ -1,6 +1,498 @@
 [
  {
   "edition": {
+   "vol": "Vol. I · No. 17",
+   "badge": "",
+   "dateLong": "Tuesday, 13 October 2026",
+   "dateShort": "13 Oct 2026",
+   "window": "Judgments and orders passed between 10:00 AM IST on 12 October 2026 and 9:15 AM IST on 13 October 2026",
+   "next": "Next edition: tomorrow at 10:00 AM IST"
+  },
+  "highlights": [
+   {
+    "court": "High Court of Karnataka",
+    "caseName": "Mahendra Kumar Mitra & Ors. v. Union of India & Ors.",
+    "text": "2022 law raising SC/ST reservation struck down for crossing the 50% cap.",
+    "ref": "hc:Karnataka"
+   },
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Arcis Clean Energy Pvt. Ltd. v. Parshva Innovation",
+    "text": "Governing-law clause can decide the arbitral seat when two venues are named.",
+    "ref": "sc:0"
+   },
+   {
+    "court": "Supreme Court of India",
+    "caseName": "State of Punjab v. Nikhil Saraf",
+    "text": "No stay of CBI FIR against Punjab CM's OSD, but no coercive steps.",
+    "ref": "sc:1"
+   },
+   {
+    "court": "High Court of Delhi",
+    "caseName": "Janta Live Press Network Pvt. Ltd. & Anr. v. Google LLC & Ors.",
+    "text": "No writ against Google for suspending a Gmail account.",
+    "ref": "hc:Delhi"
+   },
+   {
+    "court": "High Court of Jharkhand",
+    "caseName": "Court on its Own Motion v. State of Jharkhand & Ors.",
+    "text": "Contempt notice to Addl. Chief Secretary over police-station CCTV delay.",
+    "ref": "hc:Jharkhand"
+   }
+  ],
+  "chapters": [
+   {
+    "id": "sc",
+    "num": "I",
+    "title": "Supreme Court of India",
+    "short": "Supreme Court",
+    "tab": "SC",
+    "seat": "New Delhi",
+    "pages": [
+     {
+      "title": "Judgments",
+      "items": [
+       {
+        "caseName": "Arcis Clean Energy Pvt. Ltd. v. Parshva Innovation",
+        "citation": "2026 LiveLaw (SC) 1042",
+        "coram": "Manoj Misra, Vijay Bishnoi, JJ.",
+        "date": "Decided 12 Oct 2026",
+        "headline": "Governing-law clause can decide the seat when two venues are named",
+        "kind": "Held",
+        "text": "Where a clause names two venues, an exclusive-jurisdiction clause helps fix the seat. Goa held the seat; Delhi HC lacked S.11 jurisdiction.",
+        "why": "Guides courts on which High Court can appoint arbitrators.",
+        "tag": "Arbitration",
+        "src": "https://www.livelaw.in/supreme-court/arbitration-governing-law-clause-relevant-for-seat-determination-where-agreement-mentions-two-venues-supreme-court-554350",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "H. Nagarajan & Ors. v. State of T.N. & Ors.",
+        "citation": "2026 LiveLaw (SC) 1040",
+        "coram": "S.V.N. Bhatti, Shree Chandrashekhar, JJ.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Ad hoc service counts for pension, not seniority",
+        "kind": "Held",
+        "text": "Ad hoc appointees get seniority only from regularisation, not over direct recruits; earlier service may count for pension.",
+        "tag": "Service law",
+        "src": "https://www.livelaw.in/supreme-court/past-ad-hoc-service-can-count-for-pension-not-for-seniority-claim-over-direct-recruits-supreme-court-554306",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Haramani Sahoo & Ors. v. Lalita Nayak & Ors.",
+        "citation": "2026 LiveLaw (SC) 1041",
+        "coram": "B.V. Nagarathna, R. Mahadevan, JJ.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Plaint amendment allowed if new facts tie to the dispute",
+        "kind": "Held",
+        "text": "A late amendment can't be refused just because it widens the suit, if new facts and reliefs link directly to the existing dispute.",
+        "tag": "Civil procedure",
+        "src": "https://www.livelaw.in/supreme-court/order-vi-rule-17-cpc-amendment-permissible-if-additional-facts-reliefs-have-direct-nexus-with-existing-controversy-supreme-court-554330",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "title": "Orders",
+      "items": [
+       {
+        "caseName": "State of Punjab v. Nikhil Saraf",
+        "caseNo": "Diary No. 62464/2026",
+        "coram": "M.M. Sundresh, Prasanna B. Varale, JJ.",
+        "date": "Decided 12 Oct 2026",
+        "headline": "No stay of CBI FIR against Punjab CM's OSD, but no coercive steps",
+        "kind": "Notice",
+        "text": "Notice on Punjab's plea against the HC order directing a CBI FIR. FIR not stayed; no coercive action; State to cooperate.",
+        "tag": "Criminal law",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-refuses-to-stay-cbi-fir-against-punjab-cms-osd-bars-coercive-action-554223",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Case title not yet reported",
+        "coram": "Surya Kant, CJI, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 12 Oct 2026",
+        "headline": "SIT probe into assault on lawyers outside BCI office",
+        "kind": "Held",
+        "text": "Delhi Police Commissioner to form an SIT led by at least a DCP. Lawyers may also approach the Magistrate meanwhile.",
+        "tag": "Police accountability",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-lawyers-assault-during-protest-against-bci-chairman-manan-kumar-mishra-sit-probe-directed-private-complaint-to-magistrate-554268",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Aakash Goel v. Union of India & Anr.",
+        "caseNo": "W.P.(C) No. 1249/2026",
+        "coram": "Surya Kant, CJI, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 12 Oct 2026",
+        "headline": "Centre asked for Census 2027 SOP on caste self-declaration",
+        "kind": "Pending",
+        "text": "Without issuing notice, SC asked the Union to file the Census SOP and explain how OBC/ST status is declared and verified.",
+        "tag": "Census",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-asks-union-to-file-standing-operating-procedure-on-data-collection-under-2027-census-plea-against-self-disclosure-without-verification-554299",
+        "srcName": "LiveLaw"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hc",
+    "num": "II",
+    "title": "High Courts",
+    "short": "High Courts",
+    "tab": "HC",
+    "roster": [
+     "Allahabad",
+     "Andhra Pradesh",
+     "Bombay",
+     "Calcutta",
+     "Chhattisgarh",
+     "Delhi",
+     "Gauhati",
+     "Gujarat",
+     "Himachal Pradesh",
+     "Jammu & Kashmir and Ladakh",
+     "Jharkhand",
+     "Karnataka",
+     "Kerala",
+     "Madhya Pradesh",
+     "Madras",
+     "Manipur",
+     "Meghalaya",
+     "Orissa",
+     "Patna",
+     "Punjab & Haryana",
+     "Rajasthan",
+     "Sikkim",
+     "Telangana",
+     "Tripura",
+     "Uttarakhand"
+    ],
+    "seats": {
+     "Allahabad": "Prayagraj",
+     "Andhra Pradesh": "Amaravati",
+     "Bombay": "Mumbai",
+     "Calcutta": "Kolkata",
+     "Chhattisgarh": "Bilaspur",
+     "Delhi": "New Delhi",
+     "Gauhati": "Guwahati",
+     "Gujarat": "Ahmedabad",
+     "Himachal Pradesh": "Shimla",
+     "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+     "Jharkhand": "Ranchi",
+     "Karnataka": "Bengaluru",
+     "Kerala": "Kochi",
+     "Madhya Pradesh": "Jabalpur",
+     "Madras": "Chennai",
+     "Manipur": "Imphal",
+     "Meghalaya": "Shillong",
+     "Orissa": "Cuttack",
+     "Patna": "Patna",
+     "Punjab & Haryana": "Chandigarh",
+     "Rajasthan": "Jodhpur",
+     "Sikkim": "Gangtok",
+     "Telangana": "Hyderabad",
+     "Tripura": "Agartala",
+     "Uttarakhand": "Nainital"
+    },
+    "pages": [
+     {
+      "court": "Allahabad",
+      "items": [
+       {
+        "caseName": "RK v. State of U.P.",
+        "coram": "Atul Sreedharan, Achal Sachdev, JJ.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "HC asks Law Commission to suggest POCSO changes",
+        "kind": "Held",
+        "text": "Habeas plea allowed as wife found to be a major. Law Commission asked to consider sentencing discretion in exceptional POCSO cases.",
+        "tag": "POCSO",
+        "src": "https://www.barandbench.com/news/pocso-act-ignores-social-realities-allahabad-high-court-asks-law-commission-to-recommend-changes",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     },
+     {
+      "court": "Andhra Pradesh",
+      "items": [
+       {
+        "caseName": "Saradindu Chakravarty v. Union of India & Ors.",
+        "caseNo": "W.P. No. 19098 of 2025",
+        "coram": "Ravi Cheemalapati, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "SC Commission can't declare an FIR false",
+        "kind": "Held",
+        "text": "The National Commission for SCs is advisory under Art. 338 and cannot rule an FIR false; its proceedings were set aside.",
+        "tag": "Constitutional law",
+        "src": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-national-commission-scheduled-castes-declare-fir-false-lacks-adjudicatory-powers-554192",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Delhi",
+      "items": [
+       {
+        "caseName": "Janta Live Press Network Pvt. Ltd. & Anr. v. Google LLC & Ors.",
+        "citation": "2026:DHC:8978",
+        "coram": "Amit Mahajan, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "No writ against Google for suspending a Gmail account",
+        "kind": "Held",
+        "text": "Running or suspending email on security grounds is not a public function, so Art. 226 writ does not lie. Other remedies left open.",
+        "tag": "Writ jurisdiction",
+        "src": "https://www.verdictum.in/delhi-high-court/janta-live-press-network-pvt-ltd-anr-v-google-llc-2026dhc8978-public-function-gmail-1623859",
+        "srcName": "Verdictum"
+       },
+       {
+        "caseName": "Case title not yet reported",
+        "coram": "Sachin Datta, J.",
+        "date": "Decided 12 Oct 2026",
+        "headline": "National Herald: AJL not restrained from seeking release of properties",
+        "kind": "Pending",
+        "text": "No interim order on ED's plea to stop AJL seeking release of attached properties. Listed on 2 Nov.",
+        "tag": "Money laundering",
+        "src": "https://www.barandbench.com/news/national-herald-delhi-high-court-refuses-to-stop-ajl-from-seeking-release-of-properties-attached-by-ed",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     },
+     {
+      "court": "Gujarat",
+      "items": [
+       {
+        "caseName": "Molana Mohammad Ramzan Janmohammad v. State of Gujarat & Anr.",
+        "citation": "2026 LiveLaw (Guj) 281",
+        "caseNo": "Cr.M.A. No. 20655 of 2026",
+        "coram": "Hasmukh D. Suthar, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Bail to cleric accused of conversion and minor's marriage",
+        "kind": "Held",
+        "text": "Bail granted as probe is over, chargesheet filed, no antecedents and custody since June.",
+        "tag": "Bail",
+        "src": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-muslim-cleric-conversion-minor-marriage-bail-554264",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Rajeshbhai @ Valku Devchandbhai Jiyani & Ors. v. State of Gujarat",
+        "citation": "2026 LiveLaw (Guj) 280",
+        "caseNo": "Cr.M.A. No. 4350 of 2026",
+        "coram": "Sanjeev J. Thaker, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "No anticipatory bail for three, incl. woman, in rape-video case",
+        "kind": "Held",
+        "text": "Prima facie material against all three; the phone said to hold the video is yet to be recovered.",
+        "tag": "Anticipatory bail",
+        "src": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-anticipatory-bail-to-three-including-woman-accused-of-rape-video-recording-incident-to-threaten-554259",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Jharkhand",
+      "items": [
+       {
+        "caseName": "Court on its Own Motion v. State of Jharkhand & Ors.",
+        "caseNo": "W.P.(PIL) No. 7197 of 2025",
+        "coram": "M.S. Sonak, CJ, Manoj Prasad, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Contempt notice over delay in police-station CCTVs",
+        "kind": "Notice",
+        "text": "Repeated delay held prima facie disobedience. Show-cause to the Addl. Chief Secretary; Chief Secretary to file a timeline.",
+        "tag": "Contempt",
+        "src": "https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-issues-contempt-notice-additional-chief-secretary-delay-installing-cctv-cameras-police-stations-554338",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "X v. Y",
+        "citation": "2026:JHHC:30306-DB",
+        "coram": "Sujit Narayan Prasad, Sanjay Prasad, JJ.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Desertion needs abandoning marital duties, not just leaving home",
+        "kind": "Held",
+        "text": "A wife forced out by cruelty is not a deserter. Her appeal was allowed and the marriage dissolved.",
+        "tag": "Family law",
+        "src": "https://www.verdictum.in/jharkhand-high-court/x-v-y-2026jhhc30306-db-desertion-divorce-cruelty-matrimonial-home-marital-obligation-1623858",
+        "srcName": "Verdictum"
+       }
+      ]
+     },
+     {
+      "court": "Karnataka",
+      "items": [
+       {
+        "caseName": "Mahendra Kumar Mitra & Ors. v. Union of India & Ors.",
+        "coram": "Vibhu Bakhru, CJ, K.S. Hemalekha, J.",
+        "date": "Decided 12 Oct 2026",
+        "headline": "2022 law raising SC/ST quota struck down for breaching 50% cap",
+        "kind": "Held",
+        "text": "Ss. 3 and 4 of the 2022 Act struck down as total reservation crossed 50%. Prior consultation with SC/ST Commissions is mandatory.",
+        "why": "Affects SC/ST quotas in Karnataka jobs and education.",
+        "tag": "Reservation",
+        "src": "https://www.barandbench.com/news/litigation/karnataka-high-court-strikes-down-law-enhancing-scst-reservation-as-total-quota-exceeds-50-cap",
+        "srcName": "Bar & Bench"
+       },
+       {
+        "caseName": "P v. S",
+        "caseNo": "M.F.A. No. 2480 of 2022 (FC)",
+        "coram": "Jayant Banerji, K.V. Aravind, JJ.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Cruelty under Special Marriage Act counts 'since' marriage",
+        "kind": "Held",
+        "text": "S.27(1)(d) SMA cruelty must be shown since solemnisation; mental disorder ground needs proper diagnosis. Husband's appeal dismissed.",
+        "tag": "Family law",
+        "src": "https://www.verdictum.in/karnataka-high-court/p-v-s-miscellaneous-first-appeal-no-2480-of-2022-fc-since-solemnization-of-marriage-special-marriage-act-1623857",
+        "srcName": "Verdictum"
+       }
+      ]
+     },
+     {
+      "court": "Kerala",
+      "items": [
+       {
+        "caseName": "K.A. Muhammed Ashraf & Anr. v. Muslim Girls' Higher Secondary School & Ors.",
+        "citation": "2026 LiveLaw (Ker) 574",
+        "caseNo": "W.A. No. 1118 of 2026",
+        "coram": "Anil K. Narendran, Muralee Krishna S., JJ.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Order allowing co-education at girls' school set aside",
+        "kind": "Held",
+        "text": "Single Judge order set aside and case remanded. Power to permit co-education lies with the Director of Education.",
+        "tag": "Education",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-erattupetta-muslim-girls-school-co-education-554291",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "State of Kerala & Anr. v. Kerala Police Officers' Association & Ors.",
+        "caseNo": "W.A. No. 2100 of 2026",
+        "coram": "A.K. Jayasankaran Nambiar, Preeta A.K., JJ.",
+        "date": "Decided 12 Oct 2026",
+        "headline": "State's appeal on police associations admitted",
+        "kind": "Pending",
+        "text": "Appeals admitted against the Single Judge ruling that quashed the merger of police associations.",
+        "tag": "Service law",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-appeals-single-judge-decision-quashing-government-order-restructuring-police-association-554310",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "XXX v. State of Kerala & Ors.",
+        "coram": "P.V. Kunhikrishnan, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "₹21,000 post-surgery aid to be paid to transgender person",
+        "kind": "Held",
+        "text": "State to pay the unpaid balance of scheme aid within two months; plea for interest not granted.",
+        "tag": "Transgender rights",
+        "src": "https://www.barandbench.com/news/kerala-high-court-directs-state-to-pay-21000-to-transgender-for-person-post-surgery-aid",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     },
+     {
+      "court": "Madhya Pradesh",
+      "items": [
+       {
+        "caseName": "Sanjeet Singh Mavai v. CBI",
+        "citation": "2026 LiveLaw (MP) 412",
+        "caseNo": "CRA-5589-2026",
+        "coram": "Alok Awasthi, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Supervisory rank alone doesn't prove guilt for custodial death",
+        "kind": "Held",
+        "text": "Bail to police officer after a year in custody; chargesheet filed and evidence mainly documentary and CCTV.",
+        "tag": "Bail",
+        "src": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/bail-custodial-death-police-officer-supervisory-position-not-sufficient-for-guilt-554263",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Madras",
+      "items": [
+       {
+        "caseName": "CTR Nirmal Kumar v. Dravida Munnetra Kazhagam",
+        "caseNo": "O.S.A. Nos. 180 & 183 of 2026",
+        "coram": "N. Satish Kumar, G.K. Muthukumar, JJ.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "DMK defamation suit not to be numbered for now",
+        "kind": "Pending",
+        "text": "Registry told not to number DMK's suit against two TVK Ministers until the Minister's appeal is heard.",
+        "tag": "Defamation",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-dmk-defamation-suit-registry-not-to-number-554266",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Punjab & Haryana",
+      "items": [
+       {
+        "caseName": "Ravi Raj v. Union of India & Ors.",
+        "coram": "Ashwani Kumar Mishra, CJ, Rohit Kapoor, J.",
+        "date": "Reported 12 Oct 2026",
+        "headline": "Gaps flagged in police probe into LPU violence",
+        "kind": "Pending",
+        "text": "State given one more chance before transfer to an independent agency; probe to be supervised by a senior officer. Listed 27 Oct.",
+        "tag": "Criminal investigation",
+        "src": "https://www.barandbench.com/news/punjab-haryana-high-court-flags-gaps-in-police-probe-into-lpu-violence",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc",
+    "num": "III",
+    "title": "District & Sessions Courts",
+    "short": "District Courts",
+    "tab": "District",
+    "pages": [
+     {
+      "title": "Reported rulings",
+      "note": "No district, sessions or family court judgments or orders from this window were reported by legal publications."
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "title": "LiveLaw: Supreme Court Daily Round-Up, 12 October 2026",
+    "url": "https://www.livelaw.in/round-ups/supreme-court-daily-round-up-october-12-2026-554352"
+   },
+   {
+    "title": "LiveLaw: SC on governing-law clause and arbitral seat (Arcis Clean Energy)",
+    "url": "https://www.livelaw.in/supreme-court/arbitration-governing-law-clause-relevant-for-seat-determination-where-agreement-mentions-two-venues-supreme-court-554350"
+   },
+   {
+    "title": "LiveLaw: SC refuses to stay CBI FIR against Punjab CM's OSD",
+    "url": "https://www.livelaw.in/top-stories/supreme-court-refuses-to-stay-cbi-fir-against-punjab-cms-osd-bars-coercive-action-554223"
+   },
+   {
+    "title": "Verdictum: SC directs probe into assault on lawyers outside BCI office",
+    "url": "https://www.verdictum.in/supreme-court/delhi-police-commissioner-to-ensure-probe-into-alleged-assault-on-lawyers-outside-bci-office-1623856"
+   },
+   {
+    "title": "Bar & Bench: Karnataka HC strikes down law enhancing SC/ST reservation",
+    "url": "https://www.barandbench.com/news/litigation/karnataka-high-court-strikes-down-law-enhancing-scst-reservation-as-total-quota-exceeds-50-cap"
+   },
+   {
+    "title": "Verdictum: Delhi HC dismisses plea to restore Gmail account",
+    "url": "https://www.verdictum.in/delhi-high-court/janta-live-press-network-pvt-ltd-anr-v-google-llc-2026dhc8978-public-function-gmail-1623859"
+   },
+   {
+    "title": "LiveLaw: Jharkhand HC contempt notice over police-station CCTVs",
+    "url": "https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-issues-contempt-notice-additional-chief-secretary-delay-installing-cctv-cameras-police-stations-554338"
+   },
+   {
+    "title": "LiveLaw: High Courts",
+    "url": "https://www.livelaw.in/high-court"
+   },
+   {
+    "title": "Bar & Bench: Litigation",
+    "url": "https://www.barandbench.com/news/litigation"
+   }
+  ]
+ },
+ {
+  "edition": {
    "vol": "Vol. I · No. 15",
    "badge": "",
    "dateLong": "Friday, 9 October 2026",
