@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-14T00:35+05:30",
+ "updated": "2026-10-14T10:20+05:30",
  "news": [
+  {
+   "edition": "2026-10-14-am",
+   "headline": "Kerala High Court bars lawyers' 'symbolic impeachment' of the CEC inside court premises",
+   "src": "https://www.verdictum.in/news/indian-association-of-lawyers-protest-chief-election-commissioner-of-india-sir-1623910"
+  },
+  {
+   "edition": "2026-10-14-am",
+   "headline": "J&K and Ladakh High Court makes AIBE compulsory for advocates enrolled since 2009-10",
+   "src": "https://barandbench.com/news/jammu-and-kashmir-high-court-makes-aibe-mandatory-for-advocates-enrolled-since-2009-10"
+  },
+  {
+   "edition": "2026-10-14-am",
+   "headline": "Allahabad High Court sets campaign rules for Oudh Bar Association elections",
+   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-oudh-bar-association-elections-554516"
+  },
+  {
+   "edition": "2026-10-14-am",
+   "headline": "Complaints portal for probe into July student protests is ready, Supreme Court told",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-jantar-mantar-protest-high-powered-enquiry-committee-status-report-complaints-portal-ready-for-launch-mha-to-provide-infrastructure-554520"
+  },
   {
    "edition": "2026-10-13-am",
    "headline": "SCBA and SCAORA condemn social media calls for CJI Surya Kant's resignation",
@@ -265,16 +285,6 @@
    "edition": "2026-10-05-am",
    "headline": "Justice Ujjal Bhuyan: any process that disenfranchises millions of voters is arbitrary",
    "src": "https://www.livelaw.in/top-stories/any-process-taking-away-voting-rights-of-millions-of-citizens-is-unjustifiable-no-court-can-condone-it-justice-ujjal-bhuyan-553012"
-  },
-  {
-   "edition": "2026-10-04-am",
-   "headline": "NHRC takes cognizance of children allegedly used as shields at Mumbai protest",
-   "src": "https://www.verdictum.in/news/human-rights-commission-cockroach-janta-party-mumbai-protest-children-1623283"
-  },
-  {
-   "edition": "2026-10-04-am",
-   "headline": "Youth Congress moves Delhi High Court after police refuse Jantar Mantar protest",
-   "src": "https://www.livelaw.in/top-stories/indian-youth-congress-moves-delhi-high-court-against-denial-of-permission-to-protest-against-cec-gyanesh-kumar-at-jantar-mantar-552966"
   }
  ],
  "tribunals": [
@@ -642,7 +652,7 @@
  "latest": {
   "digest": "13 Oct 2026",
   "tribunals": "9 Oct 2026",
-  "news": "2026-10-13-am",
+  "news": "2026-10-14-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-08"
  }
