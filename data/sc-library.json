@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -1963,6 +1963,28 @@
    "pdf": "judgments/sc/pdf/maharashtra-2026-2.pdf",
    "pdfKind": "original",
    "pdfBytes": 219725
+  },
+  {
+   "slug": "pooja-2026",
+   "name": "Pooja v. State of U.P",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-12.json",
+   "pages": 4,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 551,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=129342026&type=j&order_date=2026-10-12&from=latest_judgements_order",
+   "added": "2026-10-14",
+   "keys": [
+    "pooja",
+    "state of u p"
+   ],
+   "citation": "2026 INSC 1119",
+   "caseNo": "Crl.A. No. 4902/2026",
+   "date": "2026-10-12",
+   "pdf": "judgments/sc/pdf/pooja-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 126746
   }
  ]
 }
