@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "sections": [
   {
    "id": "judiciary",
@@ -776,20 +776,41 @@
      "name": "UGC NET, December 2026 (Law)",
      "org": "National Testing Agency",
      "sector": "Government",
-     "status": "Awaited",
+     "status": "Open",
      "eligibility": "For <b>LLM students and graduates</b> (a master's degree is required; final-year LLM students may apply). Leads to Assistant Professor posts and the JRF.",
      "facts": [
       {
-       "k": "Registration",
-       "v": "Not yet open"
+       "k": "Apply online",
+       "v": "8 – 28 Oct 2026, 11:50 PM"
+      },
+      {
+       "k": "Last date",
+       "v": "28 Oct 2026, 11:50 PM (fee by the same time)",
+       "iso": "2026-10-28"
+      },
+      {
+       "k": "Correction window",
+       "v": "2 – 4 Nov 2026"
+      },
+      {
+       "k": "Exam",
+       "v": "14 – 19 Dec 2026 (tentative)"
+      },
+      {
+       "k": "Fee",
+       "v": "₹1,150 · EWS/OBC-NCL ₹600 · SC/ST/PwD/Third gender ₹325"
       }
      ],
-     "note": "The registration notice for the December 2026 cycle is not yet on the NTA portal. Keep this on your list if you plan an LLM.",
+     "note": "NTA opened registration on 8 October 2026; apply only on the official UGC NET portal and keep the confirmation page.",
      "links": [
       {
-       "label": "UGC NET portal",
-       "url": "https://ugcnet.nta.ac.in/",
+       "label": "NTA public notice (8 Oct 2026)",
+       "url": "https://nta.ac.in/Download/Notice/Notice_20261008212430.pdf",
        "primary": true
+      },
+      {
+       "label": "UGC NET portal",
+       "url": "https://ugcnet.nta.nic.in/"
       }
      ],
      "added": "2026-09-25",
@@ -797,22 +818,56 @@
       "hi": {
        "name": "UGC NET, दिसंबर 2026 (कानून)",
        "eligibility": "<b>LLM छात्रों और स्नातकों</b> के लिए (मास्टर डिग्री आवश्यक; LLM के अंतिम वर्ष के छात्र आवेदन कर सकते हैं)। इससे असिस्टेंट प्रोफ़ेसर पद और JRF का रास्ता खुलता है।",
-       "note": "दिसंबर 2026 सत्र की पंजीकरण सूचना अभी NTA पोर्टल पर नहीं आई है। यदि आप LLM करना चाहते हैं तो इसे अपनी सूची में रखें।",
+       "note": "NTA ने 8 अक्टूबर 2026 को पंजीकरण शुरू किया; केवल आधिकारिक UGC NET पोर्टल पर आवेदन करें और पुष्टि पृष्ठ सँभालकर रखें।",
        "facts": [
         {
-         "k": "Registration",
-         "v": "अभी शुरू नहीं"
+         "k": "Apply online",
+         "v": "8 – 28 अक्टूबर 2026, रात 11:50"
+        },
+        {
+         "k": "Last date",
+         "v": "28 अक्टूबर 2026, रात 11:50 (शुल्क भी इसी समय तक)",
+         "iso": "2026-10-28"
+        },
+        {
+         "k": "Correction window",
+         "v": "2 – 4 नवंबर 2026"
+        },
+        {
+         "k": "Exam",
+         "v": "14 – 19 दिसंबर 2026 (संभावित)"
+        },
+        {
+         "k": "Fee",
+         "v": "₹1,150 · EWS/OBC-NCL ₹600 · SC/ST/PwD/थर्ड जेंडर ₹325"
         }
        ]
       },
       "mr": {
        "name": "UGC NET, डिसेंबर 2026 (कायदा)",
        "eligibility": "<b>LLM विद्यार्थी व पदवीधरांसाठी</b> (पदव्युत्तर पदवी आवश्यक; LLM च्या अंतिम वर्षातील विद्यार्थी अर्ज करू शकतात). यातून सहायक प्राध्यापक पदे व JRF चा मार्ग खुला होतो.",
-       "note": "डिसेंबर 2026 सत्राची नोंदणी सूचना अद्याप NTA पोर्टलवर आलेली नाही. तुम्ही LLM करण्याचा विचार करत असाल तर हे तुमच्या यादीत ठेवा.",
+       "note": "NTA ने 8 ऑक्टोबर 2026 रोजी नोंदणी सुरू केली; फक्त अधिकृत UGC NET पोर्टलवर अर्ज करा आणि पुष्टी पान जपून ठेवा.",
        "facts": [
         {
-         "k": "Registration",
-         "v": "अद्याप सुरू नाही"
+         "k": "Apply online",
+         "v": "8 – 28 ऑक्टोबर 2026, रात्री 11:50"
+        },
+        {
+         "k": "Last date",
+         "v": "28 ऑक्टोबर 2026, रात्री 11:50 (शुल्कही याच वेळेपर्यंत)",
+         "iso": "2026-10-28"
+        },
+        {
+         "k": "Correction window",
+         "v": "2 – 4 नोव्हेंबर 2026"
+        },
+        {
+         "k": "Exam",
+         "v": "14 – 19 डिसेंबर 2026 (संभाव्य)"
+        },
+        {
+         "k": "Fee",
+         "v": "₹1,150 · EWS/OBC-NCL ₹600 · SC/ST/PwD/तृतीयपंथी ₹325"
         }
        ]
       }

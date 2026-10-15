@@ -1,6 +1,528 @@
 [
  {
   "edition": {
+   "vol": "Vol. I · No. 18",
+   "badge": "",
+   "dateLong": "Wednesday, 14 October 2026",
+   "dateShort": "14 Oct 2026",
+   "window": "Judgments and orders passed between 10:00 AM IST on 13 October 2026 and 9:15 AM IST on 14 October 2026",
+   "next": "Next edition: tomorrow at 10:00 AM IST"
+  },
+  "highlights": [
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Rahul Gandhi v. State of Maharashtra & Anr.",
+    "text": "Trial in 'commander-in-thief' defamation case against Rahul Gandhi stayed.",
+    "ref": "sc:1"
+   },
+   {
+    "court": "Supreme Court of India",
+    "caseName": "Case title not yet reported",
+    "text": "Notice on ADR's challenge to lifelong immunity for CEC and Election Commissioners.",
+    "ref": "sc:1"
+   },
+   {
+    "court": "High Court of Madras",
+    "caseName": "K. Ponmudy v. Assistant Director",
+    "text": "ED money-laundering case against ex-minister Ponmudi quashed after his acquittal.",
+    "ref": "hc:Madras"
+   },
+   {
+    "court": "High Court of Kerala",
+    "caseName": "Pinarayi Vijayan v. Adv. K.M. Shajahan & Ors.",
+    "text": "No stay of order for vigilance FIR in CMRL-Exalogic case; verdict reserved.",
+    "ref": "hc:Kerala"
+   },
+   {
+    "court": "High Court of Karnataka",
+    "caseName": "Dr. Ravi Basalingappagowda Patil v. State of Karnataka",
+    "text": "Probe against BJP leader over alleged bulk deletion of Muslim voters stayed.",
+    "ref": "hc:Karnataka"
+   }
+  ],
+  "chapters": [
+   {
+    "id": "sc",
+    "num": "I",
+    "title": "Supreme Court of India",
+    "short": "Supreme Court",
+    "tab": "SC",
+    "seat": "New Delhi",
+    "pages": [
+     {
+      "title": "Judgments",
+      "items": [
+       {
+        "caseName": "Case title not yet reported",
+        "coram": "P.S. Narasimha, Alok Aradhe, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "MMTC's challenge to NSEL settlement scheme fails",
+        "kind": "Held",
+        "text": "MMTC's appeal against the NCLAT ruling upholding the NSEL creditors' settlement scheme was dismissed.",
+        "tag": "Insolvency & company law",
+        "src": "https://www.barandbench.com/news/litigation/supreme-court-dismisses-mmtcs-appeal-against-31950-crore-national-spot-exchange-settlement",
+        "srcName": "Bar & Bench"
+       },
+       {
+        "caseName": "Waiz Khan v. State of U.P. & Ors.",
+        "caseNo": "Diary No. 42099/2026",
+        "coram": "Surya Kant, CJI, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "Go to the High Court first over ATS house entry",
+        "kind": "Held",
+        "text": "Art. 32 plea alleging UP ATS men entered a house without uniform or ID was not entertained; petitioner may approach the HC.",
+        "tag": "Writ jurisdiction",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-rejects-article-32-petition-uttar-pradesh-anti-terrorism-squad-personnel-entering-house-without-identification-uniform-554432",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "title": "Orders",
+      "items": [
+       {
+        "caseName": "Rahul Gandhi v. State of Maharashtra & Anr.",
+        "caseNo": "SLP(Crl) No. 19559/2026",
+        "coram": "Vikram Nath, Aparesh Kumar Singh, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "Defamation trial over 'commander-in-thief' remark stayed",
+        "kind": "Notice",
+        "text": "Notice on plea against Bombay HC's refusal to quash the case, returnable in 4 weeks. Trial court proceedings stayed meanwhile.",
+        "tag": "Criminal defamation",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-stays-trial-in-criminal-defamation-case-against-rahul-gandhi-for-comments-against-pm-narendra-modi-554394",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Case title not yet reported",
+        "coram": "Surya Kant, CJI, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "Notice on ADR plea against lifelong immunity for CEC, ECs",
+        "kind": "Notice",
+        "text": "Notice to Union and ECI on challenge to S.16 of the 2023 CEC Act; tagged with the pending Lok Prahari petition.",
+        "why": "Tests whether election commissioners can be shielded from suits for life.",
+        "tag": "Election law",
+        "src": "https://www.livelaw.in/top-stories/supreme-court-adr-petition-against-section-16-cec-act-immunity-of-election-commissioners-notice-issued-554456",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Jagtar Singh Hawara v. Government of NCT of Delhi & Ors.",
+        "caseNo": "W.P.(Crl.) No. 403/2024",
+        "coram": "M.M. Sundresh, Prasanna B. Varale, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "IB inputs sought on Beant Singh convict's jail transfer plea",
+        "kind": "Pending",
+        "text": "Delhi govt to seek IB's view on moving Hawara from Tihar to a Punjab jail. Listed on 3 November.",
+        "tag": "Prisoners' rights",
+        "src": "https://www.livelaw.in/top-stories/punjab-cm-beant-singh-assassination-supreme-court-seeks-intelligence-bureau-inputs-on-convicts-prison-transfer-plea-554475",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Case title not yet reported",
+        "coram": "Surya Kant, CJI, Joymalya Bagchi, V. Mohana, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "Senior police officer summoned over assault on women journalists",
+        "kind": "Pending",
+        "text": "NWMI plea on alleged assault of women journalists covering Delhi protests listed on 15 Oct; a senior officer must attend.",
+        "tag": "Press freedom",
+        "src": "https://www.barandbench.com/news/litigation/supreme-court-seeks-senior-cops-presence-after-plea-alleges-sexual-harassment-of-women-journalists-covering-delhi-protests",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hc",
+    "num": "II",
+    "title": "High Courts",
+    "short": "High Courts",
+    "tab": "HC",
+    "roster": [
+     "Allahabad",
+     "Andhra Pradesh",
+     "Bombay",
+     "Calcutta",
+     "Chhattisgarh",
+     "Delhi",
+     "Gauhati",
+     "Gujarat",
+     "Himachal Pradesh",
+     "Jammu & Kashmir and Ladakh",
+     "Jharkhand",
+     "Karnataka",
+     "Kerala",
+     "Madhya Pradesh",
+     "Madras",
+     "Manipur",
+     "Meghalaya",
+     "Orissa",
+     "Patna",
+     "Punjab & Haryana",
+     "Rajasthan",
+     "Sikkim",
+     "Telangana",
+     "Tripura",
+     "Uttarakhand"
+    ],
+    "seats": {
+     "Allahabad": "Prayagraj",
+     "Andhra Pradesh": "Amaravati",
+     "Bombay": "Mumbai",
+     "Calcutta": "Kolkata",
+     "Chhattisgarh": "Bilaspur",
+     "Delhi": "New Delhi",
+     "Gauhati": "Guwahati",
+     "Gujarat": "Ahmedabad",
+     "Himachal Pradesh": "Shimla",
+     "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+     "Jharkhand": "Ranchi",
+     "Karnataka": "Bengaluru",
+     "Kerala": "Kochi",
+     "Madhya Pradesh": "Jabalpur",
+     "Madras": "Chennai",
+     "Manipur": "Imphal",
+     "Meghalaya": "Shillong",
+     "Orissa": "Cuttack",
+     "Patna": "Patna",
+     "Punjab & Haryana": "Chandigarh",
+     "Rajasthan": "Jodhpur",
+     "Sikkim": "Gangtok",
+     "Telangana": "Hyderabad",
+     "Tripura": "Agartala",
+     "Uttarakhand": "Nainital"
+    },
+    "pages": [
+     {
+      "court": "Allahabad",
+      "items": [
+       {
+        "caseName": "Sachin Yadav v. State of U.P.",
+        "citation": "2026 LiveLaw (AB) 833",
+        "coram": "Arun Kumar Singh Deshwal, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "Police misbehaving with govt advocates may face contempt",
+        "kind": "Held",
+        "text": "DGP to circulate a warning to police. Azamgarh SSP's PRO held in custody till 5 PM for misbehaving with an AGA; bail plea rejected.",
+        "tag": "Contempt",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-police-misbehaviour-government-advocates-contempt-554401",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Christian Community Welfare Society v. State of U.P. & Ors.",
+        "citation": "2026 LiveLaw (AB) 834",
+        "coram": "J.J. Munir, Indrajeet Shukla, JJ.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "No right to a specific plot for a cemetery",
+        "kind": "Held",
+        "text": "Religious freedom gives no enforceable claim to a particular local-body plot; allotting land is an executive call. Writ dismissed.",
+        "tag": "Religious freedom",
+        "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-religious-freedom-christian-cemetery-land-554505",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Bombay",
+      "items": [
+       {
+        "caseName": "Joseph Khudawant & Ors. v. State of Maharashtra & Anr.",
+        "citation": "2026:BHC-NAG:13533",
+        "coram": "M.W. Chandwani, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "Promoting one's religion is not outraging religious feelings",
+        "kind": "Held",
+        "text": "Urging someone to convert was mere promotion of religion, not an offence under S.299/302 BNS. FIR and chargesheet quashed.",
+        "tag": "Criminal law",
+        "src": "https://www.verdictum.in/bombay-high-court/joseph-khudawant-v-the-state-of-maharashtra-2026bhc-nag13533-convert-from-hinduism-to-christianity-was-mere-promotion-1623895",
+        "srcName": "Verdictum"
+       }
+      ]
+     },
+     {
+      "court": "Delhi",
+      "items": [
+       {
+        "caseName": "Rays of New Beginning Foundation v. Delhi Urban Shelter Improvement Board & Ors.",
+        "citation": "2026:DHC:9064",
+        "coram": "Amit Mahajan, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "'First come, first serve' Ramleela ground allotment arbitrary",
+        "kind": "Held",
+        "text": "No relief for this season, but DUSIB must frame annual allotment guidelines with a notice 90 days ahead and a common window.",
+        "tag": "Administrative law",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/first-come-first-serve-policy-for-allotment-of-public-grounds-for-ramlila-events-arbitrary-554431",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Uday Bhanu Chib v. Union of India & Ors.",
+        "coram": "Amit Mahajan, J.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "Notice on Youth Congress plea to protest against CEC",
+        "kind": "Notice",
+        "text": "Notice on three prayers, incl. fresh reasoned review of the protest request and the 10-day rule. Listed 17 Nov.",
+        "tag": "Right to protest",
+        "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-issues-notice-on-indian-youth-congress-plea-to-reconsider-request-to-hold-protest-at-jantar-mantar-554490",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Yogesh Taneja v. Vinay Taneja",
+        "coram": "Vivek Chaudhary, Renu Bhatnagar, JJ.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "Is the 120-day written statement deadline mandatory?",
+        "kind": "Referred",
+        "text": "Bench prima facie found the Original Side Rules deadline directory and referred it to a larger bench. Only the Court can extend time.",
+        "tag": "Civil procedure",
+        "src": "https://www.barandbench.com/news/litigation/can-courts-accept-written-statements-beyond-120-day-deadline-delhi-high-court-larger-bench-to-decide",
+        "srcName": "Bar & Bench"
+       },
+       {
+        "caseName": "Sunny v. State of NCT of Delhi",
+        "coram": "Amit Bansal, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "S.37 NDPS rigour eased when quantity is barely commercial",
+        "kind": "Held",
+        "text": "Bail for 259.3 g morphine, just over the 250 g limit. Long delay can justify bail despite S.37.",
+        "tag": "Bail",
+        "src": "https://www.barandbench.com/news/strict-ndps-act-bail-conditions-not-a-must-if-recovered-drug-only-marginally-above-commercial-quantity-delhi-high-court",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     },
+     {
+      "court": "Gauhati",
+      "items": [
+       {
+        "caseName": "Amritprava Mahanta v. State of Assam",
+        "coram": "Pranjal Das, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "Bail to accused in Zubeen Garg death case",
+        "kind": "Held",
+        "text": "Bail after nearly a year in custody; no prima facie conspiracy shown. She must not travel abroad without leave.",
+        "tag": "Bail",
+        "src": "https://www.barandbench.com/news/litigation/gauhati-high-court-grants-bail-to-accused-in-zubeen-garg-murder-case",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     },
+     {
+      "court": "Gujarat",
+      "items": [
+       {
+        "caseName": "Sandeepkumar Radhakrushnalal Shrivastav v. State of Gujarat",
+        "citation": "2026:GUJHC:64164",
+        "coram": "M.K. Thakker, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "Absence from home doesn't make an accused an absconder",
+        "kind": "Held",
+        "text": "Proclamation quashed; Head Constable to be prosecuted for a forged report. Guidelines issued to trial courts.",
+        "tag": "Criminal procedure",
+        "src": "https://www.verdictum.in/gujarat-high-court/sandeepkumar-radhakrushnalal-shrivastav-v-state-of-gujarat-2026gujhc64164-non-availability-of-accused-at-his-address-not-sufficient-1623907",
+        "srcName": "Verdictum"
+       }
+      ]
+     },
+     {
+      "court": "Karnataka",
+      "items": [
+       {
+        "caseName": "Dr. Ravi Basalingappagowda Patil v. State of Karnataka",
+        "caseNo": "Crl.P. No. 102783/2026",
+        "coram": "Venkatesh Naik T., J.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "SIR: probe against BJP leader over voter deletions stayed",
+        "kind": "Pending",
+        "text": "Investigation into alleged bulk Form 7 objections to delete Muslim voters stayed till 29 Oct, following a coordinate bench.",
+        "tag": "Election law",
+        "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-stays-investigation-bjp-ravi-patil-muslim-voter-deletion-fir-554468",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Kerala",
+      "items": [
+       {
+        "caseName": "Pinarayi Vijayan v. Adv. K.M. Shajahan & Ors.",
+        "caseNo": "W.A. Nos. 2121 & 2122/2026",
+        "coram": "K. Natarajan, Johnson John, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "CMRL-Exalogic: no stay on vigilance FIR order; verdict reserved",
+        "kind": "Reserved",
+        "text": "Verdict reserved on pleas of Pinarayi Vijayan, Veena T. and Muhammed Riyas; interim stay of the FIR order refused.",
+        "tag": "Anti-corruption",
+        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cmrl-exalogic-pinarayi-vijayan-veena-muhammed-riyas-554443",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Madras",
+      "items": [
+       {
+        "caseName": "K. Ponmudy v. Assistant Director",
+        "citation": "2026 LiveLaw (Mad) 501",
+        "caseNo": "Crl.O.P. No. 27067 of 2026",
+        "coram": "S.A. Dharmadhikari, CJ, G. Arul Murugan, J.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "PMLA case against ex-minister Ponmudi quashed",
+        "kind": "Held",
+        "text": "With acquittal in the predicate offence, the ED case cannot go on. ED may act if the predicate case is revived.",
+        "tag": "Money laundering",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-ponmudi-pmla-case-quashed-acquitted-predicate-offence-554433",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Agri S.S. Krishnamurthy v. The Speaker & Ors.",
+        "citation": "2026 LiveLaw (Mad) 498",
+        "caseNo": "W.P. No. 23081 of 2026",
+        "coram": "S.A. Dharmadhikari, CJ, G. Arul Murugan, J.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "Speaker's acceptance of AIADMK MLAs' resignations upheld",
+        "kind": "Held",
+        "text": "Resignations found genuine, but Tenth Schedule disqualification proceedings can go on; Speaker to finish them in 2 months.",
+        "tag": "Constitutional law",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-aiadmk-mla-resignation-acceptance-upheld-554391",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Ankur Kumar Jain v. State rep. by the Inspector of Police & Anr.",
+        "caseNo": "Crl.O.P. No. 27525 of 2026",
+        "coram": "N. Ramesh, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "No written grounds of arrest is dereliction of duty",
+        "kind": "Held",
+        "text": "Oral explanation is not enough; arrest and remand vitiated and bail granted. DGP to instruct all police units.",
+        "tag": "Criminal procedure",
+        "src": "https://www.verdictum.in/madras-high-court/ankur-kumar-jain-v-the-state-rep-by-the-inspector-of-police-crlop-no-27525-of-2026-failure-to-furnish-written-grounds-of-arrest-1623886",
+        "srcName": "Verdictum"
+       },
+       {
+        "caseName": "G v. B",
+        "citation": "2026 LiveLaw (Mad) 500",
+        "caseNo": "C.M.A.(MD) Nos. 804 & 805 of 2022",
+        "coram": "G.R. Swaminathan, M.D. Sumathi, JJ.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "Children's welfare can't force spouses to stay in a dead marriage",
+        "kind": "Held",
+        "text": "Husband's appeal dismissed; divorce for cruelty upheld as trust had broken down.",
+        "tag": "Family law",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-spouses-not-compelled-continue-broken-marriage-welfare-of-children-554426",
+        "srcName": "LiveLaw"
+       },
+       {
+        "caseName": "Milany Ponnuram v. Udhayanidhi Stalin",
+        "caseNo": "Crl.O.P. No. 29503 of 2026",
+        "coram": "V. Lakshminarayanan, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "Magistrate's report sought on unnumbered poll complaint",
+        "kind": "Pending",
+        "text": "Georgetown Magistrate to say how long it will take to number the corrupt-practice complaint against Udhayanidhi Stalin.",
+        "tag": "Election law",
+        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-udhayanidhi-stalin-magistrate-report-numbering-complaint-554493",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Punjab & Haryana",
+      "items": [
+       {
+        "caseName": "Jagtar Singh v. State of Punjab",
+        "caseNo": "CRM-M-52577 of 2026",
+        "coram": "Neerja K. Kalson, J.",
+        "date": "Reported 13 Oct 2026",
+        "headline": "No pre-arrest bail for smuggling heroin into jail",
+        "kind": "Held",
+        "text": "Heroin was hidden in cream boxes for his undertrial brother; custodial interrogation needed. Plea dismissed.",
+        "tag": "NDPS",
+        "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-denies-pre-arrest-bail-to-man-accused-of-hiding-heroin-in-cream-boxes-for-undertrial-554450",
+        "srcName": "LiveLaw"
+       }
+      ]
+     },
+     {
+      "court": "Tripura",
+      "items": [
+       {
+        "caseName": "Shri Manik Sharma v. State of Tripura",
+        "caseNo": "W.P.(Crl.) No. 16 of 2026",
+        "coram": "T. Amarnath Goud, Biswajit Palit, JJ.",
+        "date": "Decided 13 Oct 2026",
+        "headline": "No quashing of FIR against ex-CM Manik Sarkar over speech",
+        "kind": "Held",
+        "text": "Remarks need investigation; S.192 BNS can apply even if no riot follows. He must avoid provocative speeches.",
+        "tag": "Free speech",
+        "src": "https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-refuses-quash-fir-manik-sarkar-provocative-speech-554497",
+        "srcName": "LiveLaw"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc",
+    "num": "III",
+    "title": "District & Sessions Courts",
+    "short": "District Courts",
+    "tab": "District",
+    "pages": [
+     {
+      "title": "Reported rulings",
+      "items": [
+       {
+        "court": "City Civil & Sessions Court, Bengaluru, Karnataka",
+        "caseName": "Siddaramaiah v. Freedom TV & Ors.",
+        "coram": "B. Pushpanjali, Addl. City Civil & Sessions Judge",
+        "date": "Decided 13 Oct 2026",
+        "headline": "Ex-CM Siddaramaiah gets gag order against 42 media outlets",
+        "kind": "Held",
+        "text": "Ex parte interim injunction bars circulating two 'honey-trap' videos; platforms to block them. Summons on 13 Nov.",
+        "tag": "Defamation",
+        "src": "https://www.barandbench.com/news/litigation/bengaluru-court-grants-ex-cm-siddaramaiah-injunction-against-42-media-outlets-over-alleged-honey-trap-videos",
+        "srcName": "Bar & Bench"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "title": "LiveLaw: High Courts Daily Highlights, 13 October 2026",
+    "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-october-13-2026-554508"
+   },
+   {
+    "title": "LiveLaw: Breaking News Alerts, 13 October 2026",
+    "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-13-october-2026-554389"
+   },
+   {
+    "title": "LiveLaw: SC stays defamation trial against Rahul Gandhi",
+    "url": "https://www.livelaw.in/top-stories/supreme-court-stays-trial-in-criminal-defamation-case-against-rahul-gandhi-for-comments-against-pm-narendra-modi-554394"
+   },
+   {
+    "title": "LiveLaw: SC issues notice on ADR plea against CEC immunity",
+    "url": "https://www.livelaw.in/top-stories/supreme-court-adr-petition-against-section-16-cec-act-immunity-of-election-commissioners-notice-issued-554456"
+   },
+   {
+    "title": "LiveLaw: Madras HC quashes PMLA case against Ponmudi",
+    "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-ponmudi-pmla-case-quashed-acquitted-predicate-offence-554433"
+   },
+   {
+    "title": "LiveLaw: Kerala HC refuses to stay order for vigilance FIR (CMRL-Exalogic)",
+    "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cmrl-exalogic-pinarayi-vijayan-veena-muhammed-riyas-554443"
+   },
+   {
+    "title": "Bar & Bench: Litigation",
+    "url": "https://www.barandbench.com/news/litigation"
+   },
+   {
+    "title": "Verdictum: High Courts",
+    "url": "https://www.verdictum.in/court-updates/high-courts"
+   }
+  ]
+ },
+ {
+  "edition": {
    "vol": "Vol. I · No. 17",
    "badge": "",
    "dateLong": "Tuesday, 13 October 2026",
