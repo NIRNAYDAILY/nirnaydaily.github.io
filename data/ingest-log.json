@@ -1,10 +1,6 @@
 {
- "ran": "2026-10-15T19:46+05:30",
- "processed": [
-  "sc_2026-10-08-auto.json: supreme court full texts: 1 added",
-  "sc_2026-10-12-auto.json: supreme court full texts: 1 added",
-  "sc_2026-10-15-auto.json: supreme court full texts: 5 added"
- ],
+ "ran": "2026-10-15T22:38+05:30",
+ "processed": [],
  "errors": [],
  "notes": []
 }
