@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -2161,6 +2161,160 @@
    "pdf": "judgments/sc/pdf/mohd-asad-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 272294
+  },
+  {
+   "slug": "vayu-kishore-2026",
+   "name": "Vayu Kishore v. State of Karnataka",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-08.json",
+   "pages": 26,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 7517,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=47972024&type=j&order_date=2026-10-08&from=latest_judgements_order",
+   "added": "2026-10-15",
+   "keys": [
+    "vayu kishore",
+    "state of karnataka"
+   ],
+   "citation": "2026 INSC 1130",
+   "caseNo": "C.A. No. 13785/2026",
+   "date": "2026-10-08",
+   "pdf": "judgments/sc/pdf/vayu-kishore-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 388569
+  },
+  {
+   "slug": "chavan-dharmendar-2026",
+   "name": "Chavan Dharmendar v. The State of Telangana",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-12.json",
+   "pages": 7,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1009,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=382542026&type=j&order_date=2026-10-12&from=latest_judgements_order",
+   "added": "2026-10-15",
+   "keys": [
+    "chavan dharmendar",
+    "the state of telangana"
+   ],
+   "citation": "2026 INSC 1133",
+   "caseNo": "Crl.A. No. 4930/2026",
+   "date": "2026-10-12",
+   "pdf": "judgments/sc/pdf/chavan-dharmendar-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 131162
+  },
+  {
+   "slug": "sharma-enterprises-2026",
+   "name": "Ms Sharma Enterprises v. National Building Construction Corporation",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-15.json",
+   "pages": 22,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 4683,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=215762026&type=j&order_date=2026-10-15&from=latest_judgements_order",
+   "added": "2026-10-15",
+   "keys": [
+    "ms sharma enterprises",
+    "national building construction corporati"
+   ],
+   "citation": "2026 INSC 1135",
+   "caseNo": "C.A. No. 13782/2026",
+   "date": "2026-10-15",
+   "pdf": "judgments/sc/pdf/sharma-enterprises-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 347995
+  },
+  {
+   "slug": "deepak-raheja-2026",
+   "name": "Deepak Raheja v. Omkara Assets Reconstruction Private Ltd",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-15.json",
+   "pages": 50,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 10016,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=535492025&type=j&order_date=2026-10-15&from=latest_judgements_order",
+   "added": "2026-10-15",
+   "keys": [
+    "deepak raheja",
+    "omkara assets reconstruction private ltd"
+   ],
+   "citation": "2026 INSC 1134",
+   "caseNo": "C.A. No. 12195/2025",
+   "date": "2026-10-15",
+   "pdf": "judgments/sc/pdf/deepak-raheja-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 371110
+  },
+  {
+   "slug": "yes-bank-2026",
+   "name": "Yes Bank Limited v. Axis Trustee Services Limited",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-15.json",
+   "pages": 35,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 10463,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=62452023&type=j&order_date=2026-10-15&from=latest_judgements_order",
+   "added": "2026-10-15",
+   "keys": [
+    "yes bank limited",
+    "axis trustee services limited"
+   ],
+   "citation": "2026 INSC 1132",
+   "caseNo": "C.A. No. 3182/2025",
+   "date": "2026-10-15",
+   "pdf": "judgments/sc/pdf/yes-bank-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 365619
+  },
+  {
+   "slug": "k-madhusudhan-2026",
+   "name": "K. Madhusudhan Rao v. M/s Lodha Healthy Constructions and Developer Private Limited (lhcpl)",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-15.json",
+   "pages": 33,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6512,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=315612022&type=j&order_date=2026-10-15&from=latest_judgements_order",
+   "added": "2026-10-15",
+   "keys": [
+    "k madhusudhan rao",
+    "m s lodha healthy constructions and deve"
+   ],
+   "citation": "2026 INSC 1131",
+   "caseNo": "C.A. No. 8994/2022",
+   "date": "2026-10-15",
+   "pdf": "judgments/sc/pdf/k-madhusudhan-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 345694
+  },
+  {
+   "slug": "secretary-to-2026",
+   "name": "The Secretary to Government, v. Sameer Ahamed N",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-15.json",
+   "pages": 40,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 11206,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=396242026&type=j&order_date=2026-10-15&from=latest_judgements_order",
+   "added": "2026-10-15",
+   "keys": [
+    "the secretary to government",
+    "sameer ahamed n"
+   ],
+   "citation": "2026 INSC 1129",
+   "caseNo": "SLP(C) No. 25507/2026",
+   "date": "2026-10-15",
+   "pdf": "judgments/sc/pdf/secretary-to-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 373141
   }
  ]
 }
