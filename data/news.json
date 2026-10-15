@@ -1,57 +1,33 @@
 {
  "edition": {
-  "edition_id": "2026-10-14-pm",
-  "iso": "2026-10-14",
-  "slot": "6 PM",
-  "dateShort": "14 Oct 2026",
-  "dateLong": "Wednesday, 14 October 2026 · Evening edition",
-  "window": "News from 10:00 AM to 4:00 PM IST, 14 October 2026"
+  "edition_id": "2026-10-15-am",
+  "iso": "2026-10-15",
+  "slot": "10 AM",
+  "dateShort": "15 Oct 2026",
+  "dateLong": "Thursday, 15 October 2026 · Morning edition",
+  "window": "News from 4:00 PM IST, 14 October to 10:00 AM IST, 15 October 2026"
  },
  "items": [
   {
-   "cat": "Judiciary",
-   "region": "Uttar Pradesh",
-   "body": "Allahabad High Court",
-   "headline": "Allahabad High Court orders fix for MP/MLA cases listed before the wrong benches",
-   "text": "Hearing its 2023 suo motu PIL on monitoring criminal cases against sitting MPs and MLAs, a Division Bench found that such cases were being listed before non-designated benches or placed low in the cause list, so they were effectively not heard. It told the Registry to list them before the designated benches and asked for the monitoring portal to be upgraded with colour-coded timelines, reasons for delay and automatic reports. A revised status chart is due within three weeks; the next hearing is on 6 November.",
-   "why": "Trials against legislators are meant to be fast-tracked, and listing lapses at the High Court were stalling them.",
-   "date": "14 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-mp-mla-cases-non-designated-courts-cause-list-554621",
-   "srcName": "LiveLaw",
-   "i18n": {
-    "hi": {
-     "body": "इलाहाबाद उच्च न्यायालय",
-     "headline": "सांसदों/विधायकों के मुक़दमे गलत पीठों के सामने सूचीबद्ध होने पर इलाहाबाद उच्च न्यायालय ने सुधार का आदेश दिया",
-     "text": "मौजूदा सांसदों और विधायकों के खिलाफ आपराधिक मामलों की निगरानी पर 2023 में स्वतः दर्ज जनहित याचिका की सुनवाई करते हुए खंडपीठ ने पाया कि ऐसे मामले उन पीठों के सामने सूचीबद्ध हो रहे थे जो इनके लिए नामित नहीं हैं, या वाद सूची में बहुत नीचे रखे जा रहे थे, जिससे उनकी सुनवाई ही नहीं हो पा रही थी। न्यायालय ने रजिस्ट्री को इन्हें नामित पीठों के सामने सूचीबद्ध करने को कहा और निगरानी पोर्टल में रंगों से समय-सीमा दिखाने, देरी का कारण दर्ज करने और अपने-आप रिपोर्ट बनाने की सुविधा जोड़ने को कहा। संशोधित स्थिति चार्ट तीन सप्ताह में देना है; अगली सुनवाई 6 नवंबर को है।",
-     "why": "जनप्रतिनिधियों के खिलाफ मुक़दमे तेज़ी से निपटाए जाने हैं, लेकिन उच्च न्यायालय में सूचीबद्धता की चूक से वे अटक रहे थे।"
-    },
-    "mr": {
-     "body": "अलाहाबाद उच्च न्यायालय",
-     "headline": "खासदार/आमदारांचे खटले चुकीच्या खंडपीठांसमोर सूचीबद्ध होत असल्याने अलाहाबाद उच्च न्यायालयाचे दुरुस्तीचे आदेश",
-     "text": "विद्यमान खासदार आणि आमदारांविरुद्धच्या फौजदारी खटल्यांच्या देखरेखीसाठी 2023 मध्ये स्वतःहून दाखल केलेल्या जनहित याचिकेच्या सुनावणीत खंडपीठाला असे आढळले की हे खटले त्यासाठी नेमलेल्या नसलेल्या खंडपीठांसमोर सूचीबद्ध होत होते किंवा कामकाज सूचीत खूप खाली ठेवले जात होते, त्यामुळे त्यांची सुनावणीच होत नव्हती. न्यायालयाने रजिस्ट्रीला ते नेमलेल्या खंडपीठांसमोर सूचीबद्ध करण्यास सांगितले आणि देखरेख पोर्टलवर रंगांनी मुदती दाखवणे, विलंबाचे कारण नोंदवणे आणि आपोआप अहवाल तयार होणे अशा सुविधा जोडण्यास सांगितले. सुधारित स्थिती तक्ता तीन आठवड्यांत द्यायचा आहे; पुढील सुनावणी 6 नोव्हेंबरला आहे.",
-     "why": "लोकप्रतिनिधींविरुद्धचे खटले जलद निकाली निघणे अपेक्षित आहे, पण उच्च न्यायालयातील सूचीतील त्रुटींमुळे ते रखडत होते."
-    }
-   }
-  },
-  {
    "cat": "Bar & Bar Councils",
-   "region": "Delhi",
-   "body": "Bar Council of Delhi",
-   "headline": "Nitin Ahlawat elected Chairman of the Bar Council of Delhi",
-   "text": "The Bar Council of Delhi has elected its new office bearers: Nitin Ahlawat as Chairman, Sangeeta Sondhi as Vice-Chairman and Ramit Sehrawat as Honorary Secretary. B.S. Jakhar was elected Chairman of the Executive Committee and Piyush Gupta as the Council's representative member on the Bar Council of India.",
+   "region": "Chandigarh",
+   "body": "District Bar Association, Chandigarh",
+   "headline": "Chandigarh District Bar Association calls a 'No Work Day' on 15 October",
+   "text": "The District Bar Association, Chandigarh has asked its members to stay away from work on 15 October 2026. Its executive body took the decision unanimously at an emergency meeting on 14 October, citing a proposed 'Punjab Bandh' and the reported mistreatment of advocates at the Supreme Court during a recent protest in New Delhi. It also asked judicial officers to adjourn cases to suitable dates and not to pass adverse orders because lawyers are absent.",
+   "why": "Cases listed today in Chandigarh's district courts may be adjourned.",
    "date": "14 Oct 2026",
-   "src": "https://www.livelaw.in/news-updates/bar-council-delhi-elects-new-office-bearers-554610",
+   "src": "https://www.livelaw.in/news-updates/district-bar-association-chandigarh-calls-no-work-day-on-october-15-over-mistreatment-of-advocates-at-supreme-court-proposed-punjab-bandh-554702",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "body": "बार काउंसिल ऑफ़ दिल्ली",
-     "headline": "नितिन अहलावत बार काउंसिल ऑफ़ दिल्ली के अध्यक्ष चुने गए",
-     "text": "बार काउंसिल ऑफ़ दिल्ली ने अपने नए पदाधिकारी चुन लिए हैं: नितिन अहलावत अध्यक्ष, संगीता सोंधी उपाध्यक्ष और रमित सहरावत मानद सचिव। बी.एस. जाखड़ कार्यकारी समिति के अध्यक्ष चुने गए और पीयूष गुप्ता बार काउंसिल ऑफ़ इंडिया में काउंसिल के प्रतिनिधि सदस्य चुने गए।"
+     "headline": "चंडीगढ़ ज़िला बार एसोसिएशन ने 15 अक्टूबर को 'नो वर्क डे' घोषित किया",
+     "text": "डिस्ट्रिक्ट बार एसोसिएशन, चंडीगढ़ ने अपने सदस्यों से 15 अक्टूबर 2026 को काम से दूर रहने को कहा है। उसकी कार्यकारिणी ने 14 अक्टूबर को एक आपात बैठक में सर्वसम्मति से यह फ़ैसला किया। इसके कारण प्रस्तावित 'पंजाब बंद' और हाल में नई दिल्ली में हुए एक विरोध प्रदर्शन के दौरान सर्वोच्च न्यायालय में वकीलों के साथ कथित दुर्व्यवहार बताए गए। एसोसिएशन ने न्यायिक अधिकारियों से मामलों को उचित तारीख़ों तक स्थगित करने और वकीलों की अनुपस्थिति के कारण कोई प्रतिकूल आदेश न देने का अनुरोध भी किया।",
+     "why": "चंडीगढ़ के ज़िला न्यायालयों में आज सूचीबद्ध मामलों की सुनवाई टल सकती है।"
     },
     "mr": {
-     "body": "बार कौन्सिल ऑफ दिल्ली",
-     "headline": "नितीन अहलावत बार कौन्सिल ऑफ दिल्लीच्या अध्यक्षपदी निवडून",
-     "text": "बार कौन्सिल ऑफ दिल्लीने आपले नवे पदाधिकारी निवडले आहेत: नितीन अहलावत अध्यक्ष, संगीता सोंधी उपाध्यक्ष आणि रमित सेहरावत मानद सचिव. बी.एस. जाखड कार्यकारी समितीचे अध्यक्ष म्हणून निवडले गेले आणि पीयूष गुप्ता बार कौन्सिल ऑफ इंडियावर कौन्सिलचे प्रतिनिधी सदस्य म्हणून निवडले गेले."
+     "headline": "चंदीगड जिल्हा बार असोसिएशनकडून 15 ऑक्टोबरला 'नो वर्क डे'",
+     "text": "डिस्ट्रिक्ट बार असोसिएशन, चंदीगडने आपल्या सदस्यांना 15 ऑक्टोबर 2026 रोजी कामापासून दूर राहण्यास सांगितले आहे. 14 ऑक्टोबरला झालेल्या तातडीच्या बैठकीत कार्यकारिणीने एकमताने हा निर्णय घेतला. प्रस्तावित 'पंजाब बंद' आणि नुकत्याच नवी दिल्लीत झालेल्या आंदोलनादरम्यान सर्वोच्च न्यायालयात वकिलांना मिळालेली कथित अपमानास्पद वागणूक ही कारणे देण्यात आली. प्रकरणे योग्य तारखांपर्यंत पुढे ढकलावीत आणि वकील गैरहजर असल्याने प्रतिकूल आदेश देऊ नयेत, अशी विनंतीही असोसिएशनने न्यायिक अधिकाऱ्यांना केली आहे.",
+     "why": "चंदीगडमधील जिल्हा न्यायालयांत आज सूचीबद्ध प्रकरणांची सुनावणी पुढे ढकलली जाऊ शकते."
     }
    }
   },
@@ -59,68 +35,62 @@
    "cat": "Bar & Bar Councils",
    "region": "All India",
    "body": "Supreme Court Bar Association",
-   "headline": "SCBA issues show cause notice to advocate Balraj Malik over face-off with its President",
-   "text": "The Supreme Court Bar Association has asked advocate Balraj Singh Malik to explain within seven days why he should not be suspended or expelled. The notice, dated 13 October, follows a confrontation with SCBA President Pradeep Kumar Rai on the Supreme Court lawns, where the Executive Committee had gathered in solidarity with lawyers allegedly beaten during the 10 October protests. The Executive Committee found a prima facie case on a complaint that also cites a WhatsApp message allegedly insulting a committee member.",
+   "headline": "About 200 lawyers ask SCBA to condemn opposition leaders' march to the Supreme Court",
+   "text": "Around 200 lawyers have written to the Supreme Court Bar Association asking it to pass a resolution condemning the 12 October march to the Supreme Court led by Rahul Gandhi and other opposition leaders, who went up to the court's filing counter to file a petition on the SIR of electoral rolls. The letter, dated 13 October, called the event a show of political and numerical strength that put pressure on the judicial process, and asked the SCBA to reaffirm its commitment to judicial independence and the rule of law.",
    "date": "14 Oct 2026",
-   "src": "https://www.barandbench.com/news/litigation/scba-issues-show-cause-notice-to-balraj-malik-over-face-off-with-president-pradeep-rai",
-   "srcName": "Bar & Bench",
+   "src": "https://www.verdictum.in/news/scba-members-seek-resolution-rahul-gandhi-congress-march-1623971",
+   "srcName": "Verdictum",
    "i18n": {
     "hi": {
-     "body": "सुप्रीम कोर्ट बार एसोसिएशन",
-     "headline": "अध्यक्ष से टकराव पर SCBA ने वकील बलराज मलिक को कारण बताओ नोटिस जारी किया",
-     "text": "सुप्रीम कोर्ट बार एसोसिएशन ने वकील बलराज सिंह मलिक से सात दिन में यह बताने को कहा है कि उन्हें निलंबित या निष्कासित क्यों न किया जाए। 13 अक्टूबर का यह नोटिस सर्वोच्च न्यायालय के लॉन में SCBA अध्यक्ष प्रदीप कुमार राय से हुए टकराव के बाद आया है, जहाँ कार्यकारी समिति 10 अक्टूबर के प्रदर्शनों में कथित रूप से पीटे गए वकीलों के साथ एकजुटता दिखाने के लिए इकट्ठा हुई थी। कार्यकारी समिति ने उस शिकायत पर प्रथम दृष्टया मामला पाया, जिसमें एक व्हाट्सऐप संदेश का भी ज़िक्र है जिसमें कथित रूप से समिति के एक सदस्य का अपमान किया गया था।"
+     "headline": "लगभग 200 वकीलों ने SCBA से सर्वोच्च न्यायालय तक विपक्षी नेताओं के मार्च की निंदा करने को कहा",
+     "text": "लगभग 200 वकीलों ने सुप्रीम कोर्ट बार एसोसिएशन को पत्र लिखकर 12 अक्टूबर को राहुल गांधी और अन्य विपक्षी नेताओं के नेतृत्व में सर्वोच्च न्यायालय तक निकाले गए मार्च की निंदा में प्रस्ताव पारित करने को कहा है। ये नेता मतदाता सूचियों के SIR पर याचिका दायर करने के लिए न्यायालय के फ़ाइलिंग काउंटर तक पहुंचे थे। 13 अक्टूबर के इस पत्र में घटना को राजनीतिक और संख्या-बल का प्रदर्शन बताया गया, जिससे न्यायिक प्रक्रिया पर दबाव बना, और SCBA से न्यायिक स्वतंत्रता और विधि के शासन के प्रति अपनी प्रतिबद्धता दोहराने को कहा गया।"
     },
     "mr": {
-     "body": "सुप्रीम कोर्ट बार असोसिएशन",
-     "headline": "अध्यक्षांशी झालेल्या वादावरून SCBA ची वकील बलराज मलिक यांना कारणे दाखवा नोटीस",
-     "text": "सुप्रीम कोर्ट बार असोसिएशनने वकील बलराज सिंह मलिक यांना निलंबित किंवा निष्कासित का करू नये, याचे स्पष्टीकरण सात दिवसांत देण्यास सांगितले आहे. 13 ऑक्टोबरची ही नोटीस सर्वोच्च न्यायालयाच्या हिरवळीवर SCBA अध्यक्ष प्रदीप कुमार राय यांच्याशी झालेल्या वादानंतर देण्यात आली. तेथे 10 ऑक्टोबरच्या आंदोलनात कथितरित्या मारहाण झालेल्या वकिलांशी एकजूट दाखवण्यासाठी कार्यकारी समिती जमली होती. कार्यकारी समितीला त्या तक्रारीत प्रथमदर्शनी तथ्य आढळले; तक्रारीत समितीच्या एका सदस्याचा कथित अपमान करणाऱ्या व्हॉट्सॲप संदेशाचाही उल्लेख आहे."
+     "headline": "सुमारे 200 वकिलांची SCBA कडे सर्वोच्च न्यायालयापर्यंतच्या विरोधी नेत्यांच्या मोर्चाचा निषेध करण्याची मागणी",
+     "text": "सुमारे 200 वकिलांनी सुप्रीम कोर्ट बार असोसिएशनला पत्र लिहून 12 ऑक्टोबर रोजी राहुल गांधी आणि इतर विरोधी नेत्यांच्या नेतृत्वाखाली सर्वोच्च न्यायालयापर्यंत काढलेल्या मोर्चाचा निषेध करणारा ठराव मंजूर करण्याची मागणी केली आहे. हे नेते मतदार याद्यांच्या SIR बाबत याचिका दाखल करण्यासाठी न्यायालयाच्या फायलिंग काउंटरपर्यंत गेले होते. 13 ऑक्टोबरच्या या पत्रात या घटनेला राजकीय आणि संख्याबळाचे प्रदर्शन म्हटले असून त्यामुळे न्यायिक प्रक्रियेवर दबाव आला, असे नमूद केले आहे. SCBA ने न्यायिक स्वातंत्र्य आणि कायद्याच्या राज्याप्रती आपली बांधिलकी पुन्हा व्यक्त करावी, अशी मागणीही पत्रात आहे."
     }
    }
   },
   {
-   "cat": "Legal Education & Careers",
-   "region": "Karnataka",
-   "body": "NLSIU Bengaluru",
-   "headline": "NLSIU Bengaluru wins the Manfred Lachs Space Law Moot world finals",
-   "text": "A team of Anandita Pande, Nikhilesh Mukherjee and Shreya Rajesh from NLSIU Bengaluru won the world finals of the 35th Manfred Lachs Space Law Moot Court Competition in Antalya, Turkey, beating defending champion NYU School of Law. The final was judged by three sitting judges of the International Court of Justice. It is NLSIU's fourth title in the competition and the first Indian win since NLU Delhi in 2020.",
+   "cat": "Bar & Bar Councils",
+   "region": "Maharashtra",
+   "body": "Bombay Bar Association",
+   "headline": "Bombay Bar Association condemns force against protesters, seeks inquiry into assaults on lawyers",
+   "text": "The Bombay Bar Association issued a statement condemning the use of force against, and the detention of, peaceful protesters, including advocates and students. It demanded a fair and impartial inquiry into the reported assaults on senior advocates and other lawyers, and asked police authorities to protect citizens' rights.",
    "date": "14 Oct 2026",
-   "src": "https://www.barandbench.com/Law-School/moot-courts/nlsiu-team-wins-manfred-lachs-space-law-moot-2026",
-   "srcName": "Bar & Bench",
+   "src": "https://www.livelaw.in/amp/top-stories/livelaw-breaking-news-alerts14-october-2026-554553",
+   "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "body": "NLSIU बेंगलुरु",
-     "headline": "NLSIU बेंगलुरु ने मैनफ्रेड लैक्स स्पेस लॉ मूट का विश्व फ़ाइनल जीता",
-     "text": "NLSIU बेंगलुरु की अनंदिता पांडे, निखिलेश मुखर्जी और श्रेया राजेश की टीम ने तुर्की के अंताल्या में 35वीं मैनफ्रेड लैक्स स्पेस लॉ मूट कोर्ट प्रतियोगिता का विश्व फ़ाइनल जीता और पिछले विजेता NYU स्कूल ऑफ़ लॉ को हराया। फ़ाइनल में अंतरराष्ट्रीय न्यायालय के तीन मौजूदा न्यायाधीश निर्णायक थे। यह इस प्रतियोगिता में NLSIU का चौथा ख़िताब है और 2020 में NLU दिल्ली के बाद किसी भारतीय टीम की पहली जीत है।"
+     "headline": "बॉम्बे बार एसोसिएशन ने प्रदर्शनकारियों पर बल प्रयोग की निंदा की, वकीलों पर हमलों की जांच मांगी",
+     "text": "बॉम्बे बार एसोसिएशन ने एक बयान जारी कर वकीलों और छात्रों सहित शांतिपूर्ण प्रदर्शनकारियों पर बल प्रयोग और उन्हें हिरासत में लिए जाने की निंदा की। उसने वरिष्ठ अधिवक्ताओं और अन्य वकीलों पर हुए कथित हमलों की उचित और निष्पक्ष जांच की मांग की, और पुलिस अधिकारियों से नागरिकों के अधिकारों की रक्षा करने को कहा।"
     },
     "mr": {
-     "body": "NLSIU बेंगळुरू",
-     "headline": "NLSIU बेंगळुरूने मॅनफ्रेड लॅक्स स्पेस लॉ मूटची जागतिक अंतिम फेरी जिंकली",
-     "text": "NLSIU बेंगळुरूच्या अनंदिता पांडे, निखिलेश मुखर्जी आणि श्रेया राजेश यांच्या संघाने तुर्कस्तानमधील अंताल्या येथे 35 व्या मॅनफ्रेड लॅक्स स्पेस लॉ मूट कोर्ट स्पर्धेची जागतिक अंतिम फेरी जिंकली आणि गतविजेत्या NYU स्कूल ऑफ लॉचा पराभव केला. अंतिम फेरीत आंतरराष्ट्रीय न्यायालयाचे तीन विद्यमान न्यायाधीश परीक्षक होते. हे NLSIU चे या स्पर्धेतील चौथे विजेतेपद असून 2020 मध्ये NLU दिल्लीनंतर भारतीय संघाचा हा पहिला विजय आहे."
+     "headline": "बॉम्बे बार असोसिएशनकडून आंदोलकांवरील बळाच्या वापराचा निषेध; वकिलांवरील हल्ल्यांच्या चौकशीची मागणी",
+     "text": "बॉम्बे बार असोसिएशनने निवेदन जारी करून वकील आणि विद्यार्थ्यांसह शांततापूर्ण आंदोलकांवर बळाचा वापर करणे आणि त्यांना ताब्यात घेणे याचा निषेध केला. ज्येष्ठ वकील आणि इतर वकिलांवर झालेल्या कथित हल्ल्यांची न्याय्य आणि निःपक्ष चौकशी करावी, अशी मागणी असोसिएशनने केली, तसेच पोलीस प्रशासनाने नागरिकांच्या हक्कांचे रक्षण करावे, असे आवाहन केले."
     }
    }
   },
   {
    "cat": "Other Legal News",
-   "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "Asaduddin Owaisi moves Supreme Court against the SIR of electoral rolls",
-   "text": "AIMIM chief Asaduddin Owaisi has filed a petition in the Supreme Court challenging the manner in which the Election Commission is conducting the Special Intensive Revision (SIR) of electoral rolls. When it was mentioned before his bench, Chief Justice Surya Kant said he would check and list it with the connected SIR cases due on Thursday.",
-   "why": "It adds to the growing set of challenges to the SIR before the Supreme Court, including one by opposition leaders.",
+   "region": "Delhi",
+   "body": "Lawyers' Association for Constitution",
+   "headline": "Ex-judges' commission headed by Justice Madan Lokur begins public hearings on SIR today",
+   "text": "An independent commission set up by the Lawyers' Association for Constitution and headed by former Supreme Court judge Madan Lokur holds its first public hearing on 15 October 2026 at Jawahar Bhawan, New Delhi, to record voters' grievances about the Election Commission's Special Intensive Revision (SIR) of electoral rolls. Its other members are former judges AK Patnaik, Badar Durrez Ahmad, Rekha Sharma and Anjana Prakash, and it has invited the Election Commission to send a senior officer.",
+   "why": "It is the first of a planned series of hearings across the country, and the commission aims to publish its report by December 2026.",
    "date": "14 Oct 2026",
-   "src": "https://lawbeat.in/amp/top-stories/asaduddin-owaisi-moves-supreme-court-challenging-sir-of-electoral-rolls-1641612",
-   "srcName": "LawBeat",
+   "src": "https://livelaw.in/amp/top-stories/ex-judges-commission-to-begin-public-hearings-from-october-15-to-examine-sirs-legality-impact-554640",
+   "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "body": "भारत का सर्वोच्च न्यायालय",
-     "headline": "असदुद्दीन ओवैसी ने मतदाता सूची के SIR के खिलाफ सर्वोच्च न्यायालय का रुख किया",
-     "text": "AIMIM प्रमुख असदुद्दीन ओवैसी ने सर्वोच्च न्यायालय में याचिका दायर कर चुनाव आयोग द्वारा मतदाता सूचियों के विशेष गहन पुनरीक्षण (SIR) के तरीके को चुनौती दी है। जब इसका उल्लेख उनकी पीठ के सामने किया गया, तो मुख्य न्यायाधीश सूर्य कांत ने कहा कि वे इसे देखकर गुरुवार को होने वाले SIR से जुड़े मामलों के साथ सूचीबद्ध करेंगे।",
-     "why": "इससे सर्वोच्च न्यायालय में SIR के खिलाफ बढ़ती चुनौतियों में एक और जुड़ गई है, जिनमें विपक्षी नेताओं की याचिका भी शामिल है।"
+     "headline": "पूर्व न्यायाधीश Madan Lokur की अध्यक्षता वाला आयोग आज से SIR पर जनसुनवाई शुरू करेगा",
+     "text": "Lawyers' Association for Constitution द्वारा गठित और सर्वोच्च न्यायालय के पूर्व न्यायाधीश Madan Lokur की अध्यक्षता वाला एक स्वतंत्र आयोग 15 अक्टूबर 2026 को नई दिल्ली के जवाहर भवन में अपनी पहली जनसुनवाई कर रहा है। इसमें निर्वाचन आयोग के मतदाता सूचियों के विशेष गहन पुनरीक्षण (SIR) को लेकर मतदाताओं की शिकायतें दर्ज की जाएंगी। आयोग के अन्य सदस्य पूर्व न्यायाधीश AK Patnaik, Badar Durrez Ahmad, Rekha Sharma और Anjana Prakash हैं, और आयोग ने निर्वाचन आयोग को एक वरिष्ठ अधिकारी भेजने का न्योता दिया है।",
+     "why": "यह देशभर में प्रस्तावित सुनवाइयों की श्रृंखला की पहली सुनवाई है, और आयोग का लक्ष्य दिसंबर 2026 तक अपनी रिपोर्ट प्रकाशित करना है।"
     },
     "mr": {
-     "body": "भारताचे सर्वोच्च न्यायालय",
-     "headline": "असदुद्दीन ओवैसी यांची मतदार यादीच्या SIR विरोधात सर्वोच्च न्यायालयात धाव",
-     "text": "AIMIM प्रमुख असदुद्दीन ओवैसी यांनी सर्वोच्च न्यायालयात याचिका दाखल करून निवडणूक आयोग मतदार यादीचे विशेष सखोल पुनरीक्षण (SIR) ज्या पद्धतीने करत आहे त्याला आव्हान दिले आहे. त्यांच्या खंडपीठासमोर याचा उल्लेख झाल्यावर सरन्यायाधीश सूर्य कांत यांनी ती तपासून गुरुवारी होणाऱ्या SIR संबंधित प्रकरणांसोबत सूचीबद्ध करू, असे सांगितले.",
-     "why": "यामुळे सर्वोच्च न्यायालयातील SIR विरोधातील वाढत्या आव्हानांमध्ये आणखी एकाची भर पडली आहे; त्यात विरोधी नेत्यांच्या याचिकेचाही समावेश आहे."
+     "headline": "माजी न्यायाधीश Madan Lokur यांच्या अध्यक्षतेखालील आयोगाची SIR वर आजपासून जनसुनावणी",
+     "text": "Lawyers' Association for Constitution ने स्थापन केलेला आणि सर्वोच्च न्यायालयाचे माजी न्यायाधीश Madan Lokur यांच्या अध्यक्षतेखालील स्वतंत्र आयोग 15 ऑक्टोबर 2026 रोजी नवी दिल्लीतील जवाहर भवन येथे पहिली जनसुनावणी घेत आहे. निवडणूक आयोगाच्या मतदार याद्यांच्या विशेष सखोल पुनरीक्षणाबाबत (SIR) मतदारांच्या तक्रारी यात नोंदवल्या जातील. माजी न्यायाधीश AK Patnaik, Badar Durrez Ahmad, Rekha Sharma आणि Anjana Prakash हे आयोगाचे इतर सदस्य असून आयोगाने निवडणूक आयोगाला एक वरिष्ठ अधिकारी पाठवण्याचे निमंत्रण दिले आहे.",
+     "why": "देशभरात होणाऱ्या नियोजित सुनावण्यांपैकी ही पहिली सुनावणी आहे, आणि डिसेंबर 2026 पर्यंत अहवाल प्रसिद्ध करण्याचे आयोगाचे उद्दिष्ट आहे."
     }
    }
   }

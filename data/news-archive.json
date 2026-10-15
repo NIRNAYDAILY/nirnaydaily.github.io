@@ -1,6 +1,134 @@
 [
  {
   "edition": {
+   "edition_id": "2026-10-14-pm",
+   "iso": "2026-10-14",
+   "slot": "6 PM",
+   "dateShort": "14 Oct 2026",
+   "dateLong": "Wednesday, 14 October 2026 · Evening edition",
+   "window": "News from 10:00 AM to 4:00 PM IST, 14 October 2026"
+  },
+  "items": [
+   {
+    "cat": "Judiciary",
+    "region": "Uttar Pradesh",
+    "body": "Allahabad High Court",
+    "headline": "Allahabad High Court orders fix for MP/MLA cases listed before the wrong benches",
+    "text": "Hearing its 2023 suo motu PIL on monitoring criminal cases against sitting MPs and MLAs, a Division Bench found that such cases were being listed before non-designated benches or placed low in the cause list, so they were effectively not heard. It told the Registry to list them before the designated benches and asked for the monitoring portal to be upgraded with colour-coded timelines, reasons for delay and automatic reports. A revised status chart is due within three weeks; the next hearing is on 6 November.",
+    "why": "Trials against legislators are meant to be fast-tracked, and listing lapses at the High Court were stalling them.",
+    "date": "14 Oct 2026",
+    "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-mp-mla-cases-non-designated-courts-cause-list-554621",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "body": "इलाहाबाद उच्च न्यायालय",
+      "headline": "सांसदों/विधायकों के मुक़दमे गलत पीठों के सामने सूचीबद्ध होने पर इलाहाबाद उच्च न्यायालय ने सुधार का आदेश दिया",
+      "text": "मौजूदा सांसदों और विधायकों के खिलाफ आपराधिक मामलों की निगरानी पर 2023 में स्वतः दर्ज जनहित याचिका की सुनवाई करते हुए खंडपीठ ने पाया कि ऐसे मामले उन पीठों के सामने सूचीबद्ध हो रहे थे जो इनके लिए नामित नहीं हैं, या वाद सूची में बहुत नीचे रखे जा रहे थे, जिससे उनकी सुनवाई ही नहीं हो पा रही थी। न्यायालय ने रजिस्ट्री को इन्हें नामित पीठों के सामने सूचीबद्ध करने को कहा और निगरानी पोर्टल में रंगों से समय-सीमा दिखाने, देरी का कारण दर्ज करने और अपने-आप रिपोर्ट बनाने की सुविधा जोड़ने को कहा। संशोधित स्थिति चार्ट तीन सप्ताह में देना है; अगली सुनवाई 6 नवंबर को है।",
+      "why": "जनप्रतिनिधियों के खिलाफ मुक़दमे तेज़ी से निपटाए जाने हैं, लेकिन उच्च न्यायालय में सूचीबद्धता की चूक से वे अटक रहे थे।"
+     },
+     "mr": {
+      "body": "अलाहाबाद उच्च न्यायालय",
+      "headline": "खासदार/आमदारांचे खटले चुकीच्या खंडपीठांसमोर सूचीबद्ध होत असल्याने अलाहाबाद उच्च न्यायालयाचे दुरुस्तीचे आदेश",
+      "text": "विद्यमान खासदार आणि आमदारांविरुद्धच्या फौजदारी खटल्यांच्या देखरेखीसाठी 2023 मध्ये स्वतःहून दाखल केलेल्या जनहित याचिकेच्या सुनावणीत खंडपीठाला असे आढळले की हे खटले त्यासाठी नेमलेल्या नसलेल्या खंडपीठांसमोर सूचीबद्ध होत होते किंवा कामकाज सूचीत खूप खाली ठेवले जात होते, त्यामुळे त्यांची सुनावणीच होत नव्हती. न्यायालयाने रजिस्ट्रीला ते नेमलेल्या खंडपीठांसमोर सूचीबद्ध करण्यास सांगितले आणि देखरेख पोर्टलवर रंगांनी मुदती दाखवणे, विलंबाचे कारण नोंदवणे आणि आपोआप अहवाल तयार होणे अशा सुविधा जोडण्यास सांगितले. सुधारित स्थिती तक्ता तीन आठवड्यांत द्यायचा आहे; पुढील सुनावणी 6 नोव्हेंबरला आहे.",
+      "why": "लोकप्रतिनिधींविरुद्धचे खटले जलद निकाली निघणे अपेक्षित आहे, पण उच्च न्यायालयातील सूचीतील त्रुटींमुळे ते रखडत होते."
+     }
+    }
+   },
+   {
+    "cat": "Bar & Bar Councils",
+    "region": "Delhi",
+    "body": "Bar Council of Delhi",
+    "headline": "Nitin Ahlawat elected Chairman of the Bar Council of Delhi",
+    "text": "The Bar Council of Delhi has elected its new office bearers: Nitin Ahlawat as Chairman, Sangeeta Sondhi as Vice-Chairman and Ramit Sehrawat as Honorary Secretary. B.S. Jakhar was elected Chairman of the Executive Committee and Piyush Gupta as the Council's representative member on the Bar Council of India.",
+    "date": "14 Oct 2026",
+    "src": "https://www.livelaw.in/news-updates/bar-council-delhi-elects-new-office-bearers-554610",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "body": "बार काउंसिल ऑफ़ दिल्ली",
+      "headline": "नितिन अहलावत बार काउंसिल ऑफ़ दिल्ली के अध्यक्ष चुने गए",
+      "text": "बार काउंसिल ऑफ़ दिल्ली ने अपने नए पदाधिकारी चुन लिए हैं: नितिन अहलावत अध्यक्ष, संगीता सोंधी उपाध्यक्ष और रमित सहरावत मानद सचिव। बी.एस. जाखड़ कार्यकारी समिति के अध्यक्ष चुने गए और पीयूष गुप्ता बार काउंसिल ऑफ़ इंडिया में काउंसिल के प्रतिनिधि सदस्य चुने गए।"
+     },
+     "mr": {
+      "body": "बार कौन्सिल ऑफ दिल्ली",
+      "headline": "नितीन अहलावत बार कौन्सिल ऑफ दिल्लीच्या अध्यक्षपदी निवडून",
+      "text": "बार कौन्सिल ऑफ दिल्लीने आपले नवे पदाधिकारी निवडले आहेत: नितीन अहलावत अध्यक्ष, संगीता सोंधी उपाध्यक्ष आणि रमित सेहरावत मानद सचिव. बी.एस. जाखड कार्यकारी समितीचे अध्यक्ष म्हणून निवडले गेले आणि पीयूष गुप्ता बार कौन्सिल ऑफ इंडियावर कौन्सिलचे प्रतिनिधी सदस्य म्हणून निवडले गेले."
+     }
+    }
+   },
+   {
+    "cat": "Bar & Bar Councils",
+    "region": "All India",
+    "body": "Supreme Court Bar Association",
+    "headline": "SCBA issues show cause notice to advocate Balraj Malik over face-off with its President",
+    "text": "The Supreme Court Bar Association has asked advocate Balraj Singh Malik to explain within seven days why he should not be suspended or expelled. The notice, dated 13 October, follows a confrontation with SCBA President Pradeep Kumar Rai on the Supreme Court lawns, where the Executive Committee had gathered in solidarity with lawyers allegedly beaten during the 10 October protests. The Executive Committee found a prima facie case on a complaint that also cites a WhatsApp message allegedly insulting a committee member.",
+    "date": "14 Oct 2026",
+    "src": "https://www.barandbench.com/news/litigation/scba-issues-show-cause-notice-to-balraj-malik-over-face-off-with-president-pradeep-rai",
+    "srcName": "Bar & Bench",
+    "i18n": {
+     "hi": {
+      "body": "सुप्रीम कोर्ट बार एसोसिएशन",
+      "headline": "अध्यक्ष से टकराव पर SCBA ने वकील बलराज मलिक को कारण बताओ नोटिस जारी किया",
+      "text": "सुप्रीम कोर्ट बार एसोसिएशन ने वकील बलराज सिंह मलिक से सात दिन में यह बताने को कहा है कि उन्हें निलंबित या निष्कासित क्यों न किया जाए। 13 अक्टूबर का यह नोटिस सर्वोच्च न्यायालय के लॉन में SCBA अध्यक्ष प्रदीप कुमार राय से हुए टकराव के बाद आया है, जहाँ कार्यकारी समिति 10 अक्टूबर के प्रदर्शनों में कथित रूप से पीटे गए वकीलों के साथ एकजुटता दिखाने के लिए इकट्ठा हुई थी। कार्यकारी समिति ने उस शिकायत पर प्रथम दृष्टया मामला पाया, जिसमें एक व्हाट्सऐप संदेश का भी ज़िक्र है जिसमें कथित रूप से समिति के एक सदस्य का अपमान किया गया था।"
+     },
+     "mr": {
+      "body": "सुप्रीम कोर्ट बार असोसिएशन",
+      "headline": "अध्यक्षांशी झालेल्या वादावरून SCBA ची वकील बलराज मलिक यांना कारणे दाखवा नोटीस",
+      "text": "सुप्रीम कोर्ट बार असोसिएशनने वकील बलराज सिंह मलिक यांना निलंबित किंवा निष्कासित का करू नये, याचे स्पष्टीकरण सात दिवसांत देण्यास सांगितले आहे. 13 ऑक्टोबरची ही नोटीस सर्वोच्च न्यायालयाच्या हिरवळीवर SCBA अध्यक्ष प्रदीप कुमार राय यांच्याशी झालेल्या वादानंतर देण्यात आली. तेथे 10 ऑक्टोबरच्या आंदोलनात कथितरित्या मारहाण झालेल्या वकिलांशी एकजूट दाखवण्यासाठी कार्यकारी समिती जमली होती. कार्यकारी समितीला त्या तक्रारीत प्रथमदर्शनी तथ्य आढळले; तक्रारीत समितीच्या एका सदस्याचा कथित अपमान करणाऱ्या व्हॉट्सॲप संदेशाचाही उल्लेख आहे."
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Karnataka",
+    "body": "NLSIU Bengaluru",
+    "headline": "NLSIU Bengaluru wins the Manfred Lachs Space Law Moot world finals",
+    "text": "A team of Anandita Pande, Nikhilesh Mukherjee and Shreya Rajesh from NLSIU Bengaluru won the world finals of the 35th Manfred Lachs Space Law Moot Court Competition in Antalya, Turkey, beating defending champion NYU School of Law. The final was judged by three sitting judges of the International Court of Justice. It is NLSIU's fourth title in the competition and the first Indian win since NLU Delhi in 2020.",
+    "date": "14 Oct 2026",
+    "src": "https://www.barandbench.com/Law-School/moot-courts/nlsiu-team-wins-manfred-lachs-space-law-moot-2026",
+    "srcName": "Bar & Bench",
+    "i18n": {
+     "hi": {
+      "body": "NLSIU बेंगलुरु",
+      "headline": "NLSIU बेंगलुरु ने मैनफ्रेड लैक्स स्पेस लॉ मूट का विश्व फ़ाइनल जीता",
+      "text": "NLSIU बेंगलुरु की अनंदिता पांडे, निखिलेश मुखर्जी और श्रेया राजेश की टीम ने तुर्की के अंताल्या में 35वीं मैनफ्रेड लैक्स स्पेस लॉ मूट कोर्ट प्रतियोगिता का विश्व फ़ाइनल जीता और पिछले विजेता NYU स्कूल ऑफ़ लॉ को हराया। फ़ाइनल में अंतरराष्ट्रीय न्यायालय के तीन मौजूदा न्यायाधीश निर्णायक थे। यह इस प्रतियोगिता में NLSIU का चौथा ख़िताब है और 2020 में NLU दिल्ली के बाद किसी भारतीय टीम की पहली जीत है।"
+     },
+     "mr": {
+      "body": "NLSIU बेंगळुरू",
+      "headline": "NLSIU बेंगळुरूने मॅनफ्रेड लॅक्स स्पेस लॉ मूटची जागतिक अंतिम फेरी जिंकली",
+      "text": "NLSIU बेंगळुरूच्या अनंदिता पांडे, निखिलेश मुखर्जी आणि श्रेया राजेश यांच्या संघाने तुर्कस्तानमधील अंताल्या येथे 35 व्या मॅनफ्रेड लॅक्स स्पेस लॉ मूट कोर्ट स्पर्धेची जागतिक अंतिम फेरी जिंकली आणि गतविजेत्या NYU स्कूल ऑफ लॉचा पराभव केला. अंतिम फेरीत आंतरराष्ट्रीय न्यायालयाचे तीन विद्यमान न्यायाधीश परीक्षक होते. हे NLSIU चे या स्पर्धेतील चौथे विजेतेपद असून 2020 मध्ये NLU दिल्लीनंतर भारतीय संघाचा हा पहिला विजय आहे."
+     }
+    }
+   },
+   {
+    "cat": "Other Legal News",
+    "region": "All India",
+    "body": "Supreme Court of India",
+    "headline": "Asaduddin Owaisi moves Supreme Court against the SIR of electoral rolls",
+    "text": "AIMIM chief Asaduddin Owaisi has filed a petition in the Supreme Court challenging the manner in which the Election Commission is conducting the Special Intensive Revision (SIR) of electoral rolls. When it was mentioned before his bench, Chief Justice Surya Kant said he would check and list it with the connected SIR cases due on Thursday.",
+    "why": "It adds to the growing set of challenges to the SIR before the Supreme Court, including one by opposition leaders.",
+    "date": "14 Oct 2026",
+    "src": "https://lawbeat.in/amp/top-stories/asaduddin-owaisi-moves-supreme-court-challenging-sir-of-electoral-rolls-1641612",
+    "srcName": "LawBeat",
+    "i18n": {
+     "hi": {
+      "body": "भारत का सर्वोच्च न्यायालय",
+      "headline": "असदुद्दीन ओवैसी ने मतदाता सूची के SIR के खिलाफ सर्वोच्च न्यायालय का रुख किया",
+      "text": "AIMIM प्रमुख असदुद्दीन ओवैसी ने सर्वोच्च न्यायालय में याचिका दायर कर चुनाव आयोग द्वारा मतदाता सूचियों के विशेष गहन पुनरीक्षण (SIR) के तरीके को चुनौती दी है। जब इसका उल्लेख उनकी पीठ के सामने किया गया, तो मुख्य न्यायाधीश सूर्य कांत ने कहा कि वे इसे देखकर गुरुवार को होने वाले SIR से जुड़े मामलों के साथ सूचीबद्ध करेंगे।",
+      "why": "इससे सर्वोच्च न्यायालय में SIR के खिलाफ बढ़ती चुनौतियों में एक और जुड़ गई है, जिनमें विपक्षी नेताओं की याचिका भी शामिल है।"
+     },
+     "mr": {
+      "body": "भारताचे सर्वोच्च न्यायालय",
+      "headline": "असदुद्दीन ओवैसी यांची मतदार यादीच्या SIR विरोधात सर्वोच्च न्यायालयात धाव",
+      "text": "AIMIM प्रमुख असदुद्दीन ओवैसी यांनी सर्वोच्च न्यायालयात याचिका दाखल करून निवडणूक आयोग मतदार यादीचे विशेष सखोल पुनरीक्षण (SIR) ज्या पद्धतीने करत आहे त्याला आव्हान दिले आहे. त्यांच्या खंडपीठासमोर याचा उल्लेख झाल्यावर सरन्यायाधीश सूर्य कांत यांनी ती तपासून गुरुवारी होणाऱ्या SIR संबंधित प्रकरणांसोबत सूचीबद्ध करू, असे सांगितले.",
+      "why": "यामुळे सर्वोच्च न्यायालयातील SIR विरोधातील वाढत्या आव्हानांमध्ये आणखी एकाची भर पडली आहे; त्यात विरोधी नेत्यांच्या याचिकेचाही समावेश आहे."
+     }
+    }
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-10-14-am",
    "iso": "2026-10-14",
    "slot": "10 AM",
