@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-16T00:42+05:30",
+ "updated": "2026-10-16T10:10+05:30",
  "news": [
+  {
+   "edition": "2026-10-16-am",
+   "headline": "Senior Advocate Gopal Sankaranarayanan withdraws from Delhi protest cases in the Supreme Court",
+   "src": "https://www.barandbench.com/news/litigation/senior-counsel-gopal-sankaranarayanan-withdraws-from-delhi-protest-cases-before-supreme-court"
+  },
+  {
+   "edition": "2026-10-16-am",
+   "headline": "Mangaluru lawyers' body calls public meeting to push for a Karnataka High Court bench in the city",
+   "src": "https://www.livelaw.in/news-updates/lawyers-body-hold-consultative-meeting-karnataka-high-court-bench-mangaluru-554865"
+  },
+  {
+   "edition": "2026-10-16-am",
+   "headline": "BCI releases AIBE-XXII syllabus with subject-wise number of questions",
+   "src": "https://www.scconline.com/blog/post/2026/10/15/bar-council-of-india-released-aibe-xxii-syllabus/"
+  },
   {
    "edition": "2026-10-15-am",
    "headline": "Chandigarh District Bar Association calls a 'No Work Day' on 15 October",
@@ -270,31 +285,6 @@
    "edition": "2026-10-06-pm",
    "headline": "NLUJA Assam to hold its fourth convocation on 10 October in Guwahati",
    "src": "https://www.livelaw.in/lawschool/news/nluja-assam-hold-fourth-convocation-october-10-553329"
-  },
-  {
-   "edition": "2026-10-06-am",
-   "headline": "Justice Nitin Wasudeo Sambre named Acting Chief Justice of Delhi High Court",
-   "src": "https://www.livelaw.in/high-court/delhi-high-court/justice-nitin-sambre-appointed-as-delhi-high-court-acting-chief-justice-553231"
-  },
-  {
-   "edition": "2026-10-06-am",
-   "headline": "Justice Manash Ranjan Pathak named Acting Chief Justice of Gujarat High Court",
-   "src": "https://www.livelaw.in/high-court/gujarat-high-court/centre-notifies-appointment-of-justice-manash-ranjan-as-acting-chief-justice-of-gujarat-high-court-553228"
-  },
-  {
-   "edition": "2026-10-06-am",
-   "headline": "Justice P Sam Koshy named Acting Chief Justice of Telangana High Court",
-   "src": "https://www.livelaw.in/high-court/telangana-high-court/centre-notifies-appointment-justice-p-sam-koshy-acting-chief-justice-telangana-high-court-553229"
-  },
-  {
-   "edition": "2026-10-06-am",
-   "headline": "Outgoing Gujarat Chief Justice Sunita Agarwal urges women lawyers not to let others' doubts limit them",
-   "src": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-chief-justice-sunita-agarwal-farewell-553213"
-  },
-  {
-   "edition": "2026-10-06-am",
-   "headline": "Election Commission says Bihar SIR order was a unanimous decision upheld by Supreme Court",
-   "src": "https://lawbeat.in/top-stories/bihar-sir-was-a-unanimous-decision-consequently-upheld-by-supreme-court-election-commission-of-india-1638682"
   }
  ],
  "tribunals": [
@@ -652,7 +642,7 @@
  "latest": {
   "digest": "15 Oct 2026",
   "tribunals": "15 Oct 2026",
-  "news": "2026-10-15-am",
+  "news": "2026-10-16-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-15"
  }
