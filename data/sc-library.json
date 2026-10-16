@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -2315,6 +2315,270 @@
    "pdf": "judgments/sc/pdf/secretary-to-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 373141
+  },
+  {
+   "slug": "kusumlal-sao-2026",
+   "name": "Kusumlal Sao v. State of Chhattisgarh",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-13.json",
+   "pages": 26,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6555,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=336442026&type=j&order_date=2026-10-13&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "kusumlal sao",
+    "state of chhattisgarh"
+   ],
+   "citation": "2026 INSC 1148",
+   "caseNo": "Crl.A. No. 4894/2026",
+   "date": "2026-10-13",
+   "pdf": "judgments/sc/pdf/kusumlal-sao-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 610900
+  },
+  {
+   "slug": "sunil-kumar-2026",
+   "name": "Sunil Kumar (totally Disable Represented by Wife) v. Iffco Tokio General Insurance Company Ltd",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-15.json",
+   "pages": 27,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 4754,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=252522026&type=j&order_date=2026-10-15&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "sunil kumar totally disable represented ",
+    "iffco tokio general insurance company lt"
+   ],
+   "citation": "2026 INSC 1145",
+   "caseNo": "C.A. No. 13542/2026",
+   "date": "2026-10-15",
+   "pdf": "judgments/sc/pdf/sunil-kumar-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 345055
+  },
+  {
+   "slug": "tejaram-2026",
+   "name": "Tejaram v. State of Rajasthan",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 17,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3368,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=384712025&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "tejaram",
+    "state of rajasthan"
+   ],
+   "citation": "2026 INSC 1147",
+   "caseNo": "Crl.A. No. 4988/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/tejaram-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 252569
+  },
+  {
+   "slug": "gururaj-2026",
+   "name": "S. Gururaj v. The Additional Chief Secretary/ Commissioner of Land Administration",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 21,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5195,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=128262025&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "s gururaj",
+    "the additional chief secretary commissio"
+   ],
+   "citation": "2026 INSC 1146",
+   "caseNo": "C.A. No. 13629/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/gururaj-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 2693691
+  },
+  {
+   "slug": "k-ramalingam-2026",
+   "name": "K. Ramalingam v. Government of Tamil Nadu Rep. by Its Secretary",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 31,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 6288,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=265612019&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "k ramalingam",
+    "government of tamil nadu rep by its secr"
+   ],
+   "citation": "2026 INSC 1144",
+   "caseNo": "C.A. No. 13857-13858/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/k-ramalingam-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 431010
+  },
+  {
+   "slug": "satinder-pal-2026",
+   "name": "Satinder Pal Singh v. Bedi Hospital",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 18,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 4636,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=496872025&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "satinder pal singh",
+    "bedi hospital"
+   ],
+   "citation": "2026 INSC 1142",
+   "caseNo": "C.A. No. 13855/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/satinder-pal-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 397760
+  },
+  {
+   "slug": "mahesh-chandra-2026",
+   "name": "Mahesh Chandra Joshi v. State of Rajasthan",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 9,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1815,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=515042026&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "mahesh chandra joshi",
+    "state of rajasthan"
+   ],
+   "citation": "2026 INSC 1141",
+   "caseNo": "Crl.A. No. 4995/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/mahesh-chandra-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 221830
+  },
+  {
+   "slug": "senior-intelligence-2026",
+   "name": "Senior Intelligence Officer v. Mohammed Kamran",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2653,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=142792026&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "senior intelligence officer",
+    "mohammed kamran"
+   ],
+   "citation": "2026 INSC 1140",
+   "caseNo": "Crl.A. No. 4994/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/senior-intelligence-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 206355
+  },
+  {
+   "slug": "nagendra-ray-2026",
+   "name": "Nagendra Ray v. The State of Bihar",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 6,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1366,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=7672025&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "nagendra ray",
+    "the state of bihar"
+   ],
+   "citation": "2026 INSC 1139",
+   "caseNo": "Crl.A. No. 4991/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/nagendra-ray-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 194840
+  },
+  {
+   "slug": "rajkumar-madki-2026",
+   "name": "Rajkumar Madki v. Shailendra Beldale",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 9,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2332,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=266202025&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "rajkumar madki",
+    "shailendra beldale"
+   ],
+   "citation": "2026 INSC 1138",
+   "caseNo": "Crl.A. No. 3387/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/rajkumar-madki-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 295359
+  },
+  {
+   "slug": "rano-singh-2026",
+   "name": "Smt. Rano Singh v. Sh. Gurbax Singh (d) Th Lrs",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 51,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 10877,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=211782012&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "smt rano singh",
+    "sh gurbax singh d th lrs"
+   ],
+   "citation": "2026 INSC 1137",
+   "caseNo": "C.A. No. 7025/2012",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/rano-singh-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 683530
+  },
+  {
+   "slug": "r-saravanan-2026",
+   "name": "R. Saravanan v. Periyar University Rep by Its Registrar",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-16.json",
+   "pages": 27,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 8672,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=45652020&type=j&order_date=2026-10-16&from=latest_judgements_order",
+   "added": "2026-10-16",
+   "keys": [
+    "r saravanan",
+    "periyar university rep by its registrar"
+   ],
+   "citation": "2026 INSC 1136",
+   "caseNo": "C.A. No. 13812/2026",
+   "date": "2026-10-16",
+   "pdf": "judgments/sc/pdf/r-saravanan-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 463566
   }
  ]
 }
