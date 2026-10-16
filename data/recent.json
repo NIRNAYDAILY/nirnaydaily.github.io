@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:10+05:30",
+ "updated": "2026-10-16T11:56+05:30",
  "news": [
   {
    "edition": "2026-10-16-am",
@@ -288,6 +288,71 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Girraj Bansal v. Rakesh Kumar Goyal",
+   "src": "https://www.livelawbiz.com/ibc/nclat-upholds-cirp-admission-against-shri-paramsukh-edible-foods-relies-on-tds-deductions-and-gst-input-tax-credit-554859"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Sanjit Instruments Private Limited & Ors v. Arvind Jagannath Bagul",
+   "src": "https://www.livelawbiz.com/company-law/share-buyout-cannot-be-ordered-without-finding-of-oppression-and-mismanagement-nclat-554854"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Shruti Lohia, Resolution Professional for Arihant Retail Private Limited",
+   "src": "https://www.livelawbiz.com/amp/nclt/national-company-law-tribunal-chennai-approves-pothys-retail-43-crore-resolution-plan-arihant-retail-private-limited-554914"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "In re Composite Scheme of Arrangement between HSBC InvestDirect Sales & Marketing (India) Pvt. Ltd. and HSBC InvestDirect (India) Pvt. Ltd.",
+   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-mumbai-approves-first-motion-merger-of-hsbc-investdirect-companies-allows-capital-reduction-554838"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Director General of Anti-Profiteering v. Mangalbela Real Estates Pvt. Ltd.",
+   "src": "https://www.livelawbiz.com/gstat/gstat-delhi-has-directed-a-real-estate-company-to-pass-on-3120-lakh-to-66-homebuyers-of-its-atri-green-valley-project-554822"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Case title not yet reported",
+   "src": "https://www.taxscan.in/gst/post-supply-price-escalation-attracts-interest-on-differential-gst-despite-tax-paid-through-later-debit-notes-gstat-read-order"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Pavithram Gold & Diamonds",
+   "src": "https://www.taxscan.in/gst/mere-failure-to-reverse-itc-for-non-payment-to-supplier-within-180-days-cannot-automatically-attract-s74-penalty-gstat"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "A.P. Constructions India Pvt. Ltd. v. Commissioner of GST & Central Excise",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/freshly-manufactured-goods-cannot-replace-re-imported-goods-for-customs-duty-exemption-554831"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Bharat Aluminium Company Limited v. Commissioner of Central Excise & CGST (Audit), Indore",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/water-supply-agreement-is-sale-of-water-not-taxable-service-cestat-delhi-554890"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Regional Manager, Uttar Pradesh State Road Transport Corporation v. Commissioner, CGST & Central Excise, Allahabad",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/amount-collected-from-dhabas-under-yatri-plaza-yojna-not-taxable-as-service-tax-cestat-allahabad-554883"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Rajasthan State Road Development & Construction Corporation Limited v. Commissioner of CGST, Customs and Central Excise, Jodhpur-I",
+   "src": "https://www.livelawbiz.com/service-tax/cestat/sale-of-tender-documents-not-a-service-no-service-tax-payable-on-tender-fees-cestat-delhi-554856"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Cliantha Research Ltd v. Commissioner of Central Excise and Service Tax",
+   "src": "https://www.taxscan.in/excise-customs/providing-corporate-guarantee-does-not-constitute-banking-and-financial-or-intermediary-service-cestat-sets-aside-service-tax-demand"
+  },
+  {
+   "edition": "16 Oct 2026",
+   "caseName": "Case title not yet reported",
+   "src": "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-approves-grt-jewellers-acquisition-majority-stake-tribhovandas-bhimji-zaveri-554862"
+  },
   {
    "edition": "15 Oct 2026",
    "caseName": "Bharat Ajay Jaisinghani v. Asier Metals Pvt. Ltd. & Anr.",
@@ -632,18 +697,13 @@
    "edition": "6 Oct 2026",
    "caseName": "Nirav Dineshbhai Bhavsar v. Income Tax Officer, Ward 5(3)(2), Ahmedabad",
    "src": "https://www.livelawbiz.com/income-tax/ao-required-examine-expenditure-fmv-itat-ahmedabad-deletes-18-76-lakh-commission-disallowance-553110"
-  },
-  {
-   "edition": "4 Oct 2026",
-   "caseName": "Chanda Athish Kumar v. PVR Cinemas",
-   "src": "https://www.barandbench.com/news/litigation/consumer-court-orders-pvr-inox-to-pay-70k-for-delaying-film-screening-by-playing-ads"
   }
  ],
  "latest": {
-  "digest": "15 Oct 2026",
-  "tribunals": "15 Oct 2026",
+  "digest": "16 Oct 2026",
+  "tribunals": "16 Oct 2026",
   "news": "2026-10-16-am",
   "careersBooklet": "2026-10-03",
-  "careersPool": "2026-10-15"
+  "careersPool": "2026-10-16"
  }
 }

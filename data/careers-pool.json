@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "sections": [
   {
    "id": "judiciary",
@@ -156,8 +156,8 @@
     "title": "Also open, but they need practice experience",
     "list": [
      {
-      "text": "High Court of Andhra Pradesh: District Judge (Entry Level), 10 posts by direct recruitment from the Bar (7 years' practice), notified 30 Sep 2026",
-      "url": "https://aphc.gov.in/recruitment.php"
+      "text": "High Court of Andhra Pradesh: District Judge (Entry Level), 10 posts by direct recruitment from the Bar (7 years' practice); last date extended to 10 Nov 2026 (notice dated 15 Oct 2026)",
+      "url": "https://aphc.gov.in/docs/notification_1792083574_0.pdf"
      }
     ],
     "i18n": {
@@ -186,107 +186,6 @@
    "short": "PSUs, regulators, ministries, prosecution",
    "intro": "Government roles open to students and new graduates. Most PSU legal jobs hire through CLAT PG scores, so the exam page matters here too.",
    "items": [
-    {
-     "name": "Winter Internship Programme 2026 (14 Dec 2026 – 8 Jan 2027)",
-     "org": "National Human Rights Commission (NHRC), New Delhi",
-     "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "University students including <b>law students in the senior years of LLB and LLM students</b>; at least 65% in Class XII and every semester since; age up to 28. Earlier NHRC summer/winter interns cannot apply.",
-     "facts": [
-      {
-       "k": "Interns",
-       "v": "About 80"
-      },
-      {
-       "k": "Duration",
-       "v": "4 weeks, in person, New Delhi"
-      },
-      {
-       "k": "Stipend",
-       "v": "₹12,000 plus 3rd AC train fare"
-      },
-      {
-       "k": "Announced",
-       "v": "1 Oct 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "15 Oct 2026, 6 PM",
-       "iso": "2026-10-15"
-      }
-     ],
-     "note": "Applications are taken online only through NHRC's HRCNet portal, linked from the NHRC homepage. Keep scanned mark sheets, a statement of purpose and a recent recommendation letter from your Dean or HoD ready before you start.",
-     "links": [
-      {
-       "label": "Official internship page",
-       "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes",
-       "primary": true
-      },
-      {
-       "label": "Announcement (PDF)",
-       "url": "https://nhrc.nic.in/assets/uploads/summer_winter/1790831008_0ade143f0c1d2ae01354.pdf"
-      }
-     ],
-     "added": "2026-10-01",
-     "i18n": {
-      "hi": {
-       "name": "शीतकालीन इंटर्नशिप कार्यक्रम 2026 (14 दिसंबर 2026 – 8 जनवरी 2027)",
-       "eligibility": "विश्वविद्यालय के छात्र, जिनमें <b>LLB के वरिष्ठ वर्षों के कानून छात्र और LLM छात्र</b> शामिल हैं; कक्षा XII और उसके बाद हर सेमेस्टर में कम से कम 65%; आयु 28 वर्ष तक। NHRC के पिछले ग्रीष्म/शीतकालीन इंटर्न आवेदन नहीं कर सकते।",
-       "note": "आवेदन केवल NHRC के HRCNet पोर्टल पर ऑनलाइन लिए जाते हैं, जिसका लिंक NHRC के मुख्य पृष्ठ पर है। शुरू करने से पहले स्कैन की गई अंकतालिकाएँ, उद्देश्य-पत्र और डीन या विभागाध्यक्ष का हाल का अनुशंसा पत्र तैयार रखें।",
-       "facts": [
-        {
-         "k": "Interns",
-         "v": "लगभग 80"
-        },
-        {
-         "k": "Duration",
-         "v": "4 सप्ताह, प्रत्यक्ष उपस्थिति, नई दिल्ली"
-        },
-        {
-         "k": "Stipend",
-         "v": "₹12,000 और थर्ड एसी रेल किराया"
-        },
-        {
-         "k": "Announced",
-         "v": "1 Oct 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "15 अक्टूबर 2026, शाम 6 बजे",
-         "iso": "2026-10-15"
-        }
-       ]
-      },
-      "mr": {
-       "name": "हिवाळी इंटर्नशिप कार्यक्रम 2026 (14 डिसेंबर 2026 – 8 जानेवारी 2027)",
-       "eligibility": "विद्यापीठांचे विद्यार्थी, ज्यात <b>LLB च्या वरिष्ठ वर्षांतील कायद्याचे विद्यार्थी व LLM विद्यार्थी</b> येतात; इयत्ता XII व त्यानंतरच्या प्रत्येक सत्रात किमान 65%; वय 28 पर्यंत. NHRC चे यापूर्वीचे उन्हाळी/हिवाळी इंटर्न अर्ज करू शकत नाहीत.",
-       "note": "अर्ज फक्त NHRC च्या HRCNet पोर्टलवर ऑनलाइन स्वीकारले जातात, ज्याची लिंक NHRC च्या मुख्यपृष्ठावर आहे. सुरुवात करण्यापूर्वी स्कॅन केलेल्या गुणपत्रिका, उद्देश निवेदन आणि अधिष्ठाता किंवा विभागप्रमुखांचे अलीकडील शिफारसपत्र तयार ठेवा.",
-       "facts": [
-        {
-         "k": "Interns",
-         "v": "सुमारे 80"
-        },
-        {
-         "k": "Duration",
-         "v": "4 आठवडे, प्रत्यक्ष उपस्थिती, नवी दिल्ली"
-        },
-        {
-         "k": "Stipend",
-         "v": "₹12,000 व थर्ड एसी रेल्वे भाडे"
-        },
-        {
-         "k": "Announced",
-         "v": "1 Oct 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "15 ऑक्टोबर 2026, संध्याकाळी 6 वाजता",
-         "iso": "2026-10-15"
-        }
-       ]
-      }
-     }
-    },
     {
      "name": "Legal Consultant (Maritime Law), Directorate General of Shipping",
      "org": "NALSAR University of Law, Hyderabad, with the Directorate General of Shipping",
@@ -1233,6 +1132,49 @@
    "short": "Law firms, chambers, research fellowships",
    "intro": "Private jobs, fellowships and internships, taken only from the employer's own website. Big firms do not always post fresher roles publicly, so their official application portals are listed below.",
    "items": [
+    {
+     "name": "Field Researchers, UPR 2027 Project (India's National Report, 5th UPR Cycle)",
+     "org": "National Law University Delhi, New Delhi · Ref. call dated 7 Oct 2026",
+     "sector": "Fellowship",
+     "status": "Closing soon",
+     "eligibility": "A <b>graduate degree in Law</b> or Social Sciences with a good academic record and an understanding of qualitative/empirical research methods. <b>No minimum experience</b> is required; field research or data skills are desirable.",
+     "facts": [
+      {
+       "k": "Posts",
+       "v": "2 Field Researchers (plus 1 Research Associate, which requires an LL.M.)"
+      },
+      {
+       "k": "Pay",
+       "v": "₹40,000 / month consolidated (RA: ₹50,000)"
+      },
+      {
+       "k": "Tenure",
+       "v": "6 months, full-time, on campus at Dwarka, immediate joining"
+      },
+      {
+       "k": "Last date",
+       "v": "22 Oct 2026, 5 PM",
+       "iso": "2026-10-22"
+      }
+     ],
+     "note": "Apply only through the online form on careers.nludelhi.ac.in with your CV, degree copies and a motivation statement of up to 500 words. Email and physical applications are not accepted.",
+     "links": [
+      {
+       "label": "Official notification",
+       "url": "https://nludelhi.ac.in/wp-content/uploads/2026/10/Call-for-Applications-UPR-2027-Project.pdf",
+       "primary": true
+      },
+      {
+       "label": "NLUD call page",
+       "url": "https://nludelhi.ac.in/call-for-applications-research-associate-and-field-researchers/"
+      },
+      {
+       "label": "Apply online",
+       "url": "https://careers.nludelhi.ac.in/"
+      }
+     ],
+     "added": "2026-10-16"
+    },
     {
      "name": "Graduate Research Fellowship 2027",
      "org": "National Law School of India University, Bengaluru",
