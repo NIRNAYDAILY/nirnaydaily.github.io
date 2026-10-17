@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -2579,6 +2579,28 @@
    "pdf": "judgments/sc/pdf/r-saravanan-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 463566
+  },
+  {
+   "slug": "just-rights-2026",
+   "name": "Just Rights for Children Alliance v. S. Harish",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-15.json",
+   "pages": 137,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 27907,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=410282026&type=j&order_date=2026-10-15&from=latest_judgements_order",
+   "added": "2026-10-17",
+   "keys": [
+    "just rights for children alliance",
+    "s harish"
+   ],
+   "citation": "2026 INSC 1149",
+   "caseNo": "MA 2553-2554/2026 in Crl.A. No. 2161-2162/2024",
+   "date": "2026-10-15",
+   "pdf": "judgments/sc/pdf/just-rights-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 746076
   }
  ]
 }
