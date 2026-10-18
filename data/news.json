@@ -1,81 +1,60 @@
 {
  "edition": {
-  "edition_id": "2026-10-16-am",
-  "iso": "2026-10-16",
-  "slot": "10 AM",
-  "dateShort": "16 Oct 2026",
-  "dateLong": "Friday, 16 October 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 15 October to 10:00 AM IST, 16 October 2026"
+  "edition_id": "2026-10-18-pm",
+  "iso": "2026-10-18",
+  "slot": "6 PM",
+  "dateShort": "18 Oct 2026",
+  "dateLong": "Sunday, 18 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 18 October 2026"
  },
  "items": [
   {
-   "cat": "Bar & Bar Councils",
-   "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "Senior Advocate Gopal Sankaranarayanan withdraws from Delhi protest cases in the Supreme Court",
-   "text": "Senior Advocate Gopal Sankaranarayanan has stepped away from seven Delhi protest-related matters before the Supreme Court. He said he was repeatedly interrupted, and his microphone was allegedly taken, during Thursday's hearing before CJI Surya Kant and Justice Joymalya Bagchi, and that he could not continue in that environment.",
-   "why": "It reflects the strain on courtroom order in the batch of about 46 petitions, now listed for 3 November.",
-   "date": "16 Oct 2026",
-   "src": "https://www.barandbench.com/news/litigation/senior-counsel-gopal-sankaranarayanan-withdraws-from-delhi-protest-cases-before-supreme-court",
+   "cat": "Judiciary",
+   "region": "Ladakh",
+   "body": "High Court of Jammu & Kashmir and Ladakh",
+   "headline": "CJI Surya Kant inaugurates the High Court's new Ladakh bench in Leh",
+   "text": "Chief Justice of India Surya Kant on Sunday inaugurated the Ladakh bench of the High Court of Jammu & Kashmir and Ladakh at Leh. Until now the High Court sat only in Srinagar and Jammu. The new bench will begin hearing cases on 21 October, with a division bench of Chief Justice Pushpendra Singh Bhati and Justice Sanjay Parihar.",
+   "why": "Litigants in Leh and Kargil will no longer have to cross the Himalayan passes to reach the High Court.",
+   "date": "18 Oct 2026",
+   "src": "https://www.barandbench.com/news/cji-surya-kant-inaugurates-jk-high-courts-ladakh-bench-in-leh",
    "srcName": "Bar & Bench",
    "i18n": {
     "hi": {
-     "body": "सर्वोच्च न्यायालय",
-     "headline": "वरिष्ठ अधिवक्ता गोपाल शंकरनारायणन सर्वोच्च न्यायालय में दिल्ली विरोध-प्रदर्शन के मामलों से हटे",
-     "text": "वरिष्ठ अधिवक्ता गोपाल शंकरनारायणन ने सर्वोच्च न्यायालय में दिल्ली विरोध-प्रदर्शन से जुड़े सात मामलों से खुद को अलग कर लिया है। उन्होंने कहा कि गुरुवार को भारत के मुख्य न्यायाधीश सूर्य कांत और न्यायमूर्ति जॉयमाल्य बागची के सामने सुनवाई के दौरान उन्हें बार-बार टोका गया और कथित तौर पर उनका माइक छीन लिया गया, इसलिए वे ऐसे माहौल में आगे पैरवी नहीं कर सकते।",
-     "why": "इससे लगभग 46 याचिकाओं के इस समूह में अदालत की व्यवस्था पर दबाव दिखता है; इन मामलों की सुनवाई अब 3 नवंबर को है।"
+     "body": "जम्मू-कश्मीर और लद्दाख उच्च न्यायालय",
+     "headline": "CJI सूर्यकांत ने लेह में उच्च न्यायालय की नई लद्दाख पीठ का उद्घाटन किया",
+     "text": "भारत के मुख्य न्यायाधीश सूर्यकांत ने रविवार को लेह में जम्मू-कश्मीर और लद्दाख उच्च न्यायालय की लद्दाख पीठ का उद्घाटन किया। अब तक उच्च न्यायालय केवल श्रीनगर और जम्मू में बैठता था। नई पीठ 21 अक्टूबर से मामलों की सुनवाई शुरू करेगी, जिसमें मुख्य न्यायाधीश पुष्पेंद्र सिंह भाटी और न्यायमूर्ति संजय परिहार की खंडपीठ बैठेगी।",
+     "why": "अब लेह और करगिल के पक्षकारों को उच्च न्यायालय पहुँचने के लिए हिमालय के दर्रे पार नहीं करने होंगे।"
     },
     "mr": {
-     "body": "सर्वोच्च न्यायालय",
-     "headline": "ज्येष्ठ वकील गोपाल शंकरनारायणन सर्वोच्च न्यायालयातील दिल्ली आंदोलन प्रकरणांतून बाहेर",
-     "text": "ज्येष्ठ वकील गोपाल शंकरनारायणन यांनी सर्वोच्च न्यायालयातील दिल्ली आंदोलनाशी संबंधित सात प्रकरणांतून माघार घेतली आहे. गुरुवारी भारताचे सरन्यायाधीश सूर्य कांत आणि न्यायमूर्ती जॉयमाल्य बागची यांच्यासमोर झालेल्या सुनावणीत त्यांना वारंवार अडवले गेले आणि त्यांचा माइक कथितपणे हिसकावला गेला, त्यामुळे अशा वातावरणात पुढे बाजू मांडता येणार नाही, असे त्यांनी सांगितले.",
-     "why": "सुमारे 46 याचिकांच्या या गटात न्यायालयातील शिस्तीवर ताण आल्याचे यातून दिसते; ही प्रकरणे आता 3 नोव्हेंबरला सुनावणीसाठी आहेत."
+     "body": "जम्मू-काश्मीर आणि लडाख उच्च न्यायालय",
+     "headline": "सरन्यायाधीश सूर्यकांत यांच्या हस्ते लेह येथे उच्च न्यायालयाच्या नव्या लडाख खंडपीठाचे उद्घाटन",
+     "text": "भारताचे सरन्यायाधीश सूर्यकांत यांनी रविवारी लेह येथे जम्मू-काश्मीर आणि लडाख उच्च न्यायालयाच्या लडाख खंडपीठाचे उद्घाटन केले. आतापर्यंत उच्च न्यायालयाचे कामकाज फक्त श्रीनगर आणि जम्मू येथे चालत असे. नवे खंडपीठ 21 ऑक्टोबरपासून प्रकरणांची सुनावणी सुरू करेल; मुख्य न्यायमूर्ती पुष्पेंद्र सिंह भाटी आणि न्यायमूर्ती संजय परिहार यांचे खंडपीठ सुनावणी घेईल.",
+     "why": "लेह आणि कारगिलमधील पक्षकारांना आता उच्च न्यायालयात जाण्यासाठी हिमालयातील खिंडी ओलांडाव्या लागणार नाहीत."
     }
    }
   },
   {
-   "cat": "Bar & Bar Councils",
-   "region": "Karnataka",
-   "body": "United Legal Research and Justice Trust, Mangaluru",
-   "headline": "Mangaluru lawyers' body calls public meeting to push for a Karnataka High Court bench in the city",
-   "text": "A trust of Dakshina Kannada advocates will hold a consultative meeting and solidarity programme in Mangaluru on 16 October at 4 PM to build support for a High Court bench there. It comes ahead of a feasibility study by a three-judge committee that the Chief Justice set up on 29 September to examine benches in eight regions of Karnataka.",
-   "why": "The Advocates' Association Bengaluru opposes a Mangaluru bench, so the committee's findings will be closely watched.",
-   "date": "15 Oct 2026",
-   "src": "https://www.livelaw.in/news-updates/lawyers-body-hold-consultative-meeting-karnataka-high-court-bench-mangaluru-554865",
-   "srcName": "LiveLaw",
+   "cat": "Judiciary",
+   "region": "Ladakh",
+   "body": "Supreme Court of India",
+   "headline": "Supreme Court to hear all pending Ladakh cases together on one day, lawyers can appear online from Leh",
+   "text": "Speaking at the Leh inauguration, CJI Surya Kant said he will set up a special Supreme Court bench to take up all pending cases from Ladakh on a single day. Lawyers from Leh and Kargil will be able to argue them by video link from the High Court's Leh bench, once video-conferencing facilities there are adequate. He was responding to Attorney General R Venkataramani's suggestion that a Constitution Bench sit in Ladakh.",
+   "why": "Ladakh's lawyers and litigants could reach the Supreme Court without the cost and time of travelling to Delhi.",
+   "date": "18 Oct 2026",
+   "src": "https://www.barandbench.com/news/cji-surya-kant-announces-special-bench-for-hearing-ladakh-cases-pending-in-supreme-court",
+   "srcName": "Bar & Bench",
    "i18n": {
     "hi": {
-     "headline": "मंगलुरु के वकीलों के संगठन ने शहर में कर्नाटक उच्च न्यायालय की पीठ की मांग के लिए सार्वजनिक बैठक बुलाई",
-     "text": "दक्षिण कन्नड़ के वकीलों का एक ट्रस्ट 16 अक्टूबर को शाम 4 बजे मंगलुरु में परामर्श बैठक और एकजुटता कार्यक्रम करेगा, ताकि वहां उच्च न्यायालय की पीठ के लिए समर्थन जुटाया जा सके। यह बैठक उस तीन-न्यायाधीशों की समिति के व्यवहार्यता अध्ययन से पहले हो रही है, जिसे मुख्य न्यायाधीश ने 29 सितंबर को कर्नाटक के आठ क्षेत्रों में पीठों की जांच के लिए बनाया था।",
-     "why": "एडवोकेट्स एसोसिएशन बेंगलुरु मंगलुरु पीठ का विरोध करता है, इसलिए समिति के निष्कर्षों पर सबकी नज़र रहेगी।"
+     "body": "भारत का सर्वोच्च न्यायालय",
+     "headline": "सर्वोच्च न्यायालय लद्दाख के सभी लंबित मामले एक ही दिन सुनेगा, वकील लेह से ऑनलाइन पेश हो सकेंगे",
+     "text": "लेह में उद्घाटन समारोह में CJI सूर्यकांत ने कहा कि वे सर्वोच्च न्यायालय की एक विशेष पीठ बनाएँगे, जो लद्दाख के सभी लंबित मामलों को एक ही दिन सुनेगी। वीडियो कॉन्फ्रेंसिंग की पर्याप्त सुविधा होने पर लेह और करगिल के वकील उच्च न्यायालय की लेह पीठ से वीडियो के ज़रिए बहस कर सकेंगे। उन्होंने यह बात अटॉर्नी जनरल आर. वेंकटरमणी के उस सुझाव के जवाब में कही कि एक संविधान पीठ लद्दाख में बैठे।",
+     "why": "लद्दाख के वकील और पक्षकार दिल्ली जाने के खर्च और समय के बिना सर्वोच्च न्यायालय तक पहुँच सकेंगे।"
     },
     "mr": {
-     "headline": "मंगळुरूतील वकिलांच्या संस्थेने शहरात कर्नाटक उच्च न्यायालयाच्या खंडपीठासाठी जाहीर बैठक बोलावली",
-     "text": "दक्षिण कन्नडमधील वकिलांचा एक ट्रस्ट 16 ऑक्टोबरला दुपारी 4 वाजता मंगळुरूमध्ये सल्लामसलत बैठक आणि एकजूट कार्यक्रम घेणार आहे, जेणेकरून तेथे उच्च न्यायालयाच्या खंडपीठासाठी पाठिंबा मिळवता येईल. मुख्य न्यायाधीशांनी 29 सप्टेंबरला कर्नाटकातील आठ भागांत खंडपीठांची शक्यता तपासण्यासाठी नेमलेल्या तीन न्यायाधीशांच्या समितीच्या अभ्यासापूर्वी ही बैठक होत आहे.",
-     "why": "ॲडव्होकेट्स असोसिएशन बेंगळुरूचा मंगळुरू खंडपीठाला विरोध आहे, त्यामुळे समितीच्या निष्कर्षांकडे सर्वांचे लक्ष असेल."
-    }
-   }
-  },
-  {
-   "cat": "Legal Education & Careers",
-   "region": "All India",
-   "body": "Bar Council of India",
-   "headline": "BCI releases AIBE-XXII syllabus with subject-wise number of questions",
-   "text": "The Bar Council of India has published the syllabus for the 22nd All India Bar Examination, dated 13 October 2026. The paper will have 100 questions across 19 subjects, with Constitutional Law, Criminal Procedure (CrPC/BNSS) and Civil Procedure carrying 10 questions each.",
-   "why": "Candidates can now plan their preparation around the official weightage.",
-   "date": "15 Oct 2026",
-   "src": "https://www.scconline.com/blog/post/2026/10/15/bar-council-of-india-released-aibe-xxii-syllabus/",
-   "srcName": "SCC Online Blog",
-   "i18n": {
-    "hi": {
-     "headline": "बीसीआई ने AIBE-XXII का पाठ्यक्रम जारी किया, विषयवार प्रश्नों की संख्या बताई",
-     "text": "बार काउंसिल ऑफ इंडिया ने 22वीं अखिल भारतीय बार परीक्षा का पाठ्यक्रम जारी किया है, जिस पर 13 अक्टूबर 2026 की तारीख है। प्रश्नपत्र में 19 विषयों से 100 प्रश्न होंगे; संवैधानिक कानून, आपराधिक प्रक्रिया (CrPC/BNSS) और सिविल प्रक्रिया से 10-10 प्रश्न आएंगे।",
-     "why": "अब उम्मीदवार आधिकारिक वेटेज के अनुसार अपनी तैयारी की योजना बना सकते हैं।"
-    },
-    "mr": {
-     "headline": "बीसीआयने AIBE-XXII चा अभ्यासक्रम जाहीर केला, विषयनिहाय प्रश्नसंख्या दिली",
-     "text": "बार कौन्सिल ऑफ इंडियाने 22 व्या अखिल भारतीय बार परीक्षेचा अभ्यासक्रम प्रसिद्ध केला आहे, त्यावर 13 ऑक्टोबर 2026 ही तारीख आहे. प्रश्नपत्रिकेत 19 विषयांवर 100 प्रश्न असतील; घटनात्मक कायदा, फौजदारी प्रक्रिया (CrPC/BNSS) आणि दिवाणी प्रक्रिया यांचे प्रत्येकी 10 प्रश्न असतील.",
-     "why": "उमेदवारांना आता अधिकृत गुणभारानुसार तयारीचे नियोजन करता येईल."
+     "body": "भारताचे सर्वोच्च न्यायालय",
+     "headline": "सर्वोच्च न्यायालय लडाखमधील सर्व प्रलंबित प्रकरणे एकाच दिवशी ऐकणार; वकील लेहमधून ऑनलाइन हजर राहू शकतील",
+     "text": "लेह येथील उद्घाटन समारंभात सरन्यायाधीश सूर्यकांत म्हणाले की, लडाखमधील सर्व प्रलंबित प्रकरणे एकाच दिवशी ऐकण्यासाठी ते सर्वोच्च न्यायालयाचे विशेष खंडपीठ स्थापन करतील. व्हिडिओ कॉन्फरन्सिंगची पुरेशी सुविधा उपलब्ध झाल्यावर लेह आणि कारगिलचे वकील उच्च न्यायालयाच्या लेह खंडपीठातून व्हिडिओद्वारे युक्तिवाद करू शकतील. घटनापीठाने लडाखमध्ये बसावे, या ॲटर्नी जनरल आर. वेंकटरमणी यांच्या सूचनेला उत्तर देताना त्यांनी हे सांगितले.",
+     "why": "लडाखचे वकील आणि पक्षकार दिल्लीला जाण्याचा खर्च आणि वेळ न घालवता सर्वोच्च न्यायालयापर्यंत पोहोचू शकतील."
     }
    }
   }

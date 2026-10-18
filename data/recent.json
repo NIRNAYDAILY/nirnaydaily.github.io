@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-18T13:30+05:30",
+ "updated": "2026-10-18T17:57+05:30",
  "news": [
+  {
+   "edition": "2026-10-18-pm",
+   "headline": "CJI Surya Kant inaugurates the High Court's new Ladakh bench in Leh",
+   "src": "https://www.barandbench.com/news/cji-surya-kant-inaugurates-jk-high-courts-ladakh-bench-in-leh"
+  },
+  {
+   "edition": "2026-10-18-pm",
+   "headline": "Supreme Court to hear all pending Ladakh cases together on one day, lawyers can appear online from Leh",
+   "src": "https://www.barandbench.com/news/cji-surya-kant-announces-special-bench-for-hearing-ladakh-cases-pending-in-supreme-court"
+  },
   {
    "edition": "2026-10-16-am",
    "headline": "Senior Advocate Gopal Sankaranarayanan withdraws from Delhi protest cases in the Supreme Court",
@@ -260,31 +270,6 @@
    "edition": "2026-10-07-am",
    "headline": "Former CJI BR Gavai and two retired judges criticise Justice Ujjal Bhuyan's public remarks on voter-roll revision",
    "src": "https://lawbeat.in/top-stories/against-judicial-propriety-former-cji-br-gavai-retired-judges-criticize-justice-ujjal-bhuyans-remarks-on-sir-1639110"
-  },
-  {
-   "edition": "2026-10-06-pm",
-   "headline": "Three High Court Chief Justices take oath as Supreme Court judges; strength rises to 37",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-justices-sunita-agarwal-devendra-kumar-upadhyay-aparesh-kumar-singh-take-oath-sc-strength-rises-to-37-553353"
-  },
-  {
-   "edition": "2026-10-06-pm",
-   "headline": "Delhi High Court bids farewell to Chief Justice Devendra Kumar Upadhyaya",
-   "src": "https://www.livelaw.in/high-court/delhi-high-court/tried-to-softly-bend-law-towards-justice-chief-justice-devendra-kumar-upadhyaya-bids-farewell-to-delhi-high-court-553330"
-  },
-  {
-   "edition": "2026-10-06-pm",
-   "headline": "CJI Surya Kant says compassion, not only efficiency, must govern court proceedings",
-   "src": "https://lawbeat.in/top-stories/cji-surya-kant-on-compassion-in-judging-let-algorithms-schedule-hearings-but-let-compassion-govern-proceedings-1638811"
-  },
-  {
-   "edition": "2026-10-06-pm",
-   "headline": "Delhi High Court's new Senior Advocate designation rules take over from the 2024 framework",
-   "src": "https://www.scconline.com/blog/post/2026/10/06/delhi-hc-senior-advocate-designation-rules-2026/"
-  },
-  {
-   "edition": "2026-10-06-pm",
-   "headline": "NLUJA Assam to hold its fourth convocation on 10 October in Guwahati",
-   "src": "https://www.livelaw.in/lawschool/news/nluja-assam-hold-fourth-convocation-october-10-553329"
   }
  ],
  "tribunals": [
@@ -702,7 +687,7 @@
  "latest": {
   "digest": "16 Oct 2026",
   "tribunals": "16 Oct 2026",
-  "news": "2026-10-16-am",
+  "news": "2026-10-18-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-16"
  }
