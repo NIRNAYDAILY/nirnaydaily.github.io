@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-19",
  "sections": [
   {
    "id": "judiciary",
@@ -20,14 +20,19 @@
       },
       {
        "k": "Notified",
-       "v": "25 Sep 2026"
+       "v": "25 Sep 2026 (Notification No. 118/2026)"
+      },
+      {
+       "k": "Applications opened",
+       "v": "1 Oct 2026"
       },
       {
        "k": "Last date",
-       "v": "See official notification"
+       "v": "10 Nov 2026 (extended)",
+       "iso": "2026-11-10"
       }
      ],
-     "note": "Listed on the High Court's recruitment page as notified on 25 September 2026. The notification is a scanned PDF: read it for the application dates, eligibility, fee and exam scheme.",
+     "note": "The High Court extended the online application deadline to 10 November 2026 by a notice dated 16 October 2026. Read the notification for eligibility, fee and the exam scheme.",
      "links": [
       {
        "label": "Recruitment page",
@@ -35,8 +40,8 @@
        "primary": true
       },
       {
-       "label": "Official notification (PDF)",
-       "url": "https://aphc.gov.in/docs/notification_1790338711_0.pdf"
+       "label": "Extension notice (PDF)",
+       "url": "https://aphc.gov.in/docs/notification_1792149417_0.pdf"
       }
      ],
      "added": "2026-09-28",
@@ -44,7 +49,7 @@
       "hi": {
        "name": "सिविल न्यायाधीश (कनिष्ठ खंड), 2026",
        "eligibility": "<b>कानून स्नातक</b>। आवेदन से पहले वकालत की शर्त, आयु सीमा और शुल्क के लिए आधिकारिक अधिसूचना देखें।",
-       "note": "उच्च न्यायालय के भर्ती पृष्ठ पर 25 सितंबर 2026 को अधिसूचित के रूप में सूचीबद्ध। अधिसूचना स्कैन की गई PDF है: आवेदन तिथियों, पात्रता, शुल्क और परीक्षा योजना के लिए उसे पढ़ें।",
+       "note": "उच्च न्यायालय ने 16 अक्टूबर 2026 की सूचना द्वारा ऑनलाइन आवेदन की अंतिम तिथि 10 नवंबर 2026 तक बढ़ा दी है। पात्रता, शुल्क और परीक्षा योजना के लिए अधिसूचना पढ़ें।",
        "facts": [
         {
          "k": "Posts",
@@ -52,18 +57,23 @@
         },
         {
          "k": "Notified",
-         "v": "25 Sep 2026"
+         "v": "25 सितंबर 2026 (अधिसूचना सं. 118/2026)"
+        },
+        {
+         "k": "Applications opened",
+         "v": "1 अक्टूबर 2026"
         },
         {
          "k": "Last date",
-         "v": "आधिकारिक अधिसूचना देखें"
+         "v": "10 नवंबर 2026 (बढ़ाई गई)",
+         "iso": "2026-11-10"
         }
        ]
       },
       "mr": {
        "name": "दिवाणी न्यायाधीश (कनिष्ठ स्तर), 2026",
        "eligibility": "<b>कायद्याचे पदवीधर</b>. अर्ज करण्यापूर्वी वकिलीची अट, वयोमर्यादा व शुल्कासाठी अधिकृत अधिसूचना पाहा.",
-       "note": "उच्च न्यायालयाच्या भरती पानावर 25 सप्टेंबर 2026 रोजी अधिसूचित म्हणून नोंद. अधिसूचना स्कॅन केलेली PDF आहे: अर्जाच्या तारखा, पात्रता, शुल्क व परीक्षा योजनेसाठी ती वाचा.",
+       "note": "उच्च न्यायालयाने 16 ऑक्टोबर 2026 च्या सूचनेद्वारे ऑनलाइन अर्जाची शेवटची तारीख 10 नोव्हेंबर 2026 पर्यंत वाढवली आहे. पात्रता, शुल्क व परीक्षा योजनेसाठी अधिसूचना वाचा.",
        "facts": [
         {
          "k": "Posts",
@@ -71,11 +81,16 @@
         },
         {
          "k": "Notified",
-         "v": "25 Sep 2026"
+         "v": "25 सप्टेंबर 2026 (अधिसूचना क्र. 118/2026)"
+        },
+        {
+         "k": "Applications opened",
+         "v": "1 ऑक्टोबर 2026"
         },
         {
          "k": "Last date",
-         "v": "अधिकृत अधिसूचना पाहा"
+         "v": "10 नोव्हेंबर 2026 (मुदतवाढ)",
+         "iso": "2026-11-10"
         }
        ]
       }
@@ -164,16 +179,16 @@
      "hi": {
       "list": [
        {
-        "text": "आंध्र प्रदेश उच्च न्यायालय: ज़िला न्यायाधीश (प्रवेश स्तर), बार से सीधी भर्ती द्वारा 10 पद (7 वर्ष की वकालत), 30 सितंबर 2026 को अधिसूचित",
-        "url": "https://aphc.gov.in/recruitment.php"
+        "text": "आंध्र प्रदेश उच्च न्यायालय: ज़िला न्यायाधीश (प्रवेश स्तर), बार से सीधी भर्ती द्वारा 10 पद (7 वर्ष की वकालत); अंतिम तिथि 10 नवंबर 2026 तक बढ़ाई गई (15 अक्टूबर 2026 की सूचना)",
+        "url": "https://aphc.gov.in/docs/notification_1792083574_0.pdf"
        }
       ]
      },
      "mr": {
       "list": [
        {
-        "text": "आंध्र प्रदेश उच्च न्यायालय: जिल्हा न्यायाधीश (प्रवेश स्तर), बारमधून थेट भरतीने 10 पदे (7 वर्षांची वकिली), 30 सप्टेंबर 2026 रोजी अधिसूचित",
-        "url": "https://aphc.gov.in/recruitment.php"
+        "text": "आंध्र प्रदेश उच्च न्यायालय: जिल्हा न्यायाधीश (प्रवेश स्तर), बारमधून थेट भरतीने 10 पदे (7 वर्षांची वकिली); शेवटची तारीख 10 नोव्हेंबर 2026 पर्यंत वाढवली (15 ऑक्टोबर 2026 ची सूचना)",
+        "url": "https://aphc.gov.in/docs/notification_1792083574_0.pdf"
        }
       ]
      }
@@ -187,119 +202,10 @@
    "intro": "Government roles open to students and new graduates. Most PSU legal jobs hire through CLAT PG scores, so the exam page matters here too.",
    "items": [
     {
-     "name": "Legal Consultant (Maritime Law), Directorate General of Shipping",
-     "org": "NALSAR University of Law, Hyderabad, with the Directorate General of Shipping",
-     "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "<b>LL.M. in Maritime Law, Insurance Law, Maritime Security Law or International Law</b>; 1–2 years' experience is preferred, not required. Below 35 years on 30 Sep 2026; fluent English.",
-     "facts": [
-      {
-       "k": "Posts",
-       "v": "3"
-      },
-      {
-       "k": "Pay",
-       "v": "₹60,000 / month (consolidated)"
-      },
-      {
-       "k": "Based at",
-       "v": "DG Shipping HQ, Mumbai"
-      },
-      {
-       "k": "Tenure",
-       "v": "1 year, renewable"
-      },
-      {
-       "k": "Posted",
-       "v": "29 Sep 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "18 Oct 2026",
-       "iso": "2026-10-18"
-      }
-     ],
-     "note": "Contract role placed with the shipping regulator in Mumbai. Apply through NALSAR's online form with a CV and a statement of purpose of up to 750 words; shortlisted candidates are interviewed.",
-     "links": [
-      {
-       "label": "Official call for applications",
-       "url": "https://nalsar.ac.in/news-and-events/job-openings/applications-for-the-post-of-legal-consultant-maritime-law/",
-       "primary": true
-      }
-     ],
-     "added": "2026-10-06",
-     "i18n": {
-      "hi": {
-       "name": "विधि सलाहकार (समुद्री कानून), नौवहन महानिदेशालय",
-       "eligibility": "<b>समुद्री कानून, बीमा कानून, समुद्री सुरक्षा कानून या अंतरराष्ट्रीय कानून में LL.M.</b>; 1–2 वर्ष का अनुभव वांछनीय है, अनिवार्य नहीं। 30 सितंबर 2026 को आयु 35 वर्ष से कम; अंग्रेज़ी में दक्षता।",
-       "note": "मुंबई में नौवहन नियामक के साथ अनुबंध पद। NALSAR के ऑनलाइन फ़ॉर्म से CV और अधिकतम 750 शब्दों के उद्देश्य-पत्र के साथ आवेदन करें; चुने गए उम्मीदवारों का साक्षात्कार होगा।",
-       "facts": [
-        {
-         "k": "Posts",
-         "v": "3"
-        },
-        {
-         "k": "Pay",
-         "v": "₹60,000 / माह (समेकित)"
-        },
-        {
-         "k": "Based at",
-         "v": "DG Shipping मुख्यालय, मुंबई"
-        },
-        {
-         "k": "Tenure",
-         "v": "1 वर्ष, नवीकरणीय"
-        },
-        {
-         "k": "Posted",
-         "v": "29 Sep 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "18 Oct 2026",
-         "iso": "2026-10-18"
-        }
-       ]
-      },
-      "mr": {
-       "name": "कायदेविषयक सल्लागार (सागरी कायदा), नौवहन महासंचालनालय",
-       "eligibility": "<b>सागरी कायदा, विमा कायदा, सागरी सुरक्षा कायदा किंवा आंतरराष्ट्रीय कायदा यातील LL.M.</b>; 1–2 वर्षांचा अनुभव असल्यास प्राधान्य, बंधनकारक नाही. 30 सप्टेंबर 2026 रोजी वय 35 पेक्षा कमी; इंग्रजीवर प्रभुत्व.",
-       "note": "मुंबईतील नौवहन नियामकाकडे करार पद. NALSAR च्या ऑनलाइन अर्जाद्वारे CV व जास्तीत जास्त 750 शब्दांच्या उद्देश निवेदनासह अर्ज करा; निवडक उमेदवारांची मुलाखत होईल.",
-       "facts": [
-        {
-         "k": "Posts",
-         "v": "3"
-        },
-        {
-         "k": "Pay",
-         "v": "₹60,000 / महिना (एकत्रित)"
-        },
-        {
-         "k": "Based at",
-         "v": "DG Shipping मुख्यालय, मुंबई"
-        },
-        {
-         "k": "Tenure",
-         "v": "1 वर्ष, नूतनीकरणयोग्य"
-        },
-        {
-         "k": "Posted",
-         "v": "29 Sep 2026"
-        },
-        {
-         "k": "Last date",
-         "v": "18 Oct 2026",
-         "iso": "2026-10-18"
-        }
-       ]
-      }
-     }
-    },
-    {
      "name": "Legal Assistant, High Court Legal Services Committee",
      "org": "High Court of Meghalaya, Shillong · Advt. No. HCM.II/I09/2020-Rect/54",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>LLB</b>; legal-aid experience is preferred, not required. Age up to 32 (SC/ST 37).",
      "facts": [
       {
@@ -400,7 +306,7 @@
      "name": "Associate (Mitigation), Square Circle Clinic",
      "org": "NALSAR University of Law, Hyderabad (Square Circle Clinic, New Delhi office)",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>Postgraduate degree</b> in law, social work, psychology, criminology, sociology or a related field; two years' work experience is preferred, not required. Strong Hindi needed.",
      "facts": [
       {
@@ -516,14 +422,6 @@
      {
       "text": "Central Railway, Railway Advocates, 33 posts: 3 years' practice, closes 23 Oct 2026",
       "url": "https://cr.indianrailways.gov.in/"
-     },
-     {
-      "text": "UPSC Advt. 12/2026: Law Officer, Land & Building Dept, GNCT Delhi, 3 posts (2 years' legal experience); Assistant Legislative Counsel, Ministry of Law, 8 posts (7 years' experience); closes 16 Oct 2026",
-      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
-     },
-     {
-      "text": "National Housing Bank (Advt. NHB/HRMD/Recruitment/2026-27/01): Manager (Legal), 1 post (3 years' post-qualification experience in banking/recovery law), closes 18 Oct 2026",
-      "url": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01-1.pdf"
      }
     ],
     "i18n": {
@@ -536,14 +434,6 @@
        {
         "text": "मध्य रेलवे, रेलवे अधिवक्ता, 33 पद: 3 वर्ष की वकालत, 23 अक्टूबर 2026 को बंद",
         "url": "https://cr.indianrailways.gov.in/"
-       },
-       {
-        "text": "UPSC विज्ञापन 12/2026: विधि अधिकारी, भूमि एवं भवन विभाग, GNCT दिल्ली, 3 पद (2 वर्ष का कानूनी अनुभव); सहायक विधायी परामर्शी, विधि मंत्रालय, 8 पद (7 वर्ष का अनुभव); 16 अक्टूबर 2026 को बंद",
-        "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
-       },
-       {
-        "text": "नेशनल हाउसिंग बैंक (विज्ञापन NHB/HRMD/Recruitment/2026-27/01): प्रबंधक (विधि), 1 पद (बैंकिंग/वसूली कानून में योग्यता के बाद 3 वर्ष का अनुभव), 18 अक्टूबर 2026 को बंद",
-        "url": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01-1.pdf"
        }
       ]
      },
@@ -556,14 +446,6 @@
        {
         "text": "मध्य रेल्वे, रेल्वे वकील, 33 पदे: 3 वर्षांची वकिली, 23 ऑक्टोबर 2026 रोजी बंद",
         "url": "https://cr.indianrailways.gov.in/"
-       },
-       {
-        "text": "UPSC जाहिरात 12/2026: विधी अधिकारी, जमीन व इमारत विभाग, GNCT दिल्ली, 3 पदे (2 वर्षांचा कायदेविषयक अनुभव); सहायक विधायी सल्लागार, विधी मंत्रालय, 8 पदे (7 वर्षांचा अनुभव); 16 ऑक्टोबर 2026 रोजी बंद",
-        "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
-       },
-       {
-        "text": "नॅशनल हाउसिंग बँक (जाहिरात NHB/HRMD/Recruitment/2026-27/01): व्यवस्थापक (कायदा), 1 पद (बँकिंग/वसुली कायद्यातील पात्रतेनंतरचा 3 वर्षांचा अनुभव), 18 ऑक्टोबर 2026 रोजी बंद",
-        "url": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01-1.pdf"
        }
       ]
      }

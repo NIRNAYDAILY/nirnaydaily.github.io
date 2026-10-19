@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T10:07+05:30",
+ "updated": "2026-10-19T11:18+05:30",
  "news": [
   {
    "edition": "2026-10-19-am",
@@ -278,6 +278,51 @@
   }
  ],
  "tribunals": [
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Dr. Ravi Gupta v. Commercial Law Publishers (India) Pvt. Ltd.",
+   "src": "https://www.livelawbiz.com/nclt/nclt-delhi-rejects-cirp-plea-against-publisher-despite-holding-royalty-can-be-operational-debt-555199"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Punjab National Bank v. SVOGL Oil Gas and Energy Limited",
+   "src": "https://www.livelawbiz.com/nclt/nclt-delhi-admits-svogl-into-cirp-despite-pending-winding-up-proceedings-555197"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Venkatavarathan Narasimhan Iyengar v. Committee of Creditors of Somerset Constructions Private Limited",
+   "src": "https://www.livelawbiz.com/amp/nclt/fresh-cirp-cannot-be-allowed-as-a-matter-of-course-nlct-mumbai-555192"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Bajaj Healthcare Limited v. Mr. Rajesh Kumar Mittal",
+   "src": "https://www.livelawbiz.com/nclt/nclt-mumbai-allows-bajaj-healthcare-to-acquire-genrx-pharmaceuticals-555181"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Balakrishnan Baburajan v. Murali Narayanan and Ors.",
+   "src": "https://www.livelawbiz.com/amp/nclt/directors-cannot-evade-liquidation-duties-by-claiming-one-director-managed-company-affairs-nclt-kochi-555073"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "The Regional Provident Fund Commissioner-II v. Mr. R Raghavendran",
+   "src": "https://livelawbiz.com/amp/nclt/national-company-law-tribunal-kochi-rejects-epfo-claim-against-peejay-agro-foods-uncrystallised-dues-555049"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Mehul Vyas v. Fiba Shipping Agency & Ors.",
+   "src": "https://www.livelawbiz.com/company-law/shareholder-cannot-maintain-individual-appeal-after-being-given-representative-remedy-nclat-555069"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Yash Raj Films Private Limited v. Commissioner of CGST & Central Excise, Mumbai West",
+   "src": "https://www.livelawbiz.com/amp/custom-excise-service-tax/yash-raj-films-not-liable-to-pay-service-tax-on-overseas-film-shooting-assistance-555183"
+  },
+  {
+   "edition": "19 Oct 2026",
+   "caseName": "Reliable Enterprises v. Commissioner of CGST & Central Excise, Patna",
+   "src": "https://www.livelawbiz.com/service-tax/cestat/vodafone-sim-distributorship-commission-exempt-from-service-tax-under-mega-exemption-notification-555138"
+  },
   {
    "edition": "16 Oct 2026",
    "caseName": "Girraj Bansal v. Rakesh Kumar Goyal",
@@ -632,68 +677,13 @@
    "edition": "7 Oct 2026",
    "caseName": "LTS Investment Fund Ltd v. Securities and Exchange Board of India",
    "src": "https://www.livelawbiz.com/securities-law/sat/securities-appellate-tribunal-disposes-appeals-by-hindenburg-named-mauritius-foreign-portfolio-investment-funds-553365"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Prateek Jain v. Anurag Nirbhaya & Ors",
-   "src": "https://www.livelawbiz.com/ibc/shareholder-is-not-an-aggrieved-person-to-challenge-resolution-plan-approval-under-ibc-nclat-cites-park-energy-553166"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Rock Bottom Mines Pvt Ltd. And Anr. v. Sanjeev Chaudhary",
-   "src": "https://www.livelawbiz.com/company-law/nclat-holds-directions-in-quashed-nclt-order-cannot-continue-independently-553168"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Priyanka Srivastava v. NBCC (I) Ltd & Ors.",
-   "src": "https://www.livelawbiz.com/ibc/supertech-north-eye-homebuyers-moves-contempt-proceedings-before-nclat-against-nbcc-553272"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Abinandan Holdings Private Limited v. Sanjai Kumar Gupta, IRP of Howrah Mills Company Limited",
-   "src": "https://www.livelawbiz.com/nclt/related-party-status-under-section-524d-depends-on-shareholding-threshold-not-actual-exercise-of-control-nclt-553067"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Mr. Ronny George (Since Deceased) through his legal heirs v. M/s. The Professional Couriers Private Limited & Ors.",
-   "src": "https://www.livelawbiz.com/nclt/removal-of-promoter-director-in-quasi-partnership-company-can-amount-to-oppression-nclt-mumbai-553164"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "State Bank of India v. Mahesh Rajpal",
-   "src": "https://www.livelawbiz.com/ibc/resignation-as-director-does-not-extinguish-personal-guarantee-liability-nclt-indore-553154"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Ilaben Ashosbhai Modi v. Chiccem Healthcare Pvt. Ltd & Ors",
-   "src": "https://www.livelawbiz.com/amp/company-law/mere-non-payment-of-outstanding-amount-does-not-amount-to-contempt-without-wilful-disobedience-nclt-ahmedabad-553178"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "M/s Jai Enterprises v. Dr Anupama Goyal, Commissioner/Assistant Commissioner, State Tax Kanpur & Ors.",
-   "src": "https://www.livelawbiz.com/gst/reuse-e-way-bills-cannot-be-presumed-proof-earlier-journey-completion-gstat-lucknow-553159"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "GMG Electric, Kochi v. Commissioner of State Tax, State GST Department, Kerala",
-   "src": "https://www.livelawbiz.com/gst/gst-order-passed-445-days-after-section-129-notice-gstat-ernakulam-quashes-penalty-553142"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Cyqurex Systems Private Limited v. Deputy Commissioner of Income Tax, Central Circle-2(3), Mumbai",
-   "src": "https://www.livelawbiz.com/income-tax/rejection-of-tax-claim-alone-cannot-mean-concealment-itat-mumbai-deletes-123-crore-penalty-553189"
-  },
-  {
-   "edition": "6 Oct 2026",
-   "caseName": "Nirav Dineshbhai Bhavsar v. Income Tax Officer, Ward 5(3)(2), Ahmedabad",
-   "src": "https://www.livelawbiz.com/income-tax/ao-required-examine-expenditure-fmv-itat-ahmedabad-deletes-18-76-lakh-commission-disallowance-553110"
   }
  ],
  "latest": {
-  "digest": "16 Oct 2026",
-  "tribunals": "16 Oct 2026",
+  "digest": "19 Oct 2026",
+  "tribunals": "19 Oct 2026",
   "news": "2026-10-19-am",
   "careersBooklet": "2026-10-03",
-  "careersPool": "2026-10-16"
+  "careersPool": "2026-10-19"
  }
 }
