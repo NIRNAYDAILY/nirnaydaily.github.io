@@ -1,60 +1,57 @@
 {
  "edition": {
-  "edition_id": "2026-10-18-pm",
-  "iso": "2026-10-18",
-  "slot": "6 PM",
-  "dateShort": "18 Oct 2026",
-  "dateLong": "Sunday, 18 October 2026 · Evening edition",
-  "window": "News from 10:00 AM to 4:00 PM IST, 18 October 2026"
+  "edition_id": "2026-10-19-am",
+  "iso": "2026-10-19",
+  "slot": "10 AM",
+  "dateShort": "19 Oct 2026",
+  "dateLong": "Monday, 19 October 2026 · Morning edition",
+  "window": "News from 4:00 PM IST, 18 October to 10:00 AM IST, 19 October 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "Ladakh",
-   "body": "High Court of Jammu & Kashmir and Ladakh",
-   "headline": "CJI Surya Kant inaugurates the High Court's new Ladakh bench in Leh",
-   "text": "Chief Justice of India Surya Kant on Sunday inaugurated the Ladakh bench of the High Court of Jammu & Kashmir and Ladakh at Leh. Until now the High Court sat only in Srinagar and Jammu. The new bench will begin hearing cases on 21 October, with a division bench of Chief Justice Pushpendra Singh Bhati and Justice Sanjay Parihar.",
-   "why": "Litigants in Leh and Kargil will no longer have to cross the Himalayan passes to reach the High Court.",
+   "region": "Chhattisgarh",
+   "body": "Principal District and Sessions Court, Durg",
+   "headline": "Durg district court holds campus mediation competition for students under the Mediation 3.0 drive",
+   "text": "The Principal District and Sessions Court and the District Legal Services Authority in Durg held a campus mediation competition for students, together with a local university and a government college. More than 100 students registered, and the sessions covered listening, empathy and communication skills used in mediation. The event is part of the nationwide Mediation 3.0 campaign, which runs from 1 August to 31 December 2026.",
    "date": "18 Oct 2026",
-   "src": "https://www.barandbench.com/news/cji-surya-kant-inaugurates-jk-high-courts-ladakh-bench-in-leh",
-   "srcName": "Bar & Bench",
+   "src": "https://www.livelaw.in/news-updates/durg-district-court-organises-campus-mediation-competition-under-mediation-30-555255",
+   "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "body": "जम्मू-कश्मीर और लद्दाख उच्च न्यायालय",
-     "headline": "CJI सूर्यकांत ने लेह में उच्च न्यायालय की नई लद्दाख पीठ का उद्घाटन किया",
-     "text": "भारत के मुख्य न्यायाधीश सूर्यकांत ने रविवार को लेह में जम्मू-कश्मीर और लद्दाख उच्च न्यायालय की लद्दाख पीठ का उद्घाटन किया। अब तक उच्च न्यायालय केवल श्रीनगर और जम्मू में बैठता था। नई पीठ 21 अक्टूबर से मामलों की सुनवाई शुरू करेगी, जिसमें मुख्य न्यायाधीश पुष्पेंद्र सिंह भाटी और न्यायमूर्ति संजय परिहार की खंडपीठ बैठेगी।",
-     "why": "अब लेह और करगिल के पक्षकारों को उच्च न्यायालय पहुँचने के लिए हिमालय के दर्रे पार नहीं करने होंगे।"
+     "body": "प्रधान ज़िला एवं सत्र न्यायालय, दुर्ग",
+     "headline": "दुर्ग ज़िला न्यायालय ने 'मीडिएशन 3.0' अभियान के तहत छात्रों के लिए कैंपस मीडिएशन प्रतियोगिता आयोजित की",
+     "text": "दुर्ग के प्रधान ज़िला एवं सत्र न्यायालय और ज़िला विधिक सेवा प्राधिकरण ने एक स्थानीय विश्वविद्यालय और एक सरकारी कॉलेज के साथ मिलकर छात्रों के लिए कैंपस मीडिएशन (बातचीत से विवाद सुलझाना) प्रतियोगिता आयोजित की। 100 से अधिक छात्रों ने पंजीकरण कराया और सत्रों में मीडिएशन में काम आने वाले ध्यान से सुनने, सहानुभूति और संवाद के कौशल पर चर्चा हुई। यह आयोजन 1 अगस्त से 31 दिसंबर 2026 तक चलने वाले राष्ट्रव्यापी 'मीडिएशन 3.0' अभियान का हिस्सा है।"
     },
     "mr": {
-     "body": "जम्मू-काश्मीर आणि लडाख उच्च न्यायालय",
-     "headline": "सरन्यायाधीश सूर्यकांत यांच्या हस्ते लेह येथे उच्च न्यायालयाच्या नव्या लडाख खंडपीठाचे उद्घाटन",
-     "text": "भारताचे सरन्यायाधीश सूर्यकांत यांनी रविवारी लेह येथे जम्मू-काश्मीर आणि लडाख उच्च न्यायालयाच्या लडाख खंडपीठाचे उद्घाटन केले. आतापर्यंत उच्च न्यायालयाचे कामकाज फक्त श्रीनगर आणि जम्मू येथे चालत असे. नवे खंडपीठ 21 ऑक्टोबरपासून प्रकरणांची सुनावणी सुरू करेल; मुख्य न्यायमूर्ती पुष्पेंद्र सिंह भाटी आणि न्यायमूर्ती संजय परिहार यांचे खंडपीठ सुनावणी घेईल.",
-     "why": "लेह आणि कारगिलमधील पक्षकारांना आता उच्च न्यायालयात जाण्यासाठी हिमालयातील खिंडी ओलांडाव्या लागणार नाहीत."
+     "body": "प्रधान जिल्हा व सत्र न्यायालय, दुर्ग",
+     "headline": "'मीडिएशन 3.0' मोहिमेअंतर्गत दुर्ग जिल्हा न्यायालयाने विद्यार्थ्यांसाठी कॅम्पस मध्यस्थी स्पर्धा घेतली",
+     "text": "दुर्ग येथील प्रधान जिल्हा व सत्र न्यायालय आणि जिल्हा विधी सेवा प्राधिकरणाने एका स्थानिक विद्यापीठ आणि एका शासकीय महाविद्यालयासोबत विद्यार्थ्यांसाठी कॅम्पस मध्यस्थी स्पर्धा आयोजित केली. 100 हून अधिक विद्यार्थ्यांनी नोंदणी केली आणि सत्रांमध्ये मध्यस्थीसाठी उपयुक्त असलेली लक्षपूर्वक ऐकण्याची, सहानुभूतीची आणि संवादाची कौशल्ये यावर चर्चा झाली. हा उपक्रम 1 ऑगस्ट ते 31 डिसेंबर 2026 या कालावधीत चालणाऱ्या देशव्यापी 'मीडिएशन 3.0' मोहिमेचा भाग आहे."
     }
    }
   },
   {
-   "cat": "Judiciary",
-   "region": "Ladakh",
-   "body": "Supreme Court of India",
-   "headline": "Supreme Court to hear all pending Ladakh cases together on one day, lawyers can appear online from Leh",
-   "text": "Speaking at the Leh inauguration, CJI Surya Kant said he will set up a special Supreme Court bench to take up all pending cases from Ladakh on a single day. Lawyers from Leh and Kargil will be able to argue them by video link from the High Court's Leh bench, once video-conferencing facilities there are adequate. He was responding to Attorney General R Venkataramani's suggestion that a Constitution Bench sit in Ladakh.",
-   "why": "Ladakh's lawyers and litigants could reach the Supreme Court without the cost and time of travelling to Delhi.",
+   "cat": "Other Legal News",
+   "region": "Kerala",
+   "body": "Attorney General for India",
+   "headline": "Supreme Court lawyer seeks Attorney General's consent for contempt case against Kerala Congress chief over 'resign now' post on the CJI",
+   "text": "Advocate-on-Record Savita Singh has applied to Attorney General R. Venkataramani for consent to start criminal contempt proceedings in the Supreme Court against Kerala Pradesh Congress Committee (KPCC) president Sunny Joseph and the administrators of the party's Kerala X account. The application concerns an October 12 post, since deleted, that told CJI Surya Kant to 'resign now' if law and order was not his domain. Joseph has reportedly said the post went up without the party leadership's knowledge and that the person responsible was removed.",
+   "why": "Under the Contempt of Courts Act, 1971, a private person needs the Attorney General's written consent before moving the Supreme Court for criminal contempt.",
    "date": "18 Oct 2026",
-   "src": "https://www.barandbench.com/news/cji-surya-kant-announces-special-bench-for-hearing-ladakh-cases-pending-in-supreme-court",
-   "srcName": "Bar & Bench",
+   "src": "https://lawbeat.in/top-stories/supreme-court-aor-seeks-criminal-contempt-action-against-kerala-congress-chief-over-x-post-telling-cji-to-resign-now-1643264",
+   "srcName": "LawBeat",
    "i18n": {
     "hi": {
-     "body": "भारत का सर्वोच्च न्यायालय",
-     "headline": "सर्वोच्च न्यायालय लद्दाख के सभी लंबित मामले एक ही दिन सुनेगा, वकील लेह से ऑनलाइन पेश हो सकेंगे",
-     "text": "लेह में उद्घाटन समारोह में CJI सूर्यकांत ने कहा कि वे सर्वोच्च न्यायालय की एक विशेष पीठ बनाएँगे, जो लद्दाख के सभी लंबित मामलों को एक ही दिन सुनेगी। वीडियो कॉन्फ्रेंसिंग की पर्याप्त सुविधा होने पर लेह और करगिल के वकील उच्च न्यायालय की लेह पीठ से वीडियो के ज़रिए बहस कर सकेंगे। उन्होंने यह बात अटॉर्नी जनरल आर. वेंकटरमणी के उस सुझाव के जवाब में कही कि एक संविधान पीठ लद्दाख में बैठे।",
-     "why": "लद्दाख के वकील और पक्षकार दिल्ली जाने के खर्च और समय के बिना सर्वोच्च न्यायालय तक पहुँच सकेंगे।"
+     "body": "भारत के अटॉर्नी जनरल",
+     "headline": "मुख्य न्यायाधीश पर 'इस्तीफ़ा दो' पोस्ट: सर्वोच्च न्यायालय की वकील ने केरल कांग्रेस अध्यक्ष के खिलाफ अवमानना कार्यवाही के लिए अटॉर्नी जनरल की सहमति मांगी",
+     "text": "एडवोकेट-ऑन-रिकॉर्ड सविता सिंह ने अटॉर्नी जनरल आर. वेंकटरमणी को आवेदन देकर केरल प्रदेश कांग्रेस कमेटी (KPCC) के अध्यक्ष सनी जोसेफ और पार्टी के केरल X अकाउंट के संचालकों के खिलाफ सर्वोच्च न्यायालय में आपराधिक अवमानना कार्यवाही शुरू करने की सहमति मांगी है। आवेदन 12 अक्टूबर की एक पोस्ट से जुड़ा है, जिसे बाद में हटा दिया गया था। उसमें भारत के मुख्य न्यायाधीश से कहा गया था कि अगर कानून-व्यवस्था उनका विषय नहीं है तो 'अभी इस्तीफ़ा दें'। ख़बरों के अनुसार जोसेफ ने कहा है कि पोस्ट पार्टी नेतृत्व की जानकारी के बिना डाली गई थी और ज़िम्मेदार व्यक्ति को हटा दिया गया है।",
+     "why": "न्यायालय अवमानना अधिनियम, 1971 के तहत किसी निजी व्यक्ति को आपराधिक अवमानना के लिए सर्वोच्च न्यायालय जाने से पहले अटॉर्नी जनरल की लिखित सहमति लेनी होती है।"
     },
     "mr": {
-     "body": "भारताचे सर्वोच्च न्यायालय",
-     "headline": "सर्वोच्च न्यायालय लडाखमधील सर्व प्रलंबित प्रकरणे एकाच दिवशी ऐकणार; वकील लेहमधून ऑनलाइन हजर राहू शकतील",
-     "text": "लेह येथील उद्घाटन समारंभात सरन्यायाधीश सूर्यकांत म्हणाले की, लडाखमधील सर्व प्रलंबित प्रकरणे एकाच दिवशी ऐकण्यासाठी ते सर्वोच्च न्यायालयाचे विशेष खंडपीठ स्थापन करतील. व्हिडिओ कॉन्फरन्सिंगची पुरेशी सुविधा उपलब्ध झाल्यावर लेह आणि कारगिलचे वकील उच्च न्यायालयाच्या लेह खंडपीठातून व्हिडिओद्वारे युक्तिवाद करू शकतील. घटनापीठाने लडाखमध्ये बसावे, या ॲटर्नी जनरल आर. वेंकटरमणी यांच्या सूचनेला उत्तर देताना त्यांनी हे सांगितले.",
-     "why": "लडाखचे वकील आणि पक्षकार दिल्लीला जाण्याचा खर्च आणि वेळ न घालवता सर्वोच्च न्यायालयापर्यंत पोहोचू शकतील."
+     "body": "भारताचे ॲटर्नी जनरल",
+     "headline": "सरन्यायाधीशांना 'राजीनामा द्या' म्हणणारी पोस्ट: केरळ काँग्रेस अध्यक्षांविरुद्ध अवमान कारवाईसाठी सर्वोच्च न्यायालयातील वकिलांनी ॲटर्नी जनरलची संमती मागितली",
+     "text": "ॲडव्होकेट-ऑन-रेकॉर्ड सविता सिंह यांनी ॲटर्नी जनरल आर. वेंकटरमणी यांच्याकडे अर्ज करून केरळ प्रदेश काँग्रेस समितीचे (KPCC) अध्यक्ष सनी जोसेफ आणि पक्षाच्या केरळ X खात्याचे व्यवस्थापक यांच्याविरुद्ध सर्वोच्च न्यायालयात फौजदारी अवमान कारवाई सुरू करण्याची संमती मागितली आहे. हा अर्ज 12 ऑक्टोबरच्या एका पोस्टबाबत आहे; ती पोस्ट नंतर हटवण्यात आली. त्यात भारताच्या सरन्यायाधीशांना, कायदा व सुव्यवस्था तुमचा विषय नसेल तर 'आताच राजीनामा द्या', असे म्हटले होते. वृत्तानुसार, ही पोस्ट पक्ष नेतृत्वाच्या माहितीशिवाय टाकली गेली आणि जबाबदार व्यक्तीला काढून टाकण्यात आले, असे जोसेफ यांनी म्हटले आहे.",
+     "why": "न्यायालय अवमान अधिनियम, 1971 नुसार खाजगी व्यक्तीला फौजदारी अवमानासाठी सर्वोच्च न्यायालयात जाण्यापूर्वी ॲटर्नी जनरलची लेखी संमती घ्यावी लागते."
     }
    }
   }

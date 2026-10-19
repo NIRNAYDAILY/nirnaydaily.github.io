@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-19T00:32+05:30",
+ "updated": "2026-10-19T10:07+05:30",
  "news": [
+  {
+   "edition": "2026-10-19-am",
+   "headline": "Durg district court holds campus mediation competition for students under the Mediation 3.0 drive",
+   "src": "https://www.livelaw.in/news-updates/durg-district-court-organises-campus-mediation-competition-under-mediation-30-555255"
+  },
+  {
+   "edition": "2026-10-19-am",
+   "headline": "Supreme Court lawyer seeks Attorney General's consent for contempt case against Kerala Congress chief over 'resign now' post on the CJI",
+   "src": "https://lawbeat.in/top-stories/supreme-court-aor-seeks-criminal-contempt-action-against-kerala-congress-chief-over-x-post-telling-cji-to-resign-now-1643264"
+  },
   {
    "edition": "2026-10-18-pm",
    "headline": "CJI Surya Kant inaugurates the High Court's new Ladakh bench in Leh",
@@ -265,11 +275,6 @@
    "edition": "2026-10-07-pm",
    "headline": "281 lawyers apply for Senior Advocate designation under Madras High Court's new rules",
    "src": "https://www.barandbench.com/news/litigation/281-lawyers-apply-for-senior-advocate-designation-under-madras-high-courts-new-rules"
-  },
-  {
-   "edition": "2026-10-07-am",
-   "headline": "Former CJI BR Gavai and two retired judges criticise Justice Ujjal Bhuyan's public remarks on voter-roll revision",
-   "src": "https://lawbeat.in/top-stories/against-judicial-propriety-former-cji-br-gavai-retired-judges-criticize-justice-ujjal-bhuyans-remarks-on-sir-1639110"
   }
  ],
  "tribunals": [
@@ -687,7 +692,7 @@
  "latest": {
   "digest": "16 Oct 2026",
   "tribunals": "16 Oct 2026",
-  "news": "2026-10-18-pm",
+  "news": "2026-10-19-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-16"
  }
