@@ -1,10 +1,6 @@
 {
- "ran": "2026-10-20T11:10+05:30",
- "processed": [
-  "digest_2026-10-20.json: judgments & orders 20 Oct 2026: 15 items",
-  "sc_2026-10-20.json: supreme court full texts: 0 added",
-  "tribunals_2026-10-20.json: tribunals 20 Oct 2026: 10 items"
- ],
+ "ran": "2026-10-20T13:42+05:30",
+ "processed": [],
  "errors": [],
  "notes": []
 }
