@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-20T13:42+05:30",
+ "updated": "2026-10-20T18:03+05:30",
  "news": [
+  {
+   "edition": "2026-10-20-pm",
+   "headline": "High Court holds ceremonial sitting in Leh for its new Ladakh bench; Full Court backs safe hostels for girl students",
+   "src": "https://www.livelaw.in/news-updates/jk-and-ladakh-high-court-marks-ladakh-bench-inauguration-with-ceremonial-sitting-at-leh-555357"
+  },
+  {
+   "edition": "2026-10-20-pm",
+   "headline": "Former Supreme Court judge Abhay S. Oka takes over as President of the Indian Law Society, Pune",
+   "src": "https://www.barandbench.com/Law-School/justice-abhay-oka-becomes-president-of-indian-law-society"
+  },
   {
    "edition": "2026-10-20-am",
    "headline": "Jharkhand High Court sits during Puja holidays to hear Bokaro Steel Plant blockade case",
@@ -230,36 +240,6 @@
    "edition": "2026-10-09-am",
    "headline": "Former Supreme Court judge Gopala Gowda says the SIR voter-roll judgment should be recalled",
    "src": "https://www.livelaw.in/top-stories/sir-judgment-must-be-recalled-as-eci-played-fraud-on-supreme-court-by-misrepresenting-facts-ex-sc-judge-gopala-gowda-553783"
-  },
-  {
-   "edition": "2026-10-08-pm",
-   "headline": "Gujarat High Court starts sending daily cause lists to lawyers on WhatsApp",
-   "src": "https://www.livelaw.in/news-updates/gujarat-high-court-launches-whatsapp-messaging-service-with-daily-cause-list-delivery-to-lawyers-553677"
-  },
-  {
-   "edition": "2026-10-08-pm",
-   "headline": "Supreme Court asks NALSA to consider plea for better pay for permanent Lok Adalat members",
-   "src": "https://www.barandbench.com/news/litigation/supreme-court-asks-nalsa-to-examine-plea-seeking-better-remuneration-for-permanent-lok-adalat-members"
-  },
-  {
-   "edition": "2026-10-08-pm",
-   "headline": "Justice C Sudha retires from Delhi High Court after three decades as a judge",
-   "src": "https://www.livelaw.in/high-court/delhi-high-court/some-experiences-encourage-some-test-some-make-us-stronger-delhi-high-court-justice-c-sudha-retires-after-3-decade-judicial-journey-553735"
-  },
-  {
-   "edition": "2026-10-08-pm",
-   "headline": "Justice Dipankar Datta says repeated commutation of death sentences has fuelled crime",
-   "src": "https://lawbeat.in/top-stories/our-forgiving-nature-has-to-come-to-an-end-justice-dipankar-datta-links-death-sentence-commutations-to-rise-in-crime-1639743"
-  },
-  {
-   "edition": "2026-10-08-pm",
-   "headline": "New petition in Supreme Court challenges appointments of CEC Gyanesh Kumar and two Election Commissioners",
-   "src": "https://www.livelaw.in/amp/top-stories/plea-in-supreme-court-challenges-appointment-of-cec-gyanesh-kumar-election-commissioners-sukhbir-sandhu-vivek-joshi-553673"
-  },
-  {
-   "edition": "2026-10-08-pm",
-   "headline": "Supreme Court asks Centre to set up committee on regulating pharma marketing practices",
-   "src": "https://lawbeat.in/top-stories/supreme-court-directs-centre-to-form-committee-on-unethical-pharma-marketing-practices-1639557"
   }
  ],
  "tribunals": [
@@ -652,7 +632,7 @@
  "latest": {
   "digest": "20 Oct 2026",
   "tribunals": "20 Oct 2026",
-  "news": "2026-10-20-am",
+  "news": "2026-10-20-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-19"
  }
