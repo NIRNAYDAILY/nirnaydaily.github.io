@@ -1,41 +1,47 @@
 {
  "edition": {
-  "vol": "Vol. I · No. 21",
+  "vol": "Vol. I · No. 22",
   "badge": "",
-  "dateLong": "Monday, 19 October 2026",
-  "dateShort": "19 Oct 2026",
-  "window": "Judgments and orders passed between 10:00 AM IST on 18 October 2026 and 9:00 AM IST on 19 October 2026",
+  "dateLong": "Tuesday, 20 October 2026",
+  "dateShort": "20 Oct 2026",
+  "window": "Judgments and orders passed between 10:00 AM IST on 19 October 2026 and 9:00 AM IST on 20 October 2026",
   "next": "Next edition: tomorrow at 10:00 AM IST"
  },
  "highlights": [
   {
    "court": "Supreme Court of India",
-   "caseName": "Sunil Kumar (Totally Disabled) v. IFFCO Tokio General Insurance Co. Ltd.",
-   "text": "Needing a lifelong attendant can mean 100% functional disability.",
+   "caseName": "Ramkrushna Prahllad Dongardive v. State of Maharashtra",
+   "text": "No proof of entrustment: cashier's acquittal restored.",
    "ref": "sc:0"
   },
   {
+   "court": "High Court of Bombay",
+   "caseName": "Case title not yet reported",
+   "text": "State must answer pleas on anti-CEC protest detentions.",
+   "ref": "hc:Bombay"
+  },
+  {
    "court": "High Court of Madras",
-   "caseName": "K. Sivakumar v. R. Rajendran",
-   "text": "Using children in election reels isn't undue influence.",
+   "caseName": "Aarush Shanmugam Gurudev v. Regional Passport Officer",
+   "text": "Child keeps Indian citizenship after father turns British.",
    "ref": "hc:Madras"
   },
   {
-   "court": "High Court of Punjab & Haryana",
-   "caseName": "Ram Sarup v. State of Punjab",
-   "text": "Illegally sacked daily-wager gets compensation, not reinstatement.",
-   "ref": "hc:Punjab & Haryana"
+   "court": "High Court of Karnataka",
+   "caseName": "M. Prasanna Kumar v. State of Karnataka & Ors.",
+   "text": "Practising without clearing AIBE can invite prosecution.",
+   "ref": "hc:Karnataka"
   },
   {
-   "court": "High Court of Rajasthan",
-   "caseName": "Ramniwas v. State of Rajasthan",
-   "text": "No bail for officials accused in fake Aadhaar racket.",
-   "ref": "hc:Rajasthan"
+   "court": "High Court of Kerala",
+   "caseName": "Remadevi T.L. v. Reserve Bank of India & Ors.",
+   "text": "SBI must refund ₹3.73 lakh to cyber-fraud victim.",
+   "ref": "hc:Kerala"
   },
   {
    "court": "High Court of Allahabad",
-   "caseName": "Suraj Singh v. State of U.P.",
-   "text": "Retirement indemnity bond can't justify pay recovery.",
+   "caseName": "Nandlal Rai alias Babloo Rai v. State of U.P.",
+   "text": "Murder conviction stayed so convict can contest polls.",
    "ref": "hc:Allahabad"
   }
  ],
@@ -52,22 +58,23 @@
      "title": "Judgments",
      "items": [
       {
-       "caseName": "Sunil Kumar (Totally Disabled) v. IFFCO Tokio General Insurance Co. Ltd.",
-       "citation": "2026 INSC 1145",
-       "coram": "S.V.N. Bhatti, N.V. Anjaria, JJ.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "Lifelong attendant need can mean 100% disability",
+       "caseName": "Ramkrushna Prahllad Dongardive v. State of Maharashtra",
+       "citation": "2026 LiveLaw (SC) 1032",
+       "caseNo": "Diary No. 36340/2017",
+       "coram": "Ujjal Bhuyan, Atul S. Chandurkar, JJ.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "No entrustment proved: cashier's acquittal restored",
        "kind": "Held",
-       "text": "Claimant dependent on others treated as 100% functionally disabled despite a 75.5% medical rating; award raised to ₹77.84 lakh.",
-       "tag": "Motor accident",
-       "src": "https://www.verdictum.in/supreme-court/sunil-kumar-totally-disabled-represented-by-wife-v-iffco-tokio-general-insurance-company-limited-2026-insc-1145-1624233",
-       "srcName": "Verdictum"
+       "text": "Bombay HC wrongly reversed acquittal under S.409 IPC and shifted the burden onto the accused; trial court acquittal restored.",
+       "tag": "Criminal law",
+       "src": "https://www.livelaw.in/supreme-court/supreme-court-restores-acquittal-telephone-department-cashier-criminal-breach-trust-case-555285",
+       "srcName": "LiveLaw"
       }
      ]
     },
     {
      "title": "Orders",
-     "note": "No Supreme Court interim order, stay or notice passed in this window was reported by the legal publications we track (18 October was a Sunday)."
+     "note": "No Supreme Court interim order, stay or notice passed in this window was reported by the legal publications we track."
     }
    ]
   },
@@ -136,75 +143,177 @@
      "court": "Allahabad",
      "items": [
       {
-       "caseName": "Suraj Singh v. State of U.P.",
-       "coram": "Anish Kumar Gupta, J.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "Retirement indemnity bond can't justify pay recovery",
+       "caseName": "Nandlal Rai alias Babloo Rai v. State of U.P.",
+       "citation": "2026 LiveLaw (AB) 861",
+       "coram": "Siddharth, Vinai Kumar Dwivedi, JJ.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Murder conviction stayed so convict can contest polls",
        "kind": "Held",
-       "text": "Only an undertaking given when the wrong pay was fixed counts; recovery quashed, refund with interest ordered.",
-       "tag": "Service law",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-indemnity-bond-retirement-state-recover-wrongly-fixed-pay-555223",
+       "text": "Conviction and sentence stayed pending appeal, citing his wish to contest the 2027 UP election; bail granted.",
+       "tag": "Criminal appeal",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-stays-murder-convict-conviction-bjp-ticket-555295",
        "srcName": "LiveLaw"
       },
       {
-       "caseName": "M/s Vikas Constructions v. State of U.P.",
-       "coram": "J.J. Munir, Indrajeet Shukla, JJ.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "Admitted contract dues recoverable by writ",
+       "caseName": "Arvind Pandey & Anr. v. State of U.P. & Ors.",
+       "citation": "2026 LiveLaw (AB) 860",
+       "coram": "Atul Sreedharan, Achal Sachdev, JJ.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Workload no excuse for rubber-stamp remands",
        "kind": "Held",
-       "text": "Withholding dues the State admits is arbitrary; payment ordered with 6% interest.",
-       "tag": "Contracts",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-nonpayment-admitted-contractual-dues-arbitrary-555221",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "M/s Balaji Construction v. State of U.P.",
-       "coram": "Siddhartha Varma, Kunal Ravi Singh, JJ.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "Road work isn't township development experience",
-       "kind": "Held",
-       "text": "Tender eligibility can't be relaxed; cancellation of the bid process upheld on the records.",
-       "tag": "Tenders",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-experience-building-road-equated-internal-development-works-township-555222",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Rajeshwari Devi & Ors. v. Hari Shankar Pandey & Anr.",
-       "coram": "Anil Kumar-X, J.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "Alleged affair doesn't end a woman's widow status",
-       "kind": "Held",
-       "text": "Widowhood follows from the marriage and husband's death; decree saying otherwise set aside.",
-       "tag": "Family law",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-allegation-illicit-relationship-divest-woman-legal-status-widow-555220",
-       "srcName": "LiveLaw"
-      },
-      {
-       "caseName": "Shashwat Kesarwani & Anr. v. Anil Kumar Singh & Ors.",
-       "coram": "Avnish Saxena, J.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "No fixed sale date: limitation runs from refusal",
-       "kind": "Held",
-       "text": "Where performance hinges on a future event, time runs from notice of refusal; Order VII Rule 11 plea rejected.",
-       "tag": "Civil procedure",
-       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-agreement-sell-fixes-date-for-performance-555225",
+       "text": "Accused freed on habeas corpus over a defective arrest memo; JTRI told to prepare remand training for Magistrates.",
+       "tag": "Criminal procedure",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-magistrates-remand-lapses-training-modules-555258",
        "srcName": "LiveLaw"
       }
      ]
     },
     {
-     "court": "Chhattisgarh",
+     "court": "Bombay",
      "items": [
       {
-       "caseName": "Dr. Pradeep Kumar Shukla v. Guru Ghasidas University",
-       "caseNo": "WA No. 667 of 2026",
-       "coram": "Ramesh Sinha, CJ, Ravindra Kumar Agrawal, J.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "Probationer can be let go without an enquiry",
+       "caseName": "Case title not yet reported",
+       "coram": "Mahesh Chandra Tripathi, CJ, Advait Sethna, J.",
+       "date": "Decided 19 Oct 2026",
+       "headline": "State must answer plea on anti-CEC protest detentions",
+       "kind": "Notice",
+       "text": "State's reply sought on pleas alleging illegal Mumbai Police detentions on 10–11 Oct; AG to file an affidavit via a senior officer.",
+       "tag": "Civil liberties",
+       "src": "https://www.livelaw.in/top-stories/bombay-high-court-seeks-state-response-on-plea-alleging-illegal-mumbai-police-detentions-during-anti-cec-protests-555287",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Delhi",
+     "items": [
+      {
+       "caseName": "Anu Aravind P. v. Department of Empowerment of Persons with Disabilities",
+       "coram": "Amit Mahajan, J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Disability percentage alone doesn't earn a quota",
        "kind": "Held",
-       "text": "Discharge for unsatisfactory work is not punitive and needs no Art. 311 enquiry; appeal dismissed.",
-       "tag": "Service law",
-       "src": "https://www.livelaw.in/high-court/chhattisgarh-high-court/probationer-can-be-terminated-for-unsatisfactory-performance-without-enquiry-chhattisgarh-high-court-555229",
+       "text": "RPwD reservation needs a specified disability; court can't force the Centre to add MRKH Syndrome to the Schedule.",
+       "tag": "Disability law",
+       "src": "https://www.verdictum.in/delhi-high-court/anu-aravind-p-v-department-of-empowerment-of-persons-with-disabilities-ministry-of-social-justice-and-empowerment-1624298",
+       "srcName": "Verdictum"
+      }
+     ]
+    },
+    {
+     "court": "Jammu & Kashmir and Ladakh",
+     "items": [
+      {
+       "caseName": "Gurpartap Singh v. National Investigation Agency",
+       "citation": "2026 LiveLaw (JKL) 465",
+       "coram": "Sanjay Dhar, Shahzad Azeem, JJ.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "No bail for alleged narco-terror financier",
+       "kind": "Held",
+       "text": "Prima facie material of funding BKI-linked activity; UAPA and NDPS bars apply, and long custody or parity didn't help.",
+       "tag": "UAPA / Bail",
+       "src": "https://www.livelaw.in/high-court/jammu-kashmir/20-lakh-funding-bki-letter-pad-recovered-from-house-jk-high-court-denies-bail-to-accused-in-narco-terrorism-case-555272",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Jharkhand",
+     "items": [
+      {
+       "caseName": "Hemento Singh @ Hemant Singh v. State of Jharkhand",
+       "caseNo": "Cr. Appeal (DB) No. 1283 of 2018",
+       "coram": "Ananda Sen, Pradeep Kumar Srivastava, JJ.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Gang rape conviction upheld despite FIR delay",
+       "kind": "Held",
+       "text": "Three-day delay was explained and no sperm after 72 hours is natural; injuries backed the victim, 20-year terms upheld.",
+       "tag": "Criminal law",
+       "src": "https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-upholds-gang-rape-conviction-555273",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Karnataka",
+     "items": [
+      {
+       "caseName": "M. Prasanna Kumar v. State of Karnataka & Ors.",
+       "caseNo": "Crl. P. No. 633 of 2020",
+       "coram": "H.P. Sandesh, J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Practising without clearing AIBE can invite prosecution",
+       "kind": "Held",
+       "text": "Quashing plea dismissed; State Bar Council told to build a system flagging advocates who don't clear AIBE in two years.",
+       "tag": "Advocates",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/criminal-action-can-be-taken-against-advocates-practising-without-clearing-aibe-karnataka-high-court-555299",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "B.R. Ramakrishna v. Union of India",
+       "caseNo": "WP No. 10451 of 2018",
+       "coram": "M.G.S. Kamal, J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Building curbs near monuments are valid",
+       "kind": "Held",
+       "text": "Ss. 20A–20C AMASR Act upheld as regulation, not taking, so no compensation; fresh survey of the 59 m zone ordered.",
+       "tag": "Heritage law",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-uphold-constitutional-validity-provision-demarcation-prohibited-regulated-amasr-act-555271",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Hanumanthappa v. Shanthamma & Ors.",
+       "citation": "2026:KHC:56474",
+       "coram": "S.R. Krishna Kumar, J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Daughter of void marriage inherits father's share",
+       "kind": "Held",
+       "text": "Following a 2023 SC ruling, her one-fourth share from the father's notional half in ancestral property was upheld.",
+       "tag": "Succession",
+       "src": "https://www.verdictum.in/karnataka-high-court/hanumanthappa-v-shanthamma-and-others-2026khc56474-undivided-share-ancestral-property-1624299",
+       "srcName": "Verdictum"
+      }
+     ]
+    },
+    {
+     "court": "Kerala",
+     "items": [
+      {
+       "caseName": "Remadevi T.L. v. Reserve Bank of India & Ors.",
+       "citation": "2026 LiveLaw (Ker) 591",
+       "caseNo": "WP(C) No. 28970 of 2021",
+       "coram": "Harisankar V. Menon, J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "SBI must refund ₹3.73 lakh to fraud victim",
+       "kind": "Held",
+       "text": "She reported promptly and the bank didn't prove her negligence, so RBI's zero-liability rule applied.",
+       "tag": "Banking",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cybercrime-zero-liability-sbi-555268",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Ravi E. & Anr. v. State of Kerala & Ors.",
+       "citation": "2026 LiveLaw (Ker) 590",
+       "caseNo": "WP(C) No. 29289 of 2026",
+       "coram": "Bechu Kurian Thomas, J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "No extension of SC deadline for temple elephants",
+       "kind": "Held",
+       "text": "Neither the State nor the HC can extend the 2015 Supreme Court deadline to register captive elephants.",
+       "tag": "Wildlife",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-captive-elephants-temple-registration-supreme-court-555267",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Suo Motu v. State of Kerala & Ors.",
+       "caseNo": "WP(C) No. 42844 of 2025",
+       "coram": "Soumen Sen, CJ, Syam Kumar V.M., J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Clear ₹9.73 crore victim compensation in five weeks",
+       "kind": "Held",
+       "text": "State told to release funds for 225 pending claims and KeLSA to speed payouts; listed on 2 December.",
+       "tag": "Victim compensation",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-state-pending-victim-compensation-claims-five-weeks-555261",
        "srcName": "LiveLaw"
       }
      ]
@@ -213,49 +322,16 @@
      "court": "Madras",
      "items": [
       {
-       "caseName": "K. Sivakumar v. R. Rajendran",
-       "coram": "D. Bharatha Chakravarthy, J.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "Children in poll reels aren't 'undue influence'",
+       "caseName": "Aarush Shanmugam Gurudev v. Regional Passport Officer",
+       "caseNo": "WP(MD) No. 25412 of 2026",
+       "coram": "Senthilkumar Ramamoorthy, J.",
+       "date": "Reported 19 Oct 2026",
+       "headline": "Child keeps citizenship after father goes British",
        "kind": "Held",
-       "text": "Election petition against the Salem North MLA rejected; breach of an ECI circular alone can't void a win.",
-       "tag": "Election law",
-       "src": "https://www.verdictum.in/madras-high-court/k-sivakumar-v-r-rajendran-and-others-minor-children-election-campaign-1624232",
+       "text": "A minor Indian by birth doesn't lose citizenship because his father later took UK citizenship; passport to be decided in 3 months.",
+       "tag": "Citizenship",
+       "src": "https://www.verdictum.in/madras-high-court/aarush-shanmugam-gurudev-v-the-regional-passport-officer-minor-citizenship-father-1624300",
        "srcName": "Verdictum"
-      }
-     ]
-    },
-    {
-     "court": "Punjab & Haryana",
-     "items": [
-      {
-       "caseName": "Ram Sarup v. State of Punjab",
-       "caseNo": "LPA-2792-2024 (O&M)",
-       "coram": "Suvir Sehgal, Deepinder Singh Nalwa, JJ.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "No automatic reinstatement for daily-wager",
-       "kind": "Held",
-       "text": "Illegal termination under S.25-F ID Act earns compensation; award doubled to ₹2 lakh.",
-       "tag": "Labour law",
-       "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/reinstatement-of-daily-wage-workman-is-not-automatic-in-case-of-illegal-termination-instead-monetary-compensation-is-appropriate-ph-high-court-555230",
-       "srcName": "LiveLaw"
-      }
-     ]
-    },
-    {
-     "court": "Rajasthan",
-     "items": [
-      {
-       "caseName": "Ramniwas v. State of Rajasthan",
-       "citation": "2026 LiveLaw (Raj) 451",
-       "coram": "Ashok Kumar Jain, J.",
-       "date": "Reported 18 Oct 2026",
-       "headline": "No bail for officials in fake Aadhaar case",
-       "kind": "Held",
-       "text": "Second bail refused to two programmers accused of sharing state network logins; HC cited national security.",
-       "tag": "Bail",
-       "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-denies-bail-government-officials-accused-facilitating-fake-aadhaar-cards-555219",
-       "srcName": "LiveLaw"
       }
      ]
     }
@@ -270,31 +346,52 @@
    "pages": [
     {
      "title": "Reported rulings",
-     "note": "No district, sessions or family court judgment or order passed in this window was reported by the legal publications we track."
+     "items": [
+      {
+       "court": "Special Executive Magistrate Court, Delhi",
+       "caseName": "Case title not yet reported",
+       "coram": "Ritu Raj, Special Executive Magistrate",
+       "date": "Decided 19 Oct 2026",
+       "headline": "CJP activists' custody extended by two days",
+       "kind": "Held",
+       "text": "Saurav Das and Ashutosh Ranka kept in custody as sureties were rejected as unfit; fresh sureties sought, listed 21 Oct.",
+       "tag": "Preventive detention",
+       "src": "https://www.barandbench.com/news/saurav-das-ashutosh-ranka-have-no-respect-for-law-can-breach-peace-and-tranquility-delhi-sem-court",
+       "srcName": "Bar & Bench"
+      }
+     ]
     }
    ]
   }
  ],
  "sources": [
   {
-   "title": "Verdictum: SC on functional disability (2026 INSC 1145)",
-   "url": "https://www.verdictum.in/supreme-court/sunil-kumar-totally-disabled-represented-by-wife-v-iffco-tokio-general-insurance-company-limited-2026-insc-1145-1624233"
+   "title": "LiveLaw: SC restores cashier's acquittal (2026 LiveLaw (SC) 1032)",
+   "url": "https://www.livelaw.in/supreme-court/supreme-court-restores-acquittal-telephone-department-cashier-criminal-breach-trust-case-555285"
   },
   {
-   "title": "Verdictum: Madras HC on children in election reels",
-   "url": "https://www.verdictum.in/madras-high-court/k-sivakumar-v-r-rajendran-and-others-minor-children-election-campaign-1624232"
+   "title": "LiveLaw: Bombay HC on anti-CEC protest detentions",
+   "url": "https://www.livelaw.in/top-stories/bombay-high-court-seeks-state-response-on-plea-alleging-illegal-mumbai-police-detentions-during-anti-cec-protests-555287"
+  },
+  {
+   "title": "Verdictum: Madras HC on minor's citizenship",
+   "url": "https://www.verdictum.in/madras-high-court/aarush-shanmugam-gurudev-v-the-regional-passport-officer-minor-citizenship-father-1624300"
+  },
+  {
+   "title": "LiveLaw: Karnataka HC on AIBE",
+   "url": "https://www.livelaw.in/high-court/karnataka-high-court/criminal-action-can-be-taken-against-advocates-practising-without-clearing-aibe-karnataka-high-court-555299"
   },
   {
    "title": "LiveLaw: High Courts",
    "url": "https://www.livelaw.in/high-court"
   },
   {
-   "title": "LiveLaw: P&H HC on daily-wage reinstatement",
-   "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/reinstatement-of-daily-wage-workman-is-not-automatic-in-case-of-illegal-termination-instead-monetary-compensation-is-appropriate-ph-high-court-555230"
+   "title": "Verdictum",
+   "url": "https://www.verdictum.in/"
   },
   {
-   "title": "LiveLaw: Rajasthan HC on fake Aadhaar bail",
-   "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-denies-bail-government-officials-accused-facilitating-fake-aadhaar-cards-555219"
+   "title": "Bar & Bench: Delhi SEM court on CJP activists",
+   "url": "https://www.barandbench.com/news/saurav-das-ashutosh-ranka-have-no-respect-for-law-can-breach-peace-and-tranquility-delhi-sem-court"
   },
   {
    "title": "Bar & Bench: Litigation",
