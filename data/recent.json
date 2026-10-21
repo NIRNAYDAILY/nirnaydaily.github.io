@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-21T00:43+05:30",
+ "updated": "2026-10-21T10:07+05:30",
  "news": [
+  {
+   "edition": "2026-10-21-am",
+   "headline": "Madras High Court launches online dashboard to track unclaimed accident and labour court compensation",
+   "src": "https://www.livelaw.in/news-updates/madras-high-court-digital-dashboard-unclaimed-motor-accident-labour-court-awards-555405"
+  },
+  {
+   "edition": "2026-10-21-am",
+   "headline": "Ahead of Oudh Bar Association polls, High Court asks UP Bar Council whether lawyers can change their place of practice",
+   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-cop-changed-place-of-practice-555414"
+  },
+  {
+   "edition": "2026-10-21-am",
+   "headline": "Meghalaya High Court Legal Services Committee invites applications for a Legal Assistant post",
+   "src": "https://www.livelaw.in/job-updates/legal-assistant-vacancy-at-high-court-legal-services-committee-high-court-of-meghalaya-shillong-555433"
+  },
   {
    "edition": "2026-10-20-pm",
    "headline": "High Court holds ceremonial sitting in Leh for its new Ladakh bench; Full Court backs safe hostels for girl students",
@@ -225,21 +240,6 @@
    "edition": "2026-10-11-pm",
    "headline": "Lawyers' group seeks to join Supreme Court hearing, says advocates belong in court, not on the street",
    "src": "https://www.verdictum.in/supreme-court/senior-advocate-kirti-uppal-protest-by-advocates-police-action-delhi-1623793"
-  },
-  {
-   "edition": "2026-10-09-am",
-   "headline": "Former Supreme Court judge Abhay Oka says Justice Ujjal Bhuyan's voter-roll remarks were not improper",
-   "src": "https://www.livelaw.in/amp/top-stories/justice-abhay-oka-says-no-judicial-impropriety-in-justice-ujjal-bhuyan-comment-on-sir-disenfranchisement-of-voters-while-matter-sub-judice-553731"
-  },
-  {
-   "edition": "2026-10-09-am",
-   "headline": "Punjab and Haryana High Court Bar Association condemns MLA Sukhpal Khaira's remark on Punjab's government lawyers",
-   "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-bar-association-condemns-sukhpal-khairas-alleged-bhade-de-tattu-remark-against-punjab-law-officers-553766"
-  },
-  {
-   "edition": "2026-10-09-am",
-   "headline": "Former Supreme Court judge Gopala Gowda says the SIR voter-roll judgment should be recalled",
-   "src": "https://www.livelaw.in/top-stories/sir-judgment-must-be-recalled-as-eci-played-fraud-on-supreme-court-by-misrepresenting-facts-ex-sc-judge-gopala-gowda-553783"
   }
  ],
  "tribunals": [
@@ -632,7 +632,7 @@
  "latest": {
   "digest": "20 Oct 2026",
   "tribunals": "20 Oct 2026",
-  "news": "2026-10-20-pm",
+  "news": "2026-10-21-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-19"
  }
