@@ -1,6 +1,11 @@
 {
- "updated": "2026-10-21T13:44+05:30",
+ "updated": "2026-10-21T18:30+05:30",
  "news": [
+  {
+   "edition": "2026-10-21-pm",
+   "headline": "Centre amends government housing allotment rules: 10 days to accept, 3-month debarment for default",
+   "src": "https://www.scconline.com/blog/post/2026/10/21/gpra-amendment-rules-2026-allotment-deadlines-penalties-licence-fees/"
+  },
   {
    "edition": "2026-10-21-am",
    "headline": "Madras High Court launches online dashboard to track unclaimed accident and labour court compensation",
@@ -230,16 +235,6 @@
    "edition": "2026-10-12-am",
    "headline": "Rajya Sabha MP John Brittas writes to CJI alleging police assault, seeks court-monitored probe",
    "src": "https://www.livelaw.in/top-stories/rajya-sabha-mp-john-brittas-writes-to-cji-alleging-delhi-police-assault-seeks-judicial-intervention-554156"
-  },
-  {
-   "edition": "2026-10-11-pm",
-   "headline": "Supreme Court holds special Sunday sitting on Delhi protest curbs; orders removal of Section 163 BNSS board outside court",
-   "src": "https://www.barandbench.com/news/litigation/delhi-protests-supreme-court-orders-no-detentions-traffic-or-metro-restrictions-except-as-per-law"
-  },
-  {
-   "edition": "2026-10-11-pm",
-   "headline": "Lawyers' group seeks to join Supreme Court hearing, says advocates belong in court, not on the street",
-   "src": "https://www.verdictum.in/supreme-court/senior-advocate-kirti-uppal-protest-by-advocates-police-action-delhi-1623793"
   }
  ],
  "tribunals": [
@@ -642,7 +637,7 @@
  "latest": {
   "digest": "21 Oct 2026",
   "tribunals": "21 Oct 2026",
-  "news": "2026-10-21-am",
+  "news": "2026-10-21-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-19"
  }
