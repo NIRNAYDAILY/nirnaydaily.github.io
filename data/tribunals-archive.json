@@ -1,6 +1,147 @@
 [
  {
   "edition": {
+   "dateLong": "Tuesday, 20 October 2026",
+   "dateShort": "20 Oct 2026",
+   "window": "Orders and decisions passed or reported between 10:00 AM IST on 19 October 2026 and 11:00 AM IST on 20 October 2026"
+  },
+  "items": [
+   {
+    "tribunal": "NCLAT",
+    "bench": "NCLAT, New Delhi",
+    "caseName": "Kannan Tiruvengadam Insolvency Professional v. IBBI & Ors.",
+    "citation": "2026 LLBiz NCLAT 404",
+    "caseNo": "Company Appeal (AT) (Insolvency) No. 1814 of 2026",
+    "coram": "Justice Mohd Faiz Alam Khan (Judicial Member), Naresh Salecha (Technical Member)",
+    "date": "Decided 14 Oct 2026",
+    "headline": "No stay on IP's two-year suspension over BRG Iron & Steel sale",
+    "kind": "Held",
+    "text": "The NCLAT declined to stay the IBBI Disciplinary Committee's two-year suspension of the liquidator of BRG Iron & Steel, who accepted a ₹507.20 crore private sale offer without consulting the stakeholders' committee or obtaining NCLT approval. It said a professional found tainted should not continue handling other insolvency processes, and listed the appeal for final hearing on 18 November.",
+    "tag": "Insolvency & Bankruptcy",
+    "src": "https://www.livelawbiz.com/amp/ibc/nclat-rejects-stay-on-suspension-of-ip-over-brg-iron-steel-sale-says-tainted-ips-have-no-place-in-other-cirps-555321",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "CESTAT",
+    "bench": "CESTAT",
+    "caseName": "M/s VPL Projects Pvt. Ltd.",
+    "citation": "2026 TAXSCAN (CESTAT) 1064",
+    "date": "Reported 20 Oct 2026",
+    "headline": "Standalone houses on separate plots are not a 'residential complex'",
+    "kind": "Held",
+    "text": "The Tribunal held that building independent houses on individual plots is not taxable as Construction of Complex Service unless the department proves the ingredients of a residential complex under Section 65(91a) of the Finance Act, 1994. A common layout of several houses was not enough on its own. The dispute concerned service tax demands for 2010–11 and 2011–12.",
+    "tag": "Service tax",
+    "src": "https://www.taxscan.in/excise-customs/department-must-establish-the-statutory-ingredients-of-residential-complex-before-fastening-liability-under-construction-of-complex-service-cestat",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "CESTAT",
+    "bench": "CESTAT",
+    "caseName": "Gagan Vohra, Proprietor of M/s Kusum Overseas",
+    "citation": "2026 TAXSCAN (CESTAT) 1063",
+    "date": "Reported 19 Oct 2026",
+    "headline": "No Section 65B(4) certificate needed when the original electronic record is produced",
+    "kind": "Held",
+    "text": "The Tribunal held that a certificate under Section 65B(4) of the Evidence Act is not required where the original electronic record itself is placed in evidence. Relying on statements under Section 108 of the Customs Act and data from a seized laptop, it upheld rejection of declared values, the differential duty and penalties in an under-invoicing and MRP mis-declaration case.",
+    "tag": "Customs",
+    "src": "https://www.taxscan.in/excise-customs/requirement-of-certificate-us-65b-4-does-not-need-to-be-satisfied-in-case-original-electronic-record-is-produced-cestat",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "CESTAT",
+    "bench": "CESTAT",
+    "caseName": "M/s Vee Vee Enterprises, JMD Impex and V. K. Import Export Co.",
+    "citation": "2026 TAXSCAN (CESTAT) 1061",
+    "date": "Reported 19 Oct 2026",
+    "headline": "Rubber latex toy balloons fall under CTH 9503, not Chapter 40",
+    "kind": "Held",
+    "text": "The Tribunal classified imported natural rubber latex toy balloons under CTH 95030090 as toys, rejecting the importers' shift to CTH 4016 and 9505 to claim concessional duty. It upheld the duty demands, interest and penalties, preferring the specific, function-based heading over a material-based residual one.",
+    "tag": "Customs classification",
+    "src": "https://www.taxscan.in/excise-customs/functional-and-specific-classification-prevails-over-material-based-residual-classification-cestat-read-order",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "GSTAT",
+    "bench": "GSTAT, Raipur Bench",
+    "caseName": "SRS Traders",
+    "citation": "2026 TAXSCAN (GSTAT) 234",
+    "date": "Reported 19 Oct 2026",
+    "headline": "Section 129 penalty cannot be confirmed while route of goods is uncertain",
+    "kind": "Held",
+    "text": "In a case on TMT bars moved without an e-way bill, the Raipur Bench held that a penalty under Section 129 of the CGST Act cannot be finally confirmed while the actual route, destination and nature of the movement at interception remain unclear. The trader had argued the movement was within Raipur district and exempt; fresh fact-finding was required.",
+    "tag": "GST",
+    "src": "https://www.taxscan.in/gst/section-129-penalty-cannot-be-confirmed-where-actual-route-and-destination-of-goods-remain-uncertain-gstat-read-order",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "GSTAT",
+    "bench": "GSTAT, Kolkata Bench",
+    "caseName": "Madanlal Murarilal",
+    "citation": "2026 TAXSCAN (GSTAT) 231",
+    "date": "Reported 19 Oct 2026",
+    "headline": "18% GST on packing for 5% tea is an inverted duty structure",
+    "kind": "Held",
+    "text": "The Kolkata Bench held that packaging materials taxed at 18% used for tea taxed at 5% create an inverted duty structure eligible for refund under Section 54(3)(ii) of the CGST Act. The tea trader had sought a refund of about ₹10.75 lakh of accumulated SGST credit for April–September 2022.",
+    "tag": "GST refund",
+    "src": "https://www.taxscan.in/gst/18-gst-on-packaging-materials-for-tea-taxed-at-5-creates-inverted-duty-structure-eligible-for-refund-gstat-read-order",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "GSTAT",
+    "bench": "GSTAT, Kolkata Bench",
+    "caseName": "Micro Labs Limited",
+    "citation": "2026 TAXSCAN (GSTAT) 230",
+    "date": "Reported 19 Oct 2026",
+    "headline": "Wrong TRAN-1 figure alone does not justify Section 74",
+    "kind": "Held",
+    "text": "The Kolkata Bench held that an incorrect figure in a transitional credit declaration does not by itself allow invocation of Section 74 of the CGST Act without deliberate suppression. The company had claimed about ₹65.6 lakh in TRAN-1 against a closing CENVAT balance of about ₹43.9 lakh.",
+    "tag": "GST",
+    "src": "https://www.taxscan.in/gst/incorrect-transitional-credit-declaration-not-enough-to-invoke-section-74-without-deliberate-suppression-gstat-read-order",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "GSTAT",
+    "bench": "GSTAT, Lucknow Bench",
+    "caseName": "Pacific Exports",
+    "citation": "2026 TAXSCAN (GSTAT) 232",
+    "date": "Reported 19 Oct 2026",
+    "headline": "Right to take compensation cess credit is not a right to refund",
+    "kind": "Held",
+    "text": "The Lucknow Bench held that eligibility to avail compensation cess input tax credit does not automatically entitle a taxpayer to a refund, as the two are governed by separate statutory conditions. The leather exporter had accumulated cess credit on coal used as fuel and filed six refund claims under the inverted duty structure route.",
+    "tag": "GST refund",
+    "src": "https://www.taxscan.in/gst/eligibility-to-avail-compensation-cess-itc-does-not-automatically-confer-right-to-refund-gstat-read-order",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "ITAT",
+    "bench": "ITAT, Agra",
+    "caseName": "Naresh Chandra Khattar",
+    "citation": "2026 TAXSCAN (ITAT) 1458",
+    "date": "Reported 19 Oct 2026",
+    "headline": "2008 seized data cannot support addition for AY 2019-20",
+    "kind": "Held",
+    "text": "The Agra Bench deleted a ₹7.5 lakh addition for AY 2019-20 that rested on data seized in an Omaxe search and dated 2008. The assessing officer had not shown how that data linked to any cash payment in the year under assessment.",
+    "tag": "Income tax",
+    "src": "https://www.taxscan.in/income-tax/omaxes-seized-data-from-2008-cannot-sustain-addition-for-ay-2019-20-wo-evidence-linking-with-alleged-payment-itat",
+    "srcName": "Taxscan"
+   },
+   {
+    "tribunal": "ITAT",
+    "bench": "ITAT, Chennai",
+    "caseName": "VCO Consultants and Services",
+    "citation": "2026 TAXSCAN (ITAT) 1457",
+    "date": "Reported 19 Oct 2026",
+    "headline": "1,302-day delay condoned in PF-ESI disallowance appeal",
+    "kind": "Held",
+    "text": "The Chennai Bench condoned a delay of 1,302 days in an appeal against a ₹43 lakh disallowance of delayed PF and ESI contributions for AY 2019-20. It accepted the explanation of COVID-19 disruption, the managing director's ill health and legal uncertainty on the issue.",
+    "tag": "Income tax",
+    "src": "https://www.taxscan.in/income-tax/covid-19-disruption-and-mds-ill-health-itat-condones-1302-day-delay-in-rs-43l-pf-esi-disallowance-appeal-read-order",
+    "srcName": "Taxscan"
+   }
+  ]
+ },
+ {
+  "edition": {
    "dateLong": "Monday, 19 October 2026",
    "dateShort": "19 Oct 2026",
    "window": "Orders and decisions passed or reported between 11:00 AM IST on 16 October 2026 and 11:00 AM IST on 19 October 2026"
