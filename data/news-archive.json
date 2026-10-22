@@ -1,6 +1,43 @@
 [
  {
   "edition": {
+   "edition_id": "2026-10-21-pm",
+   "iso": "2026-10-21",
+   "slot": "6 PM",
+   "dateShort": "21 Oct 2026",
+   "dateLong": "Wednesday, 21 October 2026 · Evening edition",
+   "window": "News from 10:00 AM to 4:00 PM IST, 21 October 2026"
+  },
+  "items": [
+   {
+    "cat": "Executive & Government",
+    "region": "All India",
+    "body": "Ministry of Housing and Urban Affairs",
+    "headline": "Centre amends government housing allotment rules: 10 days to accept, 3-month debarment for default",
+    "text": "The Ministry of Housing and Urban Affairs has amended the Central Government General Pool Residential Accommodation Rules, 2017, with effect from 15 October 2026. Allottees now get 8 days to accept an allotment, plus 2 more days after a reminder, for a total of 10 days; the time to accept an offer of change of accommodation also goes up from 8 to 10 days. If an allottee does not accept within 10 days or does not take possession within 5 working days of the authorisation letter, the allotment can be cancelled and the person debarred for 3 months.",
+    "why": "Central government employees across India who live in or are waiting for general pool housing must now follow the new deadlines to avoid losing their allotment.",
+    "date": "21 Oct 2026",
+    "src": "https://www.scconline.com/blog/post/2026/10/21/gpra-amendment-rules-2026-allotment-deadlines-penalties-licence-fees/",
+    "srcName": "SCC Online Blog",
+    "i18n": {
+     "hi": {
+      "body": "आवास और शहरी कार्य मंत्रालय",
+      "headline": "केंद्र ने सरकारी आवास आवंटन नियमों में संशोधन किया: स्वीकार करने के लिए 10 दिन, चूक पर 3 महीने के लिए आवंटन से वंचित",
+      "text": "आवास और शहरी कार्य मंत्रालय ने केंद्र सरकार सामान्य पूल आवासीय आवास नियम, 2017 में संशोधन किया है, जो 15 अक्टूबर 2026 से लागू है। अब आवंटी को आवंटन स्वीकार करने के लिए 8 दिन मिलेंगे, और याद दिलाने के बाद 2 दिन और, यानी कुल 10 दिन; आवास बदलने के प्रस्ताव को स्वीकार करने की अवधि भी 8 से बढ़ाकर 10 दिन कर दी गई है। यदि आवंटी 10 दिनों के भीतर आवंटन स्वीकार नहीं करता या प्राधिकार पत्र मिलने के 5 कार्य दिवसों के भीतर कब्ज़ा नहीं लेता, तो आवंटन रद्द किया जा सकता है और उसे 3 महीने के लिए आवंटन से वंचित किया जा सकता है।",
+      "why": "देश भर में सामान्य पूल आवास में रहने वाले या उसका इंतज़ार कर रहे केंद्र सरकार के कर्मचारियों को आवंटन न खोने के लिए अब नई समय-सीमाओं का पालन करना होगा।"
+     },
+     "mr": {
+      "body": "गृहनिर्माण आणि शहरी कार्य मंत्रालय",
+      "headline": "केंद्राने सरकारी निवासस्थान वाटप नियमांत सुधारणा केली: स्वीकारण्यासाठी 10 दिवस, कसूर केल्यास 3 महिने वाटपास अपात्र",
+      "text": "गृहनिर्माण आणि शहरी कार्य मंत्रालयाने केंद्र सरकार सामान्य पूल निवासी निवासस्थान नियम, 2017 मध्ये सुधारणा केली असून ती 15 ऑक्टोबर 2026 पासून लागू आहे. आता वाटपधारकाला वाटप स्वीकारण्यासाठी 8 दिवस मिळतील आणि स्मरणपत्रानंतर आणखी 2 दिवस, म्हणजे एकूण 10 दिवस; निवासस्थान बदलाचा प्रस्ताव स्वीकारण्याची मुदतही 8 वरून 10 दिवस करण्यात आली आहे. वाटपधारकाने 10 दिवसांत वाटप स्वीकारले नाही किंवा अधिकारपत्र मिळाल्यापासून 5 कामकाजाच्या दिवसांत ताबा घेतला नाही, तर वाटप रद्द होऊ शकते आणि त्याला 3 महिन्यांसाठी वाटपास अपात्र ठरवले जाऊ शकते.",
+      "why": "देशभरात सामान्य पूल निवासस्थानात राहणाऱ्या किंवा त्याची प्रतीक्षा करणाऱ्या केंद्र सरकारी कर्मचाऱ्यांना वाटप गमावू नये म्हणून आता नव्या मुदती पाळाव्या लागतील."
+     }
+    }
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-10-21-am",
    "iso": "2026-10-21",
    "slot": "10 AM",

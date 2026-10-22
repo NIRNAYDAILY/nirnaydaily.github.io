@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-22T00:44+05:30",
+ "updated": "2026-10-22T10:01+05:30",
  "news": [
+  {
+   "edition": "2026-10-22-am",
+   "headline": "West Bengal forms SIT under a retired judge to probe the Kolkata Durga Puja stampede",
+   "src": "https://www.livelaw.in/high-court/calcutta-high-court/durga-puja-stampede-west-bengal-govt-forms-sit-headed-by-retired-judge-in-consultation-with-calcutta-high-court-555551"
+  },
+  {
+   "edition": "2026-10-22-am",
+   "headline": "Rajasthan State Legal Services Authority invites applications for 3 Legal Researcher posts",
+   "src": "https://www.verdictum.in/job-updates/rajasthan-state-legal-services-authority-1624395"
+  },
   {
    "edition": "2026-10-21-pm",
    "headline": "Centre amends government housing allotment rules: 10 days to accept, 3-month debarment for default",
@@ -215,26 +225,6 @@
    "edition": "2026-10-12-pm",
    "headline": "Rajya Sabha MP AA Rahim moves Supreme Court over alleged detention and assault of DYFI members",
    "src": "https://www.livelaw.in/top-stories/rajya-sabha-mp-aa-rahim-moves-supreme-court-alleging-illegal-detention-assault-of-dyfi-members-during-delhi-cec-protests-554251"
-  },
-  {
-   "edition": "2026-10-12-am",
-   "headline": "CJI Surya Kant declines opposition leaders' request for a meeting on SIR and the CEC",
-   "src": "https://www.barandbench.com/news/litigation/cji-surya-kant-declines-meeting-with-rahul-gandhi-mallikarjuna-kharge-says-approach-court-judicially"
-  },
-  {
-   "edition": "2026-10-12-am",
-   "headline": "Justice BV Nagarathna: Juvenile Justice Act is clear on paper but weak in implementation",
-   "src": "https://www.livelaw.in/top-stories/when-child-breaks-the-law-law-must-not-break-the-child-justice-bv-nagarathna-554139"
-  },
-  {
-   "edition": "2026-10-12-am",
-   "headline": "SCAORA moves Supreme Court for probe into police action against lawyers during 10 October protest",
-   "src": "https://www.livelaw.in/top-stories/scaora-moves-supreme-court-police-excess-lawyers-during-cec-protest-554162"
-  },
-  {
-   "edition": "2026-10-12-am",
-   "headline": "Rajya Sabha MP John Brittas writes to CJI alleging police assault, seeks court-monitored probe",
-   "src": "https://www.livelaw.in/top-stories/rajya-sabha-mp-john-brittas-writes-to-cji-alleging-delhi-police-assault-seeks-judicial-intervention-554156"
   }
  ],
  "tribunals": [
@@ -637,7 +627,7 @@
  "latest": {
   "digest": "21 Oct 2026",
   "tribunals": "21 Oct 2026",
-  "news": "2026-10-21-pm",
+  "news": "2026-10-22-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-19"
  }
