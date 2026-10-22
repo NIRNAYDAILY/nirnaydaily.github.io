@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-22",
  "sections": [
   {
    "id": "judiciary",
@@ -422,6 +422,10 @@
      {
       "text": "Central Railway, Railway Advocates, 33 posts: 3 years' practice, closes 23 Oct 2026",
       "url": "https://cr.indianrailways.gov.in/"
+     },
+     {
+      "text": "Indian Institute of Foreign Trade, New Delhi, Legal Officer (contract, Advt. NT/Con./Del./17/2026), 1 post: LLB with post-graduation and 5 years' experience, closes 27 Oct 2026",
+      "url": "https://www.iift.ac.in/uploads/manage-files/2026/10/ad-for-legal-officer.pdf"
      }
     ],
     "i18n": {
@@ -434,6 +438,10 @@
        {
         "text": "मध्य रेलवे, रेलवे अधिवक्ता, 33 पद: 3 वर्ष की वकालत, 23 अक्टूबर 2026 को बंद",
         "url": "https://cr.indianrailways.gov.in/"
+       },
+       {
+        "text": "भारतीय विदेश व्यापार संस्थान (IIFT), नई दिल्ली, विधि अधिकारी (संविदा, विज्ञापन NT/Con./Del./17/2026), 1 पद: स्नातकोत्तर सहित LLB और 5 वर्ष का अनुभव, 27 अक्टूबर 2026 को बंद",
+        "url": "https://www.iift.ac.in/uploads/manage-files/2026/10/ad-for-legal-officer.pdf"
        }
       ]
      },
@@ -446,6 +454,10 @@
        {
         "text": "मध्य रेल्वे, रेल्वे वकील, 33 पदे: 3 वर्षांची वकिली, 23 ऑक्टोबर 2026 रोजी बंद",
         "url": "https://cr.indianrailways.gov.in/"
+       },
+       {
+        "text": "भारतीय विदेश व्यापार संस्था (IIFT), नवी दिल्ली, विधी अधिकारी (करार, जाहिरात NT/Con./Del./17/2026), 1 पद: पदव्युत्तर पदवीसह LLB आणि 5 वर्षांचा अनुभव, 27 ऑक्टोबर 2026 रोजी बंद",
+        "url": "https://www.iift.ac.in/uploads/manage-files/2026/10/ad-for-legal-officer.pdf"
        }
       ]
      }
@@ -462,7 +474,7 @@
      "name": "All India Bar Examination XXII",
      "org": "Bar Council of India",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "LLB graduates, and <b>final-semester LLB students with no backlogs</b>. You need this to practise law.",
      "facts": [
       {
@@ -557,7 +569,7 @@
      "name": "UGC NET, December 2026 (Law)",
      "org": "National Testing Agency",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "For <b>LLM students and graduates</b> (a master's degree is required; final-year LLM students may apply). Leads to Assistant Professor posts and the JRF.",
      "facts": [
       {
