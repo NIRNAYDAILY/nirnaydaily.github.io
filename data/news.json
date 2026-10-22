@@ -1,57 +1,85 @@
 {
  "edition": {
-  "edition_id": "2026-10-22-am",
+  "edition_id": "2026-10-22-pm",
   "iso": "2026-10-22",
-  "slot": "10 AM",
+  "slot": "6 PM",
   "dateShort": "22 Oct 2026",
-  "dateLong": "Thursday, 22 October 2026 · Morning edition",
-  "window": "News from 4:00 PM IST, 21 October to 10:00 AM IST, 22 October 2026"
+  "dateLong": "Thursday, 22 October 2026 · Evening edition",
+  "window": "News from 10:00 AM to 4:00 PM IST, 22 October 2026"
  },
  "items": [
   {
-   "cat": "Executive & Government",
-   "region": "West Bengal",
-   "body": "Government of West Bengal",
-   "headline": "West Bengal forms SIT under a retired judge to probe the Kolkata Durga Puja stampede",
-   "text": "The West Bengal Government has set up a Special Investigation Team, chaired by retired Justice Anindita Roy Saraswati, to inquire into the stampede near the Chorbagan Sarbojanin Durga Puja pandal in Kolkata on 17 October. The order from the Chief Secretary's office, dated 21 October, says the team was formed in consultation with the Calcutta High Court and must report within three months.",
-   "why": "The SIT will also identify lapses by organisers and authorities and recommend rules for handling large festival crowds in congested areas.",
+   "cat": "Judiciary",
+   "region": "Andhra Pradesh",
+   "body": "High Court of Andhra Pradesh",
+   "headline": "Andhra Pradesh High Court notifies 119 Civil Judge (Junior Division) posts; apply by 26 October",
+   "text": "The High Court of Andhra Pradesh has invited applications for 119 posts of Civil Judge (Junior Division) in the State judicial service: 96 by direct recruitment and 23 by recruitment by transfer. The last date to apply online is 26 October 2026.",
+   "why": "The application window is short, so eligible candidates have only a few days to apply.",
    "date": "22 Oct 2026",
-   "src": "https://www.livelaw.in/high-court/calcutta-high-court/durga-puja-stampede-west-bengal-govt-forms-sit-headed-by-retired-judge-in-consultation-with-calcutta-high-court-555551",
+   "src": "https://www.livelaw.in/job-updates/civil-judge-junior-division-vacancy-at-andhra-pradesh-state-judicial-service-555572",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "headline": "पश्चिम बंगाल ने कोलकाता दुर्गा पूजा भगदड़ की जांच के लिए सेवानिवृत्त न्यायाधीश की अध्यक्षता में एसआईटी बनाई",
-     "text": "पश्चिम बंगाल सरकार ने 17 अक्टूबर को कोलकाता में चोरबागान सार्वजनीन दुर्गा पूजा पंडाल के पास हुई भगदड़ की जांच के लिए एक विशेष जांच दल (एसआईटी) बनाया है, जिसकी अध्यक्ष सेवानिवृत्त न्यायमूर्ति Anindita Roy Saraswati हैं। मुख्य सचिव कार्यालय के 21 अक्टूबर के आदेश में कहा गया है कि यह दल कलकत्ता उच्च न्यायालय के परामर्श से बनाया गया है और इसे तीन महीने के भीतर रिपोर्ट देनी होगी।",
-     "why": "एसआईटी आयोजकों और अधिकारियों की चूक की पहचान भी करेगी और भीड़भाड़ वाले इलाकों में त्योहारों की बड़ी भीड़ संभालने के लिए नियमों की सिफ़ारिश करेगी।",
-     "body": "पश्चिम बंगाल सरकार"
+     "body": "आंध्र प्रदेश उच्च न्यायालय",
+     "headline": "आंध्र प्रदेश उच्च न्यायालय ने सिविल न्यायाधीश (कनिष्ठ खंड) के 119 पदों की भर्ती अधिसूचित की; 26 अक्टूबर तक आवेदन करें",
+     "text": "आंध्र प्रदेश उच्च न्यायालय ने राज्य न्यायिक सेवा में सिविल न्यायाधीश (कनिष्ठ खंड) के 119 पदों के लिए आवेदन मांगे हैं: 96 पद सीधी भर्ती से और 23 पद स्थानांतरण द्वारा भर्ती से भरे जाएंगे। ऑनलाइन आवेदन की अंतिम तिथि 26 अक्टूबर 2026 है।",
+     "why": "आवेदन की अवधि बहुत कम है, इसलिए पात्र उम्मीदवारों के पास आवेदन के लिए कुछ ही दिन बचे हैं।"
     },
     "mr": {
-     "headline": "कोलकाता दुर्गापूजा चेंगराचेंगरीच्या चौकशीसाठी पश्चिम बंगालने निवृत्त न्यायाधीशांच्या अध्यक्षतेखाली एसआयटी स्थापन केली",
-     "text": "पश्चिम बंगाल सरकारने 17 ऑक्टोबर रोजी कोलकात्यातील चोरबागान सार्वजनीन दुर्गापूजा मंडपाजवळ झालेल्या चेंगराचेंगरीच्या चौकशीसाठी विशेष तपास पथक (एसआयटी) स्थापन केले असून त्याच्या अध्यक्ष निवृत्त न्यायमूर्ती Anindita Roy Saraswati आहेत. मुख्य सचिव कार्यालयाच्या 21 ऑक्टोबरच्या आदेशानुसार हे पथक कलकत्ता उच्च न्यायालयाशी सल्लामसलत करून स्थापन करण्यात आले असून त्याला तीन महिन्यांत अहवाल द्यायचा आहे.",
-     "why": "एसआयटी आयोजक आणि अधिकाऱ्यांच्या त्रुटीही शोधेल आणि गर्दीच्या भागांत सणांतील मोठी गर्दी हाताळण्यासाठी नियमांची शिफारस करेल.",
-     "body": "पश्चिम बंगाल सरकार"
+     "body": "आंध्र प्रदेश उच्च न्यायालय",
+     "headline": "आंध्र प्रदेश उच्च न्यायालयाकडून दिवाणी न्यायाधीश (कनिष्ठ स्तर) पदाच्या 119 जागांसाठी भरती अधिसूचना; 26 ऑक्टोबरपर्यंत अर्ज करा",
+     "text": "आंध्र प्रदेश उच्च न्यायालयाने राज्य न्यायिक सेवेतील दिवाणी न्यायाधीश (कनिष्ठ स्तर) पदाच्या 119 जागांसाठी अर्ज मागवले आहेत: 96 जागा थेट भरतीने आणि 23 जागा बदलीद्वारे भरतीने भरल्या जातील. ऑनलाइन अर्ज करण्याची शेवटची तारीख 26 ऑक्टोबर 2026 आहे.",
+     "why": "अर्ज करण्याची मुदत कमी असल्याने पात्र उमेदवारांकडे अर्ज करण्यासाठी काहीच दिवस उरले आहेत."
     }
    }
   },
   {
-   "cat": "Legal Education & Careers",
-   "region": "Rajasthan",
-   "body": "Rajasthan State Legal Services Authority",
-   "headline": "Rajasthan State Legal Services Authority invites applications for 3 Legal Researcher posts",
-   "text": "The Rajasthan State Legal Services Authority has invited applications for three Legal Researcher posts carrying a fixed honorarium of ₹50,000 a month. Law graduates or postgraduates up to 33 years of age can apply; final-semester students may apply if they submit their result before selection. Applications must be sent by post by 31 October 2026.",
-   "date": "21 Oct 2026",
-   "src": "https://www.verdictum.in/job-updates/rajasthan-state-legal-services-authority-1624395",
-   "srcName": "Verdictum",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Law Commission of India",
+   "headline": "Vice-President opens Law Commission's national conference on co-operative federalism and law reform",
+   "text": "The 23rd Law Commission of India held a national conference on 'Co-operative Federalism and Law Reforms: National and State Perspectives' in New Delhi on 22 October 2026, inaugurated by Vice-President C. P. Radhakrishnan. The conference discussed how the Centre and the States can work together in reviewing and reforming laws.",
+   "why": "Reform of laws on subjects shared by the Centre and the States works best when both act together.",
+   "date": "22 Oct 2026",
+   "src": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325856&reg=1&lang=1",
+   "srcName": "PIB",
    "i18n": {
     "hi": {
-     "headline": "राजस्थान राज्य विधिक सेवा प्राधिकरण ने लीगल रिसर्चर के 3 पदों के लिए आवेदन मांगे",
-     "text": "राजस्थान राज्य विधिक सेवा प्राधिकरण ने लीगल रिसर्चर के तीन पदों के लिए आवेदन मांगे हैं, जिन पर ₹50,000 प्रति माह का निश्चित मानदेय मिलेगा। 33 वर्ष तक की आयु के विधि स्नातक या स्नातकोत्तर आवेदन कर सकते हैं; अंतिम सेमेस्टर के छात्र भी आवेदन कर सकते हैं, बशर्ते वे चयन से पहले अपना परिणाम जमा कर दें। आवेदन डाक से 31 अक्टूबर 2026 तक भेजने होंगे।",
-     "body": "राजस्थान राज्य विधिक सेवा प्राधिकरण"
+     "body": "भारत का विधि आयोग",
+     "headline": "उपराष्ट्रपति ने सहकारी संघवाद और विधि सुधार पर विधि आयोग के राष्ट्रीय सम्मेलन का उद्घाटन किया",
+     "text": "23वें भारतीय विधि आयोग ने 22 अक्टूबर 2026 को नई दिल्ली में 'सहकारी संघवाद और विधि सुधार: राष्ट्रीय और राज्य परिप्रेक्ष्य' विषय पर राष्ट्रीय सम्मेलन आयोजित किया, जिसका उद्घाटन उपराष्ट्रपति सी. पी. राधाकृष्णन ने किया। सम्मेलन में इस पर चर्चा हुई कि कानूनों की समीक्षा और सुधार में केंद्र और राज्य मिलकर कैसे काम कर सकते हैं।",
+     "why": "जिन विषयों पर केंद्र और राज्य दोनों कानून बनाते हैं, उनमें सुधार तभी सबसे अच्छा होता है जब दोनों मिलकर काम करें।"
     },
     "mr": {
-     "headline": "राजस्थान राज्य विधी सेवा प्राधिकरणाने लीगल रिसर्चरच्या 3 पदांसाठी अर्ज मागवले",
-     "text": "राजस्थान राज्य विधी सेवा प्राधिकरणाने लीगल रिसर्चरच्या तीन पदांसाठी अर्ज मागवले असून या पदांना दरमहा ₹50,000 इतके निश्चित मानधन मिळेल. 33 वर्षांपर्यंत वयाचे विधी पदवीधर किंवा पदव्युत्तर अर्ज करू शकतात; अंतिम सत्रातील विद्यार्थीही निवडीपूर्वी निकाल सादर करण्याच्या अटीवर अर्ज करू शकतात. अर्ज 31 ऑक्टोबर 2026 पर्यंत टपालाने पाठवायचे आहेत.",
-     "body": "राजस्थान राज्य विधी सेवा प्राधिकरण"
+     "body": "भारतीय विधी आयोग",
+     "headline": "उपराष्ट्रपतींच्या हस्ते सहकारी संघराज्यवाद आणि कायदा सुधारणा या विषयावरील विधी आयोगाच्या राष्ट्रीय परिषदेचे उद्घाटन",
+     "text": "23 व्या भारतीय विधी आयोगाने 22 ऑक्टोबर 2026 रोजी नवी दिल्लीत 'सहकारी संघराज्यवाद आणि कायदा सुधारणा: राष्ट्रीय व राज्यस्तरीय दृष्टिकोन' या विषयावर राष्ट्रीय परिषद आयोजित केली; तिचे उद्घाटन उपराष्ट्रपती सी. पी. राधाकृष्णन यांनी केले. कायद्यांचा आढावा आणि सुधारणा करताना केंद्र आणि राज्ये एकत्र कसे काम करू शकतात, यावर परिषदेत चर्चा झाली.",
+     "why": "ज्या विषयांवर केंद्र आणि राज्ये दोघेही कायदे करतात, त्यांतील सुधारणा दोघांनी मिळून काम केल्यासच सर्वोत्तम ठरते."
+    }
+   }
+  },
+  {
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Ports, Shipping and Waterways",
+   "headline": "Centre notifies qualification rules for Merchant Shipping tribunals; awards due within 90 days",
+   "text": "The Ministry of Ports, Shipping and Waterways has notified the Merchant Shipping (Tribunal Members' Qualification and Submission of Award) Rules, 2026, dated 15 October 2026, for tribunals set up under Section 89 of the Merchant Shipping Act, 2025. A member must have maritime knowledge, at least 15 years of administrative experience and at least 3 years in the maritime sector. A tribunal must give its award within 90 days of the Centre referring a dispute; if it cannot, it must record reasons and seek more time, and the Centre may extend the period by up to 60 days.",
+   "why": "Fixed qualifications and a time limit should make decisions in maritime disputes quicker and more predictable.",
+   "date": "22 Oct 2026",
+   "src": "https://www.scconline.com/blog/post/2026/10/22/merchant-shipping-tribunal-members-qualification-rules-2026/",
+   "srcName": "SCC Online Blog",
+   "i18n": {
+    "hi": {
+     "body": "पत्तन, पोत परिवहन और जलमार्ग मंत्रालय",
+     "headline": "केंद्र ने मर्चेंट शिपिंग न्यायाधिकरणों के सदस्यों की योग्यता के नियम अधिसूचित किए; 90 दिनों में अधिनिर्णय देना होगा",
+     "text": "पत्तन, पोत परिवहन और जलमार्ग मंत्रालय ने मर्चेंट शिपिंग अधिनियम, 2025 की धारा 89 के तहत गठित न्यायाधिकरणों के लिए 15 अक्टूबर 2026 के नियम अधिसूचित किए हैं, जो सदस्यों की योग्यता और अधिनिर्णय (अवॉर्ड) देने की प्रक्रिया तय करते हैं। सदस्य को समुद्री मामलों का ज्ञान, कम से कम 15 वर्ष का प्रशासनिक अनुभव और समुद्री क्षेत्र में कम से कम 3 वर्ष का अनुभव होना चाहिए। केंद्र द्वारा विवाद भेजे जाने के 90 दिनों के भीतर न्यायाधिकरण को अधिनिर्णय देना होगा; ऐसा न हो पाने पर उसे लिखित कारण दर्ज कर और समय मांगना होगा, और केंद्र यह अवधि अधिकतम 60 दिन बढ़ा सकता है।",
+     "why": "तय योग्यता और समय-सीमा से समुद्री विवादों में निर्णय तेज़ और अधिक भरोसेमंद होने चाहिए।"
+    },
+    "mr": {
+     "body": "बंदरे, नौवहन आणि जलमार्ग मंत्रालय",
+     "headline": "व्यापारी नौवहन न्यायाधिकरणांच्या सदस्यांच्या पात्रतेचे नियम केंद्राकडून अधिसूचित; 90 दिवसांत निवाडा द्यावा लागणार",
+     "text": "बंदरे, नौवहन आणि जलमार्ग मंत्रालयाने व्यापारी नौवहन अधिनियम, 2025 च्या कलम 89 अंतर्गत स्थापन न्यायाधिकरणांसाठी 15 ऑक्टोबर 2026 रोजीचे नियम अधिसूचित केले आहेत; ते सदस्यांची पात्रता आणि निवाडा (अवॉर्ड) देण्याची पद्धत ठरवतात. सदस्याला सागरी विषयांचे ज्ञान, किमान 15 वर्षांचा प्रशासकीय अनुभव आणि सागरी क्षेत्रातील किमान 3 वर्षांचा अनुभव असणे आवश्यक आहे. केंद्राने वाद सोपवल्यापासून 90 दिवसांच्या आत न्यायाधिकरणाला निवाडा द्यावा लागेल; तसे न झाल्यास त्याने लेखी कारणे नोंदवून मुदतवाढ मागावी, आणि केंद्र ही मुदत जास्तीत जास्त 60 दिवसांनी वाढवू शकते.",
+     "why": "ठरावीक पात्रता आणि कालमर्यादेमुळे सागरी वादांवरील निर्णय जलद आणि अधिक खात्रीशीर व्हावेत."
     }
    }
   }
