@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-23T13:45+05:30",
+ "updated": "2026-10-23T18:06+05:30",
  "news": [
+  {
+   "edition": "2026-10-23-pm",
+   "headline": "Bombay High Court confiscates phone and fines junior lawyer and clerk for recording a hearing",
+   "src": "https://www.verdictum.in/bombay-high-court/confiscates-mobile-fines-junior-lawyer-clerk-illegal-courtroom-recording-1624478"
+  },
+  {
+   "edition": "2026-10-23-pm",
+   "headline": "Maharashtra challenges FSSAI in Bombay High Court, says the Centre has taken over the State's food-safety powers",
+   "src": "https://barandbench.com/news/maharashtra-moves-bombay-high-court-against-fssai-says-it-usurped-states-powers"
+  },
   {
    "edition": "2026-10-23-am",
    "headline": "Chhattisgarh High Court invites applications for 11 Legal Assistant posts; last date 31 October",
@@ -155,26 +165,6 @@
    "edition": "2026-10-14-pm",
    "headline": "Asaduddin Owaisi moves Supreme Court against the SIR of electoral rolls",
    "src": "https://lawbeat.in/amp/top-stories/asaduddin-owaisi-moves-supreme-court-challenging-sir-of-electoral-rolls-1641612"
-  },
-  {
-   "edition": "2026-10-14-am",
-   "headline": "Kerala High Court bars lawyers' 'symbolic impeachment' of the CEC inside court premises",
-   "src": "https://www.verdictum.in/news/indian-association-of-lawyers-protest-chief-election-commissioner-of-india-sir-1623910"
-  },
-  {
-   "edition": "2026-10-14-am",
-   "headline": "J&K and Ladakh High Court makes AIBE compulsory for advocates enrolled since 2009-10",
-   "src": "https://barandbench.com/news/jammu-and-kashmir-high-court-makes-aibe-mandatory-for-advocates-enrolled-since-2009-10"
-  },
-  {
-   "edition": "2026-10-14-am",
-   "headline": "Allahabad High Court sets campaign rules for Oudh Bar Association elections",
-   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-oudh-bar-association-elections-554516"
-  },
-  {
-   "edition": "2026-10-14-am",
-   "headline": "Complaints portal for probe into July student protests is ready, Supreme Court told",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-jantar-mantar-protest-high-powered-enquiry-committee-status-report-complaints-portal-ready-for-launch-mha-to-provide-infrastructure-554520"
   }
  ],
  "tribunals": [
@@ -537,7 +527,7 @@
  "latest": {
   "digest": "23 Oct 2026",
   "tribunals": "23 Oct 2026",
-  "news": "2026-10-23-am",
+  "news": "2026-10-23-pm",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-22"
  }
