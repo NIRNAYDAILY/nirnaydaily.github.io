@@ -1,6 +1,11 @@
 {
- "updated": "2026-10-23T00:44+05:30",
+ "updated": "2026-10-23T10:00+05:30",
  "news": [
+  {
+   "edition": "2026-10-23-am",
+   "headline": "Chhattisgarh High Court invites applications for 11 Legal Assistant posts; last date 31 October",
+   "src": "https://verdictum.in/job-updates/chhattisgarh-high-court-1624468"
+  },
   {
    "edition": "2026-10-22-pm",
    "headline": "Andhra Pradesh High Court notifies 119 Civil Judge (Junior Division) posts; apply by 26 October",
@@ -170,26 +175,6 @@
    "edition": "2026-10-14-am",
    "headline": "Complaints portal for probe into July student protests is ready, Supreme Court told",
    "src": "https://www.livelaw.in/top-stories/supreme-court-jantar-mantar-protest-high-powered-enquiry-committee-status-report-complaints-portal-ready-for-launch-mha-to-provide-infrastructure-554520"
-  },
-  {
-   "edition": "2026-10-13-am",
-   "headline": "SCBA and SCAORA condemn social media calls for CJI Surya Kant's resignation",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-bar-association-condemns-calls-for-cji-surya-kants-resignation-554318"
-  },
-  {
-   "edition": "2026-10-13-am",
-   "headline": "Over 50 Bombay High Court lawyers read the Preamble in a symbolic protest near the court",
-   "src": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-advocates-protest-read-preamble-554327"
-  },
-  {
-   "edition": "2026-10-13-am",
-   "headline": "Karnataka notifies statewide SOP for quick response to pregnancies of minor girls",
-   "src": "https://www.verdictum.in/karnataka-high-court/ms-x-v-state-of-karnataka-and-others-2026khc56135-sop-underage-pregnancies-1623861"
-  },
-  {
-   "edition": "2026-10-13-am",
-   "headline": "Journalists' groups ask Supreme Court for rules on police conduct towards reporters at protests",
-   "src": "https://www.livelaw.in/top-stories/plea-filed-in-supreme-court-against-detention-assault-of-journalists-covering-delhi-protests-554349"
   }
  ],
  "tribunals": [
@@ -552,7 +537,7 @@
  "latest": {
   "digest": "22 Oct 2026",
   "tribunals": "22 Oct 2026",
-  "news": "2026-10-22-pm",
+  "news": "2026-10-23-am",
   "careersBooklet": "2026-10-03",
   "careersPool": "2026-10-22"
  }
