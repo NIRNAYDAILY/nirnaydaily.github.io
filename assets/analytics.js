@@ -2,7 +2,7 @@
    Counts page and section views, the words typed into Nirnay Mitra and the section search boxes,
    downloads and link clicks, so the site can be improved.
    No names, emails or other personal details are collected.
-   Owner visits: open https://nirnaydaily.github.io/?owner=1 once on each of your devices/browsers
+   Owner visits: open https://nirnaydaily.in/?owner=1 once on each of your devices/browsers
    and your own visits are marked "internal" (excluded by GA's Internal Traffic filter).
    ?owner=0 removes the mark. */
 (function(){

@@ -86,7 +86,7 @@ def typeset(e, pages, out):
     def deco(c, doc):
         c.saveState()
         c.setFont("Serif", 8); c.setFillColor(grey)
-        c.drawString(20 * mm, 12 * mm, "Nirnay Daily  ·  nirnaydaily.github.io")
+        c.drawString(20 * mm, 12 * mm, "Nirnay Daily  ·  nirnaydaily.in")
         c.drawRightString(A4[0] - 20 * mm, 12 * mm, f"{doc.page}")
         c.setStrokeColor(red); c.setLineWidth(0.6); c.line(20 * mm, A4[1] - 14 * mm, A4[0] - 20 * mm, A4[1] - 14 * mm)
         c.setFont("Serif", 7.5); c.drawString(20 * mm, A4[1] - 12 * mm, e["name"][:110])
@@ -112,7 +112,7 @@ def typeset(e, pages, out):
     story += [Spacer(1, 8 * mm),
               Paragraph(E(e.get("note") or "Full text of the judgment as issued by the Supreme Court of India, reproduced page by page. "
                           "Page markers follow the original document."), note),
-              Paragraph("Nirnay Daily · nirnaydaily.github.io · nirnaydaily@gmail.com", note), PageBreak()]
+              Paragraph("Nirnay Daily · nirnaydaily.in · nirnaydaily@gmail.com", note), PageBreak()]
     for i, p in enumerate(pages):
         story.append(Paragraph(f"— Original page {i + 1} of {len(pages)} —", pgno))
         for par in reflow(p.replace("�", "▯")):

@@ -30,7 +30,7 @@ def fetch(bid, path):
     url = f"https://indiacode.gov.in/server/api/core/bitstreams/{bid}/content"
     for i in range(6):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Nirnay Daily; +https://nirnaydaily.github.io)"})
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Nirnay Daily; +https://nirnaydaily.in)"})
             with urllib.request.urlopen(req, timeout=600) as r, open(path, "wb") as fh:
                 while True:
                     b = r.read(1 << 20)
@@ -50,7 +50,7 @@ for st, items in MAN["states"].items():
     if gh("release", "view", tag, "-R", REPO, check=False).returncode:
         gh("release", "create", tag, "-R", REPO, "--title", f"{NAMES[st]} Acts — official PDFs",
            "--notes", f"Official PDFs of {NAMES[st]} State Acts, as published by the Government of India on "
-                      f"India Code (https://indiacode.gov.in). Used by the Bare Acts section of https://nirnaydaily.github.io.",
+                      f"India Code (https://indiacode.gov.in). Used by the Bare Acts section of https://nirnaydaily.in.",
            "--latest=false")
     have = {a["name"] for a in json.loads(gh("release", "view", tag, "-R", REPO, "--json", "assets").stdout)["assets"]}
     added = failed = 0
