@@ -2755,6 +2755,50 @@
    "pdf": "judgments/sc/pdf/arun-deepak-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 208095
+  },
+  {
+   "slug": "assessing-officer-2026",
+   "name": "The Assessing Officer, Textiles Committee v. M/s Premium Suiting Pvt. Ltd",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 17,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3324,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=172302013&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "the assessing officer textiles committee",
+    "m s premium suiting pvt ltd"
+   ],
+   "citation": "2026 INSC 1158",
+   "caseNo": "C.A. No. 785/2016",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/assessing-officer-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 442724
+  },
+  {
+   "slug": "balakrishna-d-2026",
+   "name": "Balakrishna(d) Tr.Lrs v. G.N.Kanniah Naidu (dead) Thr. Lrs",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 10,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2400,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=324622011&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "balakrishna d tr lrs",
+    "g n kanniah naidu dead thr lrs"
+   ],
+   "citation": "2026 INSC 1155",
+   "caseNo": "C.A. No. 13921/2026",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/balakrishna-d-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 305225
   }
  ]
 }
