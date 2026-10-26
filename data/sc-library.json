@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-26",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -2601,6 +2601,160 @@
    "pdf": "judgments/sc/pdf/just-rights-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 746076
+  },
+  {
+   "slug": "dakshin-gujarat-2026",
+   "name": "Dakshin Gujarat Vij Company Limited v. Vaibhav Metal Crusher",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 46,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 10241,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=337692024&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "dakshin gujarat vij company limited",
+    "vaibhav metal crusher"
+   ],
+   "citation": "2026 INSC 1157",
+   "caseNo": "C.A. No. 13894/2026",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/dakshin-gujarat-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 305333
+  },
+  {
+   "slug": "atibir-industries-2026",
+   "name": "Atibir Industries Co. Ltd v. State Bank of India",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 31,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 8649,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=362732024&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "atibir industries co ltd",
+    "state bank of india"
+   ],
+   "citation": "2026 INSC 1156",
+   "caseNo": "C.A. No. 13916-13917/2026",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/atibir-industries-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 712835
+  },
+  {
+   "slug": "bank-india-2026",
+   "name": "Bank of India v. S.M Kamal Pasha",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 22,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 4776,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=376192026&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "bank of india",
+    "s m kamal pasha"
+   ],
+   "citation": "2026 INSC 1154",
+   "caseNo": "C.A. No. 12045/2026",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/bank-india-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 296161
+  },
+  {
+   "slug": "muppathadam-service-2026",
+   "name": "The Muppathadam Service Co Operative Bank Ltd v. The State Chief Information Commissioner",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 14,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2685,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=205222025&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "the muppathadam service co operative ban",
+    "the state chief information commissioner"
+   ],
+   "citation": "2026 INSC 1153",
+   "caseNo": "C.A. No. 13906/2026",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/muppathadam-service-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 181866
+  },
+  {
+   "slug": "a-p-2026",
+   "name": "The A.P. State Wakf Board, (now Telangana State Wakf Board) v. Syed Masood Ahmed",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2282,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=311712022&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "the a p state wakf board now telangana s",
+    "syed masood ahmed"
+   ],
+   "citation": "2026 INSC 1152",
+   "caseNo": "C.A. No. 2804/2024",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/a-p-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 544009
+  },
+  {
+   "slug": "n-arasappa-2026",
+   "name": "N.Arasappa v. State of Karnataka",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 71,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 15242,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=308852012&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "n arasappa",
+    "state of karnataka"
+   ],
+   "citation": "2026 INSC 1151",
+   "caseNo": "C.A. No. 13744-13747/2015",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/n-arasappa-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 497567
+  },
+  {
+   "slug": "arun-deepak-2026",
+   "name": "Arun @deepak v. State of U.P",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2329,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=133542026&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-26",
+   "keys": [
+    "arun deepak",
+    "state of u p"
+   ],
+   "citation": "2026 INSC 1150",
+   "caseNo": "SLP(Crl) No. 4859/2026",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/arun-deepak-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 208095
   }
  ]
 }
