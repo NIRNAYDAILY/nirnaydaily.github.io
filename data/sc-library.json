@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-28",
  "items": [
   {
    "slug": "gopalan-1950",
@@ -2799,6 +2799,94 @@
    "pdf": "judgments/sc/pdf/balakrishna-d-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 305225
+  },
+  {
+   "slug": "lakshmi-sugar-2026",
+   "name": "Lakshmi Sugar Mills Co. Ltd v. Commissioner of Income Tax Delhi Ii",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-27.json",
+   "pages": 11,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2705,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=82212013&type=j&order_date=2026-10-27&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "lakshmi sugar mills co ltd",
+    "commissioner of income tax delhi ii"
+   ],
+   "citation": "2026 INSC 1162",
+   "caseNo": "C.A. No. 8932/2013",
+   "date": "2026-10-27",
+   "pdf": "judgments/sc/pdf/lakshmi-sugar-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 242096
+  },
+  {
+   "slug": "raju-shantaram-2026",
+   "name": "Raju Shantaram Koli v. The State of Maharashtra",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-27.json",
+   "pages": 12,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2197,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=210082025&type=j&order_date=2026-10-27&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "raju shantaram koli",
+    "the state of maharashtra"
+   ],
+   "citation": "2026 INSC 1161",
+   "caseNo": "Crl.A. No. 5072/2026",
+   "date": "2026-10-27",
+   "pdf": "judgments/sc/pdf/raju-shantaram-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 153464
+  },
+  {
+   "slug": "union-india-2026-3",
+   "name": "Union of India v. Mohamed Rifas @ Mohamed Rigbas",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-27.json",
+   "pages": 34,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 7621,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=130022024&type=j&order_date=2026-10-27&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "union of india",
+    "mohamed rifas mohamed rigbas"
+   ],
+   "citation": "2026 INSC 1160",
+   "caseNo": "Crl.A. No. 5070/2026",
+   "date": "2026-10-27",
+   "pdf": "judgments/sc/pdf/union-india-2026-3.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 622213
+  },
+  {
+   "slug": "ecl-finance-2026",
+   "name": "Ecl Finance Ltd v. Abhinav Mukherjee",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-27.json",
+   "pages": 25,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 5427,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=239942022&type=j&order_date=2026-10-27&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "ecl finance ltd",
+    "abhinav mukherjee"
+   ],
+   "citation": "2026 INSC 1159",
+   "caseNo": "C.A. No. 6268/2022",
+   "date": "2026-10-27",
+   "pdf": "judgments/sc/pdf/ecl-finance-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 581588
   }
  ]
 }
