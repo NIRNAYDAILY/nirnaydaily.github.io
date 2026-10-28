@@ -2887,6 +2887,182 @@
    "pdf": "judgments/sc/pdf/ecl-finance-2026.pdf",
    "pdfKind": "original",
    "pdfBytes": 581588
+  },
+  {
+   "slug": "gopal-lodhi-2026",
+   "name": "Gopal Lodhi v. State of M.P",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-26.json",
+   "pages": 7,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1429,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=204292026&type=j&order_date=2026-10-26&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "gopal lodhi",
+    "state of m p"
+   ],
+   "citation": "2026 INSC 1164",
+   "caseNo": "SLP(Crl) No. 7332/2026",
+   "date": "2026-10-26",
+   "pdf": "judgments/sc/pdf/gopal-lodhi-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 164117
+  },
+  {
+   "slug": "principal-commissioner-2026",
+   "name": "The Principal Commissioner of Income Tax v. Orissa Mining Corporation",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-28.json",
+   "pages": 13,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2826,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=106072023&type=j&order_date=2026-10-28&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "the principal commissioner of income tax",
+    "orissa mining corporation"
+   ],
+   "citation": "2026 INSC 1171",
+   "caseNo": "C.A. No. 13959/2026",
+   "date": "2026-10-28",
+   "pdf": "judgments/sc/pdf/principal-commissioner-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 388279
+  },
+  {
+   "slug": "supreme-industries-2026",
+   "name": "M/s the Supreme Industries Limited v. M/s Supremo India Private Limited",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-28.json",
+   "pages": 6,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 831,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=719782025&type=j&order_date=2026-10-28&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "m s the supreme industries limited",
+    "m s supremo india private limited"
+   ],
+   "citation": "2026 INSC 1170",
+   "caseNo": "T.P.(C) No. 3594/2025",
+   "date": "2026-10-28",
+   "pdf": "judgments/sc/pdf/supreme-industries-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 262143
+  },
+  {
+   "slug": "rajasthan-2026",
+   "name": "State of Rajasthan v. Jhabra Ram",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-28.json",
+   "pages": 16,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 3698,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=422512026&type=j&order_date=2026-10-28&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "state of rajasthan",
+    "jhabra ram"
+   ],
+   "citation": "2026 INSC 1169",
+   "caseNo": "Crl.A. No. 5092/2026",
+   "date": "2026-10-28",
+   "pdf": "judgments/sc/pdf/rajasthan-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 281327
+  },
+  {
+   "slug": "royal-construction-2026",
+   "name": "M/s Royal Construction Company Pvt. Ltd v. M/s National Projects Construction Corporation",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-28.json",
+   "pages": 10,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 1800,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=209372026&type=j&order_date=2026-10-28&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "m s royal construction company pvt ltd",
+    "m s national projects construction corpo"
+   ],
+   "citation": "2026 INSC 1167",
+   "caseNo": "C.A. No. 13977/2026",
+   "date": "2026-10-28",
+   "pdf": "judgments/sc/pdf/royal-construction-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 286513
+  },
+  {
+   "slug": "union-india-2026-4",
+   "name": "The Union of India v. Narender Kumar",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-28.json",
+   "pages": 13,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 2691,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=272202026&type=j&order_date=2026-10-28&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "the union of india",
+    "narender kumar"
+   ],
+   "citation": "2026 INSC 1166",
+   "caseNo": "C.A. No. 13952/2026",
+   "date": "2026-10-28",
+   "pdf": "judgments/sc/pdf/union-india-2026-4.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 283327
+  },
+  {
+   "slug": "south-bihar-2026",
+   "name": "South Bihar Power Distribution Company Ltd v. India Power Corporation Ltd",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-28.json",
+   "pages": 50,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 9673,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=503392023&type=j&order_date=2026-10-28&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "south bihar power distribution company l",
+    "india power corporation ltd"
+   ],
+   "citation": "2026 INSC 1165",
+   "caseNo": "C.A. No. 9313/2026",
+   "date": "2026-10-28",
+   "pdf": "judgments/sc/pdf/south-bihar-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 375333
+  },
+  {
+   "slug": "chetan-sabharwal-2026",
+   "name": "Chetan Sabharwal v. Assistant Commissioner of Income Tax Circle 28(1) New Delhi",
+   "type": "text",
+   "file": "judgments/sc/daily-2026-10-28.json",
+   "pages": 54,
+   "origin": "daily",
+   "source": "Supreme Court of India",
+   "words": 17625,
+   "src": "https://www.sci.gov.in/sci-get-pdf/?diary_no=292452019&type=j&order_date=2026-10-28&from=latest_judgements_order",
+   "added": "2026-10-28",
+   "keys": [
+    "chetan sabharwal",
+    "assistant commissioner of income tax cir"
+   ],
+   "citation": "2026 INSC 1163",
+   "caseNo": "C.A. No. 13953/2026",
+   "date": "2026-10-28",
+   "pdf": "judgments/sc/pdf/chetan-sabharwal-2026.pdf",
+   "pdfKind": "original",
+   "pdfBytes": 518136
   }
  ]
 }
