@@ -1,10 +1,6 @@
 {
- "ran": "2026-10-29T04:19+05:30",
- "processed": [
-  "sc_2026-10-28-auto.json: supreme court full texts: 0 added, 1 could not be verified"
- ],
+ "ran": "2026-10-29T20:08+05:30",
+ "processed": [],
  "errors": [],
- "notes": [
-  "Supreme Court judgments not hosted: V. Gopalakrishnan v. The State of Kerala: PDF does not match the case (not found: gopalakrishnan)"
- ]
+ "notes": []
 }
