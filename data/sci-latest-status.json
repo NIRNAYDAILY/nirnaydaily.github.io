@@ -1,1 +1,1 @@
-{"checked": "2026-10-31T17:55Z", "result": "no judgments found on the Supreme Court home page (layout may have changed)"}
+{"checked": "2026-10-31T20:17Z", "result": "skipped \u2013 Command '['curl', '-sSL', '--max-time', '90', '-A', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36', 'https://www.sci.gov.in/']' returned non-zero exit status 28."}
