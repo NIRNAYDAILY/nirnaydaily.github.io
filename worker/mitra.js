@@ -6,7 +6,6 @@
 
 const ALLOWED_ORIGINS = [
   "https://nirnaydaily.in", "https://www.nirnaydaily.in",
-  "https://nirnaydaily.github.io",
   "http://localhost:8765", "http://127.0.0.1:8765",
 ];
 
