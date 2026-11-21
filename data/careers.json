@@ -1,71 +1,49 @@
 {
  "edition": {
   "title": "Nirnay Daily",
-  "vol": "Vol. I · No. 3",
+  "vol": "Vol. I · No. 4",
   "badge": "",
-  "iso": "2026-10-03",
-  "dateLong": "Saturday, 3 October 2026",
-  "dateShort": "3 Oct 2026",
-  "window": "Openings, exams and admissions open or awaited as of 3 October 2026, carried forward from the Nirnay Daily Careers Portal",
-  "next": "Next edition: Saturday at 9:00 AM IST",
+  "iso": "2026-11-21",
+  "dateLong": "Saturday, 21 November 2026",
+  "dateShort": "21 Nov 2026",
+  "window": "Openings and exams found between 14 November and 21 November 2026, plus anything with a last date in the next 30 days",
+  "next": "Next edition: Saturday at 10:00 AM IST",
   "audience": "Law jobs, exams and LLM admissions for final-year students and fresh graduates of 3-year LLB and 5-year integrated law programmes",
   "subtitle": "Careers Edition · Weekly",
   "script": "निर्णय"
  },
  "feature": {
-  "kicker": "Closing 9 October",
-  "headline": "IIFT trade-law centre hiring Young Professionals, no experience needed",
-  "text": "The Centre for Trade and Investment Law at the Indian Institute of Foreign Trade, New Delhi, is recruiting Young Professionals at ₹50,000 a month. Fresh LLB graduates can apply; the last date is Friday, 9 October 2026.",
+  "kicker": "Judiciary",
+  "headline": "Fresh graduates have until 31 March 2027 to use the Civil Judge exemption",
+  "text": "Under the Supreme Court's Bhumika Trust judgment (21 Aug 2026), Civil Judge (Junior Division) notifications issued up to 31 March 2027 are open to law graduates, with one year of practice deemed. Notifications from 1 April 2027 will need one year of actual, certified practice. Andhra Pradesh's 119-post exam, now open until 30 November, falls inside that window.",
   "points": [
-   "LLB (or a related master's) with at least 55%; no experience needed; age up to 28.",
-   "Work covers international trade and investment law: goods, services, IPR and trade agreements.",
-   "Shortlisted candidates take a written test and an interview; apply only through the link in the advertisement."
+   "Notifications up to 31 Mar 2027: law graduates may apply, and selected candidates do one year of academy training plus a one-year clerkship.",
+   "From 1 Apr 2027: applications only with a certificate of one year's actual practice.",
+   "Each High Court's notification still sets its own conditions, so read the eligibility clause, including the date by which your degree must be obtained."
   ],
-  "src": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf",
-  "srcName": "Indian Institute of Foreign Trade · official advertisement",
-  "i18n": {
-   "hi": {
-    "kicker": "9 अक्टूबर को बंद",
-    "headline": "IIFT का व्यापार-कानून केंद्र यंग प्रोफ़ेशनल्स की भर्ती कर रहा है, अनुभव की आवश्यकता नहीं",
-    "text": "भारतीय विदेश व्यापार संस्थान (IIFT), नई दिल्ली का व्यापार एवं निवेश कानून केंद्र ₹50,000 प्रति माह पर यंग प्रोफ़ेशनल्स की भर्ती कर रहा है। नए LLB स्नातक आवेदन कर सकते हैं; अंतिम तिथि शुक्रवार, 9 अक्टूबर 2026 है।",
-    "points": [
-     "कम से कम 55% के साथ LLB (या संबंधित मास्टर डिग्री); अनुभव की आवश्यकता नहीं; आयु 28 वर्ष तक।",
-     "काम अंतरराष्ट्रीय व्यापार और निवेश कानून से जुड़ा है: माल, सेवाएँ, IPR और व्यापार समझौते।",
-     "चुने गए उम्मीदवारों की लिखित परीक्षा और साक्षात्कार होगा; केवल विज्ञापन में दिए लिंक से आवेदन करें।"
-    ]
-   },
-   "mr": {
-    "kicker": "9 ऑक्टोबरला बंद",
-    "headline": "IIFT चे व्यापार-कायदा केंद्र यंग प्रोफेशनल्सची भरती करत आहे, अनुभवाची गरज नाही",
-    "text": "भारतीय विदेश व्यापार संस्था (IIFT), नवी दिल्लीचे व्यापार व गुंतवणूक कायदा केंद्र ₹50,000 प्रतिमहिना वेतनावर यंग प्रोफेशनल्सची भरती करत आहे. नवे LLB पदवीधर अर्ज करू शकतात; शेवटची तारीख शुक्रवार, 9 ऑक्टोबर 2026 आहे.",
-    "points": [
-     "किमान 55% सह LLB (किंवा संबंधित पदव्युत्तर पदवी); अनुभवाची गरज नाही; वय 28 पर्यंत.",
-     "काम आंतरराष्ट्रीय व्यापार व गुंतवणूक कायद्याशी संबंधित आहे: वस्तू, सेवा, IPR व व्यापार करार.",
-     "निवडक उमेदवारांची लेखी परीक्षा व मुलाखत होईल; फक्त जाहिरातीतील लिंकद्वारे अर्ज करा."
-    ]
-   }
-  }
+  "src": "https://api.sci.gov.in/supremecourt/2025/62949/62949_2025_1_1501_73791_Judgement_21-Aug-2026.pdf",
+  "srcName": "Supreme Court of India: Bhumika Trust v. Union of India, 2026 INSC 904"
  },
  "highlights": [
   {
-   "label": "Closes 9 Oct",
-   "text": "IIFT (CTIL) Young Professional, ₹50,000 a month, no experience needed",
-   "ref": "govt"
+   "label": "Closing 30 Nov",
+   "text": "Andhra Pradesh High Court extended its Civil Judge (Junior Division) applications, 119 posts, to 30 November 2026.",
+   "ref": "judiciary"
   },
   {
-   "label": "Closes 9 Oct",
-   "text": "NLSIU P.A. Sangma Fellowship for Legal and Policy Research",
+   "label": "New",
+   "text": "Telangana High Court wants 16 Research Assistants (Law) who graduated in the last two years; applications by post reach by 30 November.",
+   "ref": "judiciary"
+  },
+  {
+   "label": "LL.M.",
+   "text": "Symbiosis LL.M. 2027–28 applications close 4 December (AIAT on 19 December); MIT-WPU takes LL.M. applications until 14 December.",
+   "ref": "llm"
+  },
+  {
+   "label": "Fellowship",
+   "text": "PRS LAMP Fellowship 2027–28 applications open on 29 November.",
    "ref": "private"
-  },
-  {
-   "label": "Closes 10 Oct",
-   "text": "NITI Aayog internship open to law students",
-   "ref": "govt"
-  },
-  {
-   "label": "Closes 27 Oct",
-   "text": "AIBE XXII registration for law graduates",
-   "ref": "exams"
   }
  ],
  "sections": [
@@ -88,25 +66,70 @@
       },
       {
        "k": "Notified",
-       "v": "25 Sep 2026"
+       "v": "25 Sep 2026 (Notification No. 118/2026)"
+      },
+      {
+       "k": "Applications opened",
+       "v": "1 Oct 2026"
       },
       {
        "k": "Last date",
-       "v": "See official notification"
+       "v": "30 Nov 2026 (extended again)",
+       "iso": "2026-11-30"
       }
      ],
-     "note": "Listed on the High Court's recruitment page as notified on 25 September 2026. The notification is a scanned PDF: read it for the application dates, eligibility, fee and exam scheme.",
+     "note": "The High Court extended the online application deadline a second time, to 30 November 2026, by a notice dated 6 November 2026. Read the notification's eligibility clause, including the date by which your law degree must have been obtained, before applying.",
      "links": [
       {
        "label": "Recruitment page",
-       "url": "https://aphc.gov.in/recruitments.php",
+       "url": "https://aphc.gov.in/recruitments.php?year=2026",
        "primary": true
       },
       {
-       "label": "Official notification (PDF)",
-       "url": "https://aphc.gov.in/docs/notification_1790338711_0.pdf"
+       "label": "Extension notice, 6 Nov 2026 (PDF)",
+       "url": "https://aphc.gov.in/docs/notification_1793977011_0.pdf"
       }
-     ]
+     ],
+     "added": "2026-09-28"
+    },
+    {
+     "name": "Research Assistant (Law), High Court and State Judicial Academy",
+     "org": "High Court for the State of Telangana, Hyderabad · Notification No. 29/S0/2026",
+     "sector": "Government",
+     "status": "Open",
+     "eligibility": "<b>3-year or 5-year law degree passed within the 2 years before 27 Oct 2026</b>; under 30 years of age as on 1 July; working knowledge of legal databases (Manupatra, SCC Online and similar).",
+     "facts": [
+      {
+       "k": "Posts",
+       "v": "16 (14 with High Court Judges, 2 at the Telangana State Judicial Academy)"
+      },
+      {
+       "k": "Tenure",
+       "v": "1 year, contract"
+      },
+      {
+       "k": "Notified",
+       "v": "27 Oct 2026"
+      },
+      {
+       "k": "Last date",
+       "v": "30 Nov 2026, 5 PM (application must reach the High Court)",
+       "iso": "2026-11-30"
+      }
+     ],
+     "note": "Offline only: download the form from the High Court website and send it by registered post with acknowledgement due to the Registrar General, with attested certificates and ID. The notice does not state the pay.",
+     "links": [
+      {
+       "label": "Official notification (PDF)",
+       "url": "https://tg.tshc.gov.in/documents/splofficer_2026_10_28T17_09_48.pdf",
+       "primary": true
+      },
+      {
+       "label": "High Court recruitment notices",
+       "url": "https://tshc.gov.in/showChildDocTypes?id=95"
+      }
+     ],
+     "added": "2026-11-21"
     },
     {
      "name": "Civil Judge (Junior Division): Odisha Judicial Service",
@@ -128,22 +151,63 @@
        "v": "₹700 (SC/ST/PwBD exempt)"
       }
      ],
-     "note": "OPSC put the closing date and the prelims on hold after the Supreme Court's order in Bhumika Trust; no new dates were posted this week. Watch the OPSC site.",
+     "note": "OPSC put the closing date and the prelims on hold after the Supreme Court's order in Bhumika Trust; its notices up to 20 November 2026 still show no new dates. Watch the OPSC site.",
      "links": [
       {
        "label": "OPSC website",
        "url": "https://www.opsc.gov.in/",
        "primary": true
       }
-     ]
+     ],
+     "added": "2026-09-25",
+     "i18n": {
+      "hi": {
+       "name": "सिविल न्यायाधीश (कनिष्ठ खंड): ओडिशा न्यायिक सेवा",
+       "eligibility": "LLB; ओड़िया भाषा का ज्ञान। सर्वोच्च न्यायालय के अगस्त 2026 के निर्णय के अनुसार संक्रमण अवधि में <b>नए स्नातक अब पात्र हैं</b>।",
+       "note": "भूमिका ट्रस्ट मामले में सर्वोच्च न्यायालय के आदेश के बाद OPSC ने अंतिम तिथि और प्रारंभिक परीक्षा रोक दी है; इस सप्ताह कोई नई तिथि नहीं आई। OPSC की वेबसाइट देखते रहें।",
+       "facts": [
+        {
+         "k": "Posts",
+         "v": "78"
+        },
+        {
+         "k": "Status",
+         "v": "अंतिम तिथि अगली सूचना तक बढ़ाई गई"
+        },
+        {
+         "k": "Fee",
+         "v": "₹700 (SC/ST/PwBD को छूट)"
+        }
+       ]
+      },
+      "mr": {
+       "name": "दिवाणी न्यायाधीश (कनिष्ठ स्तर): ओडिशा न्यायिक सेवा",
+       "eligibility": "LLB; ओडिया भाषेचे ज्ञान. सर्वोच्च न्यायालयाच्या ऑगस्ट 2026 च्या निकालानुसार संक्रमण कालावधीत <b>नवे पदवीधर आता पात्र आहेत</b>.",
+       "note": "भूमिका ट्रस्ट प्रकरणातील सर्वोच्च न्यायालयाच्या आदेशानंतर OPSC ने शेवटची तारीख व पूर्वपरीक्षा स्थगित केली आहे; या आठवड्यात नवीन तारखा आल्या नाहीत. OPSC चे संकेतस्थळ पाहत राहा.",
+       "facts": [
+        {
+         "k": "Posts",
+         "v": "78"
+        },
+        {
+         "k": "Status",
+         "v": "शेवटची तारीख पुढील सूचनेपर्यंत वाढवली"
+        },
+        {
+         "k": "Fee",
+         "v": "₹700 (SC/ST/PwBD ना सूट)"
+        }
+       ]
+      }
+     }
     }
    ],
    "also": {
     "title": "Also open, but they need practice experience",
     "list": [
      {
-      "text": "High Court of Andhra Pradesh: District Judge (Entry Level), 10 posts by direct recruitment from the Bar (7 years' practice), notified 30 Sep 2026",
-      "url": "https://aphc.gov.in/recruitment.php"
+      "text": "High Court of Jammu & Kashmir and Ladakh: District Judge (Entry Level), 16 posts by direct recruitment from the Bar (practice required); last date for online applications further extended by notice dated 12 Nov 2026, check the notice for the current date",
+      "url": "https://jkhighcourt.nic.in/notice.php"
      }
     ]
    }
@@ -155,186 +219,49 @@
    "intro": "Government roles open to students and new graduates. Most PSU legal jobs hire through CLAT PG scores, so the exam page matters here too.",
    "items": [
     {
-     "name": "Young Professional (without prior experience)",
-     "org": "Centre for Trade and Investment Law (CTIL), Indian Institute of Foreign Trade, New Delhi",
-     "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "<b>LLB</b> (or a master's in economics, public policy or a related field) with at least 55%; <b>no experience needed</b>. Age up to 28.",
-     "facts": [
-      {
-       "k": "Posts",
-       "v": "2"
-      },
-      {
-       "k": "Pay",
-       "v": "₹50,000 / month"
-      },
-      {
-       "k": "Tenure",
-       "v": "1 year, extendable"
-      },
-      {
-       "k": "Advertised",
-       "v": "25 Sep 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "9 Oct 2026",
-       "iso": "2026-10-09"
-      }
-     ],
-     "note": "Work covers international trade and investment law (goods, services, IPR, trade agreements). Shortlisted candidates take a written test and an interview. Apply online only through the link in the advertisement.",
-     "links": [
-      {
-       "label": "Official advertisement",
-       "url": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf",
-       "primary": true
-      },
-      {
-       "label": "Apply online",
-       "url": "https://docs.iift.ac.in/recruit/solo.asp?jcode=YP(w)_Sep2026"
-      }
-     ]
-    },
-    {
-     "name": "NITI Aayog Internship",
+     "name": "NITI Aayog Internship Scheme",
      "org": "NITI Aayog, Government of India, New Delhi",
      "sector": "Government",
-     "status": "Closing soon",
-     "eligibility": "<b>Enrolled UG or PG students</b>, including LLB students.",
+     "status": "Open",
+     "eligibility": "Students who have finished the <b>2nd year of a bachelor's course</b> (85% in Class XII), or <b>recent graduates with 70% cumulative marks</b> whose results came out no more than six months before the internship month.",
      "facts": [
       {
-       "k": "Window",
-       "v": "1–10 Oct 2026"
+       "k": "Application window",
+       "v": "1st to 10th of every month"
       },
       {
-       "k": "Last date",
-       "v": "10 Oct 2026",
-       "iso": "2026-10-10"
+       "k": "Next window closes",
+       "v": "10 Dec 2026",
+       "iso": "2026-12-10"
       },
       {
-       "k": "Status",
-       "v": "Opens every month, 1st to 10th"
+       "k": "Lead time",
+       "v": "Apply 2–6 months before the month you want to start"
+      },
+      {
+       "k": "Duration",
+       "v": "6 weeks to 6 months"
+      },
+      {
+       "k": "Stipend",
+       "v": "None (unpaid)"
       }
      ],
-     "note": "The online form is open only from the 1st to the 10th of each month; read the guidelines on the official page before applying.",
+     "note": "The December window covers internships starting from February 2027. Apply only through the online link on NITI Aayog's internship page.",
      "links": [
       {
        "label": "Official internship page",
        "url": "https://www.niti.gov.in/internship",
        "primary": true
-      }
-     ]
-    },
-    {
-     "name": "Legal Assistant, High Court Legal Services Committee",
-     "org": "High Court of Meghalaya, Shillong · Advt. No. HCM.II/I09/2020-Rect/54",
-     "sector": "Government",
-     "status": "Open",
-     "eligibility": "<b>LLB</b>; legal-aid experience is preferred, not required. Age up to 32 (SC/ST 37).",
-     "facts": [
-      {
-       "k": "Posts",
-       "v": "1"
       },
       {
-       "k": "Pay",
-       "v": "₹43,700 / month"
-      },
-      {
-       "k": "Advertised",
-       "v": "24 Sep 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "24 Oct 2026, 5 PM",
-       "iso": "2026-10-24"
-      },
-      {
-       "k": "Fee",
-       "v": "₹400 · SC/ST ₹200"
+       "label": "Internship guidelines (PDF)",
+       "url": "https://www.niti.gov.in/sites/default/files/2023-01/NITI_Internship_Guidelines_17012023_1.pdf"
       }
      ],
-     "note": "Apply online only through the High Court's website; the work covers legal aid applications and coordination with DLSAs and panel lawyers.",
-     "links": [
-      {
-       "label": "Official advertisement",
-       "url": "https://meghalayahighcourt.nic.in/sites/default/files/recruitment/R223.pdf",
-       "primary": true
-      },
-      {
-       "label": "Recruitment page",
-       "url": "https://meghalayahighcourt.nic.in/recruitment"
-      }
-     ]
-    },
-    {
-     "name": "Winter Internship Programme 2026 (14 Dec 2026 – 8 Jan 2027)",
-     "org": "National Human Rights Commission (NHRC), New Delhi",
-     "sector": "Government",
-     "status": "Awaited",
-     "eligibility": "University students including <b>law students in the senior years of LLB and LLM students</b>; at least 65% in Class XII and every semester since; age up to 28. Earlier NHRC summer/winter interns cannot apply.",
-     "facts": [
-      {
-       "k": "Interns",
-       "v": "About 80"
-      },
-      {
-       "k": "Duration",
-       "v": "4 weeks, in person, New Delhi"
-      },
-      {
-       "k": "Stipend",
-       "v": "₹12,000 plus 3rd AC train fare"
-      },
-      {
-       "k": "Announced",
-       "v": "1 Oct 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "See the official announcement"
-      }
-     ],
-     "note": "NHRC has announced the winter programme; check the official announcement for the application window and last date before applying. Apply online with a 300–500 word write-up on why you want to intern at NHRC.",
-     "links": [
-      {
-       "label": "Official internship page",
-       "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes",
-       "primary": true
-      },
-      {
-       "label": "Announcement (PDF)",
-       "url": "https://nhrc.nic.in/assets/uploads/summer_winter/1790831008_0ade143f0c1d2ae01354.pdf"
-      }
-     ]
+     "added": "2026-11-21"
     }
-   ],
-   "also": {
-    "title": "Also open, but they need practice experience",
-    "list": [
-     {
-      "text": "UPSC Advt. 11/2026: Assistant Public Prosecutor, Delhi, 140 posts (3 years at the Bar), closes 2 Oct 2026; Law Officer, UT of Ladakh, 4 posts (2 years' practice), closes 9 Oct 2026",
-      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-11-2026-Engl-100926.pdf"
-     },
-     {
-      "text": "OPSC Assistant Public Prosecutor (Advt. 09 of 2026-27), 172 posts: 2 years' practice; a 2nd corrigendum was issued on 22 Sep, check it for current dates",
-      "url": "https://www.opsc.gov.in/"
-     },
-     {
-      "text": "Central Railway, Railway Advocates, 33 posts: 3 years' practice, closes 23 Oct 2026",
-      "url": "https://cr.indianrailways.gov.in/"
-     },
-     {
-      "text": "NALSA Assistant (Legal) and Assistant Legal Aid Advisor: 1–3 years' experience, closes 10 Oct 2026",
-      "url": "https://cdnbbsr.s3waas.gov.in/s3f8df2e15374e3dc37766e59ac494f0fd/uploads/2026/09/20260916127904788.pdf"
-     },
-     {
-      "text": "UPSC Advt. 12/2026: Law Officer, Land & Building Dept, GNCT Delhi, 3 posts (2 years' legal experience); Assistant Legislative Counsel, Ministry of Law, 8 posts (7 years' experience); closes 16 Oct 2026",
-      "url": "https://www.upsc.gov.in/sites/default/files/AdvtNo-12-2026-Engl-250926_0.pdf"
-     }
-    ]
-   }
+   ]
   },
   {
    "id": "exams",
@@ -343,63 +270,43 @@
    "intro": "Qualifying and eligibility exams. LLM entrance tests (CLAT PG, AILET) are on the LLM Admissions page.",
    "items": [
     {
-     "name": "All India Bar Examination XXII",
-     "org": "Bar Council of India",
+     "name": "NLSAT-MPP 2027: Master's in Public Policy entrance",
+     "org": "National Law School of India University, Bengaluru",
      "sector": "Government",
      "status": "Open",
-     "eligibility": "LLB graduates, and <b>final-semester LLB students with no backlogs</b>. You need this to practise law.",
+     "eligibility": "<b>Any bachelor's degree</b> with 45% (SC/ST/OBC-NCL/PwD 40%); <b>final-year students may apply</b>. A policy route for law graduates.",
      "facts": [
       {
-       "k": "Registration",
-       "v": "19 Aug – 27 Oct 2026",
-       "iso": "2026-10-27"
+       "k": "Notified",
+       "v": "9 Oct 2026"
       },
       {
-       "k": "Fee payment by",
-       "v": "28 Oct 2026"
-      },
-      {
-       "k": "Admit card",
-       "v": "14 Nov 2026"
+       "k": "Last date",
+       "v": "23 Mar 2027, 11:59 PM",
+       "iso": "2027-03-23"
       },
       {
        "k": "Exam",
-       "v": "29 Nov 2026"
+       "v": "25 Apr 2027 (Sunday), at centres across India"
       },
       {
-       "k": "Fee",
-       "v": "₹3,500 · SC/ST/PwD ₹2,500"
+       "k": "Seats",
+       "v": "60 (2-year programme from 1 Jul 2027)"
       }
      ],
-     "note": "",
+     "note": "150-minute paper: 75 MCQs (negative marking of 0.25) plus a policy and quantitative section. The same NLSAT 2027 portal also takes PhD (Law) applications.",
      "links": [
       {
-       "label": "Register at AIBE portal",
-       "url": "https://www.allindiabarexamination.com/",
+       "label": "Official NLSAT 2027 notice",
+       "url": "https://www.nls.ac.in/news-events/nlsat-2027-admissions-notification/",
        "primary": true
-      }
-     ]
-    },
-    {
-     "name": "UGC NET, December 2026 (Law)",
-     "org": "National Testing Agency",
-     "sector": "Government",
-     "status": "Awaited",
-     "eligibility": "For <b>LLM students and graduates</b> (a master's degree is required; final-year LLM students may apply). Leads to Assistant Professor posts and the JRF.",
-     "facts": [
+      },
       {
-       "k": "Registration",
-       "v": "Not yet open"
+       "label": "MPP programme page",
+       "url": "https://www.nls.ac.in/programme/master-of-public-policy/"
       }
      ],
-     "note": "The registration notice for the December 2026 cycle is not yet on the NTA portal. Keep this on your list if you plan an LLM.",
-     "links": [
-      {
-       "label": "UGC NET portal",
-       "url": "https://ugcnet.nta.ac.in/",
-       "primary": true
-      }
-     ]
+     "added": "2026-11-21"
     }
    ]
   },
@@ -410,72 +317,78 @@
    "intro": "Where you can apply for an LLM starting in 2027. NLU seats open now through CLAT PG and AILET; Maharashtra's state and private colleges usually open later, so they are tracked here until their official notices appear.",
    "items": [
     {
-     "name": "LLM at NLUs through CLAT 2027 (PG)",
-     "org": "Consortium of National Law Universities",
-     "sector": "Government",
+     "name": "LL.M. at Symbiosis Law School, Pune",
+     "org": "Symbiosis International (Deemed University) · private",
+     "sector": "Private",
      "status": "Open",
-     "eligibility": "LLB graduates; <b>final-year students may apply</b>. One score covers LLM seats at the consortium NLUs, including MNLU Mumbai, Nagpur and Chhatrapati Sambhajinagar.",
+     "eligibility": "3-year or 5-year LLB with 50% (SC/ST 45%); <b>final-year students may apply</b>. Selection: Symbiosis AIAT (70%) plus an online personal interaction (30%).",
      "facts": [
       {
-       "k": "Apply from",
-       "v": "3 Aug 2026"
+       "k": "Apply online",
+       "v": "1 Sep – 4 Dec 2026"
       },
       {
        "k": "Last date",
-       "v": "31 Oct 2026",
-       "iso": "2026-10-31"
+       "v": "4 Dec 2026 (application and fee)",
+       "iso": "2026-12-04"
       },
       {
-       "k": "Exam",
-       "v": "6 Dec 2026, 2–4 PM"
+       "k": "AIAT (online test)",
+       "v": "19 Dec 2026, 9:00–10:45 AM"
       },
       {
-       "k": "Fee",
-       "v": "₹4,000 · SC/ST/BPL ₹3,500"
+       "k": "Personal interaction",
+       "v": "4–5 Jan 2027 (online)"
+      },
+      {
+       "k": "Fee (2026–27)",
+       "v": "₹2,70,000 a year · AIAT registration ₹2,150 + ₹1,000 per institute"
       }
      ],
-     "note": "Many PSUs also recruit law officers on CLAT PG scores, so this score does double duty.",
+     "note": "One-year LL.M. for 2027–28 with 12 specialisations; a specialisation runs only with at least 5 admissions. The official dates are marked tentative.",
      "links": [
       {
-       "label": "Apply at Consortium",
-       "url": "https://consortiumofnlus.ac.in/clat-2027/",
+       "label": "Official LLM admissions page",
+       "url": "https://www.symlaw.ac.in/llm-admissions-process.php",
        "primary": true
+      },
+      {
+       "label": "Apply online",
+       "url": "https://siu27.ishinfo.com/SLSLLMY27/Register/Index.aspx"
       }
-     ]
+     ],
+     "added": "2026-09-25"
     },
     {
-     "name": "LLM at NLU Delhi through AILET 2027",
-     "org": "National Law University Delhi",
-     "sector": "Government",
+     "name": "LL.M. at MIT-WPU Faculty of Law, Pune",
+     "org": "MIT World Peace University, Pune · private",
+     "sector": "Private",
      "status": "Open",
-     "eligibility": "Passed or <b>in the final year</b> of a 3-year or 5-year LLB.",
+     "eligibility": "<b>LLB</b> from a UGC-approved institution with 50% (45% for Maharashtra reserved categories). Selection is by personal interaction.",
      "facts": [
       {
-       "k": "Apply from",
-       "v": "7 Aug 2026"
+       "k": "Programme",
+       "v": "1-year LL.M."
       },
       {
        "k": "Last date",
-       "v": "10 Nov 2026",
-       "iso": "2026-11-10"
-      },
-      {
-       "k": "Exam",
-       "v": "13 Dec 2026, 2–4 PM"
+       "v": "14 Dec 2026",
+       "iso": "2026-12-14"
       },
       {
        "k": "Fee",
-       "v": "₹3,000 · SC/ST/PwD ₹1,000"
+       "v": "₹2,00,000 a year + ₹25,000 refundable deposit"
       }
      ],
-     "note": "100 MCQs in two hours, offline.",
+     "note": "The official programme page lists 14 December 2026 as the last date to apply; apply through the page's Apply Now button.",
      "links": [
       {
-       "label": "Apply at NLU Delhi",
-       "url": "https://nationallawuniversitydelhi.in/",
+       "label": "Official LLM page",
+       "url": "https://mitwpu.edu.in/programme/llm",
        "primary": true
       }
-     ]
+     ],
+     "added": "2026-11-21"
     },
     {
      "name": "LL.M. at University of Mumbai (LL.M. CET)",
@@ -496,36 +409,32 @@
        "url": "https://mu.ac.in/",
        "primary": true
       }
-     ]
-    },
-    {
-     "name": "LL.M. at Symbiosis Law School, Pune",
-     "org": "Symbiosis International (Deemed University) · private",
-     "sector": "Private",
-     "status": "Awaited",
-     "eligibility": "3-year or 5-year LLB with 50%. Selection through Symbiosis AIAT (written test plus personal interview).",
-     "facts": [
-      {
-       "k": "2027–28 notice",
-       "v": "Not yet published"
-      },
-      {
-       "k": "Last cycle",
-       "v": "Applied 1 Sep – 30 Nov 2025, test 20 Dec 2025"
-      },
-      {
-       "k": "Fee (2026–27)",
-       "v": "₹2,70,000 a year"
-      }
      ],
-     "note": "The official page still shows last cycle's dates; last year's window opened in September, so check it often.",
-     "links": [
-      {
-       "label": "Official LLM admissions page",
-       "url": "https://www.symlaw.ac.in/llm-admissions-process.php",
-       "primary": true
+     "added": "2026-09-25",
+     "i18n": {
+      "hi": {
+       "name": "मुंबई विश्वविद्यालय में LL.M. (LL.M. CET)",
+       "eligibility": "LLB स्नातक; प्रवेश विश्वविद्यालय की अपनी LL.M. CET से।",
+       "note": "विश्वविद्यालय आमतौर पर वर्ष की पहली छमाही में LL.M. CET कराता है। विश्वविद्यालय की प्रवेश सूचनाएँ देखते रहें।",
+       "facts": [
+        {
+         "k": "2027–28 notice",
+         "v": "अभी प्रकाशित नहीं"
+        }
+       ]
+      },
+      "mr": {
+       "name": "मुंबई विद्यापीठात LL.M. (LL.M. CET)",
+       "eligibility": "LLB पदवीधर; प्रवेश विद्यापीठाच्या स्वतःच्या LL.M. CET द्वारे.",
+       "note": "विद्यापीठ सहसा वर्षाच्या पहिल्या सहामाहीत LL.M. CET घेते. विद्यापीठाच्या प्रवेश सूचना पाहत राहा.",
+       "facts": [
+        {
+         "k": "2027–28 notice",
+         "v": "अद्याप प्रसिद्ध नाही"
+        }
+       ]
       }
-     ]
+     }
     },
     {
      "name": "LL.M. at NMIMS Kirit P. Mehta School of Law, Mumbai",
@@ -549,8 +458,45 @@
        "label": "Official LLM portal",
        "url": "https://llm.nmims.edu/",
        "primary": true
+      },
+      {
+       "label": "LL.M. programme page",
+       "url": "https://law.nmims.edu/academics/programs/llm/"
       }
-     ]
+     ],
+     "added": "2026-09-25",
+     "i18n": {
+      "hi": {
+       "name": "NMIMS किरीट पी. मेहता स्कूल ऑफ़ लॉ, मुंबई में LL.M.",
+       "eligibility": "50% के साथ LLB; <b>अंतिम वर्ष के छात्र आवेदन कर सकते हैं</b>। प्रवेश NMIMS परीक्षा या CLAT PG अंक, और साक्षात्कार से।",
+       "note": "आधिकारिक पोर्टल पर अभी 2026 सत्र दिख रहा है।",
+       "facts": [
+        {
+         "k": "Programme",
+         "v": "1-वर्षीय LL.M."
+        },
+        {
+         "k": "2027 dates",
+         "v": "अभी प्रकाशित नहीं"
+        }
+       ]
+      },
+      "mr": {
+       "name": "NMIMS किरीट पी. मेहता स्कूल ऑफ लॉ, मुंबई येथे LL.M.",
+       "eligibility": "50% सह LLB; <b>अंतिम वर्षातील विद्यार्थी अर्ज करू शकतात</b>. प्रवेश NMIMS परीक्षा किंवा CLAT PG गुण, आणि मुलाखतीद्वारे.",
+       "note": "अधिकृत पोर्टलवर अजून 2026 चे सत्र दिसत आहे.",
+       "facts": [
+        {
+         "k": "Programme",
+         "v": "1 वर्षाचा LL.M."
+        },
+        {
+         "k": "2027 dates",
+         "v": "अद्याप प्रसिद्ध नाही"
+        }
+       ]
+      }
+     }
     }
    ]
   },
@@ -561,98 +507,87 @@
    "intro": "Private jobs, fellowships and internships, taken only from the employer's own website. Big firms do not always post fresher roles publicly, so their official application portals are listed below.",
    "items": [
     {
-     "name": "P. A. Sangma Fellowship for Legal and Policy Research (Sixth Cohort)",
-     "org": "National Law School of India University with the Government of Meghalaya",
+     "name": "Research Associate, Broiler Chicken Welfare Scoping Study",
+     "org": "NALSAR University of Law, Hyderabad (Animal Law Centre) · Advt. dated 13 Nov 2026",
      "sector": "Fellowship",
      "status": "Closing soon",
-     "eligibility": "NLSIU graduates, or Meghalaya domiciles with a law degree.",
+     "eligibility": "<b>Bachelor's degree in any field</b>; life sciences, social sciences, agriculture or veterinary backgrounds and Hindi or other regional languages are preferred. <b>No animal-welfare expertise needed</b>; training is given.",
      "facts": [
       {
-       "k": "Fellowships",
-       "v": "4"
+       "k": "Pay",
+       "v": "₹60,000–70,000 / month"
       },
       {
-       "k": "Stipend",
-       "v": "₹60,000 / month + ₹10,000 HRA"
-      },
-      {
-       "k": "Term",
-       "v": "12 months, extendable"
+       "k": "Tenure",
+       "v": "4 months, joining 7 Dec 2026"
       },
       {
        "k": "Based in",
-       "v": "Meghalaya"
+       "v": "Remote, with travel across six states (about 60 farm visits)"
+      },
+      {
+       "k": "Last date",
+       "v": "22 Nov 2026, 11:59 PM",
+       "iso": "2026-11-22"
+      }
+     ],
+     "note": "Apply through the Google form named in the advertisement; only shortlisted candidates are interviewed. Queries to the Animal Law Centre at NALSAR.",
+     "links": [
+      {
+       "label": "Official advertisement (PDF)",
+       "url": "https://nalsar.ac.in/wp-content/uploads/2026/11/Advertisement-for-the-post-of-Research-Associate-for-the-project-on-Broiler-Scoping-Study-13-11-2026.pdf",
+       "primary": true
+      }
+     ],
+     "added": "2026-11-21"
+    },
+    {
+     "name": "Internships, Vidhi Bengal (Kolkata)",
+     "org": "Vidhi Centre for Legal Policy · private",
+     "sector": "Private",
+     "status": "Open",
+     "eligibility": "Students of <b>graduate or postgraduate law</b> or allied public policy courses. You must be in Kolkata in person; no remote internships.",
+     "facts": [
+      {
+       "k": "Intake",
+       "v": "Rolling, throughout the year"
+      },
+      {
+       "k": "Apply by",
+       "v": "At least 2 months before your start date (e.g. by 1 Oct for 1 Dec)"
       },
       {
        "k": "Posted",
-       "v": "18 Sep 2026"
-      },
-      {
-       "k": "Last date",
-       "v": "9 Oct 2026, 5 PM",
-       "iso": "2026-10-09"
+       "v": "22 Sep 2026"
       }
      ],
-     "note": "Apply through the form linked in the official call with a CV (2 pages max), a statement of purpose (up to 1,000 words) and two references.",
+     "note": "Apply through the form on the official page with your CV and a writing sample of up to 2,000 words on a legal or policy issue. Usually only successful applicants are contacted.",
      "links": [
       {
-       "label": "Official call",
-       "url": "https://www.nls.ac.in/news-events/call-for-applications-sixth-cohort-of-the-p-a-sangma-fellowship-for-legal-and-policy-research/",
+       "label": "Official internship page",
+       "url": "https://vidhilegalpolicy.in/careers/internships-6/",
        "primary": true
-      }
-     ]
-    },
-    {
-     "name": "Graduate Research Fellowship 2027",
-     "org": "National Law School of India University, Bengaluru",
-     "sector": "Fellowship",
-     "status": "Open",
-     "eligibility": "Scholars in law, policy and social sciences; see the call.",
-     "facts": [
-      {
-       "k": "Positions",
-       "v": "10"
-      },
-      {
-       "k": "Pay",
-       "v": "₹50,000 / month"
-      },
-      {
-       "k": "Last date",
-       "v": "30 Oct 2026, 5 PM",
-       "iso": "2026-10-30"
-      },
-      {
-       "k": "Starts",
-       "v": "January 2027"
       }
      ],
-     "note": "On campus in Bengaluru. Apply through the form linked in the official call.",
-     "links": [
-      {
-       "label": "Official call",
-       "url": "https://www.nls.ac.in/news-events/call-for-applications-nlsiu-research-fellowships-multiple-positions-2/",
-       "primary": true
-      }
-     ]
+     "added": "2026-11-21"
     },
     {
      "name": "LAMP Fellowship 2027–28",
      "org": "PRS Legislative Research, New Delhi · private",
      "sector": "Fellowship",
      "status": "Awaited",
-     "eligibility": "Indian citizens aged 25 or below with a bachelor's degree in any field.",
+     "eligibility": "Indian citizens <b>aged 25 or below with a bachelor's degree</b> in any field; you work with a Member of Parliament for a year.",
      "facts": [
       {
-       "k": "2027–28 call",
-       "v": "Not yet published"
+       "k": "2027–28 applications open",
+       "v": "29 Nov 2026"
       },
       {
-       "k": "2026–27 call",
-       "v": "Closed"
+       "k": "Deadline",
+       "v": "Not yet announced"
       }
      ],
-     "note": "Applications for 2026–27 are closed. Check the official page for the 2027–28 call.",
+     "note": "PRS says applications for the 2027–28 LAMP Fellowship open on 29 November. The official page has a form to get an alert when they open.",
      "links": [
       {
        "label": "Official how-to-apply page",
@@ -663,7 +598,8 @@
        "label": "Eligibility",
        "url": "https://prsindia.org/lamp/eligibility-and-selection-process"
       }
-     ]
+     ],
+     "added": "2026-09-26"
     }
    ],
    "also": {
@@ -681,62 +617,104 @@
       "text": "AZB & Partners: careers",
       "url": "https://www.azbpartners.com/careers/"
      }
-    ]
+    ],
+    "i18n": {
+     "hi": {
+      "list": [
+       {
+        "text": "Khaitan & Co: वकील पद और वर्ष भर इंटर्नशिप",
+        "url": "https://peoplepower.khaitanco.com/candidate"
+       },
+       {
+        "text": "Cyril Amarchand Mangaldas: कानूनी पेशेवर और इंटर्नशिप",
+        "url": "https://www.cyrilshroff.com/careers/"
+       },
+       {
+        "text": "AZB & Partners: करियर",
+        "url": "https://www.azbpartners.com/careers/"
+       }
+      ]
+     },
+     "mr": {
+      "list": [
+       {
+        "text": "Khaitan & Co: वकील पदे व वर्षभर इंटर्नशिप",
+        "url": "https://peoplepower.khaitanco.com/candidate"
+       },
+       {
+        "text": "Cyril Amarchand Mangaldas: कायदेविषयक व्यावसायिक व इंटर्नशिप",
+        "url": "https://www.cyrilshroff.com/careers/"
+       },
+       {
+        "text": "AZB & Partners: करिअर",
+        "url": "https://www.azbpartners.com/careers/"
+       }
+      ]
+     }
+    }
    }
   }
  ],
  "sources": [
   {
-   "title": "Nirnay Daily Careers Portal",
-   "url": "https://nirnaydaily.in/#careers"
+   "title": "High Court of Andhra Pradesh: Recruitments 2026",
+   "url": "https://aphc.gov.in/recruitments.php?year=2026"
   },
   {
-   "title": "High Court of Andhra Pradesh, Amaravati",
-   "url": "https://aphc.gov.in/recruitments.php"
+   "title": "Supreme Court of India: Bhumika Trust v. Union of India (21 Aug 2026)",
+   "url": "https://api.sci.gov.in/supremecourt/2025/62949/62949_2025_1_1501_73791_Judgement_21-Aug-2026.pdf"
+  },
+  {
+   "title": "High Court for the State of Telangana: Research Assistant (Law) notification",
+   "url": "https://tg.tshc.gov.in/documents/splofficer_2026_10_28T17_09_48.pdf"
   },
   {
    "title": "Odisha Public Service Commission",
-   "url": "https://www.opsc.gov.in/"
+   "url": "https://opsc.gov.in"
   },
   {
-   "title": "Centre for Trade and Investment Law (CTIL), Indian Institute of Foreign Trade, N",
-   "url": "https://www.iift.ac.in/uploads/manage-files/2026/09/advertisement-for-the-post-of-young-professional-associate-consultant-dated-25092026.pdf"
+   "title": "High Court of J&K and Ladakh: Notices",
+   "url": "https://jkhighcourt.nic.in/notice.php"
   },
   {
-   "title": "NITI Aayog, Government of India, New Delhi",
+   "title": "NITI Aayog: Internship",
    "url": "https://www.niti.gov.in/internship"
   },
   {
-   "title": "High Court of Meghalaya, Shillong · Advt. No. HCM.II/I09/2020-Rect/54",
-   "url": "https://meghalayahighcourt.nic.in/sites/default/files/recruitment/R223.pdf"
+   "title": "NLSIU: NLSAT 2027 notice",
+   "url": "https://www.nls.ac.in/news-events/nlsat-2027-admissions-notification/"
   },
   {
-   "title": "National Human Rights Commission (NHRC), New Delhi",
-   "url": "https://nhrc.nic.in/training-programmes/summer_intership_programmes"
+   "title": "NLSIU: Master's in Public Policy",
+   "url": "https://www.nls.ac.in/programme/master-of-public-policy/"
   },
   {
-   "title": "Bar Council of India",
-   "url": "https://www.allindiabarexamination.com/"
-  },
-  {
-   "title": "National Testing Agency",
-   "url": "https://ugcnet.nta.ac.in/"
-  },
-  {
-   "title": "Consortium of National Law Universities",
-   "url": "https://consortiumofnlus.ac.in/clat-2027/"
-  },
-  {
-   "title": "National Law University Delhi",
-   "url": "https://nationallawuniversitydelhi.in/"
-  },
-  {
-   "title": "University of Mumbai, Department of Law and affiliated colleges",
-   "url": "https://mu.ac.in/"
-  },
-  {
-   "title": "Symbiosis International (Deemed University) · private",
+   "title": "Symbiosis Law School Pune: LL.M. admissions",
    "url": "https://www.symlaw.ac.in/llm-admissions-process.php"
+  },
+  {
+   "title": "MIT-WPU: LL.M.",
+   "url": "https://mitwpu.edu.in/programme/llm"
+  },
+  {
+   "title": "NMIMS Kirit P. Mehta School of Law: Admissions",
+   "url": "https://law.nmims.edu/admissions/"
+  },
+  {
+   "title": "University of Mumbai: Department announcements",
+   "url": "https://mu.ac.in/department-announcements"
+  },
+  {
+   "title": "NALSAR: Research Associate advertisement (13 Nov 2026)",
+   "url": "https://nalsar.ac.in/wp-content/uploads/2026/11/Advertisement-for-the-post-of-Research-Associate-for-the-project-on-Broiler-Scoping-Study-13-11-2026.pdf"
+  },
+  {
+   "title": "PRS Legislative Research: LAMP how to apply",
+   "url": "https://prsindia.org/lamp/how-to-apply"
+  },
+  {
+   "title": "Vidhi Centre for Legal Policy: Internships",
+   "url": "https://vidhilegalpolicy.in/careers/internships-6/"
   }
  ]
 }
