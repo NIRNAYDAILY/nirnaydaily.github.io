@@ -1,10 +1,8 @@
 /* Nirnay Daily — entrance cover page.
    Appears when someone opens the home page. Any click (left or right), tap, or Enter / Space / Esc opens the site.
-   Skipped for links straight to a section (e.g. nirnaydaily.in/#bare-acts) and with ?nocover. Force it with ?cover. */
+   Shown on every visit, including links straight to a section (e.g. nirnaydaily.in/#bare-acts). Skip it with ?nocover. */
 (function () {
-  var q = location.search, h = location.hash;
-  var force = /[?&]cover\b/.test(q);
-  if (!force && (/[?&]nocover\b/.test(q) || (h && h !== "#" && h !== "#home"))) return;
+  if (/[?&](nocover\b|r=\d)/.test(location.search)) return; /* r= is the site's own Refresh button */
 
   var reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
   var touch = window.matchMedia && matchMedia("(hover: none)").matches;
