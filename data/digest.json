@@ -10,7 +10,7 @@
  "highlights": [
   {
    "court": "Supreme Court of India",
-   "caseName": "Commissioner HR & CE v. Rama Ravikumar",
+   "caseName": "The Commissioner v. Rama Ravikumar & Ors.",
    "text": "Thiruparankundram: HC findings stayed, one-time lamp lighting on Nov 24",
    "ref": "sc:1"
   },
@@ -22,7 +22,7 @@
   },
   {
    "court": "High Court of Madras",
-   "caseName": "Case title not yet reported",
+   "caseName": "Ramasubbu v. K. Gopal and Others",
    "text": "Library book procurement scam: contempt notice to two IAS officers",
    "ref": "hc:Madras"
   },
@@ -56,7 +56,7 @@
      "title": "Orders",
      "items": [
       {
-       "caseName": "Commissioner HR & CE v. Rama Ravikumar",
+       "caseName": "The Commissioner v. Rama Ravikumar & Ors.",
        "coram": "Justices Aravind Kumar and Vipul M. Pancholi",
        "date": "Decided 20 Nov 2026",
        "headline": "Thiruparankundram: HC findings stayed, one-time lamp lighting on Nov 24",
@@ -64,7 +64,8 @@
        "text": "The Court stayed the challenged findings of the Madras High Court's 6 January 2026 judgment on lighting the Karthigai Deepam at the Deepathoon near the dargah. As a one-off, it let a restricted Devasthanam team light the lamp on 24 November, with no public access, processions or construction, under the Madurai Collector's supervision. It said the arrangement creates no custom and left Article 25-26 questions open.",
        "tag": "Religious Freedom / Constitutional Law",
        "src": "https://www.livelaw.in/top-stories/thiruparankundram-hill-supreme-court-stays-madras-hc-judgment-allows-karthigai-lamp-lighting-at-deepathoon-on-nov-24-559296",
-       "srcName": "LiveLaw"
+       "srcName": "LiveLaw",
+       "caseNo": "Diary No. 36337/2026"
       },
       {
        "caseName": "Tarun Gupta v. Rajendra Kumar Agarwal",
@@ -101,7 +102,7 @@
        "srcName": "LawBeat"
       },
       {
-       "caseName": "Shonee Kapoor v. Union of India",
+       "caseName": "Case title not yet reported",
        "coram": "CJI Surya Kant, Justices Joymalya Bagchi and V. Mohana",
        "date": "Decided 20 Nov 2026",
        "headline": "PIL for database of repeat sexual-offence complainants dismissed",
@@ -250,7 +251,8 @@
        "tag": "Immigration",
        "src": "https://www.verdictum.in/delhi-high-court/court-on-its-own-motion-v-state-2026dhc10120-db-foreign-national-visa-bail-detention-center-1626055",
        "srcName": "Verdictum",
-       "citation": "2026:DHC:10120-DB"
+       "citation": "2026:DHC:10120-DB",
+       "coram": "Justice Navin Chawla and Justice Arun Bhardwaj"
       }
      ]
     },
@@ -258,14 +260,16 @@
      "court": "Gauhati",
      "items": [
       {
-       "caseName": "Case title not yet reported",
+       "caseName": "Musstt. Jaygun Nessa @ Joygun Nessa v. Union of India & Ors.",
        "date": "Reported 20 Nov 2026",
        "headline": "Voter ID / EPIC does not prove citizenship",
        "kind": "Held",
        "text": "The High Court held that a voter ID (Elector's Photo Identity Card) is not proof of citizenship. The case involved a woman declared a foreigner whose name appeared differently in electoral rolls.",
        "tag": "Citizenship",
        "src": "https://www.livelaw.in/high-court/gauhati-high-court/voter-id-dont-prove-citizenship-woman-foreigner-status-different-names-electoral-rolls-559318",
-       "srcName": "LiveLaw"
+       "srcName": "LiveLaw",
+       "caseNo": "WP(C)/5985/2023",
+       "coram": "Justice Kalyan Rai Surana and Justice Susmita Phukan Khaund"
       }
      ]
     },
@@ -274,13 +278,14 @@
      "items": [
       {
        "caseName": "Case title not yet reported",
-       "date": "Reported 20 Nov 2026",
+       "date": "Reported 21 Nov 2026",
        "headline": "Marriage officer can't reject Special Marriage Act notice over party's customary divorce",
        "kind": "Held",
-       "text": "The High Court held that a marriage officer cannot reject an inter-faith couple's notice of intended marriage under the Special Marriage Act just because one party earlier obtained a divorce through a customary deed.",
+       "text": "Justice Devan M. Desai held that a marriage officer cannot reject an inter-faith couple's notice of intended marriage under the Special Marriage Act merely because one party earlier obtained a customary divorce. The court quashed the officer's 28 September 2026 rejection, noting the notice had not even been published or opened to objections under Sections 6 and 7.",
        "tag": "Family Law",
        "src": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-interfaith-couple-customary-divorce-notice-of-marriage-559380",
-       "srcName": "LiveLaw"
+       "srcName": "LiveLaw",
+       "coram": "Justice Devan M. Desai"
       }
      ]
     },
@@ -288,15 +293,16 @@
      "court": "Karnataka",
      "items": [
       {
-       "caseName": "Anushka Basavaraj Maidur v. National Testing Agency",
+       "caseName": "Anushka Basavaraj Maidur v. National Testing Agency & Ors.",
        "date": "Reported 20 Nov 2026",
        "headline": "Scrapped exam cannot be revived to override merit in the exam that stood",
        "kind": "Held",
-       "text": "The High Court held that a cancelled examination cannot be brought back to eclipse merit earned in the examination that survived.",
+       "text": "The High Court (Dharwad Bench) quashed a show cause notice and 'Result Withheld' remark against a NEET-UG candidate accused of carrying a phone into the cancelled 3 May exam, holding that a scrapped examination cannot be used to negate merit earned in the re-examination. Her medical seat was sustained.",
        "tag": "Education",
        "src": "https://www.verdictum.in/karnataka-high-court/anushka-basavaraj-maidur-v-national-testing-agency-writ-petition-no-107041-of-2026-edn-ex-1626119",
        "srcName": "Verdictum",
-       "caseNo": "Writ Petition No. 107041 of 2026"
+       "caseNo": "Writ Petition No. 107041 of 2026 (EDN-EX)",
+       "coram": "Justice M. Nagaprasanna and Justice Hema Kulkarni"
       }
      ]
     },
@@ -304,7 +310,7 @@
      "court": "Kerala",
      "items": [
       {
-       "caseName": "Bar Council of Kerala v. Simy S.",
+       "caseName": "Bar Council of Kerala and Ors. v. Simy S. and Ors.",
        "date": "Reported 20 Nov 2026",
        "headline": "Reinstatement of former Bar Council secretary upheld; fraud finding changed to negligence",
        "kind": "Held",
@@ -312,17 +318,21 @@
        "tag": "Service Law",
        "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-upholds-reinstatement-of-former-bar-council-secretary-559333",
        "srcName": "LiveLaw",
-       "citation": "2026 LiveLaw (Ker) 642"
+       "citation": "2026 LiveLaw (Ker) 642",
+       "caseNo": "W.A. 1882/2026 and W.A. 2234/2026",
+       "coram": "Dr. Justice A.K. Jayasankaran Nambiar and Justice Preeta A.K."
       },
       {
-       "caseName": "Case title not yet reported",
-       "date": "Reported 20 Nov 2026",
+       "caseName": "Anoop Kumar T v. State of Kerala & Anr.",
+       "date": "Decided 20 Nov 2026",
        "headline": "Mayilpeely scholar exam allowed in schools, but results barred",
        "kind": "Held",
-       "text": "The High Court allowed the Mayilpeely Young Scholar Examination 2026-27 to go ahead despite the State withdrawing permission. It barred the declaration of results.",
+       "text": "Justice P. Gopinath, by an interim order, allowed the Mayilpeely Young Scholar Examination 2026-27 (scheduled for 22 November) to go ahead despite the State withdrawing permission. Results cannot be published, and further levels cannot be held, without the court's leave.",
        "tag": "Education",
        "src": "https://www.verdictum.in/kerala-high-court/national-teachers-union-ntu-mayilpeely-magazine-school-exam-1626125",
-       "srcName": "Verdictum"
+       "srcName": "Verdictum",
+       "caseNo": "WP(C) 40140/2026",
+       "coram": "Justice P. Gopinath"
       }
      ]
     },
@@ -330,30 +340,32 @@
      "court": "Madras",
      "items": [
       {
-       "caseName": "Case title not yet reported",
+       "caseName": "Ramasubbu v. K. Gopal and Others",
        "date": "Decided 20 Nov 2026",
        "headline": "Library book procurement scam: contempt notice to two IAS officers",
        "kind": "Notice",
-       "text": "A Division Bench of Justices GR Swaminathan and MD Sumathi issued contempt notice to IAS officers Chandramohan and Jayanthi over alleged disobedience of a 2024 judgment on public library book purchases. It advised state law officers not to defend the former Director and ordered the procurement files to be produced.",
+       "text": "A Division Bench of Justices GR Swaminathan and MD Sumathi issued contempt notices to IAS officers Chandra Mohan (Principal Secretary, School Education) and Jayanthi (former Director of Public Libraries) for breach of the court's earlier order, saying those at the top must take responsibility. It orally suggested no law officer appear for Jayanthi, let the single judge monitor the DVAC probe (Crime No. 4/2026), recorded that a procurement policy would be finalised in 8 weeks, and adjourned by 4 weeks.",
        "tag": "Contempt / Anti-corruption",
        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-book-procurement-scam-contempt-notice-ias-officers-559281",
        "srcName": "LiveLaw",
-       "coram": "Justice GR Swaminathan and Justice MD Sumathi"
+       "coram": "Justice GR Swaminathan and Justice MD Sumathi",
+       "caseNo": "Cont. P. (MD) No. 3763 of 2026"
       },
       {
-       "caseName": "Case title not yet reported",
+       "caseName": "N v. V",
        "date": "Reported 20 Nov 2026",
        "headline": "Hindu–Christian marriage cannot be validated by registration under Hindu Marriage Act",
        "kind": "Held",
-       "text": "A Division Bench held that a marriage between a Hindu and a non-Hindu cannot be solemnised under the Hindu Marriage Act or validated by registration, and declared such a marriage void. In the same matter, the bench said a person's religion cannot be inferred from their name or from Aadhaar, ration card or voter ID.",
+       "text": "A Division Bench held that a marriage between a Hindu and a non-Hindu cannot be solemnised under the Hindu Marriage Act and is not validated by registration, and declared the marriage void after finding the appellant was a Christian when it took place. The bench added that a name commonly associated with a religion cannot by itself establish a person's religious identity.",
        "tag": "Family Law",
        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-hindu-and-christian-not-solemnise-hindu-marriage-act-registration-not-validate-559365",
        "srcName": "LiveLaw",
        "citation": "2026 LiveLaw (Mad) 556",
-       "coram": "Justice CV Karthikeyan and Justice S Raveekumar"
+       "coram": "Justice CV Karthikeyan and Justice S Raveekumar",
+       "caseNo": "A.S. No. 79 of 2020"
       },
       {
-       "caseName": "Case title not yet reported",
+       "caseName": "West Bengal State Handloom Weavers Co-operative Society Limited v. Deputy Commissioner, Tangail",
        "date": "Decided 20 Nov 2026",
        "headline": "Bangladesh's challenge to GI tag for Bengal's Tangail saree to be heard",
        "kind": "Held",
@@ -361,17 +373,19 @@
        "tag": "Intellectual Property (GI)",
        "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-bangladesh-deputy-commission-challenge-bengal-tangail-saree-559307",
        "srcName": "LiveLaw",
-       "coram": "Justice PB Balaji"
+       "coram": "Justice PB Balaji",
+       "caseNo": "(GI) A 1/2026 in OP (GI) 12025"
       },
       {
-       "caseName": "G. Kodeeswaran v. State of Tamil Nadu",
+       "caseName": "G. Kodeeswaran v. State of Tamil Nadu and Others",
        "date": "Reported 20 Nov 2026",
        "headline": "Parallel petition in Christian reservation case flagged as forum shopping",
        "kind": "Held",
        "text": "The Madurai Bench flagged an identical writ petition filed at the Principal Seat after it had already admitted the challenge on reservation for Christians as a backward class. It called this forum shopping.",
        "tag": "Reservation / Procedure",
        "src": "https://www.verdictum.in/madras-high-court/g-kodeeswaran-v-state-of-tamil-nadu-christian-backward-class-reservation-1626134",
-       "srcName": "Verdictum"
+       "srcName": "Verdictum",
+       "coram": "Justice GR Swaminathan and Justice MD Sumathi"
       }
      ]
     },
@@ -379,7 +393,7 @@
      "court": "Rajasthan",
      "items": [
       {
-       "caseName": "Case title not yet reported",
+       "caseName": "Asharam v. State of Rajasthan & Ors.",
        "date": "Reported 20 Nov 2026",
        "headline": "Asaram gets interim protection from arrest in FIR over late surrender after parole",
        "kind": "Held",
@@ -390,14 +404,15 @@
        "coram": "Justice Sunil Beniwal"
       },
       {
-       "caseName": "Case title not yet reported",
+       "caseName": "Ganga Singh v. State of Rajasthan & Ors.",
        "date": "Reported 20 Nov 2026",
        "headline": "Police have no authority to break citizens' bones in the name of official duty",
        "kind": "Held",
        "text": "The High Court restored cognizance against police officers accused of assaulting a petitioner and his mother during a visit linked to a warrant against his brother. It held that official duty is no cover for causing such injuries.",
        "tag": "Criminal Law / Police Accountability",
        "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-police-authority-break-bones-teeth-pretext-official-duty-559223",
-       "srcName": "LiveLaw"
+       "srcName": "LiveLaw",
+       "coram": "Justice Farjand Ali"
       }
      ]
     },
@@ -405,7 +420,7 @@
      "court": "Tripura",
      "items": [
       {
-       "caseName": "Case title not yet reported",
+       "caseName": "State of Tripura & Ors. v. Ratan Kumar Biswas",
        "date": "Reported 20 Nov 2026",
        "headline": "Gratuity can't be denied to long-serving 'ad hoc' employee",
        "kind": "Held",
@@ -413,17 +428,19 @@
        "tag": "Labour / Service Law",
        "src": "https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-employer-cannot-deny-gratuity-long-serving-ad-hoc-employee-559339",
        "srcName": "LiveLaw",
-       "coram": "Chief Justice M.S. Ramachandra Rao and Justice S. Datta Purkayastha"
+       "coram": "Chief Justice M.S. Ramachandra Rao and Justice S. Datta Purkayastha",
+       "caseNo": "W.A. No. 20 of 2026"
       },
       {
-       "caseName": "Case title not yet reported",
-       "date": "Reported 20 Nov 2026",
+       "caseName": "Miithun v. State of Tripura",
+       "date": "Reported 21 Nov 2026",
        "headline": "2019 POCSO amendment raising minimum sentence is not retrospective",
        "kind": "Held",
-       "text": "The High Court cut a POCSO convict's sentence from 20 years to 10. The trial court had wrongly applied the higher minimum from the 2019 amendment to an offence committed before the amendment.",
+       "text": "A Division Bench cut a POCSO convict's sentence under Section 6 from 20 years to 10 years' rigorous imprisonment. The trial court had wrongly applied the higher minimum introduced by the 2019 amendment (in force from August 2019) to an offence committed in January 2019.",
        "tag": "POCSO / Sentencing",
        "src": "https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-corrects-trial-court-retrospective-application-2019pocso-amendment-559386",
-       "srcName": "LiveLaw"
+       "srcName": "LiveLaw",
+       "coram": "Justice T. Amarnath Goud and Justice Biswajit Palit"
       }
      ]
     }
