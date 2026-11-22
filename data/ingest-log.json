@@ -1,11 +1,14 @@
 {
- "ran": "2026-11-22T05:03+05:30",
+ "ran": "2026-11-22T10:31+05:30",
  "processed": [
+  "digest_2026-11-22.json: judgments & orders 22 Nov 2026: 17 items",
+  "news_2026-11-22-am.json: legal news 2026-11-22-am: 10 items",
   "sc_2026-11-16-auto.json: supreme court full texts: 0 added, 2 could not be verified",
   "sc_2026-11-17-auto.json: supreme court full texts: 0 added, 5 could not be verified",
   "sc_2026-11-18-auto.json: supreme court full texts: 0 added, 10 could not be verified",
   "sc_2026-11-19-auto.json: supreme court full texts: 0 added, 4 could not be verified",
-  "sc_2026-11-20-auto.json: supreme court full texts: 0 added, 3 could not be verified"
+  "sc_2026-11-20-auto.json: supreme court full texts: 0 added, 3 could not be verified",
+  "tribunals_2026-11-22.json: tribunals 22 Nov 2026: 20 items"
  ],
  "errors": [],
  "notes": [

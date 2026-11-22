@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-22T05:03+05:30",
+ "updated": "2026-11-22T10:31+05:30",
  "news": [
+  {
+   "edition": "2026-11-22-am",
+   "headline": "Justice Joymalya Bagchi suggests round-the-clock AI courts for mutual consent divorces",
+   "src": "https://www.barandbench.com/news/supreme-court-justice-joymalya-bagchi-bats-for-dedicated-ai-courts-to-decide-mutual-consent-divorce-cases"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "MP High Court Chief Justice Alpesh Y Kogje lists where AI can help courts, warns of new digital divide",
+   "src": "https://www.barandbench.com/news/where-can-ai-tools-be-put-to-use-in-legal-field-mp-high-court-chief-justice-alpesh-y-kogje-answers"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "Justice BV Nagarathna calls for one-third share for women lawyers on government panels",
+   "src": "https://www.livelaw.in/top-stories/women-lawyers-must-have-13rd-representation-in-government-panels-justice-bv-nagarathna-559410"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "Judicial independence is non-negotiable, says Justice KV Viswanathan at book launch",
+   "src": "https://www.livelaw.in/top-stories/independence-of-judiciary-is-non-negotiable-justice-kv-viswanathan-559480"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "Delhi HC's Justice Manmeet Arora urges law firms not to stop hiring fresh graduates because of AI",
+   "src": "https://www.barandbench.com/news/train-young-lawyers-justice-manmeet-arora-urges-law-firms-cutting-costs-with-ai"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "CJI Surya Kant suggests compulsory legal aid work for law students to graduate",
+   "src": "https://www.livelaw.in/top-stories/legal-aid-work-be-made-compulsory-for-every-student-to-graduate-cji-surya-kant-559431"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "No student should be punished on an AI-detector score alone, says CJI Surya Kant",
+   "src": "https://www.livelaw.in/top-stories/no-student-should-be-penalised-based-on-ai-detection-tool-alone-cji-surya-kant-559448"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "Tripura High Court invites applications for 8 Law Clerk-cum-Legal Research Assistant posts; apply by 25 November",
+   "src": "https://www.livelaw.in/job-updates/law-clerks-cum-legal-research-assistant-vacancy-at-high-court-of-tripura-559409"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "DGFT invites applications for 3 Young Professional (Legal) posts at Indore; ₹56,000 a month",
+   "src": "https://www.verdictum.in/job-updates/directorate-general-of-foreign-trade-1626191"
+  },
+  {
+   "edition": "2026-11-22-am",
+   "headline": "Retired judges' panel on voter-roll revision asks UP Chief Minister for data behind 1.27 crore exclusion claim",
+   "src": "https://www.livelaw.in/top-stories/independent-sir-commission-writes-to-uttar-pradesh-chief-minister-seeking-details-of-claim-on-exclusion-of-127-crore-electors-559405"
+  },
   {
    "edition": "2026-11-21-am",
    "headline": "CJI moves two widened cases off Justice Amanullah's bench, asks Registry to flag more such matters",
@@ -135,24 +185,109 @@
    "edition": "2026-10-18-pm",
    "headline": "Supreme Court to hear all pending Ladakh cases together on one day, lawyers can appear online from Leh",
    "src": "https://www.barandbench.com/news/cji-surya-kant-announces-special-bench-for-hearing-ladakh-cases-pending-in-supreme-court"
-  },
-  {
-   "edition": "2026-10-16-am",
-   "headline": "Senior Advocate Gopal Sankaranarayanan withdraws from Delhi protest cases in the Supreme Court",
-   "src": "https://www.barandbench.com/news/litigation/senior-counsel-gopal-sankaranarayanan-withdraws-from-delhi-protest-cases-before-supreme-court"
-  },
-  {
-   "edition": "2026-10-16-am",
-   "headline": "Mangaluru lawyers' body calls public meeting to push for a Karnataka High Court bench in the city",
-   "src": "https://www.livelaw.in/news-updates/lawyers-body-hold-consultative-meeting-karnataka-high-court-bench-mangaluru-554865"
-  },
-  {
-   "edition": "2026-10-16-am",
-   "headline": "BCI releases AIBE-XXII syllabus with subject-wise number of questions",
-   "src": "https://www.scconline.com/blog/post/2026/10/15/bar-council-of-india-released-aibe-xxii-syllabus/"
   }
  ],
  "tribunals": [
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Radiant Inn Private Limited & Anr. v. Registrar of Companies, Mumbai",
+   "src": "https://www.livelawbiz.com/company-law/leasehold-asset-alone-does-not-justify-restoration-of-struck-off-company-nclat-559455"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "MD Varadarajan v. Pharmarule",
+   "src": "https://www.livelawbiz.com/ibc/time-spent-before-wrong-forum-can-be-excluded-under-section-14-limitation-act-nclat-559458"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Satyendra Prasad Khorania, Resolution Professional of Sitaram Prints Private Limited",
+   "src": "https://www.livelawbiz.com/nclt/100-coc-approval-does-not-exempt-resolution-plans-from-statutory-scrutiny-nclt-ahmedabad-559461"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Oldenburgische Landesbank AG v. Satyendra P. Khorania & Ors.",
+   "src": "https://www.livelawbiz.com/ibc/nclt-ahmedabad-orders-admission-of-oldenburgische-landesbank-ags-entire-claim-in-cirp-of-sumeet-industries-559440"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Unmesh Manohar Joshi v. IL&FS Financial Services Limited",
+   "src": "https://www.livelawbiz.com/nclt/nclt-mumbai-dismisses-pleas-to-quash-260-crore-ilfs-personal-guarantor-insolvency-report-replace-resolution-professional-559430"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Kushal Finnovation Capital Pvt. Ltd. v. Neelamber Agrotech Pvt. Ltd.",
+   "src": "https://www.livelawbiz.com/nclt/criminal-complaint-alone-does-not-establish-or-disprove-financial-debt-under-ibc-nclt-mumbai-559427"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Southern Power Distribution Company of Telangana Limited v. Kondapalli Venkata Srinivas, Resolution Professional of BTT Industries Pvt. Ltd.",
+   "src": "https://www.livelawbiz.com/nclt/late-appointment-does-not-exempt-resolution-professional-from-preserving-relevant-records-received-from-predecessor-nclt-hyderabad-559422"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "NTPC Limited v. Purusottam Behera, Liquidator of IVRCL Limited",
+   "src": "https://www.livelawbiz.com/nclt/nclt-condoned-408-day-delay-in-ntpcs-rs-12023-crore-claim-against-ivrcl-during-liquidation-559421"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Deepak Sarupariya, Resolution Professional of Spicy Entertainment and Media Limited v. Bombay Stock Exchange Limited",
+   "src": "https://www.livelawbiz.com/nclt/res-judicata-does-not-bar-corporate-debtors-refund-claim-not-decided-on-merits-by-sat-nclt-mumbai-559419"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "ICSA (India) Ltd. v. National Stock Exchange of India Ltd. & Ors.",
+   "src": "https://www.livelawbiz.com/nclt/shares-of-company-sold-as-going-concern-in-liquidation-can-be-extinguished-without-compensation-nclt-hyderabad-559418"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Magnus Consulting Private Limited v. Anil Kashi Drolia, Resolution Professional of Renaissance Urban Infra Pvt. Ltd.",
+   "src": "https://www.livelawbiz.com/nclt/company-cannot-blame-e-filing-portal-after-being-notified-of-defects-in-reply-nclt-mumbai-559417"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "State Tax Officer (1), Unit-4, Ahmedabad v. Liquidator of Camson Bio Technologies Limited",
+   "src": "https://www.livelawbiz.com/nclt/rainbow-papers-rulings-reach-restricted-by-ibc-amendment-2026-nclt-holds-statutory-tax-charges-cannot-qualify-as-security-interest-559415"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Karnation Fund-I v. Gigu Hospitality Private Limited",
+   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-bengaluru-directs-gigu-hospitality-to-redeem-3-crore-debentures-within-four-weeks-allows-karnation-funds-petition-under-section-7110-of-companies-act-559414"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "JMV Enterprise & Ors. v. Commissioner of Customs, Mundra",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/test-reports-from-live-consignments-cannot-establish-duty-liability-on-past-imports-cestat-ahmedabad-559453"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "M/s SKB Enterprises",
+   "src": "https://www.taxscan.in/excise-customs/unreasonable-bank-guarantee-condition-for-release-of-walnut-kernels-unjustified-cestat-read-order"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Trishul Asphalt Products",
+   "src": "https://www.taxscan.in/gst/gst-appeal-cannot-be-rejected-merely-for-paying-pre-deposit-through-electronic-credit-ledger-instead-of-cash-ledger-gstat"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Powerlite Generator Systems Private Limited",
+   "src": "https://www.taxscan.in/gst/mere-generation-of-multiple-e-way-bills-for-same-transaction-cannot-justify-gst-penalty-without-proof-of-violation-gstat-read-order"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Rekha Khaitan",
+   "src": "https://www.taxscan.in/income-tax/cbdt-instruction-applicable-only-to-permitted-limits-itat-grants-partial-relief-for-addition-of-unexplained-jewellery-in-gautam-khaitan-group-case-read-order"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "M/s Bansal Industries",
+   "src": "https://www.taxscan.in/income-tax/kachha-vs-pucca-arahtia-agency-sales-turnover-depends-on-transaction-terms-itat-deletes-s271b-penalty-for-reasonable-cause-us-273b-of-income-tax-act-read-order"
+  },
+  {
+   "edition": "22 Nov 2026",
+   "caseName": "Jitendrabhai Kacharabhai Thakor",
+   "src": "https://www.taxscan.in/income-tax/closing-cash-balance-disclosed-in-pre-demonetisation-itr-cannot-be-disregarded-merely-on-apprehension-itat-deletes-66-lakh-addition-us-68-of-income-tax-act-read-order"
+  },
   {
    "edition": "21 Nov 2026",
    "caseName": "Rossi Gearmotors (India) Pvt. Ltd. v. Spartan Engineering Industries Pvt. Ltd.",
@@ -442,77 +577,12 @@
    "edition": "19 Oct 2026",
    "caseName": "Reliable Enterprises v. Commissioner of CGST & Central Excise, Patna",
    "src": "https://www.livelawbiz.com/service-tax/cestat/vodafone-sim-distributorship-commission-exempt-from-service-tax-under-mega-exemption-notification-555138"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Girraj Bansal v. Rakesh Kumar Goyal",
-   "src": "https://www.livelawbiz.com/ibc/nclat-upholds-cirp-admission-against-shri-paramsukh-edible-foods-relies-on-tds-deductions-and-gst-input-tax-credit-554859"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Sanjit Instruments Private Limited & Ors v. Arvind Jagannath Bagul",
-   "src": "https://www.livelawbiz.com/company-law/share-buyout-cannot-be-ordered-without-finding-of-oppression-and-mismanagement-nclat-554854"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Shruti Lohia, Resolution Professional for Arihant Retail Private Limited",
-   "src": "https://www.livelawbiz.com/amp/nclt/national-company-law-tribunal-chennai-approves-pothys-retail-43-crore-resolution-plan-arihant-retail-private-limited-554914"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "In re Composite Scheme of Arrangement between HSBC InvestDirect Sales & Marketing (India) Pvt. Ltd. and HSBC InvestDirect (India) Pvt. Ltd.",
-   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-mumbai-approves-first-motion-merger-of-hsbc-investdirect-companies-allows-capital-reduction-554838"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Director General of Anti-Profiteering v. Mangalbela Real Estates Pvt. Ltd.",
-   "src": "https://www.livelawbiz.com/gstat/gstat-delhi-has-directed-a-real-estate-company-to-pass-on-3120-lakh-to-66-homebuyers-of-its-atri-green-valley-project-554822"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.taxscan.in/gst/post-supply-price-escalation-attracts-interest-on-differential-gst-despite-tax-paid-through-later-debit-notes-gstat-read-order"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Pavithram Gold & Diamonds",
-   "src": "https://www.taxscan.in/gst/mere-failure-to-reverse-itc-for-non-payment-to-supplier-within-180-days-cannot-automatically-attract-s74-penalty-gstat"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "A.P. Constructions India Pvt. Ltd. v. Commissioner of GST & Central Excise",
-   "src": "https://www.livelawbiz.com/custom-excise-service-tax/freshly-manufactured-goods-cannot-replace-re-imported-goods-for-customs-duty-exemption-554831"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Bharat Aluminium Company Limited v. Commissioner of Central Excise & CGST (Audit), Indore",
-   "src": "https://www.livelawbiz.com/custom-excise-service-tax/water-supply-agreement-is-sale-of-water-not-taxable-service-cestat-delhi-554890"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Regional Manager, Uttar Pradesh State Road Transport Corporation v. Commissioner, CGST & Central Excise, Allahabad",
-   "src": "https://www.livelawbiz.com/custom-excise-service-tax/amount-collected-from-dhabas-under-yatri-plaza-yojna-not-taxable-as-service-tax-cestat-allahabad-554883"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Rajasthan State Road Development & Construction Corporation Limited v. Commissioner of CGST, Customs and Central Excise, Jodhpur-I",
-   "src": "https://www.livelawbiz.com/service-tax/cestat/sale-of-tender-documents-not-a-service-no-service-tax-payable-on-tender-fees-cestat-delhi-554856"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Cliantha Research Ltd v. Commissioner of Central Excise and Service Tax",
-   "src": "https://www.taxscan.in/excise-customs/providing-corporate-guarantee-does-not-constitute-banking-and-financial-or-intermediary-service-cestat-sets-aside-service-tax-demand"
-  },
-  {
-   "edition": "16 Oct 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-approves-grt-jewellers-acquisition-majority-stake-tribhovandas-bhimji-zaveri-554862"
   }
  ],
  "latest": {
-  "digest": "21 Nov 2026",
-  "tribunals": "21 Nov 2026",
-  "news": "2026-11-21-am",
+  "digest": "22 Nov 2026",
+  "tribunals": "22 Nov 2026",
+  "news": "2026-11-22-am",
   "careersBooklet": "2026-11-21",
   "careersPool": "2026-11-21"
  }
