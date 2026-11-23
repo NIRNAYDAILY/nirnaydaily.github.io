@@ -1,236 +1,129 @@
 {
  "edition": {
-  "edition_id": "2026-11-22-am",
-  "iso": "2026-11-22",
+  "edition_id": "2026-11-23-am",
+  "iso": "2026-11-23",
   "slot": "10 AM",
-  "dateShort": "22 Nov 2026",
-  "dateLong": "Sunday, 22 November 2026 · Morning edition",
-  "window": "News from 10:00 AM IST, 21 November to 10:00 AM IST, 22 November 2026"
+  "dateShort": "23 Nov 2026",
+  "dateLong": "Monday, 23 November 2026 · Morning edition",
+  "window": "News from 10:00 AM IST, 22 November to 10:00 AM IST, 23 November 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "All India",
+   "region": "Maharashtra",
    "body": "Supreme Court of India",
-   "headline": "Justice Joymalya Bagchi suggests round-the-clock AI courts for mutual consent divorces",
-   "text": "Speaking at the JusTech National Conclave at Dharmashastra National Law University, Jabalpur on 21 November, Supreme Court judge Justice Joymalya Bagchi proposed moving mutual consent divorce cases to 24x7 AI-run courts, pointing to over five crore pending cases. He also suggested AI help with procedural matters such as affidavits and time extensions, and AI-predicted outcomes in cheque bounce, land acquisition and recovery cases, but said human judges must keep the final say in constitutional cases.",
-   "why": "A sitting Supreme Court judge is openly backing AI for routine case types, which could shape how courts handle pendency.",
-   "date": "21 Nov 2026",
-   "src": "https://www.barandbench.com/news/supreme-court-justice-joymalya-bagchi-bats-for-dedicated-ai-courts-to-decide-mutual-consent-divorce-cases",
+   "headline": "Supreme Court's Justice PB Varale tells lawyers never to file misleading AI-generated pleadings",
+   "text": "Speaking in Marathi at a legal education programme in Mumbai organised by the Bar Council of Maharashtra and Goa, Justice Prasanna B Varale welcomed court technology such as SUPACE and SUVAS but warned of AI risks like made-up citations, deepfakes and privacy concerns. He told over 3,000 advocates present, and 325 bar associations joining by video, not to rely blindly on chatbots. Justice AS Chandurkar, also present, urged senior lawyers to mentor juniors on courtroom conduct.",
+   "why": "Courts across India are seeing fake AI-generated citations in filings, and lawyers are answerable for what they file.",
+   "date": "23 Nov 2026",
+   "src": "https://www.barandbench.com/news/never-rely-blindly-on-chatbots-or-submit-misleading-ai-generated-filings-supreme-court-justice-pb-varale",
    "srcName": "Bar & Bench",
    "i18n": {
     "hi": {
-     "headline": "Justice Joymalya Bagchi ने आपसी सहमति से तलाक के मामलों के लिए चौबीसों घंटे चलने वाली AI अदालतों का सुझाव दिया",
-     "text": "21 नवंबर को Dharmashastra National Law University, Jabalpur में JusTech National Conclave में बोलते हुए सर्वोच्च न्यायालय के न्यायाधीश Justice Joymalya Bagchi ने कहा कि आपसी सहमति से तलाक के मामले 24x7 चलने वाली AI अदालतों को सौंपे जाएँ, क्योंकि पाँच करोड़ से ज़्यादा मामले लंबित हैं। उन्होंने हलफ़नामे और समय-विस्तार जैसे प्रक्रियात्मक कामों में AI की मदद और चेक बाउंस, भूमि अधिग्रहण और वसूली के मामलों में AI से संभावित नतीजे बताने का भी सुझाव दिया, लेकिन कहा कि संवैधानिक मामलों में अंतिम फ़ैसला इंसानी न्यायाधीश का ही रहना चाहिए।",
-     "why": "सर्वोच्च न्यायालय के एक मौजूदा न्यायाधीश सामान्य किस्म के मामलों में AI के इस्तेमाल का खुलकर समर्थन कर रहे हैं, जिससे लंबित मामलों से निपटने का तरीका बदल सकता है।",
-     "body": "सर्वोच्च न्यायालय"
+     "body": "भारत का सर्वोच्च न्यायालय",
+     "headline": "सर्वोच्च न्यायालय के Justice PB Varale ने वकीलों से कहा – AI से बनी भ्रामक याचिकाएँ कभी दाखिल न करें",
+     "text": "मुंबई में Bar Council of Maharashtra and Goa द्वारा आयोजित एक विधि शिक्षा कार्यक्रम में मराठी में बोलते हुए Justice Prasanna B Varale ने SUPACE और SUVAS जैसी अदालती तकनीक की सराहना की, लेकिन फर्जी हवालों (citations), डीपफेक और निजता जैसे AI के खतरों से आगाह किया। उन्होंने वहाँ मौजूद 3,000 से अधिक वकीलों और वीडियो से जुड़े 325 बार एसोसिएशनों से कहा कि चैटबॉट पर आँख मूँदकर भरोसा न करें। कार्यक्रम में मौजूद Justice AS Chandurkar ने वरिष्ठ वकीलों से जूनियर वकीलों को अदालती आचरण सिखाने का आग्रह किया।",
+     "why": "देशभर की अदालतों में AI से बने फर्जी हवाले सामने आ रहे हैं, और दाखिल किए गए दस्तावेज़ों की जिम्मेदारी वकील की ही होती है।"
     },
     "mr": {
-     "headline": "परस्पर संमतीने घटस्फोटाच्या प्रकरणांसाठी चोवीस तास चालणारी AI न्यायालये असावीत: Justice Joymalya Bagchi",
-     "text": "21 नोव्हेंबर रोजी Dharmashastra National Law University, Jabalpur येथील JusTech National Conclave मध्ये बोलताना सर्वोच्च न्यायालयाचे न्यायाधीश Justice Joymalya Bagchi यांनी परस्पर संमतीने घटस्फोटाची प्रकरणे 24x7 चालणाऱ्या AI न्यायालयांकडे द्यावीत, असे सुचवले, कारण पाच कोटींहून अधिक प्रकरणे प्रलंबित आहेत. प्रतिज्ञापत्रे, मुदतवाढ अशा प्रक्रियात्मक कामांत AI ची मदत आणि चेक बाउन्स, भूसंपादन व वसुली प्रकरणांत AI ने संभाव्य निकाल सांगावेत, असेही त्यांनी सुचवले; मात्र घटनात्मक प्रकरणांत अंतिम निर्णय मानवी न्यायाधीशांकडेच राहिला पाहिजे, असे ते म्हणाले.",
-     "why": "सर्वोच्च न्यायालयाचे विद्यमान न्यायाधीश नेहमीच्या प्रकारच्या प्रकरणांसाठी AI चा उघड पुरस्कार करत आहेत, त्यामुळे प्रलंबित प्रकरणे हाताळण्याची पद्धत बदलू शकते.",
-     "body": "सर्वोच्च न्यायालय"
+     "body": "भारताचे सर्वोच्च न्यायालय",
+     "headline": "सर्वोच्च न्यायालयाचे Justice PB Varale यांचा वकिलांना सल्ला – AI ने तयार केलेली दिशाभूल करणारी याचिका कधीही दाखल करू नका",
+     "text": "मुंबईत Bar Council of Maharashtra and Goa ने आयोजित केलेल्या विधी शिक्षण कार्यक्रमात मराठीतून बोलताना Justice Prasanna B Varale यांनी SUPACE आणि SUVAS सारख्या न्यायालयीन तंत्रज्ञानाचे कौतुक केले, मात्र बनावट संदर्भ (citations), डीपफेक आणि गोपनीयता यांसारख्या AI च्या धोक्यांबद्दल सावध केले. उपस्थित 3,000 हून अधिक वकील आणि व्हिडिओद्वारे जोडलेल्या 325 बार असोसिएशनना त्यांनी चॅटबॉटवर डोळे झाकून विश्वास न ठेवण्यास सांगितले. कार्यक्रमाला उपस्थित Justice AS Chandurkar यांनी ज्येष्ठ वकिलांनी कनिष्ठ वकिलांना न्यायालयीन शिष्टाचार शिकवावा, असे आवाहन केले.",
+     "why": "देशभरातील न्यायालयांत AI ने तयार केलेले बनावट संदर्भ आढळत आहेत, आणि दाखल केलेल्या कागदपत्रांची जबाबदारी वकिलाचीच असते."
     }
    }
   },
   {
    "cat": "Judiciary",
-   "region": "Madhya Pradesh",
-   "body": "Madhya Pradesh High Court",
-   "headline": "MP High Court Chief Justice Alpesh Y Kogje lists where AI can help courts, warns of new digital divide",
-   "text": "At the same DNLU Jabalpur conclave on 21 November, Chief Justice Alpesh Y Kogje said AI could assist with case registration and file scrutiny, guide citizens to the right forum, help legal services authorities find undertrials who need lawyers, and group similar cases for consistent rulings. He cautioned that court services should not become digital-only, should work in local languages and for persons with disabilities, and must keep human accountability, noting that the same AI that translates a judgment can also invent a precedent.",
-   "date": "21 Nov 2026",
-   "src": "https://www.barandbench.com/news/where-can-ai-tools-be-put-to-use-in-legal-field-mp-high-court-chief-justice-alpesh-y-kogje-answers",
-   "srcName": "Bar & Bench",
-   "i18n": {
-    "hi": {
-     "headline": "MP उच्च न्यायालय के मुख्य न्यायाधीश Alpesh Y Kogje ने बताया अदालतों में AI कहाँ मदद कर सकता है, नई डिजिटल खाई की चेतावनी दी",
-     "text": "21 नवंबर को DNLU Jabalpur के इसी सम्मेलन में मुख्य न्यायाधीश Alpesh Y Kogje ने कहा कि AI मामलों के पंजीकरण और फ़ाइलों की जाँच में, नागरिकों को सही मंच तक पहुँचाने में, विधिक सेवा प्राधिकरणों को वकील की ज़रूरत वाले विचाराधीन क़ैदियों को खोजने में और एक जैसे मामलों को साथ रखकर एकसमान फ़ैसले देने में मदद कर सकता है। उन्होंने आगाह किया कि अदालती सेवाएँ केवल डिजिटल न बनें, स्थानीय भाषाओं और दिव्यांगजनों के लिए सुलभ हों और इंसानी जवाबदेही बनी रहे; उन्होंने कहा कि जो AI निर्णय का अनुवाद करता है, वही कोई झूठी नज़ीर भी गढ़ सकता है।",
-     "body": "मध्य प्रदेश उच्च न्यायालय"
-    },
-    "mr": {
-     "headline": "MP उच्च न्यायालयाचे मुख्य न्यायाधीश Alpesh Y Kogje यांनी सांगितले न्यायालयांत AI कुठे उपयोगी ठरू शकते; नव्या डिजिटल दरीचा इशारा",
-     "text": "21 नोव्हेंबर रोजी DNLU Jabalpur येथील याच परिषदेत मुख्य न्यायाधीश Alpesh Y Kogje म्हणाले की प्रकरणांची नोंदणी व फाइल तपासणी, नागरिकांना योग्य मंचापर्यंत पोहोचवणे, विधी सेवा प्राधिकरणांना वकिलाची गरज असलेले कच्चे कैदी शोधणे आणि सारख्या प्रकरणांचे गट करून एकसमान निर्णय देणे यात AI मदत करू शकते. न्यायालयीन सेवा केवळ डिजिटल होऊ नयेत, त्या स्थानिक भाषांत आणि दिव्यांगांसाठी सुलभ असाव्यात आणि मानवी उत्तरदायित्व कायम राहावे, असा इशारा त्यांनी दिला; निकालाचा अनुवाद करणारे AI च खोटा पूर्वनिर्णयही तयार करू शकते, असे ते म्हणाले.",
-     "body": "मध्य प्रदेश उच्च न्यायालय"
-    }
-   }
-  },
-  {
-   "cat": "Judiciary",
-   "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "Justice BV Nagarathna calls for one-third share for women lawyers on government panels",
-   "text": "Supreme Court judge Justice BV Nagarathna said women lawyers should get one-third representation on government panels, including those for public sector undertakings and legal aid. Delivering the first Cornelia Sorabji Memorial Lecture at Somerville College, Oxford, on 18 November (reported on 21 November), she compared the idea to the one-third reservation for women in local bodies and the women's reservation in legislatures, saying formal equality is not enough where exclusion has shaped an institution.",
-   "date": "21 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/women-lawyers-must-have-13rd-representation-in-government-panels-justice-bv-nagarathna-559410",
+   "region": "Haryana",
+   "body": "Haryana State Legal Services Authority",
+   "headline": "Haryana's special Lok Adalat for cheque-bounce cases settles 7,966 cases worth ₹81.83 crore",
+   "text": "The Haryana State Legal Services Authority held a special Lok Adalat on 21 November for cases under the Negotiable Instruments Act, mostly cheque dishonour disputes, across all 22 districts and 38 sub-divisions. It settled or disposed of 7,966 cases, with settlements totalling ₹81.83 crore. Member Secretary Deepak Aggarwal visited the Panchkula district court to review progress.",
+   "why": "Settling cheque-bounce disputes by agreement helps cut the backlog in Haryana's trial courts.",
+   "date": "22 Nov 2026",
+   "src": "https://www.livelaw.in/news-updates/haryana-state-legal-services-authority-special-lok-adalat-negotiable-instruments-act-cases-559491",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "headline": "Justice BV Nagarathna ने सरकारी पैनलों में महिला वकीलों को एक-तिहाई हिस्सेदारी देने की माँग की",
-     "text": "सर्वोच्च न्यायालय की न्यायाधीश Justice BV Nagarathna ने कहा कि सरकारी पैनलों में, जिनमें सार्वजनिक उपक्रमों और विधिक सहायता के पैनल भी शामिल हैं, महिला वकीलों को एक-तिहाई प्रतिनिधित्व मिलना चाहिए। 18 नवंबर को Somerville College, Oxford में पहला Cornelia Sorabji Memorial Lecture देते हुए (रिपोर्ट 21 नवंबर को आई) उन्होंने इसकी तुलना स्थानीय निकायों में महिलाओं के एक-तिहाई आरक्षण और विधायिकाओं में महिला आरक्षण से की, और कहा कि जहाँ किसी संस्था में लंबे समय से बहिष्कार रहा हो, वहाँ केवल औपचारिक समानता काफ़ी नहीं है।",
-     "body": "सर्वोच्च न्यायालय"
+     "body": "Haryana State Legal Services Authority",
+     "headline": "हरियाणा में चेक बाउंस मामलों की विशेष लोक अदालत में ₹81.83 करोड़ के 7,966 मामले निपटे",
+     "text": "Haryana State Legal Services Authority ने 21 नवंबर को Negotiable Instruments Act के मामलों, यानी मुख्य रूप से चेक बाउंस विवादों, के लिए सभी 22 जिलों और 38 उपमंडलों में विशेष लोक अदालत लगाई। इसमें 7,966 मामलों का आपसी सहमति से निपटारा या निस्तारण हुआ, और कुल ₹81.83 करोड़ के समझौते हुए। सदस्य सचिव Deepak Aggarwal ने पंचकूला जिला न्यायालय जाकर कामकाज की समीक्षा की।",
+     "why": "चेक बाउंस विवादों को आपसी सहमति से सुलझाने से हरियाणा की निचली अदालतों में लंबित मामलों का बोझ घटता है।"
     },
     "mr": {
-     "headline": "सरकारी पॅनेलवर महिला वकिलांना एक-तृतीयांश वाटा द्यावा: Justice BV Nagarathna",
-     "text": "सर्वोच्च न्यायालयाच्या न्यायाधीश Justice BV Nagarathna यांनी सांगितले की सार्वजनिक उपक्रम आणि विधी सहाय्य यांच्या पॅनेलसह सरकारी पॅनेलवर महिला वकिलांना एक-तृतीयांश प्रतिनिधित्व मिळाले पाहिजे. 18 नोव्हेंबर रोजी Somerville College, Oxford येथे पहिले Cornelia Sorabji Memorial Lecture देताना (बातमी 21 नोव्हेंबरला प्रसिद्ध) त्यांनी याची तुलना स्थानिक स्वराज्य संस्थांतील महिलांच्या एक-तृतीयांश आरक्षणाशी आणि विधिमंडळांतील महिला आरक्षणाशी केली; ज्या संस्थेत दीर्घकाळ वगळले गेले आहे तिथे केवळ औपचारिक समानता पुरेशी नाही, असे त्या म्हणाल्या.",
-     "body": "सर्वोच्च न्यायालय"
+     "body": "Haryana State Legal Services Authority",
+     "headline": "हरियाणात चेक बाउन्स प्रकरणांसाठीच्या विशेष लोकअदालतीत ₹81.83 कोटींची 7,966 प्रकरणे निकाली",
+     "text": "Haryana State Legal Services Authority ने 21 नोव्हेंबर रोजी Negotiable Instruments Act अंतर्गत प्रकरणांसाठी, म्हणजे मुख्यतः चेक बाउन्स वादांसाठी, सर्व 22 जिल्हे आणि 38 उपविभागांत विशेष लोकअदालत घेतली. यात 7,966 प्रकरणे सामंजस्याने मिटली किंवा निकाली निघाली, आणि एकूण ₹81.83 कोटी रकमेच्या तडजोडी झाल्या. सदस्य सचिव Deepak Aggarwal यांनी पंचकुला जिल्हा न्यायालयाला भेट देऊन कामकाजाचा आढावा घेतला.",
+     "why": "चेक बाउन्स वाद सामंजस्याने मिटवल्याने हरियाणातील कनिष्ठ न्यायालयांवरील प्रलंबित प्रकरणांचा भार कमी होतो."
     }
    }
   },
   {
-   "cat": "Judiciary",
+   "cat": "Legal Education & Careers",
    "region": "Delhi",
-   "body": "Supreme Court of India",
-   "headline": "Judicial independence is non-negotiable, says Justice KV Viswanathan at book launch",
-   "text": "Supreme Court judge Justice KV Viswanathan, launching advocate Akash Vajpai's book 'Freedom on Trial' in New Delhi, said an independent judiciary is essential for the rule of law. Recalling colonial-era trials, he said they show what happens when procedure is bent to serve power, that fair hearings and the right to appeal are not mere technicalities, and that a courageous Bar matters.",
-   "date": "21 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/independence-of-judiciary-is-non-negotiable-justice-kv-viswanathan-559480",
+   "body": "National Law University Delhi",
+   "headline": "National Law University Delhi invites applications for IPR Chair Professor; apply by 25 November",
+   "text": "National Law University Delhi is hiring one full-time, contractual IPR Chair Professor under the DPIIT IPR Chair (SPRIHA scheme), at ₹1,50,000 a month. Eligible applicants include those qualified as Professor or Associate Professor with IPR experience, IP attorneys with at least 10 years' practice, or retired IP Office officials with a doctorate; the upper age limit is 70. Applications are online through the university's careers portal.",
+   "date": "22 Nov 2026",
+   "src": "https://livelaw.in/job-updates/ipr-chair-professor-vacancy-at-national-law-university-delhi-559487",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "headline": "न्यायपालिका की स्वतंत्रता पर कोई समझौता नहीं हो सकता: पुस्तक विमोचन में Justice KV Viswanathan",
-     "text": "सर्वोच्च न्यायालय के न्यायाधीश Justice KV Viswanathan ने New Delhi में अधिवक्ता Akash Vajpai की पुस्तक 'Freedom on Trial' का विमोचन करते हुए कहा कि क़ानून के राज के लिए स्वतंत्र न्यायपालिका ज़रूरी है। औपनिवेशिक दौर के मुक़दमों को याद करते हुए उन्होंने कहा कि ये दिखाते हैं कि जब प्रक्रिया को सत्ता के हिसाब से मोड़ा जाता है तो क्या होता है, निष्पक्ष सुनवाई और अपील का अधिकार केवल तकनीकी बातें नहीं हैं, और एक साहसी बार भी बहुत मायने रखता है।",
-     "body": "सर्वोच्च न्यायालय"
+     "body": "National Law University Delhi",
+     "headline": "National Law University Delhi ने IPR Chair Professor पद के लिए आवेदन मांगे; अंतिम तिथि 25 नवंबर",
+     "text": "National Law University Delhi, DPIIT IPR Chair (SPRIHA योजना) के तहत एक पूर्णकालिक, अनुबंध आधारित IPR Chair Professor की नियुक्ति कर रहा है, जिसका वेतन ₹1,50,000 प्रति माह है। IPR अनुभव वाले प्रोफेसर या एसोसिएट प्रोफेसर पद के योग्य व्यक्ति, कम से कम 10 साल की प्रैक्टिस वाले IP वकील, या डॉक्टरेट वाले सेवानिवृत्त IP Office अधिकारी आवेदन कर सकते हैं; अधिकतम आयु 70 वर्ष है। आवेदन विश्वविद्यालय के करियर पोर्टल पर ऑनलाइन करना है।"
     },
     "mr": {
-     "headline": "न्यायव्यवस्थेच्या स्वातंत्र्याबाबत तडजोड नाही: पुस्तक प्रकाशनात Justice KV Viswanathan",
-     "text": "सर्वोच्च न्यायालयाचे न्यायाधीश Justice KV Viswanathan यांनी New Delhi येथे वकील Akash Vajpai यांच्या 'Freedom on Trial' पुस्तकाचे प्रकाशन करताना सांगितले की कायद्याच्या राज्यासाठी स्वतंत्र न्यायव्यवस्था आवश्यक आहे. वसाहतकालीन खटल्यांची आठवण करून देत ते म्हणाले की प्रक्रिया सत्तेसाठी वाकवली की काय होते हे हे खटले दाखवतात, निष्पक्ष सुनावणी आणि अपिलाचा अधिकार या केवळ तांत्रिक बाबी नाहीत आणि धाडसी वकील वर्गही महत्त्वाचा असतो.",
-     "body": "सर्वोच्च न्यायालय"
-    }
-   }
-  },
-  {
-   "cat": "Judiciary",
-   "region": "Delhi",
-   "body": "Delhi High Court",
-   "headline": "Delhi HC's Justice Manmeet Arora urges law firms not to stop hiring fresh graduates because of AI",
-   "text": "Delhi High Court judge Justice Manmeet Pritam Singh Arora told the first meeting of the Indian Commercial Litigators' Forum in New Delhi that law firms must keep training young lawyers even as they adopt AI to cut costs. She said hiring only lawyers with three years' experience would leave the profession without future talent; the event was held on 20 November and reported on 21 November.",
-   "date": "21 Nov 2026",
-   "src": "https://www.barandbench.com/news/train-young-lawyers-justice-manmeet-arora-urges-law-firms-cutting-costs-with-ai",
-   "srcName": "Bar & Bench",
-   "i18n": {
-    "hi": {
-     "headline": "दिल्ली उच्च न्यायालय की Justice Manmeet Arora ने लॉ फ़र्मों से कहा, AI के कारण नए स्नातकों की भर्ती बंद न करें",
-     "text": "दिल्ली उच्च न्यायालय की न्यायाधीश Justice Manmeet Pritam Singh Arora ने New Delhi में Indian Commercial Litigators' Forum की पहली बैठक में कहा कि लागत घटाने के लिए AI अपनाते हुए भी लॉ फ़र्मों को युवा वकीलों को प्रशिक्षण देते रहना चाहिए। उन्होंने कहा कि केवल तीन साल के अनुभव वाले वकीलों को रखने से पेशे में आगे प्रतिभा की कमी हो जाएगी; यह कार्यक्रम 20 नवंबर को हुआ और इसकी रिपोर्ट 21 नवंबर को आई।",
-     "body": "दिल्ली उच्च न्यायालय"
-    },
-    "mr": {
-     "headline": "AI मुळे नव्या पदवीधरांची भरती थांबवू नका: दिल्ली उच्च न्यायालयाच्या Justice Manmeet Arora यांचे लॉ फर्मना आवाहन",
-     "text": "दिल्ली उच्च न्यायालयाच्या न्यायाधीश Justice Manmeet Pritam Singh Arora यांनी New Delhi येथे Indian Commercial Litigators' Forum च्या पहिल्या बैठकीत सांगितले की खर्च कमी करण्यासाठी AI वापरत असतानाही लॉ फर्मनी तरुण वकिलांना प्रशिक्षण देणे सुरू ठेवले पाहिजे. फक्त तीन वर्षांचा अनुभव असलेलेच वकील घेतले तर व्यवसायात पुढे गुणवान लोकांची कमतरता येईल, असे त्या म्हणाल्या; हा कार्यक्रम 20 नोव्हेंबरला झाला आणि बातमी 21 नोव्हेंबरला आली.",
-     "body": "दिल्ली उच्च न्यायालय"
+     "body": "National Law University Delhi",
+     "headline": "National Law University Delhi कडून IPR Chair Professor पदासाठी अर्ज मागवले; अंतिम तारीख 25 नोव्हेंबर",
+     "text": "National Law University Delhi, DPIIT IPR Chair (SPRIHA योजना) अंतर्गत एक पूर्णवेळ, करार तत्त्वावरील IPR Chair Professor नेमणार असून मासिक वेतन ₹1,50,000 आहे. IPR अनुभवासह प्राध्यापक किंवा सहयोगी प्राध्यापक पदासाठी पात्र व्यक्ती, किमान 10 वर्षे प्रॅक्टिस असलेले IP वकील, किंवा डॉक्टरेट असलेले निवृत्त IP Office अधिकारी अर्ज करू शकतात; कमाल वयोमर्यादा 70 वर्षे आहे. अर्ज विद्यापीठाच्या करिअर पोर्टलवर ऑनलाइन करायचा आहे."
     }
    }
   },
   {
    "cat": "Legal Education & Careers",
-   "region": "Telangana",
-   "body": "Supreme Court of India",
-   "headline": "CJI Surya Kant suggests compulsory legal aid work for law students to graduate",
-   "text": "Opening the Commonwealth Legal Education Association's first international conference on legal education in Hyderabad on 21 November, CJI Surya Kant proposed that a minimum period of legal aid work be made compulsory for graduation, with extra credit for students who do more. He said legal aid clinics should be judged by the real help they give, and that practical training should be built into core law subjects with proper supervision.",
-   "why": "If taken up by regulators, this could change what law students must do to earn their degree.",
-   "date": "21 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/legal-aid-work-be-made-compulsory-for-every-student-to-graduate-cji-surya-kant-559431",
-   "srcName": "LiveLaw",
-   "i18n": {
-    "hi": {
-     "headline": "CJI Surya Kant का सुझाव: डिग्री के लिए क़ानून के छात्रों का विधिक सहायता कार्य अनिवार्य हो",
-     "text": "21 नवंबर को Hyderabad में Commonwealth Legal Education Association के पहले अंतरराष्ट्रीय विधि शिक्षा सम्मेलन का उद्घाटन करते हुए CJI Surya Kant ने सुझाव दिया कि स्नातक होने के लिए एक न्यूनतम अवधि का विधिक सहायता कार्य अनिवार्य किया जाए और इससे ज़्यादा काम करने वाले छात्रों को अतिरिक्त क्रेडिट मिले। उन्होंने कहा कि विधिक सहायता क्लिनिकों को उनकी असली मदद से आँका जाए और व्यावहारिक प्रशिक्षण को उचित निगरानी के साथ मुख्य विषयों में शामिल किया जाए।",
-     "why": "यदि नियामक इसे अपनाते हैं, तो क़ानून की डिग्री पाने की शर्तें बदल सकती हैं।",
-     "body": "सर्वोच्च न्यायालय"
-    },
-    "mr": {
-     "headline": "पदवीसाठी विधी विद्यार्थ्यांना विधी सहाय्य कार्य सक्तीचे करावे: CJI Surya Kant यांची सूचना",
-     "text": "21 नोव्हेंबर रोजी Hyderabad येथे Commonwealth Legal Education Association च्या पहिल्या आंतरराष्ट्रीय विधी शिक्षण परिषदेचे उद्घाटन करताना CJI Surya Kant यांनी सुचवले की पदवीसाठी किमान काही काळ विधी सहाय्य कार्य सक्तीचे करावे आणि त्यापेक्षा जास्त काम करणाऱ्या विद्यार्थ्यांना अतिरिक्त क्रेडिट द्यावे. विधी सहाय्य केंद्रांचे मूल्यमापन त्यांनी प्रत्यक्ष किती मदत केली यावर व्हावे आणि प्रात्यक्षिक प्रशिक्षण योग्य देखरेखीसह मुख्य विषयांत समाविष्ट करावे, असे ते म्हणाले.",
-     "why": "नियामकांनी ही सूचना स्वीकारल्यास कायद्याची पदवी मिळवण्याच्या अटी बदलू शकतात.",
-     "body": "सर्वोच्च न्यायालय"
-    }
-   }
-  },
-  {
-   "cat": "Legal Education & Careers",
-   "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "No student should be punished on an AI-detector score alone, says CJI Surya Kant",
-   "text": "At the same Hyderabad conference, CJI Surya Kant said law schools should not treat AI-detection software as proof of cheating, as such tools often wrongly flag writing by non-native English speakers. He advised against a blanket ban on AI and asked law schools to set clear rules in advance on permitted and disclosed AI use, and to redesign assessments, for example by adding oral explanations.",
-   "date": "21 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/no-student-should-be-penalised-based-on-ai-detection-tool-alone-cji-surya-kant-559448",
-   "srcName": "LiveLaw",
-   "i18n": {
-    "hi": {
-     "headline": "केवल AI डिटेक्टर के स्कोर पर किसी छात्र को सज़ा न दी जाए: CJI Surya Kant",
-     "text": "Hyderabad के उसी सम्मेलन में CJI Surya Kant ने कहा कि लॉ स्कूल AI पहचानने वाले सॉफ़्टवेयर को नकल का सबूत न मानें, क्योंकि ऐसे टूल अक्सर उन छात्रों के लेखन को ग़लत तरीके से पकड़ लेते हैं जिनकी मातृभाषा अंग्रेज़ी नहीं है। उन्होंने AI पर पूरी पाबंदी के ख़िलाफ़ सलाह दी और कहा कि लॉ स्कूल पहले से साफ़ नियम बनाएँ कि AI का कौन सा उपयोग अनुमत है और किसकी जानकारी देनी होगी, और मूल्यांकन के तरीके बदलें, जैसे मौखिक व्याख्या जोड़ना।",
-     "body": "सर्वोच्च न्यायालय"
-    },
-    "mr": {
-     "headline": "फक्त AI डिटेक्टरच्या गुणांवर कोणत्याही विद्यार्थ्याला शिक्षा नको: CJI Surya Kant",
-     "text": "Hyderabad येथील त्याच परिषदेत CJI Surya Kant म्हणाले की लॉ स्कूलनी AI ओळखणाऱ्या सॉफ्टवेअरला कॉपीचा पुरावा मानू नये, कारण इंग्रजी मातृभाषा नसलेल्या विद्यार्थ्यांचे लेखन अशी साधने अनेकदा चुकीने पकडतात. AI वर पूर्ण बंदी घालू नये, तर कोणता AI वापर चालेल आणि कोणता जाहीर करावा लागेल याचे स्पष्ट नियम आधीच ठरवावेत आणि तोंडी स्पष्टीकरणासारखे बदल करून मूल्यमापन पद्धती बदलाव्यात, असे त्यांनी सांगितले.",
-     "body": "सर्वोच्च न्यायालय"
-    }
-   }
-  },
-  {
-   "cat": "Legal Education & Careers",
-   "region": "Tripura",
-   "body": "High Court of Tripura",
-   "headline": "Tripura High Court invites applications for 8 Law Clerk-cum-Legal Research Assistant posts; apply by 25 November",
-   "text": "The High Court of Tripura has invited applications for eight Law Clerk-cum-Legal Research Assistant posts. Law graduates can apply, and fresh graduates may apply with a provisional certificate; applications in the prescribed format must reach the Registrar General by 25 November 2026.",
-   "date": "21 Nov 2026",
-   "src": "https://www.livelaw.in/job-updates/law-clerks-cum-legal-research-assistant-vacancy-at-high-court-of-tripura-559409",
-   "srcName": "LiveLaw",
-   "i18n": {
-    "hi": {
-     "headline": "त्रिपुरा उच्च न्यायालय में 8 Law Clerk-cum-Legal Research Assistant पदों के लिए आवेदन; अंतिम तिथि 25 नवंबर",
-     "text": "High Court of Tripura ने Law Clerk-cum-Legal Research Assistant के आठ पदों के लिए आवेदन माँगे हैं। क़ानून स्नातक आवेदन कर सकते हैं और नए स्नातक अस्थायी (प्रोविज़नल) प्रमाणपत्र के साथ भी आवेदन कर सकते हैं; तय प्रारूप में आवेदन 25 नवंबर 2026 तक Registrar General के कार्यालय में पहुँचना चाहिए।",
-     "body": "त्रिपुरा उच्च न्यायालय"
-    },
-    "mr": {
-     "headline": "त्रिपुरा उच्च न्यायालयात 8 Law Clerk-cum-Legal Research Assistant पदांसाठी अर्ज; शेवटची तारीख 25 नोव्हेंबर",
-     "text": "High Court of Tripura ने Law Clerk-cum-Legal Research Assistant च्या आठ पदांसाठी अर्ज मागवले आहेत. कायद्याचे पदवीधर अर्ज करू शकतात आणि नवे पदवीधर तात्पुरत्या (प्रोव्हिजनल) प्रमाणपत्रासह अर्ज करू शकतात; विहित नमुन्यातील अर्ज 25 नोव्हेंबर 2026 पर्यंत Registrar General यांच्या कार्यालयात पोहोचणे आवश्यक आहे.",
-     "body": "त्रिपुरा उच्च न्यायालय"
-    }
-   }
-  },
-  {
-   "cat": "Legal Education & Careers",
-   "region": "Madhya Pradesh",
-   "body": "Directorate General of Foreign Trade",
-   "headline": "DGFT invites applications for 3 Young Professional (Legal) posts at Indore; ₹56,000 a month",
-   "text": "The Directorate General of Foreign Trade has invited applications for three Young Professional (Legal) posts, with applications going to its Indore office. Candidates need an LLB, at least one year of relevant experience and computer skills, and must be under 40; the pay is ₹56,000 and the last date to apply by email is 30 November 2026.",
-   "date": "21 Nov 2026",
-   "src": "https://www.verdictum.in/job-updates/directorate-general-of-foreign-trade-1626191",
+   "region": "Tamil Nadu",
+   "body": "Archaeological Survey of India",
+   "headline": "Archaeological Survey of India seeks a Legal Consultant for its Chennai Circle; ₹70,000 a month",
+   "text": "The Archaeological Survey of India has invited applications for one Legal Consultant post at its Chennai Circle in Tamil Nadu, on a consolidated pay of ₹70,000 a month. Applicants need an LLB and at least 10 years of continuous experience handling administrative matters before the Central Administrative Tribunal or labour matters before the CGIT, High Court or Supreme Court; the age limit is 65. Applications can be sent by email or post by 1 December 2026.",
+   "date": "22 Nov 2026",
+   "src": "https://www.verdictum.in/job-updates/archaeological-survey-of-india-1626199",
    "srcName": "Verdictum",
    "i18n": {
     "hi": {
-     "headline": "DGFT में Indore के लिए 3 Young Professional (Legal) पदों पर आवेदन; ₹56,000 मासिक",
-     "text": "Directorate General of Foreign Trade ने Young Professional (Legal) के तीन पदों के लिए आवेदन माँगे हैं, आवेदन उसके Indore कार्यालय को भेजे जाएँगे। उम्मीदवार के पास LLB, कम से कम एक साल का संबंधित अनुभव और कंप्यूटर का ज्ञान होना चाहिए और आयु 40 वर्ष तक होनी चाहिए; वेतन ₹56,000 है और ईमेल से आवेदन की अंतिम तिथि 30 नवंबर 2026 है।",
-     "body": "Directorate General of Foreign Trade"
+     "body": "Archaeological Survey of India",
+     "headline": "Archaeological Survey of India को चेन्नई सर्कल के लिए Legal Consultant की जरूरत; ₹70,000 प्रति माह",
+     "text": "Archaeological Survey of India ने तमिलनाडु के अपने चेन्नई सर्कल में Legal Consultant के एक पद के लिए आवेदन मांगे हैं, जिसका समेकित वेतन ₹70,000 प्रति माह है। आवेदक के पास LLB और Central Administrative Tribunal में प्रशासनिक मामलों या CGIT, उच्च न्यायालय या सर्वोच्च न्यायालय में श्रम मामलों को संभालने का कम से कम 10 साल का लगातार अनुभव होना चाहिए; अधिकतम आयु 65 वर्ष है। आवेदन 1 दिसंबर 2026 तक ईमेल या डाक से भेजे जा सकते हैं।"
     },
     "mr": {
-     "headline": "DGFT मध्ये Indore साठी 3 Young Professional (Legal) पदांसाठी अर्ज; दरमहा ₹56,000",
-     "text": "Directorate General of Foreign Trade ने Young Professional (Legal) च्या तीन पदांसाठी अर्ज मागवले असून अर्ज त्यांच्या Indore कार्यालयाकडे जातील. उमेदवाराकडे LLB, किमान एक वर्षाचा संबंधित अनुभव आणि संगणकाचे ज्ञान असावे आणि वय 40 पर्यंत असावे; वेतन ₹56,000 असून ईमेलद्वारे अर्ज करण्याची शेवटची तारीख 30 नोव्हेंबर 2026 आहे.",
-     "body": "Directorate General of Foreign Trade"
+     "body": "Archaeological Survey of India",
+     "headline": "Archaeological Survey of India ला चेन्नई सर्कलसाठी Legal Consultant हवा; दरमहा ₹70,000",
+     "text": "Archaeological Survey of India ने तमिळनाडूतील आपल्या चेन्नई सर्कलमध्ये Legal Consultant च्या एका पदासाठी अर्ज मागवले असून एकत्रित वेतन दरमहा ₹70,000 आहे. उमेदवाराकडे LLB आणि Central Administrative Tribunal मधील प्रशासकीय प्रकरणे किंवा CGIT, उच्च न्यायालय वा सर्वोच्च न्यायालयातील कामगार प्रकरणे हाताळण्याचा किमान 10 वर्षांचा सलग अनुभव असावा; कमाल वयोमर्यादा 65 वर्षे आहे. अर्ज 1 डिसेंबर 2026 पर्यंत ईमेल किंवा पोस्टाने पाठवता येतील."
     }
    }
   },
   {
    "cat": "Other Legal News",
-   "region": "Uttar Pradesh",
-   "body": "Independent Commission on SIR",
-   "headline": "Retired judges' panel on voter-roll revision asks UP Chief Minister for data behind 1.27 crore exclusion claim",
-   "text": "The Independent Commission on the Special Intensive Revision (SIR) of electoral rolls, chaired by former Supreme Court judge Justice Madan B. Lokur and made up of retired judges, wrote to Uttar Pradesh Chief Minister Yogi Adityanath on 21 November. It asked for the material behind his reported claim that about 1.27 crore Hindus were left out of the voters' list, and any data showing flaws in the SIR method, and sent a copy to the Election Commission.",
-   "date": "21 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/independent-sir-commission-writes-to-uttar-pradesh-chief-minister-seeking-details-of-claim-on-exclusion-of-127-crore-electors-559405",
+   "region": "Delhi",
+   "body": "Central Consumer Protection Authority",
+   "headline": "Consumer authority fines Delhi's Gumbad Cafe ₹10,000 for adding 10% service charge to every bill",
+   "text": "The Central Consumer Protection Authority found that the Old Delhi restaurant's billing software added a 10% service charge to every bill by default, with GST charged on top, and held that a menu note calling it voluntary did not cure the breach. In its 10 November order, reported on 23 November, it directed the cafe to stop the practice, pay a ₹10,000 penalty and file a compliance report within 15 days. The order relies on the CCPA's July 2022 service-charge guidelines, which the Delhi High Court upheld in March 2025.",
+   "why": "Restaurants cannot make a service charge automatic; diners pay it only if they choose to.",
+   "date": "23 Nov 2026",
+   "src": "https://livelaw.in/consumer-cases/ccpa-imposes-10000-penalty-on-delhis-gumbad-cafe-for-automatically-levying-10-service-charge-559523",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "headline": "मतदाता सूची पुनरीक्षण पर सेवानिवृत्त न्यायाधीशों के पैनल ने UP के मुख्यमंत्री से 1.27 करोड़ नाम हटने के दावे का आधार माँगा",
-     "text": "पूर्व सर्वोच्च न्यायालय न्यायाधीश Justice Madan B. Lokur की अध्यक्षता वाले और सेवानिवृत्त न्यायाधीशों से बने Independent Commission on the Special Intensive Revision (SIR) ने 21 नवंबर को उत्तर प्रदेश के मुख्यमंत्री Yogi Adityanath को पत्र लिखा। आयोग ने उनके उस कथित दावे के समर्थन में सामग्री माँगी कि लगभग 1.27 करोड़ हिंदू मतदाता सूची से बाहर रह गए, साथ ही SIR की पद्धति में कमियाँ दिखाने वाला कोई डेटा भी माँगा, और पत्र की प्रति चुनाव आयोग को भेजी।",
-     "body": "Independent Commission on SIR"
+     "body": "Central Consumer Protection Authority",
+     "headline": "हर बिल में 10% सर्विस चार्ज जोड़ने पर उपभोक्ता प्राधिकरण ने दिल्ली के Gumbad Cafe पर ₹10,000 का जुर्माना लगाया",
+     "text": "Central Consumer Protection Authority ने पाया कि पुरानी दिल्ली के इस रेस्तरां का बिलिंग सॉफ्टवेयर हर बिल में अपने-आप 10% सर्विस चार्ज जोड़ देता था, और उस पर GST भी लगाया जाता था; प्राधिकरण ने कहा कि मेन्यू में इसे स्वैच्छिक बताने से उल्लंघन ठीक नहीं होता। 10 नवंबर के आदेश में, जिसकी खबर 23 नवंबर को आई, कैफे को यह प्रथा बंद करने, ₹10,000 जुर्माना भरने और 15 दिन में अनुपालन रिपोर्ट देने का निर्देश दिया गया। यह आदेश CCPA के जुलाई 2022 के सर्विस चार्ज दिशानिर्देशों पर आधारित है, जिन्हें दिल्ली उच्च न्यायालय ने मार्च 2025 में सही ठहराया था।",
+     "why": "रेस्तरां सर्विस चार्ज अपने-आप नहीं जोड़ सकते; ग्राहक चाहें तभी इसे चुकाएँ।"
     },
     "mr": {
-     "headline": "मतदार यादी पुनरीक्षणावरील निवृत्त न्यायाधीशांच्या समितीने UP च्या मुख्यमंत्र्यांकडे 1.27 कोटी नावे वगळल्याच्या दाव्याचा आधार मागितला",
-     "text": "माजी सर्वोच्च न्यायालय न्यायाधीश Justice Madan B. Lokur यांच्या अध्यक्षतेखालील आणि निवृत्त न्यायाधीशांच्या Independent Commission on the Special Intensive Revision (SIR) ने 21 नोव्हेंबर रोजी उत्तर प्रदेशचे मुख्यमंत्री Yogi Adityanath यांना पत्र लिहिले. सुमारे 1.27 कोटी हिंदू मतदार यादीतून वगळले गेले, या त्यांच्या कथित दाव्यामागील साहित्य आणि SIR पद्धतीतील त्रुटी दाखवणारी कोणतीही माहिती आयोगाने मागितली असून पत्राची प्रत निवडणूक आयोगाला पाठवली आहे.",
-     "body": "Independent Commission on SIR"
+     "body": "Central Consumer Protection Authority",
+     "headline": "प्रत्येक बिलात 10% सर्व्हिस चार्ज लावल्याबद्दल ग्राहक प्राधिकरणाकडून दिल्लीच्या Gumbad Cafe ला ₹10,000 दंड",
+     "text": "Central Consumer Protection Authority ला आढळले की जुन्या दिल्लीतील या रेस्टॉरंटचे बिलिंग सॉफ्टवेअर प्रत्येक बिलात आपोआप 10% सर्व्हिस चार्ज जोडत होते आणि त्यावर GST ही आकारला जात होता; मेन्यूमध्ये तो ऐच्छिक असल्याचे लिहिल्याने उल्लंघन दूर होत नाही, असे प्राधिकरणाने म्हटले. 10 नोव्हेंबरच्या आदेशात, ज्याची बातमी 23 नोव्हेंबरला आली, कॅफेला ही पद्धत बंद करण्याचे, ₹10,000 दंड भरण्याचे आणि 15 दिवसांत अनुपालन अहवाल देण्याचे निर्देश दिले. हा आदेश CCPA च्या जुलै 2022 मधील सर्व्हिस चार्ज मार्गदर्शक तत्त्वांवर आधारित आहे, ज्यांना दिल्ली उच्च न्यायालयाने मार्च 2025 मध्ये वैध ठरवले होते.",
+     "why": "रेस्टॉरंट सर्व्हिस चार्ज आपोआप लावू शकत नाहीत; ग्राहकांची इच्छा असेल तरच तो द्यायचा."
     }
    }
   }

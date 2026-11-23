@@ -1,6 +1,244 @@
 [
  {
   "edition": {
+   "edition_id": "2026-11-22-am",
+   "iso": "2026-11-22",
+   "slot": "10 AM",
+   "dateShort": "22 Nov 2026",
+   "dateLong": "Sunday, 22 November 2026 · Morning edition",
+   "window": "News from 10:00 AM IST, 21 November to 10:00 AM IST, 22 November 2026"
+  },
+  "items": [
+   {
+    "cat": "Judiciary",
+    "region": "All India",
+    "body": "Supreme Court of India",
+    "headline": "Justice Joymalya Bagchi suggests round-the-clock AI courts for mutual consent divorces",
+    "text": "Speaking at the JusTech National Conclave at Dharmashastra National Law University, Jabalpur on 21 November, Supreme Court judge Justice Joymalya Bagchi proposed moving mutual consent divorce cases to 24x7 AI-run courts, pointing to over five crore pending cases. He also suggested AI help with procedural matters such as affidavits and time extensions, and AI-predicted outcomes in cheque bounce, land acquisition and recovery cases, but said human judges must keep the final say in constitutional cases.",
+    "why": "A sitting Supreme Court judge is openly backing AI for routine case types, which could shape how courts handle pendency.",
+    "date": "21 Nov 2026",
+    "src": "https://www.barandbench.com/news/supreme-court-justice-joymalya-bagchi-bats-for-dedicated-ai-courts-to-decide-mutual-consent-divorce-cases",
+    "srcName": "Bar & Bench",
+    "i18n": {
+     "hi": {
+      "headline": "Justice Joymalya Bagchi ने आपसी सहमति से तलाक के मामलों के लिए चौबीसों घंटे चलने वाली AI अदालतों का सुझाव दिया",
+      "text": "21 नवंबर को Dharmashastra National Law University, Jabalpur में JusTech National Conclave में बोलते हुए सर्वोच्च न्यायालय के न्यायाधीश Justice Joymalya Bagchi ने कहा कि आपसी सहमति से तलाक के मामले 24x7 चलने वाली AI अदालतों को सौंपे जाएँ, क्योंकि पाँच करोड़ से ज़्यादा मामले लंबित हैं। उन्होंने हलफ़नामे और समय-विस्तार जैसे प्रक्रियात्मक कामों में AI की मदद और चेक बाउंस, भूमि अधिग्रहण और वसूली के मामलों में AI से संभावित नतीजे बताने का भी सुझाव दिया, लेकिन कहा कि संवैधानिक मामलों में अंतिम फ़ैसला इंसानी न्यायाधीश का ही रहना चाहिए।",
+      "why": "सर्वोच्च न्यायालय के एक मौजूदा न्यायाधीश सामान्य किस्म के मामलों में AI के इस्तेमाल का खुलकर समर्थन कर रहे हैं, जिससे लंबित मामलों से निपटने का तरीका बदल सकता है।",
+      "body": "सर्वोच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "परस्पर संमतीने घटस्फोटाच्या प्रकरणांसाठी चोवीस तास चालणारी AI न्यायालये असावीत: Justice Joymalya Bagchi",
+      "text": "21 नोव्हेंबर रोजी Dharmashastra National Law University, Jabalpur येथील JusTech National Conclave मध्ये बोलताना सर्वोच्च न्यायालयाचे न्यायाधीश Justice Joymalya Bagchi यांनी परस्पर संमतीने घटस्फोटाची प्रकरणे 24x7 चालणाऱ्या AI न्यायालयांकडे द्यावीत, असे सुचवले, कारण पाच कोटींहून अधिक प्रकरणे प्रलंबित आहेत. प्रतिज्ञापत्रे, मुदतवाढ अशा प्रक्रियात्मक कामांत AI ची मदत आणि चेक बाउन्स, भूसंपादन व वसुली प्रकरणांत AI ने संभाव्य निकाल सांगावेत, असेही त्यांनी सुचवले; मात्र घटनात्मक प्रकरणांत अंतिम निर्णय मानवी न्यायाधीशांकडेच राहिला पाहिजे, असे ते म्हणाले.",
+      "why": "सर्वोच्च न्यायालयाचे विद्यमान न्यायाधीश नेहमीच्या प्रकारच्या प्रकरणांसाठी AI चा उघड पुरस्कार करत आहेत, त्यामुळे प्रलंबित प्रकरणे हाताळण्याची पद्धत बदलू शकते.",
+      "body": "सर्वोच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Madhya Pradesh",
+    "body": "Madhya Pradesh High Court",
+    "headline": "MP High Court Chief Justice Alpesh Y Kogje lists where AI can help courts, warns of new digital divide",
+    "text": "At the same DNLU Jabalpur conclave on 21 November, Chief Justice Alpesh Y Kogje said AI could assist with case registration and file scrutiny, guide citizens to the right forum, help legal services authorities find undertrials who need lawyers, and group similar cases for consistent rulings. He cautioned that court services should not become digital-only, should work in local languages and for persons with disabilities, and must keep human accountability, noting that the same AI that translates a judgment can also invent a precedent.",
+    "date": "21 Nov 2026",
+    "src": "https://www.barandbench.com/news/where-can-ai-tools-be-put-to-use-in-legal-field-mp-high-court-chief-justice-alpesh-y-kogje-answers",
+    "srcName": "Bar & Bench",
+    "i18n": {
+     "hi": {
+      "headline": "MP उच्च न्यायालय के मुख्य न्यायाधीश Alpesh Y Kogje ने बताया अदालतों में AI कहाँ मदद कर सकता है, नई डिजिटल खाई की चेतावनी दी",
+      "text": "21 नवंबर को DNLU Jabalpur के इसी सम्मेलन में मुख्य न्यायाधीश Alpesh Y Kogje ने कहा कि AI मामलों के पंजीकरण और फ़ाइलों की जाँच में, नागरिकों को सही मंच तक पहुँचाने में, विधिक सेवा प्राधिकरणों को वकील की ज़रूरत वाले विचाराधीन क़ैदियों को खोजने में और एक जैसे मामलों को साथ रखकर एकसमान फ़ैसले देने में मदद कर सकता है। उन्होंने आगाह किया कि अदालती सेवाएँ केवल डिजिटल न बनें, स्थानीय भाषाओं और दिव्यांगजनों के लिए सुलभ हों और इंसानी जवाबदेही बनी रहे; उन्होंने कहा कि जो AI निर्णय का अनुवाद करता है, वही कोई झूठी नज़ीर भी गढ़ सकता है।",
+      "body": "मध्य प्रदेश उच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "MP उच्च न्यायालयाचे मुख्य न्यायाधीश Alpesh Y Kogje यांनी सांगितले न्यायालयांत AI कुठे उपयोगी ठरू शकते; नव्या डिजिटल दरीचा इशारा",
+      "text": "21 नोव्हेंबर रोजी DNLU Jabalpur येथील याच परिषदेत मुख्य न्यायाधीश Alpesh Y Kogje म्हणाले की प्रकरणांची नोंदणी व फाइल तपासणी, नागरिकांना योग्य मंचापर्यंत पोहोचवणे, विधी सेवा प्राधिकरणांना वकिलाची गरज असलेले कच्चे कैदी शोधणे आणि सारख्या प्रकरणांचे गट करून एकसमान निर्णय देणे यात AI मदत करू शकते. न्यायालयीन सेवा केवळ डिजिटल होऊ नयेत, त्या स्थानिक भाषांत आणि दिव्यांगांसाठी सुलभ असाव्यात आणि मानवी उत्तरदायित्व कायम राहावे, असा इशारा त्यांनी दिला; निकालाचा अनुवाद करणारे AI च खोटा पूर्वनिर्णयही तयार करू शकते, असे ते म्हणाले.",
+      "body": "मध्य प्रदेश उच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Judiciary",
+    "region": "All India",
+    "body": "Supreme Court of India",
+    "headline": "Justice BV Nagarathna calls for one-third share for women lawyers on government panels",
+    "text": "Supreme Court judge Justice BV Nagarathna said women lawyers should get one-third representation on government panels, including those for public sector undertakings and legal aid. Delivering the first Cornelia Sorabji Memorial Lecture at Somerville College, Oxford, on 18 November (reported on 21 November), she compared the idea to the one-third reservation for women in local bodies and the women's reservation in legislatures, saying formal equality is not enough where exclusion has shaped an institution.",
+    "date": "21 Nov 2026",
+    "src": "https://www.livelaw.in/top-stories/women-lawyers-must-have-13rd-representation-in-government-panels-justice-bv-nagarathna-559410",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "Justice BV Nagarathna ने सरकारी पैनलों में महिला वकीलों को एक-तिहाई हिस्सेदारी देने की माँग की",
+      "text": "सर्वोच्च न्यायालय की न्यायाधीश Justice BV Nagarathna ने कहा कि सरकारी पैनलों में, जिनमें सार्वजनिक उपक्रमों और विधिक सहायता के पैनल भी शामिल हैं, महिला वकीलों को एक-तिहाई प्रतिनिधित्व मिलना चाहिए। 18 नवंबर को Somerville College, Oxford में पहला Cornelia Sorabji Memorial Lecture देते हुए (रिपोर्ट 21 नवंबर को आई) उन्होंने इसकी तुलना स्थानीय निकायों में महिलाओं के एक-तिहाई आरक्षण और विधायिकाओं में महिला आरक्षण से की, और कहा कि जहाँ किसी संस्था में लंबे समय से बहिष्कार रहा हो, वहाँ केवल औपचारिक समानता काफ़ी नहीं है।",
+      "body": "सर्वोच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "सरकारी पॅनेलवर महिला वकिलांना एक-तृतीयांश वाटा द्यावा: Justice BV Nagarathna",
+      "text": "सर्वोच्च न्यायालयाच्या न्यायाधीश Justice BV Nagarathna यांनी सांगितले की सार्वजनिक उपक्रम आणि विधी सहाय्य यांच्या पॅनेलसह सरकारी पॅनेलवर महिला वकिलांना एक-तृतीयांश प्रतिनिधित्व मिळाले पाहिजे. 18 नोव्हेंबर रोजी Somerville College, Oxford येथे पहिले Cornelia Sorabji Memorial Lecture देताना (बातमी 21 नोव्हेंबरला प्रसिद्ध) त्यांनी याची तुलना स्थानिक स्वराज्य संस्थांतील महिलांच्या एक-तृतीयांश आरक्षणाशी आणि विधिमंडळांतील महिला आरक्षणाशी केली; ज्या संस्थेत दीर्घकाळ वगळले गेले आहे तिथे केवळ औपचारिक समानता पुरेशी नाही, असे त्या म्हणाल्या.",
+      "body": "सर्वोच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Delhi",
+    "body": "Supreme Court of India",
+    "headline": "Judicial independence is non-negotiable, says Justice KV Viswanathan at book launch",
+    "text": "Supreme Court judge Justice KV Viswanathan, launching advocate Akash Vajpai's book 'Freedom on Trial' in New Delhi, said an independent judiciary is essential for the rule of law. Recalling colonial-era trials, he said they show what happens when procedure is bent to serve power, that fair hearings and the right to appeal are not mere technicalities, and that a courageous Bar matters.",
+    "date": "21 Nov 2026",
+    "src": "https://www.livelaw.in/top-stories/independence-of-judiciary-is-non-negotiable-justice-kv-viswanathan-559480",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "न्यायपालिका की स्वतंत्रता पर कोई समझौता नहीं हो सकता: पुस्तक विमोचन में Justice KV Viswanathan",
+      "text": "सर्वोच्च न्यायालय के न्यायाधीश Justice KV Viswanathan ने New Delhi में अधिवक्ता Akash Vajpai की पुस्तक 'Freedom on Trial' का विमोचन करते हुए कहा कि क़ानून के राज के लिए स्वतंत्र न्यायपालिका ज़रूरी है। औपनिवेशिक दौर के मुक़दमों को याद करते हुए उन्होंने कहा कि ये दिखाते हैं कि जब प्रक्रिया को सत्ता के हिसाब से मोड़ा जाता है तो क्या होता है, निष्पक्ष सुनवाई और अपील का अधिकार केवल तकनीकी बातें नहीं हैं, और एक साहसी बार भी बहुत मायने रखता है।",
+      "body": "सर्वोच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "न्यायव्यवस्थेच्या स्वातंत्र्याबाबत तडजोड नाही: पुस्तक प्रकाशनात Justice KV Viswanathan",
+      "text": "सर्वोच्च न्यायालयाचे न्यायाधीश Justice KV Viswanathan यांनी New Delhi येथे वकील Akash Vajpai यांच्या 'Freedom on Trial' पुस्तकाचे प्रकाशन करताना सांगितले की कायद्याच्या राज्यासाठी स्वतंत्र न्यायव्यवस्था आवश्यक आहे. वसाहतकालीन खटल्यांची आठवण करून देत ते म्हणाले की प्रक्रिया सत्तेसाठी वाकवली की काय होते हे हे खटले दाखवतात, निष्पक्ष सुनावणी आणि अपिलाचा अधिकार या केवळ तांत्रिक बाबी नाहीत आणि धाडसी वकील वर्गही महत्त्वाचा असतो.",
+      "body": "सर्वोच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Delhi",
+    "body": "Delhi High Court",
+    "headline": "Delhi HC's Justice Manmeet Arora urges law firms not to stop hiring fresh graduates because of AI",
+    "text": "Delhi High Court judge Justice Manmeet Pritam Singh Arora told the first meeting of the Indian Commercial Litigators' Forum in New Delhi that law firms must keep training young lawyers even as they adopt AI to cut costs. She said hiring only lawyers with three years' experience would leave the profession without future talent; the event was held on 20 November and reported on 21 November.",
+    "date": "21 Nov 2026",
+    "src": "https://www.barandbench.com/news/train-young-lawyers-justice-manmeet-arora-urges-law-firms-cutting-costs-with-ai",
+    "srcName": "Bar & Bench",
+    "i18n": {
+     "hi": {
+      "headline": "दिल्ली उच्च न्यायालय की Justice Manmeet Arora ने लॉ फ़र्मों से कहा, AI के कारण नए स्नातकों की भर्ती बंद न करें",
+      "text": "दिल्ली उच्च न्यायालय की न्यायाधीश Justice Manmeet Pritam Singh Arora ने New Delhi में Indian Commercial Litigators' Forum की पहली बैठक में कहा कि लागत घटाने के लिए AI अपनाते हुए भी लॉ फ़र्मों को युवा वकीलों को प्रशिक्षण देते रहना चाहिए। उन्होंने कहा कि केवल तीन साल के अनुभव वाले वकीलों को रखने से पेशे में आगे प्रतिभा की कमी हो जाएगी; यह कार्यक्रम 20 नवंबर को हुआ और इसकी रिपोर्ट 21 नवंबर को आई।",
+      "body": "दिल्ली उच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "AI मुळे नव्या पदवीधरांची भरती थांबवू नका: दिल्ली उच्च न्यायालयाच्या Justice Manmeet Arora यांचे लॉ फर्मना आवाहन",
+      "text": "दिल्ली उच्च न्यायालयाच्या न्यायाधीश Justice Manmeet Pritam Singh Arora यांनी New Delhi येथे Indian Commercial Litigators' Forum च्या पहिल्या बैठकीत सांगितले की खर्च कमी करण्यासाठी AI वापरत असतानाही लॉ फर्मनी तरुण वकिलांना प्रशिक्षण देणे सुरू ठेवले पाहिजे. फक्त तीन वर्षांचा अनुभव असलेलेच वकील घेतले तर व्यवसायात पुढे गुणवान लोकांची कमतरता येईल, असे त्या म्हणाल्या; हा कार्यक्रम 20 नोव्हेंबरला झाला आणि बातमी 21 नोव्हेंबरला आली.",
+      "body": "दिल्ली उच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Telangana",
+    "body": "Supreme Court of India",
+    "headline": "CJI Surya Kant suggests compulsory legal aid work for law students to graduate",
+    "text": "Opening the Commonwealth Legal Education Association's first international conference on legal education in Hyderabad on 21 November, CJI Surya Kant proposed that a minimum period of legal aid work be made compulsory for graduation, with extra credit for students who do more. He said legal aid clinics should be judged by the real help they give, and that practical training should be built into core law subjects with proper supervision.",
+    "why": "If taken up by regulators, this could change what law students must do to earn their degree.",
+    "date": "21 Nov 2026",
+    "src": "https://www.livelaw.in/top-stories/legal-aid-work-be-made-compulsory-for-every-student-to-graduate-cji-surya-kant-559431",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "CJI Surya Kant का सुझाव: डिग्री के लिए क़ानून के छात्रों का विधिक सहायता कार्य अनिवार्य हो",
+      "text": "21 नवंबर को Hyderabad में Commonwealth Legal Education Association के पहले अंतरराष्ट्रीय विधि शिक्षा सम्मेलन का उद्घाटन करते हुए CJI Surya Kant ने सुझाव दिया कि स्नातक होने के लिए एक न्यूनतम अवधि का विधिक सहायता कार्य अनिवार्य किया जाए और इससे ज़्यादा काम करने वाले छात्रों को अतिरिक्त क्रेडिट मिले। उन्होंने कहा कि विधिक सहायता क्लिनिकों को उनकी असली मदद से आँका जाए और व्यावहारिक प्रशिक्षण को उचित निगरानी के साथ मुख्य विषयों में शामिल किया जाए।",
+      "why": "यदि नियामक इसे अपनाते हैं, तो क़ानून की डिग्री पाने की शर्तें बदल सकती हैं।",
+      "body": "सर्वोच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "पदवीसाठी विधी विद्यार्थ्यांना विधी सहाय्य कार्य सक्तीचे करावे: CJI Surya Kant यांची सूचना",
+      "text": "21 नोव्हेंबर रोजी Hyderabad येथे Commonwealth Legal Education Association च्या पहिल्या आंतरराष्ट्रीय विधी शिक्षण परिषदेचे उद्घाटन करताना CJI Surya Kant यांनी सुचवले की पदवीसाठी किमान काही काळ विधी सहाय्य कार्य सक्तीचे करावे आणि त्यापेक्षा जास्त काम करणाऱ्या विद्यार्थ्यांना अतिरिक्त क्रेडिट द्यावे. विधी सहाय्य केंद्रांचे मूल्यमापन त्यांनी प्रत्यक्ष किती मदत केली यावर व्हावे आणि प्रात्यक्षिक प्रशिक्षण योग्य देखरेखीसह मुख्य विषयांत समाविष्ट करावे, असे ते म्हणाले.",
+      "why": "नियामकांनी ही सूचना स्वीकारल्यास कायद्याची पदवी मिळवण्याच्या अटी बदलू शकतात.",
+      "body": "सर्वोच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "All India",
+    "body": "Supreme Court of India",
+    "headline": "No student should be punished on an AI-detector score alone, says CJI Surya Kant",
+    "text": "At the same Hyderabad conference, CJI Surya Kant said law schools should not treat AI-detection software as proof of cheating, as such tools often wrongly flag writing by non-native English speakers. He advised against a blanket ban on AI and asked law schools to set clear rules in advance on permitted and disclosed AI use, and to redesign assessments, for example by adding oral explanations.",
+    "date": "21 Nov 2026",
+    "src": "https://www.livelaw.in/top-stories/no-student-should-be-penalised-based-on-ai-detection-tool-alone-cji-surya-kant-559448",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "केवल AI डिटेक्टर के स्कोर पर किसी छात्र को सज़ा न दी जाए: CJI Surya Kant",
+      "text": "Hyderabad के उसी सम्मेलन में CJI Surya Kant ने कहा कि लॉ स्कूल AI पहचानने वाले सॉफ़्टवेयर को नकल का सबूत न मानें, क्योंकि ऐसे टूल अक्सर उन छात्रों के लेखन को ग़लत तरीके से पकड़ लेते हैं जिनकी मातृभाषा अंग्रेज़ी नहीं है। उन्होंने AI पर पूरी पाबंदी के ख़िलाफ़ सलाह दी और कहा कि लॉ स्कूल पहले से साफ़ नियम बनाएँ कि AI का कौन सा उपयोग अनुमत है और किसकी जानकारी देनी होगी, और मूल्यांकन के तरीके बदलें, जैसे मौखिक व्याख्या जोड़ना।",
+      "body": "सर्वोच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "फक्त AI डिटेक्टरच्या गुणांवर कोणत्याही विद्यार्थ्याला शिक्षा नको: CJI Surya Kant",
+      "text": "Hyderabad येथील त्याच परिषदेत CJI Surya Kant म्हणाले की लॉ स्कूलनी AI ओळखणाऱ्या सॉफ्टवेअरला कॉपीचा पुरावा मानू नये, कारण इंग्रजी मातृभाषा नसलेल्या विद्यार्थ्यांचे लेखन अशी साधने अनेकदा चुकीने पकडतात. AI वर पूर्ण बंदी घालू नये, तर कोणता AI वापर चालेल आणि कोणता जाहीर करावा लागेल याचे स्पष्ट नियम आधीच ठरवावेत आणि तोंडी स्पष्टीकरणासारखे बदल करून मूल्यमापन पद्धती बदलाव्यात, असे त्यांनी सांगितले.",
+      "body": "सर्वोच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Tripura",
+    "body": "High Court of Tripura",
+    "headline": "Tripura High Court invites applications for 8 Law Clerk-cum-Legal Research Assistant posts; apply by 25 November",
+    "text": "The High Court of Tripura has invited applications for eight Law Clerk-cum-Legal Research Assistant posts. Law graduates can apply, and fresh graduates may apply with a provisional certificate; applications in the prescribed format must reach the Registrar General by 25 November 2026.",
+    "date": "21 Nov 2026",
+    "src": "https://www.livelaw.in/job-updates/law-clerks-cum-legal-research-assistant-vacancy-at-high-court-of-tripura-559409",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "त्रिपुरा उच्च न्यायालय में 8 Law Clerk-cum-Legal Research Assistant पदों के लिए आवेदन; अंतिम तिथि 25 नवंबर",
+      "text": "High Court of Tripura ने Law Clerk-cum-Legal Research Assistant के आठ पदों के लिए आवेदन माँगे हैं। क़ानून स्नातक आवेदन कर सकते हैं और नए स्नातक अस्थायी (प्रोविज़नल) प्रमाणपत्र के साथ भी आवेदन कर सकते हैं; तय प्रारूप में आवेदन 25 नवंबर 2026 तक Registrar General के कार्यालय में पहुँचना चाहिए।",
+      "body": "त्रिपुरा उच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "त्रिपुरा उच्च न्यायालयात 8 Law Clerk-cum-Legal Research Assistant पदांसाठी अर्ज; शेवटची तारीख 25 नोव्हेंबर",
+      "text": "High Court of Tripura ने Law Clerk-cum-Legal Research Assistant च्या आठ पदांसाठी अर्ज मागवले आहेत. कायद्याचे पदवीधर अर्ज करू शकतात आणि नवे पदवीधर तात्पुरत्या (प्रोव्हिजनल) प्रमाणपत्रासह अर्ज करू शकतात; विहित नमुन्यातील अर्ज 25 नोव्हेंबर 2026 पर्यंत Registrar General यांच्या कार्यालयात पोहोचणे आवश्यक आहे.",
+      "body": "त्रिपुरा उच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Madhya Pradesh",
+    "body": "Directorate General of Foreign Trade",
+    "headline": "DGFT invites applications for 3 Young Professional (Legal) posts at Indore; ₹56,000 a month",
+    "text": "The Directorate General of Foreign Trade has invited applications for three Young Professional (Legal) posts, with applications going to its Indore office. Candidates need an LLB, at least one year of relevant experience and computer skills, and must be under 40; the pay is ₹56,000 and the last date to apply by email is 30 November 2026.",
+    "date": "21 Nov 2026",
+    "src": "https://www.verdictum.in/job-updates/directorate-general-of-foreign-trade-1626191",
+    "srcName": "Verdictum",
+    "i18n": {
+     "hi": {
+      "headline": "DGFT में Indore के लिए 3 Young Professional (Legal) पदों पर आवेदन; ₹56,000 मासिक",
+      "text": "Directorate General of Foreign Trade ने Young Professional (Legal) के तीन पदों के लिए आवेदन माँगे हैं, आवेदन उसके Indore कार्यालय को भेजे जाएँगे। उम्मीदवार के पास LLB, कम से कम एक साल का संबंधित अनुभव और कंप्यूटर का ज्ञान होना चाहिए और आयु 40 वर्ष तक होनी चाहिए; वेतन ₹56,000 है और ईमेल से आवेदन की अंतिम तिथि 30 नवंबर 2026 है।",
+      "body": "Directorate General of Foreign Trade"
+     },
+     "mr": {
+      "headline": "DGFT मध्ये Indore साठी 3 Young Professional (Legal) पदांसाठी अर्ज; दरमहा ₹56,000",
+      "text": "Directorate General of Foreign Trade ने Young Professional (Legal) च्या तीन पदांसाठी अर्ज मागवले असून अर्ज त्यांच्या Indore कार्यालयाकडे जातील. उमेदवाराकडे LLB, किमान एक वर्षाचा संबंधित अनुभव आणि संगणकाचे ज्ञान असावे आणि वय 40 पर्यंत असावे; वेतन ₹56,000 असून ईमेलद्वारे अर्ज करण्याची शेवटची तारीख 30 नोव्हेंबर 2026 आहे.",
+      "body": "Directorate General of Foreign Trade"
+     }
+    }
+   },
+   {
+    "cat": "Other Legal News",
+    "region": "Uttar Pradesh",
+    "body": "Independent Commission on SIR",
+    "headline": "Retired judges' panel on voter-roll revision asks UP Chief Minister for data behind 1.27 crore exclusion claim",
+    "text": "The Independent Commission on the Special Intensive Revision (SIR) of electoral rolls, chaired by former Supreme Court judge Justice Madan B. Lokur and made up of retired judges, wrote to Uttar Pradesh Chief Minister Yogi Adityanath on 21 November. It asked for the material behind his reported claim that about 1.27 crore Hindus were left out of the voters' list, and any data showing flaws in the SIR method, and sent a copy to the Election Commission.",
+    "date": "21 Nov 2026",
+    "src": "https://www.livelaw.in/top-stories/independent-sir-commission-writes-to-uttar-pradesh-chief-minister-seeking-details-of-claim-on-exclusion-of-127-crore-electors-559405",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "मतदाता सूची पुनरीक्षण पर सेवानिवृत्त न्यायाधीशों के पैनल ने UP के मुख्यमंत्री से 1.27 करोड़ नाम हटने के दावे का आधार माँगा",
+      "text": "पूर्व सर्वोच्च न्यायालय न्यायाधीश Justice Madan B. Lokur की अध्यक्षता वाले और सेवानिवृत्त न्यायाधीशों से बने Independent Commission on the Special Intensive Revision (SIR) ने 21 नवंबर को उत्तर प्रदेश के मुख्यमंत्री Yogi Adityanath को पत्र लिखा। आयोग ने उनके उस कथित दावे के समर्थन में सामग्री माँगी कि लगभग 1.27 करोड़ हिंदू मतदाता सूची से बाहर रह गए, साथ ही SIR की पद्धति में कमियाँ दिखाने वाला कोई डेटा भी माँगा, और पत्र की प्रति चुनाव आयोग को भेजी।",
+      "body": "Independent Commission on SIR"
+     },
+     "mr": {
+      "headline": "मतदार यादी पुनरीक्षणावरील निवृत्त न्यायाधीशांच्या समितीने UP च्या मुख्यमंत्र्यांकडे 1.27 कोटी नावे वगळल्याच्या दाव्याचा आधार मागितला",
+      "text": "माजी सर्वोच्च न्यायालय न्यायाधीश Justice Madan B. Lokur यांच्या अध्यक्षतेखालील आणि निवृत्त न्यायाधीशांच्या Independent Commission on the Special Intensive Revision (SIR) ने 21 नोव्हेंबर रोजी उत्तर प्रदेशचे मुख्यमंत्री Yogi Adityanath यांना पत्र लिहिले. सुमारे 1.27 कोटी हिंदू मतदार यादीतून वगळले गेले, या त्यांच्या कथित दाव्यामागील साहित्य आणि SIR पद्धतीतील त्रुटी दाखवणारी कोणतीही माहिती आयोगाने मागितली असून पत्राची प्रत निवडणूक आयोगाला पाठवली आहे.",
+      "body": "Independent Commission on SIR"
+     }
+    }
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-11-21-am",
    "iso": "2026-11-21",
    "slot": "10 AM",
