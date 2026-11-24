@@ -1,6 +1,137 @@
 [
  {
   "edition": {
+   "edition_id": "2026-11-23-am",
+   "iso": "2026-11-23",
+   "slot": "10 AM",
+   "dateShort": "23 Nov 2026",
+   "dateLong": "Monday, 23 November 2026 · Morning edition",
+   "window": "News from 10:00 AM IST, 22 November to 10:00 AM IST, 23 November 2026"
+  },
+  "items": [
+   {
+    "cat": "Judiciary",
+    "region": "Maharashtra",
+    "body": "Supreme Court of India",
+    "headline": "Supreme Court's Justice PB Varale tells lawyers never to file misleading AI-generated pleadings",
+    "text": "Speaking in Marathi at a legal education programme in Mumbai organised by the Bar Council of Maharashtra and Goa, Justice Prasanna B Varale welcomed court technology such as SUPACE and SUVAS but warned of AI risks like made-up citations, deepfakes and privacy concerns. He told over 3,000 advocates present, and 325 bar associations joining by video, not to rely blindly on chatbots. Justice AS Chandurkar, also present, urged senior lawyers to mentor juniors on courtroom conduct.",
+    "why": "Courts across India are seeing fake AI-generated citations in filings, and lawyers are answerable for what they file.",
+    "date": "23 Nov 2026",
+    "src": "https://www.barandbench.com/news/never-rely-blindly-on-chatbots-or-submit-misleading-ai-generated-filings-supreme-court-justice-pb-varale",
+    "srcName": "Bar & Bench",
+    "i18n": {
+     "hi": {
+      "body": "भारत का सर्वोच्च न्यायालय",
+      "headline": "सर्वोच्च न्यायालय के Justice PB Varale ने वकीलों से कहा – AI से बनी भ्रामक याचिकाएँ कभी दाखिल न करें",
+      "text": "मुंबई में Bar Council of Maharashtra and Goa द्वारा आयोजित एक विधि शिक्षा कार्यक्रम में मराठी में बोलते हुए Justice Prasanna B Varale ने SUPACE और SUVAS जैसी अदालती तकनीक की सराहना की, लेकिन फर्जी हवालों (citations), डीपफेक और निजता जैसे AI के खतरों से आगाह किया। उन्होंने वहाँ मौजूद 3,000 से अधिक वकीलों और वीडियो से जुड़े 325 बार एसोसिएशनों से कहा कि चैटबॉट पर आँख मूँदकर भरोसा न करें। कार्यक्रम में मौजूद Justice AS Chandurkar ने वरिष्ठ वकीलों से जूनियर वकीलों को अदालती आचरण सिखाने का आग्रह किया।",
+      "why": "देशभर की अदालतों में AI से बने फर्जी हवाले सामने आ रहे हैं, और दाखिल किए गए दस्तावेज़ों की जिम्मेदारी वकील की ही होती है।"
+     },
+     "mr": {
+      "body": "भारताचे सर्वोच्च न्यायालय",
+      "headline": "सर्वोच्च न्यायालयाचे Justice PB Varale यांचा वकिलांना सल्ला – AI ने तयार केलेली दिशाभूल करणारी याचिका कधीही दाखल करू नका",
+      "text": "मुंबईत Bar Council of Maharashtra and Goa ने आयोजित केलेल्या विधी शिक्षण कार्यक्रमात मराठीतून बोलताना Justice Prasanna B Varale यांनी SUPACE आणि SUVAS सारख्या न्यायालयीन तंत्रज्ञानाचे कौतुक केले, मात्र बनावट संदर्भ (citations), डीपफेक आणि गोपनीयता यांसारख्या AI च्या धोक्यांबद्दल सावध केले. उपस्थित 3,000 हून अधिक वकील आणि व्हिडिओद्वारे जोडलेल्या 325 बार असोसिएशनना त्यांनी चॅटबॉटवर डोळे झाकून विश्वास न ठेवण्यास सांगितले. कार्यक्रमाला उपस्थित Justice AS Chandurkar यांनी ज्येष्ठ वकिलांनी कनिष्ठ वकिलांना न्यायालयीन शिष्टाचार शिकवावा, असे आवाहन केले.",
+      "why": "देशभरातील न्यायालयांत AI ने तयार केलेले बनावट संदर्भ आढळत आहेत, आणि दाखल केलेल्या कागदपत्रांची जबाबदारी वकिलाचीच असते."
+     }
+    }
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Haryana",
+    "body": "Haryana State Legal Services Authority",
+    "headline": "Haryana's special Lok Adalat for cheque-bounce cases settles 7,966 cases worth ₹81.83 crore",
+    "text": "The Haryana State Legal Services Authority held a special Lok Adalat on 21 November for cases under the Negotiable Instruments Act, mostly cheque dishonour disputes, across all 22 districts and 38 sub-divisions. It settled or disposed of 7,966 cases, with settlements totalling ₹81.83 crore. Member Secretary Deepak Aggarwal visited the Panchkula district court to review progress.",
+    "why": "Settling cheque-bounce disputes by agreement helps cut the backlog in Haryana's trial courts.",
+    "date": "22 Nov 2026",
+    "src": "https://www.livelaw.in/news-updates/haryana-state-legal-services-authority-special-lok-adalat-negotiable-instruments-act-cases-559491",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "body": "Haryana State Legal Services Authority",
+      "headline": "हरियाणा में चेक बाउंस मामलों की विशेष लोक अदालत में ₹81.83 करोड़ के 7,966 मामले निपटे",
+      "text": "Haryana State Legal Services Authority ने 21 नवंबर को Negotiable Instruments Act के मामलों, यानी मुख्य रूप से चेक बाउंस विवादों, के लिए सभी 22 जिलों और 38 उपमंडलों में विशेष लोक अदालत लगाई। इसमें 7,966 मामलों का आपसी सहमति से निपटारा या निस्तारण हुआ, और कुल ₹81.83 करोड़ के समझौते हुए। सदस्य सचिव Deepak Aggarwal ने पंचकूला जिला न्यायालय जाकर कामकाज की समीक्षा की।",
+      "why": "चेक बाउंस विवादों को आपसी सहमति से सुलझाने से हरियाणा की निचली अदालतों में लंबित मामलों का बोझ घटता है।"
+     },
+     "mr": {
+      "body": "Haryana State Legal Services Authority",
+      "headline": "हरियाणात चेक बाउन्स प्रकरणांसाठीच्या विशेष लोकअदालतीत ₹81.83 कोटींची 7,966 प्रकरणे निकाली",
+      "text": "Haryana State Legal Services Authority ने 21 नोव्हेंबर रोजी Negotiable Instruments Act अंतर्गत प्रकरणांसाठी, म्हणजे मुख्यतः चेक बाउन्स वादांसाठी, सर्व 22 जिल्हे आणि 38 उपविभागांत विशेष लोकअदालत घेतली. यात 7,966 प्रकरणे सामंजस्याने मिटली किंवा निकाली निघाली, आणि एकूण ₹81.83 कोटी रकमेच्या तडजोडी झाल्या. सदस्य सचिव Deepak Aggarwal यांनी पंचकुला जिल्हा न्यायालयाला भेट देऊन कामकाजाचा आढावा घेतला.",
+      "why": "चेक बाउन्स वाद सामंजस्याने मिटवल्याने हरियाणातील कनिष्ठ न्यायालयांवरील प्रलंबित प्रकरणांचा भार कमी होतो."
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Delhi",
+    "body": "National Law University Delhi",
+    "headline": "National Law University Delhi invites applications for IPR Chair Professor; apply by 25 November",
+    "text": "National Law University Delhi is hiring one full-time, contractual IPR Chair Professor under the DPIIT IPR Chair (SPRIHA scheme), at ₹1,50,000 a month. Eligible applicants include those qualified as Professor or Associate Professor with IPR experience, IP attorneys with at least 10 years' practice, or retired IP Office officials with a doctorate; the upper age limit is 70. Applications are online through the university's careers portal.",
+    "date": "22 Nov 2026",
+    "src": "https://livelaw.in/job-updates/ipr-chair-professor-vacancy-at-national-law-university-delhi-559487",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "body": "National Law University Delhi",
+      "headline": "National Law University Delhi ने IPR Chair Professor पद के लिए आवेदन मांगे; अंतिम तिथि 25 नवंबर",
+      "text": "National Law University Delhi, DPIIT IPR Chair (SPRIHA योजना) के तहत एक पूर्णकालिक, अनुबंध आधारित IPR Chair Professor की नियुक्ति कर रहा है, जिसका वेतन ₹1,50,000 प्रति माह है। IPR अनुभव वाले प्रोफेसर या एसोसिएट प्रोफेसर पद के योग्य व्यक्ति, कम से कम 10 साल की प्रैक्टिस वाले IP वकील, या डॉक्टरेट वाले सेवानिवृत्त IP Office अधिकारी आवेदन कर सकते हैं; अधिकतम आयु 70 वर्ष है। आवेदन विश्वविद्यालय के करियर पोर्टल पर ऑनलाइन करना है।"
+     },
+     "mr": {
+      "body": "National Law University Delhi",
+      "headline": "National Law University Delhi कडून IPR Chair Professor पदासाठी अर्ज मागवले; अंतिम तारीख 25 नोव्हेंबर",
+      "text": "National Law University Delhi, DPIIT IPR Chair (SPRIHA योजना) अंतर्गत एक पूर्णवेळ, करार तत्त्वावरील IPR Chair Professor नेमणार असून मासिक वेतन ₹1,50,000 आहे. IPR अनुभवासह प्राध्यापक किंवा सहयोगी प्राध्यापक पदासाठी पात्र व्यक्ती, किमान 10 वर्षे प्रॅक्टिस असलेले IP वकील, किंवा डॉक्टरेट असलेले निवृत्त IP Office अधिकारी अर्ज करू शकतात; कमाल वयोमर्यादा 70 वर्षे आहे. अर्ज विद्यापीठाच्या करिअर पोर्टलवर ऑनलाइन करायचा आहे."
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Tamil Nadu",
+    "body": "Archaeological Survey of India",
+    "headline": "Archaeological Survey of India seeks a Legal Consultant for its Chennai Circle; ₹70,000 a month",
+    "text": "The Archaeological Survey of India has invited applications for one Legal Consultant post at its Chennai Circle in Tamil Nadu, on a consolidated pay of ₹70,000 a month. Applicants need an LLB and at least 10 years of continuous experience handling administrative matters before the Central Administrative Tribunal or labour matters before the CGIT, High Court or Supreme Court; the age limit is 65. Applications can be sent by email or post by 1 December 2026.",
+    "date": "22 Nov 2026",
+    "src": "https://www.verdictum.in/job-updates/archaeological-survey-of-india-1626199",
+    "srcName": "Verdictum",
+    "i18n": {
+     "hi": {
+      "body": "Archaeological Survey of India",
+      "headline": "Archaeological Survey of India को चेन्नई सर्कल के लिए Legal Consultant की जरूरत; ₹70,000 प्रति माह",
+      "text": "Archaeological Survey of India ने तमिलनाडु के अपने चेन्नई सर्कल में Legal Consultant के एक पद के लिए आवेदन मांगे हैं, जिसका समेकित वेतन ₹70,000 प्रति माह है। आवेदक के पास LLB और Central Administrative Tribunal में प्रशासनिक मामलों या CGIT, उच्च न्यायालय या सर्वोच्च न्यायालय में श्रम मामलों को संभालने का कम से कम 10 साल का लगातार अनुभव होना चाहिए; अधिकतम आयु 65 वर्ष है। आवेदन 1 दिसंबर 2026 तक ईमेल या डाक से भेजे जा सकते हैं।"
+     },
+     "mr": {
+      "body": "Archaeological Survey of India",
+      "headline": "Archaeological Survey of India ला चेन्नई सर्कलसाठी Legal Consultant हवा; दरमहा ₹70,000",
+      "text": "Archaeological Survey of India ने तमिळनाडूतील आपल्या चेन्नई सर्कलमध्ये Legal Consultant च्या एका पदासाठी अर्ज मागवले असून एकत्रित वेतन दरमहा ₹70,000 आहे. उमेदवाराकडे LLB आणि Central Administrative Tribunal मधील प्रशासकीय प्रकरणे किंवा CGIT, उच्च न्यायालय वा सर्वोच्च न्यायालयातील कामगार प्रकरणे हाताळण्याचा किमान 10 वर्षांचा सलग अनुभव असावा; कमाल वयोमर्यादा 65 वर्षे आहे. अर्ज 1 डिसेंबर 2026 पर्यंत ईमेल किंवा पोस्टाने पाठवता येतील."
+     }
+    }
+   },
+   {
+    "cat": "Other Legal News",
+    "region": "Delhi",
+    "body": "Central Consumer Protection Authority",
+    "headline": "Consumer authority fines Delhi's Gumbad Cafe ₹10,000 for adding 10% service charge to every bill",
+    "text": "The Central Consumer Protection Authority found that the Old Delhi restaurant's billing software added a 10% service charge to every bill by default, with GST charged on top, and held that a menu note calling it voluntary did not cure the breach. In its 10 November order, reported on 23 November, it directed the cafe to stop the practice, pay a ₹10,000 penalty and file a compliance report within 15 days. The order relies on the CCPA's July 2022 service-charge guidelines, which the Delhi High Court upheld in March 2025.",
+    "why": "Restaurants cannot make a service charge automatic; diners pay it only if they choose to.",
+    "date": "23 Nov 2026",
+    "src": "https://livelaw.in/consumer-cases/ccpa-imposes-10000-penalty-on-delhis-gumbad-cafe-for-automatically-levying-10-service-charge-559523",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "body": "Central Consumer Protection Authority",
+      "headline": "हर बिल में 10% सर्विस चार्ज जोड़ने पर उपभोक्ता प्राधिकरण ने दिल्ली के Gumbad Cafe पर ₹10,000 का जुर्माना लगाया",
+      "text": "Central Consumer Protection Authority ने पाया कि पुरानी दिल्ली के इस रेस्तरां का बिलिंग सॉफ्टवेयर हर बिल में अपने-आप 10% सर्विस चार्ज जोड़ देता था, और उस पर GST भी लगाया जाता था; प्राधिकरण ने कहा कि मेन्यू में इसे स्वैच्छिक बताने से उल्लंघन ठीक नहीं होता। 10 नवंबर के आदेश में, जिसकी खबर 23 नवंबर को आई, कैफे को यह प्रथा बंद करने, ₹10,000 जुर्माना भरने और 15 दिन में अनुपालन रिपोर्ट देने का निर्देश दिया गया। यह आदेश CCPA के जुलाई 2022 के सर्विस चार्ज दिशानिर्देशों पर आधारित है, जिन्हें दिल्ली उच्च न्यायालय ने मार्च 2025 में सही ठहराया था।",
+      "why": "रेस्तरां सर्विस चार्ज अपने-आप नहीं जोड़ सकते; ग्राहक चाहें तभी इसे चुकाएँ।"
+     },
+     "mr": {
+      "body": "Central Consumer Protection Authority",
+      "headline": "प्रत्येक बिलात 10% सर्व्हिस चार्ज लावल्याबद्दल ग्राहक प्राधिकरणाकडून दिल्लीच्या Gumbad Cafe ला ₹10,000 दंड",
+      "text": "Central Consumer Protection Authority ला आढळले की जुन्या दिल्लीतील या रेस्टॉरंटचे बिलिंग सॉफ्टवेअर प्रत्येक बिलात आपोआप 10% सर्व्हिस चार्ज जोडत होते आणि त्यावर GST ही आकारला जात होता; मेन्यूमध्ये तो ऐच्छिक असल्याचे लिहिल्याने उल्लंघन दूर होत नाही, असे प्राधिकरणाने म्हटले. 10 नोव्हेंबरच्या आदेशात, ज्याची बातमी 23 नोव्हेंबरला आली, कॅफेला ही पद्धत बंद करण्याचे, ₹10,000 दंड भरण्याचे आणि 15 दिवसांत अनुपालन अहवाल देण्याचे निर्देश दिले. हा आदेश CCPA च्या जुलै 2022 मधील सर्व्हिस चार्ज मार्गदर्शक तत्त्वांवर आधारित आहे, ज्यांना दिल्ली उच्च न्यायालयाने मार्च 2025 मध्ये वैध ठरवले होते.",
+      "why": "रेस्टॉरंट सर्व्हिस चार्ज आपोआप लावू शकत नाहीत; ग्राहकांची इच्छा असेल तरच तो द्यायचा."
+     }
+    }
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-11-22-am",
    "iso": "2026-11-22",
    "slot": "10 AM",

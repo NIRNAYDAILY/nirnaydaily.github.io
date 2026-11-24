@@ -1,6 +1,42 @@
 [
  {
   "edition": {
+   "dateLong": "Monday, 23 November 2026",
+   "dateShort": "23 Nov 2026",
+   "window": "Orders and decisions passed or reported between 10:00 AM IST on 22 November 2026 and 10:00 AM IST on 23 November 2026"
+  },
+  "items": [
+   {
+    "tribunal": "NCLT",
+    "bench": "NCLT, Hyderabad",
+    "caseName": "K. Ravi Shankar v. Basai Steels and Power Private Limited & Anr.",
+    "citation": "2026 LLBiz NCLT (HYD) 1170",
+    "caseNo": "IA (CAA) No. 150 of 2026 in CP (CAA) No. 30/230/HDB/2026",
+    "coram": "Rajeev Bhardwaj (Judicial Member) and Sanjay Puri (Technical Member)",
+    "date": "Reported 23 Nov 2026",
+    "headline": "NCLT Hyderabad: Inherent powers cannot waive 10% shareholding threshold to object to amalgamation scheme",
+    "kind": "Held",
+    "text": "A shareholder holding about 8.5% of Basai Steels and Power challenged the 1:413 share-exchange ratio in a proposed amalgamation and sought fresh valuation. The Tribunal held that the 10% threshold in the proviso to Section 230(4) of the Companies Act, 2013 is an objective test that cannot be relaxed under Rule 11 of the NCLT Rules, and refused to club the holdings of the late shareholder's legal heirs who were not before it. The objection was dismissed as not maintainable without going into the merits.",
+    "tag": "Company Law / Schemes of Arrangement",
+    "src": "https://www.livelawbiz.com/nclt/inherent-powers-cannot-be-invoked-to-waive-10-shareholding-threshold-for-objecting-to-amalgamation-scheme-nclt-hyderabad-559520",
+    "srcName": "LiveLaw Biz"
+   },
+   {
+    "tribunal": "ITAT",
+    "bench": "ITAT, Jaipur",
+    "caseName": "Dinesh Singhal (assessee)",
+    "date": "Reported 23 Nov 2026",
+    "headline": "ITAT Jaipur upholds Rs 1.51 lakh Section 80GGC disallowance: NEFT payment and receipt alone do not prove genuine political donation",
+    "kind": "Held",
+    "text": "The assessee claimed a Section 80GGC deduction for an NEFT contribution to Rashtriya Samajwadi Party (Secular) for AY 2019-20; the case was reopened after a September 2022 search on registered unrecognised political parties. Relying on statements of party office-bearers that donations were returned in cash after deducting commission, the Tribunal held that a bank transfer and donation receipt by themselves do not establish a genuine contribution and upheld the disallowance.",
+    "tag": "Income Tax / Political Donations",
+    "src": "https://www.taxscan.in/income-tax/neft-payment-and-donation-receipt-alone-do-not-establish-genuine-political-contribution-itat-upholds-151-lakh-s80ggc-disallowance-under-income-tax-act-read-order",
+    "srcName": "Taxscan"
+   }
+  ]
+ },
+ {
+  "edition": {
    "dateLong": "Sunday, 22 November 2026",
    "dateShort": "22 Nov 2026",
    "window": "Orders and decisions passed or reported between 10:00 AM IST on 21 November 2026 and 10:00 AM IST on 22 November 2026"
