@@ -1,0 +1,913 @@
+{
+ "edition": {
+  "vol": "Vol. I · No. 29",
+  "badge": "",
+  "dateLong": "Tuesday, 24 November 2026",
+  "dateShort": "24 Nov 2026",
+  "window": "Judgments and orders passed between 10:00 AM IST on 23 November 2026 and 10:00 AM IST on 24 November 2026",
+  "next": "Next edition: tomorrow at 10:00 AM IST"
+ },
+ "highlights": [
+  {
+   "court": "Supreme Court of India",
+   "caseName": "Mamata Banerjee v. Election Commission of India",
+   "text": "West Bengal SIR: Supreme Court tells tribunals to hear deleted voters' appeals first, asks ECI to add tribunals",
+   "ref": "sc:1"
+  },
+  {
+   "court": "Supreme Court of India",
+   "caseName": "Jasir Bilal Wani @ Danish v. National Investigation Agency",
+   "text": "Supreme Court refuses bail to Red Fort blast accused, rejects default bail argument",
+   "ref": "sc:1"
+  },
+  {
+   "court": "Supreme Court of India",
+   "caseName": "DCIT v. RIL",
+   "text": "Supreme Court upholds quashing of reassessments against merged Reliance entities",
+   "ref": "sc:1"
+  },
+  {
+   "court": "High Court of Delhi",
+   "caseName": "Deepak Tyagi v. Bar Council of India",
+   "text": "BCI suspension of lawyer in Justice Talwant Singh incident quashed",
+   "ref": "hc:Delhi"
+  },
+  {
+   "court": "High Court of Madras",
+   "caseName": "P Rajasekaran v. Deputy Director, ED",
+   "text": "ED need not separately prove likelihood of concealment to attach proceeds of crime",
+   "ref": "hc:Madras"
+  },
+  {
+   "court": "High Court of Karnataka",
+   "caseName": "Sri Farooq Mugili vs State of Karnataka & Another",
+   "text": "Motorcycle rally raising political slogans not an unlawful assembly without common object",
+   "ref": "hc:Karnataka"
+  }
+ ],
+ "chapters": [
+  {
+   "id": "sc",
+   "num": "I",
+   "title": "Supreme Court of India",
+   "short": "Supreme Court",
+   "tab": "SC",
+   "seat": "New Delhi",
+   "pages": [
+    {
+     "title": "Judgments",
+     "note": "No Supreme Court judgment delivered in this window was reported; Monday's reported rulings were orders."
+    },
+    {
+     "title": "Orders",
+     "items": [
+      {
+       "caseName": "Mamata Banerjee v. Election Commission of India",
+       "caseNo": "W.P.(C) No. 129 of 2026 (with W.P.(C) No. 1089/2025 and W.P.(C) No. 737/2025)",
+       "coram": "CJI Surya Kant, Justice Joymalya Bagchi, Justice Vipul Pancholi",
+       "date": "Reported 23 Nov 2026",
+       "headline": "West Bengal SIR: Supreme Court tells tribunals to hear deleted voters' appeals first, asks ECI to add tribunals",
+       "kind": "Pending",
+       "text": "The Court asked the ECI, in consultation with the Calcutta High Court Chief Justice, to increase the number of election appellate tribunals and find central premises for them in Kolkata. Appeals by voters excluded from the rolls are to be prioritised, while appeals against inclusions are deferred for now. The ECI must list the Kolkata Municipal Corporation constituencies and prioritise appeals from there within a week; West Bengal must file a reply.",
+       "why": "Directly affects voters struck off the rolls during the special intensive revision.",
+       "tag": "Election Law",
+       "src": "https://www.verdictum.in/supreme-court/directs-priority-disposal-appeals-against-voter-exclusion-eci-increase-appellate-tribunals-1626297",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "Shanmugha Arts, Science, Technology & Research Academy (SASTRA) v. The State of Tamil Nadu",
+       "caseNo": "SLP(C) No. 2359-2360/2026",
+       "coram": "CJI Surya Kant, Justice Joymalya Bagchi, Justice V. Mohana",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Supreme Court bars coercive action against SASTRA University over 31 acres of government land",
+       "kind": "Pending",
+       "text": "After Tamil Nadu said it would not accept SASTRA's offer of about 30 acres of alternative land and Rs 22 crore towards occupation charges, the Court granted leave and made its earlier interim stay on eviction absolute. The State must file a counter affidavit, and the appeal against the Madras High Court's eviction ruling will be heard finally on merits.",
+       "why": "Eviction of a major private university stays on hold until the final hearing.",
+       "tag": "Land / Administrative Law",
+       "src": "https://www.verdictum.in/supreme-court/bars-tamil-nadu-coercive-action-sastra-university-government-land-1626278",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "Jasir Bilal Wani @ Danish v. National Investigation Agency",
+       "caseNo": "SLP(Crl) No. 22055/2026 (Diary No. 63602/2026)",
+       "coram": "Justice Prashant Kumar Mishra, Justice Shree Chandrashekhar",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Supreme Court refuses bail to Red Fort blast accused, rejects default bail argument",
+       "kind": "Held",
+       "text": "The Court dismissed the special leave petition of an accused in the November 2025 Red Fort car explosion and left the Delhi High Court's refusal of bail undisturbed. He had argued that because the FIR came after the BNSS took effect, the UAPA provision allowing custody to be extended to 180 days did not apply. The High Court had read the old CrPC reference in Section 43D(2) UAPA as pointing to Section 187 BNSS.",
+       "why": "Leaves in place the High Court's reading that the UAPA 180-day extension works with the BNSS.",
+       "tag": "Criminal Law / UAPA",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-denies-bail-to-2025-red-fort-blast-accused-559611",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Imran Ahmad v. Shashi Prakash Goyal",
+       "caseNo": "Diary No. 60722-2026",
+       "coram": "CJI Surya Kant, Justice Joymalya Bagchi, Justice V. Mohana",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Saharanpur mosque demolition: Supreme Court sends contempt plea over bulldozer judgment to Allahabad High Court",
+       "kind": "Held",
+       "text": "The Court declined to hear a contempt petition alleging that a century-old mosque in Saharanpur was demolished in breach of its November 2024 bulldozer-action guidelines. It sent the record to the Allahabad High Court to establish the facts first, adding that consequences will follow if a violation is found.",
+       "tag": "Constitutional Law / Contempt",
+       "src": "https://www.livelaw.in/top-stories/supreme-court-saharanpur-mosque-demolition-contempt-bulldozer-judgment-plea-rejected-petitioner-to-approach-high-court-559688",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Loganathan v. State of Tamil Nadu",
+       "coram": "Justice B.V. Nagarathna, Justice Sanjeev Sachdeva",
+       "date": "Decided 23 Nov 2026",
+       "headline": "New Supreme Court bench narrows pan-India unauthorised construction case",
+       "kind": "Pending",
+       "text": "The reconstituted bench disposed of all pending intervention and individual applications and left parties free to go to municipal bodies, tribunals or High Courts. It limited the case to suggestions from States and Union Territories on curbing building bye-law violations, asked for their affidavits, and said it would not monitor individual demolitions. Next listed on 6 January 2027.",
+       "why": "Ends the Supreme Court's direct monitoring of individual building-violation cases nationwide.",
+       "tag": "Urban Planning / Municipal Law",
+       "src": "https://www.barandbench.com/news/litigation/new-supreme-court-bench-trims-scope-of-pan-india-unauthorised-construction-case",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "caseName": "Abdul Raheman Dhantiya v. The State of Gujarat",
+       "caseNo": "Crl.A. No. 517/2018",
+       "coram": "Justice M.M. Sundresh, Justice Prasanna B. Varale",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Godhra train burning case: Supreme Court suspends life sentence of convict on medical grounds",
+       "kind": "Held",
+       "text": "With Gujarat raising no objection to relief confined to medical grounds, the Court suspended the life sentence of a 2002 Godhra train burning convict who has served about 18 years. The trial court will set the conditions, and the merits of the appeal were not addressed.",
+       "tag": "Criminal Law",
+       "src": "https://verdictum.in/supreme-court/godhra-train-burning-suspends-life-sentence-convict-medical-grounds-1626288",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "DCIT v. RIL",
+       "coram": "Justice P.S. Narasimha, Justice Alok Aradhe",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Supreme Court upholds quashing of reassessments against merged Reliance entities",
+       "kind": "Held",
+       "text": "The Court dismissed the Income Tax Department's appeal against a February 2025 Bombay High Court ruling. The High Court had held void the assessments for 1993-94 to 1995-96 issued in the names of Reliance Polyethylene and Reliance Polypropylene, which had already merged into Reliance Industries, noting the assessing officer knew of the merger.",
+       "why": "Reaffirms that tax proceedings against a company that no longer exists after amalgamation are invalid.",
+       "tag": "Tax Law",
+       "src": "https://www.barandbench.com/news/litigation/supreme-court-upholds-quashing-of-it-departments-proceedings-against-defunct-reliance-companies",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "CJI Surya Kant, Justice Joymalya Bagchi, Justice V. Mohana",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Supreme Court issues notice on PIL seeking anti-defection law reforms",
+       "kind": "Notice",
+       "text": "On a PIL by A Sethu, the Court sought responses from the Centre, the Election Commission, the Law Commission and the Law and Parliamentary Affairs ministries. The petition asks that a legislator's resignation should not automatically end pending disqualification proceedings, and that Speakers decide on the genuineness of resignations through reasoned, time-bound orders.",
+       "why": "Could tighten how resignations are used to escape disqualification under the Tenth Schedule.",
+       "tag": "Constitutional Law",
+       "src": "https://www.verdictum.in/supreme-court/response-centre-ec-pil-reforms-anti-defection-law-1626287",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "Justice Vikram Nath, Justice Aparesh Kumar Singh",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Plea against politicians' remarks on judiciary sent to CJI for placing before Justice Datta-led bench",
+       "kind": "Pending",
+       "text": "On a petition by two advocates naming the Centre, the Election Commission, the Congress and several political leaders as respondents, the bench felt it should be heard by the bench led by Justice Dipankar Datta, which is already hearing contempt proceedings over remarks against the CJI. The registry was told to place the papers before the Chief Justice; the merits were not addressed.",
+       "tag": "Contempt / Constitutional Law",
+       "src": "https://www.verdictum.in/supreme-court/political-parties-raising-their-agenda-restriction-1626296",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "CJI Surya Kant, Justice Joymalya Bagchi, Justice V. Mohana",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Supreme Court dismisses PIL on Uttar Pradesh municipal electoral rolls; correction right is personal",
+       "kind": "Held",
+       "text": "The Court dismissed a PIL by Ruchi Kaushik seeking corrections to Uttar Pradesh municipal electoral rolls over mismatched house numbers. It said the right to correct an entry belongs to each voter and generally cannot be pursued collectively through a PIL, and that affected voters can approach the election authorities.",
+       "tag": "Election Law",
+       "src": "https://www.barandbench.com/news/supreme-court-dismisses-pil-seeking-corrections-to-municipal-electoral-rolls-in-uttar-pradesh",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "CJI Surya Kant, Justice Joymalya Bagchi, Justice V. Mohana",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Delhi pollution: Supreme Court weighs allowing only BS-VI vehicles, seeks status reports from NCR States",
+       "kind": "Pending",
+       "text": "The Court said it is considering allowing only BS-VI vehicles in Delhi, if not the whole NCR, and floated keeping commercial vehicles out of the city in favour of clean last-mile transport; no formal direction was issued. Haryana, Punjab and Uttar Pradesh were asked to file status reports on steps to cut particulate pollution.",
+       "why": "Signals possible restrictions on older vehicles in Delhi.",
+       "tag": "Environmental Law",
+       "src": "https://www.barandbench.com/news/supreme-court-says-will-consider-allowing-only-bs-vi-vehicles-in-delhi-ncr",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "CJI Surya Kant, Justice Joymalya Bagchi, Justice V. Mohana",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Kalyani family dispute: Supreme Court suggests arbitration after mediation fails",
+       "kind": "Pending",
+       "text": "Told that mediation led by former judge L. Nageswara Rao had failed, the Court urged the parties in the dispute between Babasaheb Kalyani and his sister Sugandha Hiremath to try arbitration covering family property and corporate matters. It offered to suggest a mutually acceptable arbitrator and listed the case after two weeks.",
+       "tag": "Arbitration / Family Business",
+       "src": "https://www.barandbench.com/news/litigation/kalyani-family-dispute-supreme-court-suggests-arbitration-after-mediation-fails",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "CJI Surya Kant (recused)",
+       "date": "Reported 23 Nov 2026",
+       "headline": "CJI Surya Kant recuses from Supertech homebuyers' plea; special bench to be formed",
+       "kind": "Pending",
+       "text": "The CJI recused from a plea concerning Supertech's insolvency and homebuyers, in which orders had been reserved on 16 November, because one applicant is known to him. He said a special bench will be constituted to hear it.",
+       "tag": "Insolvency / Real Estate",
+       "src": "https://www.verdictum.in/supreme-court/cji-surya-kant-recuses-himself-hearing-plea-related-supertech-projects-1626277",
+       "srcName": "Verdictum"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hc",
+   "num": "II",
+   "title": "High Courts",
+   "short": "High Courts",
+   "tab": "HC",
+   "roster": [
+    "Allahabad",
+    "Andhra Pradesh",
+    "Bombay",
+    "Calcutta",
+    "Chhattisgarh",
+    "Delhi",
+    "Gauhati",
+    "Gujarat",
+    "Himachal Pradesh",
+    "Jammu & Kashmir and Ladakh",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "Madhya Pradesh",
+    "Madras",
+    "Manipur",
+    "Meghalaya",
+    "Orissa",
+    "Patna",
+    "Punjab & Haryana",
+    "Rajasthan",
+    "Sikkim",
+    "Telangana",
+    "Tripura",
+    "Uttarakhand"
+   ],
+   "seats": {
+    "Allahabad": "Prayagraj",
+    "Andhra Pradesh": "Amaravati",
+    "Bombay": "Mumbai",
+    "Calcutta": "Kolkata",
+    "Chhattisgarh": "Bilaspur",
+    "Delhi": "New Delhi",
+    "Gauhati": "Guwahati",
+    "Gujarat": "Ahmedabad",
+    "Himachal Pradesh": "Shimla",
+    "Jammu & Kashmir and Ladakh": "Srinagar & Jammu",
+    "Jharkhand": "Ranchi",
+    "Karnataka": "Bengaluru",
+    "Kerala": "Kochi",
+    "Madhya Pradesh": "Jabalpur",
+    "Madras": "Chennai",
+    "Manipur": "Imphal",
+    "Meghalaya": "Shillong",
+    "Orissa": "Cuttack",
+    "Patna": "Patna",
+    "Punjab & Haryana": "Chandigarh",
+    "Rajasthan": "Jodhpur",
+    "Sikkim": "Gangtok",
+    "Telangana": "Hyderabad",
+    "Tripura": "Agartala",
+    "Uttarakhand": "Nainital"
+   },
+   "pages": [
+    {
+     "court": "Allahabad",
+     "items": [
+      {
+       "caseName": "Sunil vs. State of U.P. and 5 Others",
+       "citation": "2026 LiveLaw (AB) 965",
+       "coram": "Justice Saurabh Shyam Shamshery",
+       "date": "Reported 23 Nov 2026",
+       "headline": "SDM pulled up for appearing from drawing room; review orders quashed",
+       "kind": "Held",
+       "text": "The Court sought explanations from the Chitrakoot SDM (Judicial) and the DM after the SDM appeared by video from his home. It quashed two unreasoned review orders in a pradhan election dispute, ordered the review to be decided afresh within four weeks, and sent its order to the Chief Secretary (Panchayati Raj) to consider an inquiry.",
+       "tag": "Panchayat Elections / Decorum",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-chitrakoot-sdm-drawing-room-appearance-559570",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Sri Krishna Agrawal vs. State of U.P. and Another",
+       "citation": "2026 LiveLaw (AB) 964",
+       "coram": "Justice Subhash Vidyarthi",
+       "date": "Reported 23 Nov 2026",
+       "headline": "An advocate's online article is not law, Court tells counsel",
+       "kind": "Held",
+       "text": "The Court faulted counsel for relying on another advocate's online article and on a Supreme Court ruling that hurt his own case. It dismissed the criminal revision against refusal of an FIR over unpaid sale consideration, noting the deeds recorded full payment and any bounced cheque falls under Section 138 NI Act.",
+       "tag": "Criminal / Advocacy",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-advocate-online-article-not-law-559563",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "M/s Shiv Anant Enterprises v. State of U.P. and 3 others",
+       "citation": "2026 LiveLaw (AB) 971",
+       "coram": "Justice Prakash Padia and Justice Indrajeet Shukla",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Highest bidder has no vested right before formal contract",
+       "kind": "Held",
+       "text": "The Division Bench held that a bidder, even the highest one, only has a right to fair treatment until a formal contract is made, so cancellation of the tender could not be challenged. It found no mala fides but let the petitioner submit fresh consent within a week to do the work at the earlier lowest rate.",
+       "tag": "Tenders",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-highest-bidder-rights-equality-bid-unenforceable-formal-contract-559584",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Sadanand and others v. Kalu",
+       "coram": "Justice Syed Qamar Hasan Rizvi",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Executant's illness alone does not prove mental incapacity",
+       "kind": "Held",
+       "text": "The Court held that illness of the person signing a sale agreement does not shift the burden of proof; the party alleging fraud must first show impaired capacity and domination of will. It allowed the appeals, dismissed the suit to cancel the registered agreement, and decreed specific performance.",
+       "tag": "Contracts / Property",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-mere-illness-executant-registered-agreement-proving-fraud-onto-purchaser-559564",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Ravindra Kumar Tripathi v. Board of Revenue and others",
+       "coram": "Justice Arun Kumar",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Confirmed revenue auction cannot be reopened on belated objections",
+       "kind": "Held",
+       "text": "Once an auction is confirmed under Section 174 of the U.P. Land Revenue Act, 1901, the Commissioner cannot set it aside on late objections of irregularity, the Court held. It quashed the Commissioner's and Board of Revenue's orders, leaving parties free to sue for fraud under Section 175.",
+       "tag": "Revenue Law",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-commissioner-reopen-auction-sale-confirmed-land-revenue-act-559562",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Rakesh Kumar Pathak and another v. The State of U.P. and 4 others",
+       "coram": "Justice Kshitij Shailendra",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Legal heir need not physically possess land to seek mutation",
+       "kind": "Held",
+       "text": "The Court held that 'possession' under Section 33 of the U.P. Revenue Code means legal, not physical, possession. It declined to disturb orders recognising a claimed son of the deceased in revenue records, while leaving the brothers free to contest heirship in regular proceedings.",
+       "tag": "Revenue Law",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-possession-mutation-based-succession-legal-possession-559532",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Sri Gopi Kishan Khandelwal v. Smt Archana Tripathi",
+       "coram": "Justice Dr. Yogendra Kumar Srivastava",
+       "date": "Reported 23 Nov 2026",
+       "headline": "No additional defence after trial begins without due diligence",
+       "kind": "Held",
+       "text": "The Court dismissed an Article 227 petition by a defendant who, after final arguments in an eviction suit, sought to plead a pre-suit partition. He gave no explanation of how or when he learned of it, so due diligence was not shown.",
+       "tag": "Civil Procedure",
+       "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-additional-defence-written-statement-allowed-trial-begins-proof-due-diligence-559530",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "VKN v. SRT",
+       "caseNo": "First Appeal No. 998 of 2023",
+       "coram": "Justice Prakash Padia and Justice Indrajeet Shukla",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Father's duty to fund education shared with earning mother; share reduced",
+       "kind": "Held",
+       "text": "The Division Bench held both parents share the cost of supporting a child, and the mother's income can be weighed. It rejected the father's plea that his duty depended on custody, but cut his monthly share from Rs 15,000 to Rs 12,000 and ordered arrears cleared within two months.",
+       "tag": "Family / Maintenance",
+       "src": "https://www.verdictum.in/allahabad-high-court/vkn-v-srt-2026ahc2395597-db-husband-wife-child-maintenance-education-1626302",
+       "srcName": "Verdictum"
+      }
+     ]
+    },
+    {
+     "court": "Calcutta",
+     "items": [
+      {
+       "caseName": "Abhishek Banerjee v. State of West Bengal",
+       "coram": "Justice Saugata Bhattacharyya",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Abhishek Banerjee's protection from arrest in six cases extended to 26 Feb 2027",
+       "kind": "Pending",
+       "text": "The Court extended interim protection from coercive action for the TMC MP in six criminal cases until 26 February 2027 or further orders. It noted that investigations were incomplete, that the State's SLP against the earlier order was lying in defect, and that circumstances had not changed.",
+       "tag": "Criminal / Interim Protection",
+       "src": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-extends-interim-protection-from-arrest-to-abhishek-banerjee-in-six-criminal-cases-till-february-2027-559599",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Delhi",
+     "items": [
+      {
+       "caseName": "Naresh Kumar Gupta & Anr. v. State NCT of Delhi & Anr.",
+       "coram": "Justice Sachin Datta",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Later complaint cannot cure cognizance taken on police chargesheet under PCPNDT Act",
+       "kind": "Held",
+       "text": "The Court held that Section 28 of the PCPNDT Act bars cognizance except on a complaint by the Appropriate Authority, and this defect goes to the Magistrate's jurisdiction. A subsequent complaint by the Authority cannot regularise cognizance taken on a police chargesheet. The cognizance order was set aside and the Magistrate told to consider the Authority's complaint afresh.",
+       "tag": "Criminal / PCPNDT",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/subsequent-complaint-by-appropriate-authority-cant-cure-illegal-cognizance-taken-on-police-chargesheet-under-pcpndt-act-delhi-high-court-559539",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Payal v. Pooja Gupta",
+       "coram": "Justice Neena Bansal Krishna",
+       "date": "Reported 23 Nov 2026",
+       "headline": "PG accommodation is a licence, not a lease; Rent Control Act inapplicable",
+       "kind": "Held",
+       "text": "The Court said a paying guest only uses a room while the operator keeps overall control, so the arrangement is a licence. It dismissed the PG resident's second appeal against a possession decree, holding she could not claim Delhi Rent Control Act protection. An unregistered plain-paper agreement to buy rooms gave her no right to stay.",
+       "tag": "Property / Rent Control",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/pg-accommodation-more-in-nature-of-licence-than-lease-delhi-rent-control-act-not-applicable-high-court-559540",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Deepak Tyagi v. Bar Council of India",
+       "coram": "Justice Amit Mahajan",
+       "date": "Reported 23 Nov 2026",
+       "headline": "BCI suspension of lawyer in Justice Talwant Singh incident quashed",
+       "kind": "Held",
+       "text": "The Court quashed the Bar Council of India's interim suspension of the advocate over his conduct towards returning officer Justice Talwant Singh during the Bar Council of Delhi polls. He had apologised unconditionally and undertaken not to repeat the conduct, and Justice Singh accepted the apology, so continuing action served no purpose.",
+       "tag": "Advocates / Discipline",
+       "src": "https://www.barandbench.com/news/litigation/delhi-high-court-quashes-suspension-of-lawyer-who-manhandled-justice-talwant-singh-during-bcd-election",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "caseName": "N.Y. v. R.K.Y. and Others",
+       "citation": "2026:DHC:10250",
+       "caseNo": "W.P.(C) 12654/2026",
+       "coram": "Justice Swarana Kanta Sharma",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Senior Citizens Act authorities may order daughter-in-law's relocation, with safeguards",
+       "kind": "Held",
+       "text": "The Court held tribunals under the Senior Citizens Act can direct a daughter-in-law to leave a shared household where needed to protect elderly parents, but only after balancing competing rights. It upheld relocation in principle and replaced open-ended directions with fixed terms, including rent and deposit to be paid by the parents-in-law and restoration of possession on default.",
+       "tag": "Family / Senior Citizens",
+       "src": "https://www.verdictum.in/delhi-high-court/ny-v-rky-and-others-2026dhc10250-dw-act-right-to-residence-eviction-1626313",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "A & Anr. v. Union of India & Ors.",
+       "citation": "2026:DHC:10252",
+       "coram": "Justice Swarana Kanta Sharma",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Amritsar passport office location no bar to Delhi HC hearing plea against CARA",
+       "kind": "Held",
+       "text": "Adoptive parents sought a CARA no-objection certificate so their adopted daughter could move to Australia. The Court rejected the territorial-jurisdiction objection, holding that the passport office being in Amritsar does not oust its jurisdiction over relief sought against CARA. The matter is listed for arguments on merits on 2 December 2026.",
+       "tag": "Adoption / Jurisdiction",
+       "src": "https://www.verdictum.in/delhi-high-court/a-v-union-of-india-2026dhc10252-location-regional-passport-office-cara-1626303",
+       "srcName": "Verdictum"
+      },
+      {
+       "caseName": "Case title not yet reported",
+       "coram": "Justice Anish Dayal",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Qadeemi Masjid: Waqf Board told to answer worshipper's representation in four weeks",
+       "kind": "Pending",
+       "text": "In the plea to retain Qadeemi Masjid in the Krishi Bhawan compound amid Central Vista redevelopment, the Delhi Waqf Board argued the mosque is notified waqf property. The Court directed the Board to reply to a worshipper's representation within four weeks and listed the matter in January 2027. No interim restraint on demolition was reported.",
+       "tag": "Waqf / Central Vista",
+       "src": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-qadeemi-masjid-demolished-central-vista-redevelopment-559661",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Himachal Pradesh",
+     "items": [
+      {
+       "caseName": "Om Parkash and another v. Anita and others",
+       "citation": "2026:HHC:49849",
+       "coram": "Justice Sushil Kukreja",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Father and sisters of deceased bachelor not dependants for accident compensation",
+       "kind": "Held",
+       "text": "In a motor accident appeal, the Court held that only the mother of the unmarried deceased was a dependant, excluding the father and sisters. Applying a 40% future-prospects addition, it reduced the award from about Rs 17.2 lakh to Rs 11.79 lakh, payable to the mother.",
+       "tag": "Motor Accidents",
+       "src": "https://www.verdictum.in/himachal-high-court/om-parkash-v-anita-2026hhc49849-mother-father-sisters-dependent-deceased-motor-accident-1626261",
+       "srcName": "Verdictum"
+      }
+     ]
+    },
+    {
+     "court": "Jammu & Kashmir and Ladakh",
+     "items": [
+      {
+       "caseName": "Zaffer Ul Khan @ Zaffer Ullah Khan v. Member, J&K Special Tribunal, Jammu & Ors.",
+       "coram": "Justice Rajesh Sekhri",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Long possession and utility bills cannot save illegal construction",
+       "kind": "Held",
+       "text": "The Court dismissed in limine a challenge to a demolition notice under the J&K Control of Building Operations Act, 1988. Long occupation, utility bills and investment do not confer ownership or shield a structure built without approved plans, and disputes about the building's age belong in civil court.",
+       "tag": "Municipal / Building Law",
+       "src": "https://www.livelaw.in/high-court/jammu-kashmir/long-possession-electricity-bills-cannot-protect-illegal-construction-from-demolition-jk-high-court-dismisses-challenge-to-demolition-notice-559582",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Karnataka",
+     "items": [
+      {
+       "caseName": "Sri Farooq Mugili vs State of Karnataka & Another",
+       "coram": "Justice Suraj Govindaraj",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Motorcycle rally raising political slogans not an unlawful assembly without common object",
+       "kind": "Held",
+       "text": "The Court quashed proceedings against the petitioner, holding that 150-200 people on motorcycles shouting slogans do not form an unlawful assembly under Section 141 IPC without a shared unlawful object. The mahazar showed no property damage and witness statements did not support the alleged violence.",
+       "tag": "Criminal / Assembly",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-motorcycles-raising-political-slogans-unlawful-assembly-section141-ipc-559617",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Raja Hussain @ Raja @ Hussain vs. State of Karnataka & Another",
+       "coram": "Justice M. Nagaprasanna",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Woman's marital history no ground to disbelieve cruelty complaint",
+       "kind": "Held",
+       "text": "The Court said a complainant's previous marriages cannot by themselves discredit a cruelty allegation; only the presence of the offence's ingredients matters. It nonetheless quashed the Section 498A case because the allegations were bald and omnibus, adding that a chargesheet cannot cure a complaint that discloses no offence.",
+       "tag": "Criminal / Matrimonial",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-marriage-history-ground-disbelieve-criminal-allegation-559649",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "High Court of Karnataka v. Siddesh H & Others",
+       "coram": "Chief Justice Vibhu Bakhru and Justice K S Hemalekha",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Contempt against lawyers who disrupted CJ's court during strike call closed",
+       "kind": "Held",
+       "text": "The Division Bench accepted the unconditional apology of advocates accused of disrupting a hearing in the Chief Justice's court while urging lawyers to join a strike over attacks on advocates. Finding the apology sincere, it discharged them and closed the suo motu contempt case.",
+       "tag": "Contempt / Bar",
+       "src": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-closes-contempt-proceedings-advocates-disturbed-court-proceedings-559558",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Kerala",
+     "items": [
+      {
+       "caseName": "Archana P.S. and Ors. v. Sree Sankaracharya University of Sanskrit, Kalady and Ors.",
+       "citation": "2026:KER:89409",
+       "caseNo": "WP(C) 35256/2026",
+       "coram": "Justice P.V. Kunhikrishnan",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Student protest cannot be crushed by career-ending punishment",
+       "kind": "Held",
+       "text": "Disposing of a plea by 16 suspended students, the Court set aside the suspension, the inquiry committee, its report and the punishment order. It treated the roughly 84 days already spent under suspension as punishment, allowed fresh proceedings but barred re-suspension, and directed separate exams for the students within six weeks.",
+       "why": "Affirms that universities may curb violent protest but cannot use discipline to silence dissent.",
+       "tag": "Education / Free Speech",
+       "src": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-voltaires-principle-free-speech-university-forgive-student-protesters-559580",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Madras",
+     "items": [
+      {
+       "caseName": "Theeran Thirumurugan @ Thirumurugan v. State of Tamil Nadu and Another",
+       "citation": "2026 LiveLaw (Mad) 558",
+       "caseNo": "CRL OP(MD) No. 23314 of 2026",
+       "coram": "Justice R. Vijayakumar",
+       "date": "Reported 23 Nov 2026",
+       "headline": "FIR over video criticising CM's Karur job policy quashed",
+       "kind": "Held",
+       "text": "The Madurai Bench quashed the case against a man who posted a video criticising Chief Minister Vijay's decision to give government jobs to families of Karur stampede victims. Though the language was improper, the video was political comment with no incitement or false claim, so offences under Sections 352 and 353(2) BNS were not made out.",
+       "tag": "Free Speech / Criminal",
+       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-man-posting-video-criticising-karur-stampede-government-job-case-quashed-559638",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "P Rajasekaran v. Deputy Director, ED",
+       "coram": "Justice GR Swaminathan and Justice P Vadamalai",
+       "date": "Decided 23 Nov 2026",
+       "headline": "ED need not separately prove likelihood of concealment to attach proceeds of crime",
+       "kind": "Held",
+       "text": "The Division Bench held that once the ED has material to believe a person holds proceeds of crime, it need not separately show a likelihood of concealment before provisional attachment under Section 5(1) PMLA. Appeals arising from the Madurai granite quarrying case were dismissed and the attachment upheld.",
+       "tag": "PMLA",
+       "src": "https://www.barandbench.com/news/litigation/ed-can-attach-proceeds-of-crime-without-separately-establishing-likelihood-of-concealment-madras-high-court",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "caseName": "R Thrishuli v. The State and Others",
+       "caseNo": "WP Crl 3183 of 2026",
+       "coram": "Justice V Lakshminarayanan",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Plea for FIR against TVK MLA: State asked to verify if Collector complained",
+       "kind": "Pending",
+       "text": "Hearing a plea seeking an FIR against Kallakurichi MLA C Arul Vignesh over alleged obscene messages to a woman Collector, the Court indicated it would not order an FIR absent her complaint. It directed the State Public Prosecutor to obtain instructions from the Chief Secretary and the Collector, and adjourned the matter to 24 November.",
+       "tag": "Criminal / Women's Safety",
+       "src": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-kallakurichi-mla-fir-cannot-interfere-if-collector-not-given-complaint-559576",
+       "srcName": "LiveLaw"
+      }
+     ]
+    },
+    {
+     "court": "Punjab & Haryana",
+     "items": [
+      {
+       "caseName": "Shyam Singh Chauhan vs. Central Bureau of Investigation",
+       "citation": "2026 LiveLaw (PH) 415",
+       "caseNo": "FAO-1302-2026",
+       "coram": "Justice Manisha Batra",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Gravity of corruption alone no reason to refuse suspension of fixed-term sentence",
+       "kind": "Held",
+       "text": "The Court suspended the four-year sentence of an official convicted in a 2017 CBI bribery trap case, pending his appeal. It held that the seriousness of a corruption offence cannot by itself justify refusal, noting he had been on bail for about nine years without misuse.",
+       "tag": "Criminal / Corruption",
+       "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-gravity-of-corruption-offence-alone-not-an-exceptional-circumstance-deny-suspension-fixed-term-sentence-559614",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Kulwant Singh v State of Punjab",
+       "coram": "Justice Vikram Aggarwal",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Punjab to pay Rs 1 lakh to man challaned under NDPS for non-narcotic tablets",
+       "kind": "Held",
+       "text": "The Court quashed the NDPS FIR over 550 Tapentadol tablets after the salt was found not to be a narcotic, and ordered Rs 1 lakh compensation. It faulted the State for filing a challan despite that finding and called departmental action against the investigating officer a token step.",
+       "tag": "NDPS / Compensation",
+       "src": "https://www.barandbench.com/news/ph-high-court-orders-punjab-to-pay-1-lakh-to-man-booked-in-ndps-case-over-550-painkiller-tablets",
+       "srcName": "Bar & Bench"
+      }
+     ]
+    },
+    {
+     "court": "Rajasthan",
+     "items": [
+      {
+       "caseName": "Virendra Agrawal v. The Election Committee, Rajasthan High Court Bar Association, Jaipur & Ors.",
+       "citation": "2026:RJ-JP:47102",
+       "coram": "Justice Anand Sharma",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Bar association can require proof of active practice to vote",
+       "kind": "Held",
+       "text": "The Jaipur Bench quashed the Election Committee's 17 November notice dropping the two-vakalatnama or two-order-sheet condition for voters, and restored the earlier notices. It held the requirement reasonable, observing that mere continued membership should not confer voting rights.",
+       "tag": "Bar Elections",
+       "src": "https://www.verdictum.in/rajasthan-high-court/virendra-agrawal-v-the-election-committee-rajasthan-high-court-bar-association-jaipur-2026rj-jp47102-election-committee-vakalatnamas-1626304",
+       "srcName": "Verdictum"
+      }
+     ]
+    },
+    {
+     "court": "Telangana",
+     "items": [
+      {
+       "caseName": "Smt. C. Rajya Lakshmi v. Sri Thoka Venkateswarlu & Ors",
+       "coram": "Justice Gadi Praveen Kumar",
+       "date": "Reported 23 Nov 2026",
+       "headline": "120-day written statement limit applies only to commercial suits",
+       "kind": "Held",
+       "text": "The Court ruled that the 120-day cap under Order VIII Rule 1 CPC governs commercial disputes, not ordinary civil suits. Time taken by the trial court to decide a plaint-rejection application, pending here for about five years, cannot be held against the defendant. The trial court's order refusing the written statement was set aside.",
+       "why": "Defendants in ordinary suits cannot be shut out for delays caused by the court itself.",
+       "tag": "Civil Procedure",
+       "src": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-120day-limit-filing-written-statement-applicable-ordinary-civil-suits-559535",
+       "srcName": "LiveLaw"
+      },
+      {
+       "caseName": "Aerrabolu Venkataiah and another v. Aerrabolu Lingaiah and others",
+       "caseNo": "Arising from O.S. No. E/664/2026",
+       "coram": "Justice G.M. Mohiuddin",
+       "date": "Reported 23 Nov 2026",
+       "headline": "Agency court cannot decide land dispute between non-tribals",
+       "kind": "Held",
+       "text": "The Court found both parties to the agricultural land dispute were non-tribals and no tribal interest was involved, so the Agency Court's special jurisdiction did not apply. It set aside the injunction and police-protection orders passed by the Agency Divisional Officer, Achampet, and directed return of the plaint for filing before the competent civil court.",
+       "tag": "Land / Scheduled Areas",
+       "src": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-sets-aside-agency-court-injunction-police-protection-non-tribal-land-dispute-559533",
+       "srcName": "LiveLaw"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dc",
+   "num": "III",
+   "title": "District & Sessions Courts",
+   "short": "District Courts",
+   "tab": "District",
+   "pages": [
+    {
+     "title": "Reported rulings",
+     "items": [
+      {
+       "court": "Sessions Court, Patiala House Courts, New Delhi",
+       "caseName": "State of Delhi v Shubham Tyagi",
+       "coram": "Additional Sessions Judge Dhirendra Rana",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Bail denied to PG operator in Satya Niketan building collapse",
+       "kind": "Held",
+       "text": "The court refused regular bail to an advocate who operated the PG building that collapsed on 6 September, killing seven people. It found he could foresee the danger from illegal construction, had control as the tenant, and might threaten witnesses as the trial is at an early stage.",
+       "tag": "Criminal / Bail",
+       "src": "https://www.livelaw.in/news-updates/satya-niketan-building-collapse-delhi-court-denies-bail-to-pg-operator-says-he-prioritised-financial-benefits-over-students-safety-559692",
+       "srcName": "LiveLaw"
+      },
+      {
+       "court": "Judicial Magistrate First Class, Saket Court, Delhi",
+       "caseName": "Case title not yet reported",
+       "coram": "JMFC Anam Rais Khan",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Non-bailable warrant issued against Dhruv Rathee in 2018 defamation case",
+       "kind": "Pending",
+       "text": "A Delhi magistrate issued a non-bailable warrant against YouTuber Dhruv Rathee in a 2018 criminal defamation complaint by Vikas Pandey over a video. Earlier summons and a bailable warrant had gone unserved as Rathee mainly lives abroad. The matter is next listed on 3 December.",
+       "tag": "Criminal / Defamation",
+       "src": "https://www.barandbench.com/news/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case",
+       "srcName": "Bar & Bench"
+      },
+      {
+       "court": "Additional District and Sessions Court, Taliparamba, Kerala",
+       "caseName": "The Station House Officer v. T.P. Biju and Others",
+       "caseNo": "SC 982/2017",
+       "coram": "Sri. Prasanth K.N.",
+       "date": "Decided 23 Nov 2026",
+       "headline": "Three convicted, 16 acquitted in CPI(M) leader CV Dhanraj murder case",
+       "kind": "Held",
+       "text": "The court convicted three accused of murder in the 2016 killing of CPI(M) leader C.V. Dhanraj but cleared them of conspiracy and rioting charges. The other 16 accused were acquitted for want of evidence, with the court criticising the probe as mechanical. Sentencing is posted for 25 November.",
+       "tag": "Criminal / Murder",
+       "src": "https://www.livelaw.in/news-updates/kerala-court-cv-dhanraj-murder-case-559618",
+       "srcName": "LiveLaw"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Source: Mamata Banerjee v. Election Commission of India (Verdictum)",
+   "url": "https://www.verdictum.in/supreme-court/directs-priority-disposal-appeals-against-voter-exclusion-eci-increase-appellate-tribunals-1626297"
+  },
+  {
+   "title": "Source: Shanmugha Arts, Science, Technology & Research Academy (SASTRA) v. The (Verdictum)",
+   "url": "https://www.verdictum.in/supreme-court/bars-tamil-nadu-coercive-action-sastra-university-government-land-1626278"
+  },
+  {
+   "title": "Source: Jasir Bilal Wani @ Danish v. National Investigation Agency (LiveLaw)",
+   "url": "https://www.livelaw.in/top-stories/supreme-court-denies-bail-to-2025-red-fort-blast-accused-559611"
+  },
+  {
+   "title": "Source: Imran Ahmad v. Shashi Prakash Goyal (LiveLaw)",
+   "url": "https://www.livelaw.in/top-stories/supreme-court-saharanpur-mosque-demolition-contempt-bulldozer-judgment-plea-rejected-petitioner-to-approach-high-court-559688"
+  },
+  {
+   "title": "Source: Loganathan v. State of Tamil Nadu (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/litigation/new-supreme-court-bench-trims-scope-of-pan-india-unauthorised-construction-case"
+  },
+  {
+   "title": "Source: Abdul Raheman Dhantiya v. The State of Gujarat (Verdictum)",
+   "url": "https://verdictum.in/supreme-court/godhra-train-burning-suspends-life-sentence-convict-medical-grounds-1626288"
+  },
+  {
+   "title": "Source: DCIT v. RIL (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/litigation/supreme-court-upholds-quashing-of-it-departments-proceedings-against-defunct-reliance-companies"
+  },
+  {
+   "title": "Source: Case title not yet reported (Verdictum)",
+   "url": "https://www.verdictum.in/supreme-court/response-centre-ec-pil-reforms-anti-defection-law-1626287"
+  },
+  {
+   "title": "Source: Case title not yet reported (Verdictum)",
+   "url": "https://www.verdictum.in/supreme-court/political-parties-raising-their-agenda-restriction-1626296"
+  },
+  {
+   "title": "Source: Case title not yet reported (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/supreme-court-dismisses-pil-seeking-corrections-to-municipal-electoral-rolls-in-uttar-pradesh"
+  },
+  {
+   "title": "Source: Case title not yet reported (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/supreme-court-says-will-consider-allowing-only-bs-vi-vehicles-in-delhi-ncr"
+  },
+  {
+   "title": "Source: Case title not yet reported (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/litigation/kalyani-family-dispute-supreme-court-suggests-arbitration-after-mediation-fails"
+  },
+  {
+   "title": "Source: Case title not yet reported (Verdictum)",
+   "url": "https://www.verdictum.in/supreme-court/cji-surya-kant-recuses-himself-hearing-plea-related-supertech-projects-1626277"
+  },
+  {
+   "title": "Source: Smt. C. Rajya Lakshmi v. Sri Thoka Venkateswarlu & Ors (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-120day-limit-filing-written-statement-applicable-ordinary-civil-suits-559535"
+  },
+  {
+   "title": "Source: Aerrabolu Venkataiah and another v. Aerrabolu Lingaiah and others (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-sets-aside-agency-court-injunction-police-protection-non-tribal-land-dispute-559533"
+  },
+  {
+   "title": "Source: Archana P.S. and Ors. v. Sree Sankaracharya University of Sanskrit, Ka (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-voltaires-principle-free-speech-university-forgive-student-protesters-559580"
+  },
+  {
+   "title": "Source: Naresh Kumar Gupta & Anr. v. State NCT of Delhi & Anr. (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/delhi-high-court/subsequent-complaint-by-appropriate-authority-cant-cure-illegal-cognizance-taken-on-police-chargesheet-under-pcpndt-act-delhi-high-court-559539"
+  },
+  {
+   "title": "Source: Payal v. Pooja Gupta (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/delhi-high-court/pg-accommodation-more-in-nature-of-licence-than-lease-delhi-rent-control-act-not-applicable-high-court-559540"
+  },
+  {
+   "title": "Source: Deepak Tyagi v. Bar Council of India (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/litigation/delhi-high-court-quashes-suspension-of-lawyer-who-manhandled-justice-talwant-singh-during-bcd-election"
+  },
+  {
+   "title": "Source: N.Y. v. R.K.Y. and Others (Verdictum)",
+   "url": "https://www.verdictum.in/delhi-high-court/ny-v-rky-and-others-2026dhc10250-dw-act-right-to-residence-eviction-1626313"
+  },
+  {
+   "title": "Source: A & Anr. v. Union of India & Ors. (Verdictum)",
+   "url": "https://www.verdictum.in/delhi-high-court/a-v-union-of-india-2026dhc10252-location-regional-passport-office-cara-1626303"
+  },
+  {
+   "title": "Source: Case title not yet reported (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-qadeemi-masjid-demolished-central-vista-redevelopment-559661"
+  },
+  {
+   "title": "Source: Theeran Thirumurugan @ Thirumurugan v. State of Tamil Nadu and Another (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-man-posting-video-criticising-karur-stampede-government-job-case-quashed-559638"
+  },
+  {
+   "title": "Source: P Rajasekaran v. Deputy Director, ED (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/litigation/ed-can-attach-proceeds-of-crime-without-separately-establishing-likelihood-of-concealment-madras-high-court"
+  },
+  {
+   "title": "Source: R Thrishuli v. The State and Others (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-kallakurichi-mla-fir-cannot-interfere-if-collector-not-given-complaint-559576"
+  },
+  {
+   "title": "Source: Sunil vs. State of U.P. and 5 Others (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-chitrakoot-sdm-drawing-room-appearance-559570"
+  },
+  {
+   "title": "Source: Sri Krishna Agrawal vs. State of U.P. and Another (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-advocate-online-article-not-law-559563"
+  },
+  {
+   "title": "Source: M/s Shiv Anant Enterprises v. State of U.P. and 3 others (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-highest-bidder-rights-equality-bid-unenforceable-formal-contract-559584"
+  },
+  {
+   "title": "Source: Sadanand and others v. Kalu (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-mere-illness-executant-registered-agreement-proving-fraud-onto-purchaser-559564"
+  },
+  {
+   "title": "Source: Ravindra Kumar Tripathi v. Board of Revenue and others (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-commissioner-reopen-auction-sale-confirmed-land-revenue-act-559562"
+  },
+  {
+   "title": "Source: Rakesh Kumar Pathak and another v. The State of U.P. and 4 others (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-possession-mutation-based-succession-legal-possession-559532"
+  },
+  {
+   "title": "Source: Sri Gopi Kishan Khandelwal v. Smt Archana Tripathi (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-additional-defence-written-statement-allowed-trial-begins-proof-due-diligence-559530"
+  },
+  {
+   "title": "Source: VKN v. SRT (Verdictum)",
+   "url": "https://www.verdictum.in/allahabad-high-court/vkn-v-srt-2026ahc2395597-db-husband-wife-child-maintenance-education-1626302"
+  },
+  {
+   "title": "Source: Sri Farooq Mugili vs State of Karnataka & Another (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-motorcycles-raising-political-slogans-unlawful-assembly-section141-ipc-559617"
+  },
+  {
+   "title": "Source: Raja Hussain @ Raja @ Hussain vs. State of Karnataka & Another (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-marriage-history-ground-disbelieve-criminal-allegation-559649"
+  },
+  {
+   "title": "Source: High Court of Karnataka v. Siddesh H & Others (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-closes-contempt-proceedings-advocates-disturbed-court-proceedings-559558"
+  },
+  {
+   "title": "Source: Abhishek Banerjee v. State of West Bengal (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-extends-interim-protection-from-arrest-to-abhishek-banerjee-in-six-criminal-cases-till-february-2027-559599"
+  },
+  {
+   "title": "Source: Shyam Singh Chauhan vs. Central Bureau of Investigation (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-gravity-of-corruption-offence-alone-not-an-exceptional-circumstance-deny-suspension-fixed-term-sentence-559614"
+  },
+  {
+   "title": "Source: Kulwant Singh v State of Punjab (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/ph-high-court-orders-punjab-to-pay-1-lakh-to-man-booked-in-ndps-case-over-550-painkiller-tablets"
+  },
+  {
+   "title": "Source: Zaffer Ul Khan @ Zaffer Ullah Khan v. Member, J&K Special Tribunal, Ja (LiveLaw)",
+   "url": "https://www.livelaw.in/high-court/jammu-kashmir/long-possession-electricity-bills-cannot-protect-illegal-construction-from-demolition-jk-high-court-dismisses-challenge-to-demolition-notice-559582"
+  },
+  {
+   "title": "Source: Om Parkash and another v. Anita and others (Verdictum)",
+   "url": "https://www.verdictum.in/himachal-high-court/om-parkash-v-anita-2026hhc49849-mother-father-sisters-dependent-deceased-motor-accident-1626261"
+  },
+  {
+   "title": "Source: Virendra Agrawal v. The Election Committee, Rajasthan High Court Bar A (Verdictum)",
+   "url": "https://www.verdictum.in/rajasthan-high-court/virendra-agrawal-v-the-election-committee-rajasthan-high-court-bar-association-jaipur-2026rj-jp47102-election-committee-vakalatnamas-1626304"
+  },
+  {
+   "title": "Source: The Station House Officer v. T.P. Biju and Others (LiveLaw)",
+   "url": "https://www.livelaw.in/news-updates/kerala-court-cv-dhanraj-murder-case-559618"
+  },
+  {
+   "title": "Source: State of Delhi v Shubham Tyagi (LiveLaw)",
+   "url": "https://www.livelaw.in/news-updates/satya-niketan-building-collapse-delhi-court-denies-bail-to-pg-operator-says-he-prioritised-financial-benefits-over-students-safety-559692"
+  },
+  {
+   "title": "Source: Case title not yet reported (Bar & Bench)",
+   "url": "https://www.barandbench.com/news/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case"
+  }
+ ]
+}
