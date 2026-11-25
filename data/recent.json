@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-25T08:15+05:30",
+ "updated": "2026-11-25T10:32+05:30",
  "news": [
+  {
+   "edition": "2026-11-25-am",
+   "headline": "Supreme Court Collegium recommends Justice Vibhu Bakhru as Jharkhand HC Chief Justice and Justice M.S. Ramachandra Rao for Karnataka HC",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-collegium-recommends-justice-vibhu-bakhru-as-jharkhand-hc-chief-justice-justice-ramachandra-rao-for-karnataka-hc-559829"
+  },
+  {
+   "edition": "2026-11-25-am",
+   "headline": "Supreme Court tells Bihar sessions judge to stop acting like 'Bahubali' after he convicted an SP for not registering an FIR",
+   "src": "https://lawbeat.in/top-stories/stop-acting-like-baahubali-supreme-court-pulls-up-bihar-judge-over-conviction-of-sp-for-not-registering-fir-1654738"
+  },
+  {
+   "edition": "2026-11-25-am",
+   "headline": "Rajasthan HC Division Bench stays proof-of-practice conditions for voting in Jaipur Bar Association polls; election on 11 December",
+   "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-stays-single-judge-order-additional-voter-eligibility-559839"
+  },
+  {
+   "edition": "2026-11-25-am",
+   "headline": "Allahabad HC orders UP to clear pending fees of Gram Sabha panel lawyers, some unpaid since 2020",
+   "src": "https://www.verdictum.in/allahabad-high-court/panel-lawyers-gram-sabha-not-paid-fees-despite-assisting-administration-justice-1626372"
+  },
+  {
+   "edition": "2026-11-25-am",
+   "headline": "Citing a fabricated judgment may be professional misconduct, says Allahabad HC in Krishna Janmabhoomi suit",
+   "src": "https://www.verdictum.in/allahabad-high-court/shri-bhagwan-shrikrishna-lala-virajman-v-up-sunni-central-waqf-board-fabricated-judgment-1626381"
+  },
+  {
+   "edition": "2026-11-25-am",
+   "headline": "MNLU Nagpur housekeeping staff end six-day strike after contractor agrees to ESI cover and minimum wages",
+   "src": "https://www.barandbench.com/Law-School/housekeeping-staff-at-mnlu-nagpur-end-protest-after-contractor-agrees-to-esi-cover-minimum-wages"
+  },
+  {
+   "edition": "2026-11-25-am",
+   "headline": "SIDBI invites applications for 6 Assistant Manager and Manager (Legal) posts; apply by 11 December",
+   "src": "https://www.verdictum.in/job-updates/small-industries-development-bank-of-india-1626382"
+  },
   {
    "edition": "2026-11-24-am",
    "headline": "CJI Surya Kant criticises judicial officers for repeatedly going to court over perks and service benefits",
@@ -225,14 +260,104 @@
    "edition": "2026-10-20-am",
    "headline": "ESIC fixes funeral benefit at ₹20,000 under the Social Security Code",
    "src": "https://www.scconline.com/blog/post/2026/10/19/esic-funeral-expenses-fixed-at-20000/"
-  },
-  {
-   "edition": "2026-10-19-pm",
-   "headline": "Centre notifies origin rules for the India–New Zealand trade agreement; preferential duty claims from 20 October",
-   "src": "https://www.scconline.com/blog/post/2026/10/19/customs-tariff-india-new-zealand-fta-rules-2026/"
   }
  ],
  "tribunals": [
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Gaurav Katiyar v. IBBI",
+   "src": "https://www.livelawbiz.com/ibc/nclat-gives-suggestions-to-ibbi-on-structuring-disciplinary-orders-against-insolvency-professionals-559821"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "DCIT, CC-27 v. Pawan Munjal",
+   "src": "https://www.livelawbiz.com/income-tax/high-court/itat-delhi-deletes-140-crore-tax-additions-against-pawan-munjal-finds-no-evidence-of-cash-payments-for-chhatarpur-land-559777"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Tata Sons Private Limited v. Deputy Commissioner of Income Tax",
+   "src": "https://www.livelawbiz.com/income-tax/itat/itat-mumbai-allows-tata-sons-interest-deduction-on-borrowings-used-for-group-investments-559818"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Canara Bank v. Keshav Ashok Punj & Raghav Ashok Punj",
+   "src": "https://www.livelawbiz.com/nclt/nclt-admits-canara-banks-insolvency-plea-against-guarantors-of-psl-limited-for-recovery-of-rs-1742-crore-559765"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Mohit Chawla, RP of Krishna Knitwear Technology Limited v. The Assessing Officer, DCIT Central Circle 5(3), Mumbai, Income Tax Department",
+   "src": "https://www.livelawbiz.com/nclt/calling-tax-refund-adjustment-a-set-off-does-not-take-it-outside-ibc-moratorium-nclt-ahmedabad-559766"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "The Nasik Merchants Co-operative Bank Ltd. v. Kailash T Shah",
+   "src": "https://www.livelawbiz.com/ibc/rps-approved-monthly-fee-cannot-be-altered-without-coc-decision-or-nclt-order-nclat-559798"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Dr. Hirenkumar Vipinchandra Shah v. Dr. Nainesh Bhanubhai Patel & Ors.",
+   "src": "https://www.livelawbiz.com/company-law/appeal-against-mere-notice-issuing-order-amounts-to-abuse-of-process-nclat-imposes-rs-2-lakh-costs-559803"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "SA Engineering (Through its Sole Proprietor – Shahin Contractor) v. M/s. Shapoorji Pallonji & Co. Pvt. Ltd.",
+   "src": "https://www.livelawbiz.com/nclt/payments-for-one-project-cannot-extend-limitation-for-dues-from-other-projects-nclt-mumbai-559819"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Sunil Kumar Singh & Ors. v. IVR Prime IT SEZ Pvt. Ltd. & Ors.",
+   "src": "https://www.livelawbiz.com/nclt/homebuyers-must-route-cirp-objections-through-authorised-representative-nclt-delhi-559706"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Smartworks Coworking Spaces Limited v. Registrar of Companies",
+   "src": "https://www.livelawbiz.com/company-law/nclt-delhi-issues-notices-to-regulators-and-creditors-on-smartworks-capital-reduction-plea-559755"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "In the matter of Scheme of Arrangement Between Indiannica Learning Private Limited With Navneet Education Limited",
+   "src": "https://www.livelawbiz.com/company-law/nclt/nclt-mumbai-approves-demerger-of-indiannica-learnings-publishing-business-into-navneet-education-559718"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Nikhath Fathima v. Maschmeijer Aromatics India Private Limited & Ors.",
+   "src": "https://www.livelawbiz.com/company-law/nclt/company-cannot-keep-share-transfer-request-pending-indefinitely-over-internal-disputes-nclt-chennai-559700"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Medicare Environmental Management Private Limited v. Sunil Kumar, Additional Commissioner of State Tax, Muzaffarpur East Tirhut, Bihar & Ors.",
+   "src": "https://www.livelawbiz.com/gst-vat-cst/mismatch-between-annual-gst-and-vat-turnover-cannot-establish-gst-liability-on-pre-gst-transactions-gstat-patna-559814"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "M/s F.I.T. Brick Field v. Ramesh Chandra Dubey, Additional Commissioner Grade-II (Appeal), State Tax, Sitapur & Ors.",
+   "src": "https://www.livelawbiz.com/gst-vat-cst/coal-purchases-alone-cannot-establish-suppressed-turnover-in-brick-kiln-operations-559780"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Satish Kumar Pandey and Sangeeta Pandey v. Century Real Estate Holdings Private Limited and Karthik Shankarlingegowda alias Karthik S",
+   "src": "https://www.livelawbiz.com/rera/higher-flat-value-at-resale-cannot-be-ignored-to-deny-original-buyers-a-refund-with-interest-karnataka-rera-559806"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Sachin Kumar v. ITO, Ward 4(1), Gurgaon",
+   "src": "https://www.taxscan.in/income-tax/no-verification-report-is-an-error-in-the-proceedings-itat-quashes-order-passed-us-263"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Gurmeet Singh Matharoo",
+   "src": "https://www.taxscan.in/income-tax/10-year-limit-for-reopening-counted-from-end-of-ay-relevant-to-search-year-not-beyond-itat-quashes-s-148-assessment-read-order"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "Ketan Arvindbhai Majethiya",
+   "src": "https://www.taxscan.in/income-tax/digital-marketer-is-not-a-professional-itat-rejects-50-presumptive-profit-says-tds-us-194j-not-conclusive-for-applying-s-44ada-2"
+  },
+  {
+   "edition": "25 Nov 2026",
+   "caseName": "M/s Usha International",
+   "src": "https://www.taxscan.in/excise-customs/statements-withdrawn-by-importer-cannot-justify-customs-value-enhancement-of-used-cranes-cestat-sets-aside-duty-demand-read-order"
+  },
   {
    "edition": "24 Nov 2026",
    "caseName": "Jay Ambe Petrochem and Infra v. Techno Global Services Private Limited",
@@ -572,67 +697,12 @@
    "edition": "22 Oct 2026",
    "caseName": "Sri Kambalipati Haribabu, Representing Sivom Social Welfare Association Members v. Isukapatla Sambamurthy & Others",
    "src": "https://www.livelawbiz.com/rera/telangana-rera-orders-action-against-sivom-projects-and-its-md-for-selling-40-plots-without-rera-registration-555507"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Novartis AG v. Assistant Commissioner of Income Tax (International Taxation), Circle 3(3)(1)",
-   "src": "https://www.livelawbiz.com/income-tax/sale-of-trademark-need-not-include-entire-corporate-identity-house-marks-or-packaging-itat-mumbai-555401"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Yes Bank Ltd. v. Rajesh Madan",
-   "src": "https://www.livelawbiz.com/amp/ibc/mere-prospect-of-financial-creditors-debt-assignment-no-bar-to-personal-guarantor-insolvency-nclt-delhi-555404"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "M/s Prithvi Asset Reconstruction & Securitization Company v. M/s Alpine Wineries Pvt Ltd.",
-   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-bengaluru-allows-withdrawal-alpine-wineries-liquidation-49-crore-settlement-financial-creditors-555403"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Rajeev Sharma; Neeraj Saluja v. Rajeev Sharma",
-   "src": "https://www.livelawbiz.com/ibc/nclt-chandigarh-defers-sel-textiles-liquidation-says-rejection-of-earlier-resolution-plans-does-not-rule-out-revival-555385"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Raj Kumar Jindal & Vivek Aggarwal v. SRS Real Estate Ltd",
-   "src": "https://www.livelawbiz.com/ibc/nclt-chandigarh-refuses-to-recognise-homebuyers-as-financial-creditors-without-proof-of-fund-flow-to-cd-from-associate-entities-directs-rp-to-verify-555394"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Redmil Business Mall Private Limited",
-   "src": "https://www.livelawbiz.com/ibc/nclt-allahabad-admits-redmil-business-malls-insolvency-plea-over-941-crore-default-555402"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "M/s Ambika Traders and Ors v. Shree Basaveshwar Sugars Limited and Ors",
-   "src": "https://www.livelawbiz.com/company-law/nclt/national-company-law-tribunal-bengaluru-explains-whether-shareholders-could-represent-company-legal-proceedings-no-authorisation-555410"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Ashok Kumar Singh v. M/s Safecon Lifesciences Private Limited",
-   "src": "https://www.livelawbiz.com/amp/gstat/itc-cannot-be-denied-solely-on-allegation-that-supplier-is-bogus-without-examining-buyers-evidence-gstat-agra-555412"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Associated Cashews v. Commissioner of CGST, Thiruvananthapuram",
-   "src": "https://www.livelawbiz.com/gstat/gst-refund-cannot-be-denied-for-clerical-mistake-in-gstr-3b-returns-gstat-grants-relief-to-cashew-exporter-555407"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Vikas Ashokkumar Masand v. The Deputy Commissioner of Income Tax",
-   "src": "https://www.livelawbiz.com/income-tax/itat/itat-ahmedabad-deletes-3440-lakh-addition-on-cash-collected-from-petrol-pump-customers-during-demonetisation-555388"
-  },
-  {
-   "edition": "21 Oct 2026",
-   "caseName": "Azure Knowledge Corporation Pvt. Ltd. v. The Deputy Commissioner of Income Tax",
-   "src": "https://www.livelawbiz.com/amp/income-tax/itat/itat-ahmedabad-seeks-fresh-examination-of-246-crore-software-costs-claimed-by-azure-knowledge-555395"
   }
  ],
  "latest": {
-  "digest": "24 Nov 2026",
-  "tribunals": "24 Nov 2026",
-  "news": "2026-11-24-am",
+  "digest": "25 Nov 2026",
+  "tribunals": "25 Nov 2026",
+  "news": "2026-11-25-am",
   "careersBooklet": "2026-11-21",
   "careersPool": "2026-11-21"
  }
