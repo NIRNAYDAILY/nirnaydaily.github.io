@@ -1,176 +1,286 @@
 {
  "edition": {
-  "edition_id": "2026-11-25-am",
-  "iso": "2026-11-25",
+  "edition_id": "2026-11-26-am",
+  "iso": "2026-11-26",
   "slot": "10 AM",
-  "dateShort": "25 Nov 2026",
-  "dateLong": "Wednesday, 25 November 2026 · Morning edition",
-  "window": "News from 10:00 AM IST, 24 November to 10:00 AM IST, 25 November 2026"
+  "dateShort": "26 Nov 2026",
+  "dateLong": "Thursday, 26 November 2026 · Morning edition",
+  "window": "News from 10:00 AM IST, 25 November to 10:00 AM IST, 26 November 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
-   "region": "All India",
-   "body": "Supreme Court Collegium",
-   "headline": "Supreme Court Collegium recommends Justice Vibhu Bakhru as Jharkhand HC Chief Justice and Justice M.S. Ramachandra Rao for Karnataka HC",
-   "text": "At its meeting on 24 November, the Collegium headed by CJI Surya Kant recommended transferring Karnataka High Court Chief Justice Vibhu Bakhru to head the Jharkhand High Court, where the present Chief Justice retires on 27 November. Tripura High Court Chief Justice M.S. Ramachandra Rao is to move to Karnataka as Chief Justice, and Himachal Pradesh High Court judge Justice Vivek Singh Thakur has been recommended as Chief Justice of the Tripura High Court.",
-   "why": "Three High Courts will get new Chief Justices once the Centre notifies these recommendations.",
-   "date": "24 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-collegium-recommends-justice-vibhu-bakhru-as-jharkhand-hc-chief-justice-justice-ramachandra-rao-for-karnataka-hc-559829",
-   "srcName": "LiveLaw",
+   "region": "Jharkhand",
+   "body": "Chief Justice of India",
+   "headline": "CJI Surya Kant asks for fact-finding report on complaints against Jharkhand HC's senior-most puisne judge",
+   "text": "CJI Surya Kant has asked Jharkhand High Court Chief Justice MS Sonak, who retires on 27 November, for a fact-finding report on complaints received against Justice Sujit Narayan Prasad, the court's senior-most puisne judge, Bar & Bench reports citing sources. The nature of the complaints has not been made public and no findings have been communicated. Bar & Bench also reports that Chief Minister Hemant Soren's letter seeking a regular Chief Justice did not trigger the Collegium's choice of Justice Vibhu Bakhru for the post.",
+   "why": "Justice Prasad would normally have become acting Chief Justice after 27 November; the report says that now looks unlikely.",
+   "date": "25 Nov 2026",
+   "src": "https://www.barandbench.com/news/cji-surya-kant-seeks-fact-finding-report-on-complaints-against-jharkhand-high-court-judge",
+   "srcName": "Bar & Bench",
    "i18n": {
     "hi": {
-     "headline": "Supreme Court Collegium ने Justice Vibhu Bakhru को झारखंड उच्च न्यायालय और Justice M.S. Ramachandra Rao को कर्नाटक उच्च न्यायालय का मुख्य न्यायाधीश बनाने की सिफ़ारिश की",
-     "text": "24 नवंबर की बैठक में CJI Surya Kant की अध्यक्षता वाले Collegium ने कर्नाटक उच्च न्यायालय के मुख्य न्यायाधीश Vibhu Bakhru को झारखंड उच्च न्यायालय भेजने की सिफ़ारिश की, जहाँ मौजूदा मुख्य न्यायाधीश 27 नवंबर को सेवानिवृत्त हो रहे हैं। त्रिपुरा उच्च न्यायालय के मुख्य न्यायाधीश M.S. Ramachandra Rao को कर्नाटक का मुख्य न्यायाधीश बनाया जाएगा, और हिमाचल प्रदेश उच्च न्यायालय के न्यायाधीश Justice Vivek Singh Thakur को त्रिपुरा उच्च न्यायालय का मुख्य न्यायाधीश बनाने की सिफ़ारिश की गई है।",
-     "why": "केंद्र की अधिसूचना के बाद तीन उच्च न्यायालयों को नए मुख्य न्यायाधीश मिलेंगे।",
-     "body": "Supreme Court Collegium"
+     "body": "भारत के मुख्य न्यायाधीश",
+     "headline": "CJI Surya Kant ने झारखंड उच्च न्यायालय के सबसे वरिष्ठ न्यायाधीश के ख़िलाफ़ शिकायतों पर तथ्य-जाँच रिपोर्ट माँगी",
+     "text": "Bar & Bench ने सूत्रों के हवाले से बताया कि CJI Surya Kant ने झारखंड उच्च न्यायालय के मुख्य न्यायाधीश MS Sonak से, जो 27 नवंबर को सेवानिवृत्त हो रहे हैं, न्यायालय के सबसे वरिष्ठ न्यायाधीश Justice Sujit Narayan Prasad के ख़िलाफ़ मिली शिकायतों पर तथ्य-जाँच रिपोर्ट माँगी है। शिकायतें किस प्रकार की हैं, यह सार्वजनिक नहीं किया गया है और अभी कोई निष्कर्ष नहीं बताया गया है। रिपोर्ट के अनुसार, Collegium द्वारा इस पद के लिए Justice Vibhu Bakhru का चयन मुख्यमंत्री Hemant Soren के उस पत्र की वजह से नहीं हुआ, जिसमें नियमित मुख्य न्यायाधीश की माँग की गई थी।",
+     "why": "सामान्य रूप से 27 नवंबर के बाद Justice Prasad कार्यवाहक मुख्य न्यायाधीश बनते; रिपोर्ट के अनुसार अब इसकी संभावना कम है।"
     },
     "mr": {
-     "headline": "Supreme Court Collegium ची Justice Vibhu Bakhru यांना झारखंड उच्च न्यायालयाचे आणि Justice M.S. Ramachandra Rao यांना कर्नाटक उच्च न्यायालयाचे मुख्य न्यायमूर्ती करण्याची शिफारस",
-     "text": "24 नोव्हेंबरच्या बैठकीत CJI Surya Kant यांच्या अध्यक्षतेखालील Collegium ने कर्नाटक उच्च न्यायालयाचे मुख्य न्यायमूर्ती Vibhu Bakhru यांची झारखंड उच्च न्यायालयात बदली करण्याची शिफारस केली; तेथील विद्यमान मुख्य न्यायमूर्ती 27 नोव्हेंबरला निवृत्त होत आहेत. त्रिपुरा उच्च न्यायालयाचे मुख्य न्यायमूर्ती M.S. Ramachandra Rao हे कर्नाटकचे मुख्य न्यायमूर्ती होतील, तर हिमाचल प्रदेश उच्च न्यायालयाचे न्यायमूर्ती Justice Vivek Singh Thakur यांची त्रिपुरा उच्च न्यायालयाचे मुख्य न्यायमूर्ती म्हणून शिफारस करण्यात आली आहे.",
-     "why": "केंद्राच्या अधिसूचनेनंतर तीन उच्च न्यायालयांना नवे मुख्य न्यायमूर्ती मिळतील.",
-     "body": "Supreme Court Collegium"
+     "body": "भारताचे मुख्य न्यायमूर्ती",
+     "headline": "CJI Surya Kant यांनी झारखंड उच्च न्यायालयातील सर्वांत ज्येष्ठ न्यायमूर्तींविरुद्धच्या तक्रारींवर तथ्य-शोध अहवाल मागवला",
+     "text": "Bar & Bench ने सूत्रांच्या हवाल्याने सांगितले की CJI Surya Kant यांनी 27 नोव्हेंबरला निवृत्त होणारे झारखंड उच्च न्यायालयाचे मुख्य न्यायमूर्ती MS Sonak यांच्याकडून, न्यायालयातील सर्वांत ज्येष्ठ न्यायमूर्ती Justice Sujit Narayan Prasad यांच्याविरुद्ध आलेल्या तक्रारींवर तथ्य-शोध अहवाल मागवला आहे. तक्रारींचे स्वरूप जाहीर झालेले नाही आणि अद्याप कोणताही निष्कर्ष कळवलेला नाही. अहवालानुसार, Collegium ने या पदासाठी Justice Vibhu Bakhru यांची केलेली निवड नियमित मुख्य न्यायमूर्तींची मागणी करणाऱ्या मुख्यमंत्री Hemant Soren यांच्या पत्रामुळे झालेली नाही.",
+     "why": "सामान्यतः 27 नोव्हेंबरनंतर Justice Prasad कार्यवाहक मुख्य न्यायमूर्ती झाले असते; अहवालानुसार आता ते संभवत नाही."
     }
    }
   },
   {
    "cat": "Judiciary",
-   "region": "Bihar",
-   "body": "Supreme Court of India",
-   "headline": "Supreme Court tells Bihar sessions judge to stop acting like 'Bahubali' after he convicted an SP for not registering an FIR",
-   "text": "A bench of CJI Surya Kant, Justice Joymalya Bagchi and Justice V Mohana heard Additional Sessions Judge Anil Kumar's challenge to a Patna High Court order that stayed his conviction of the then Rohtas SP, whom he had fined Re 1 for not registering an FIR as directed. The bench said such non-compliance is not an offence committed in the face of the court and suggested the judge undergo training at the National Judicial Academy. It disposed of the plea and asked the Patna High Court to sympathetically consider his explanation-cum-apology in the proceedings pending against him.",
-   "why": "The remarks are a caution to trial judges against going beyond their powers.",
-   "date": "23 Nov 2026",
-   "src": "https://lawbeat.in/top-stories/stop-acting-like-baahubali-supreme-court-pulls-up-bihar-judge-over-conviction-of-sp-for-not-registering-fir-1654738",
-   "srcName": "LawBeat",
-   "i18n": {
-    "hi": {
-     "headline": "FIR दर्ज न करने पर SP को दोषी ठहराने वाले बिहार के सत्र न्यायाधीश से सर्वोच्च न्यायालय ने कहा, 'बाहुबली' जैसा व्यवहार न करें",
-     "text": "CJI Surya Kant, Justice Joymalya Bagchi और Justice V Mohana की पीठ ने अपर सत्र न्यायाधीश Anil Kumar की उस याचिका पर सुनवाई की, जिसमें पटना उच्च न्यायालय के आदेश को चुनौती दी गई थी; उच्च न्यायालय ने रोहतास के तत्कालीन SP को दोषी ठहराने के उनके निर्णय पर रोक लगाई थी, जिन पर निर्देश के बावजूद FIR दर्ज न करने के लिए ₹1 का जुर्माना लगाया गया था। पीठ ने कहा कि ऐसा पालन न करना अदालत के सामने किया गया अपराध नहीं है और न्यायाधीश को National Judicial Academy में प्रशिक्षण लेने का सुझाव दिया। याचिका निपटाते हुए पीठ ने पटना उच्च न्यायालय से उनके विरुद्ध लंबित कार्यवाही में उनके स्पष्टीकरण और माफ़ीनामे पर सहानुभूति से विचार करने को कहा।",
-     "why": "ये टिप्पणियाँ निचली अदालतों के न्यायाधीशों के लिए अपनी शक्तियों से आगे न जाने की चेतावनी हैं।",
-     "body": "सर्वोच्च न्यायालय"
-    },
-    "mr": {
-     "headline": "FIR नोंदवली नाही म्हणून SP ला दोषी ठरवणाऱ्या बिहारमधील सत्र न्यायाधीशांना सर्वोच्च न्यायालयाने 'बाहुबली'सारखे वागू नका असे सांगितले",
-     "text": "CJI Surya Kant, Justice Joymalya Bagchi आणि Justice V Mohana यांच्या खंडपीठाने अपर सत्र न्यायाधीश Anil Kumar यांच्या याचिकेवर सुनावणी केली; पाटणा उच्च न्यायालयाने रोहतासच्या तत्कालीन SP ला दोषी ठरवण्याच्या त्यांच्या निकालाला स्थगिती दिली होती, ज्यांना निर्देश असूनही FIR न नोंदवल्याबद्दल ₹1 दंड ठोठावला होता. असे पालन न करणे हा न्यायालयासमोर केलेला गुन्हा नाही, असे खंडपीठाने सांगितले आणि न्यायाधीशांनी National Judicial Academy मध्ये प्रशिक्षण घ्यावे असे सुचवले. याचिका निकाली काढताना खंडपीठाने पाटणा उच्च न्यायालयाला त्यांच्याविरुद्ध प्रलंबित कार्यवाहीत त्यांच्या स्पष्टीकरण व माफीनाम्याचा सहानुभूतीने विचार करण्यास सांगितले.",
-     "why": "या टिप्पण्या कनिष्ठ न्यायालयांतील न्यायाधीशांना आपल्या अधिकारांच्या पलीकडे न जाण्याचा इशारा आहेत.",
-     "body": "सर्वोच्च न्यायालय"
-    }
-   }
-  },
-  {
-   "cat": "Bar & Bar Councils",
-   "region": "Rajasthan",
-   "body": "Rajasthan High Court",
-   "headline": "Rajasthan HC Division Bench stays proof-of-practice conditions for voting in Jaipur Bar Association polls; election on 11 December",
-   "text": "A Division Bench of Chief Justice Sanjay K. Agrawal and Justice Sameer Jain stayed the part of a 20 November single-judge order that had upheld extra voting conditions, such as showing two appearances or two vakalatnamas before the Jaipur Bench. Taking the prima facie view that the election process had already begun under the 2 November notice, the court said the Rajasthan High Court Bar Association, Jaipur, poll must go ahead on the original terms. The appellants had argued the conditions would keep about 2,500 young advocates from voting.",
-   "date": "25 Nov 2026",
-   "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-stays-single-judge-order-additional-voter-eligibility-559839",
+   "region": "Kerala",
+   "body": "Kerala High Court",
+   "headline": "24 District Judge posts lie vacant in Kerala, 11 of them in POCSO courts, RTI reply shows",
+   "text": "An RTI reply dated 21 November from the Kerala High Court's Public Information Officer says 24 District Judge posts are vacant across the State, including 11 in POCSO fast-track courts and 3 Family Court posts. Ernakulam and Thrissur have five vacancies each and Thalassery four. The reply adds that 10 retired District Judges have been re-appointed to judicial posts, but says the court keeps no record of how long each post has been empty.",
+   "date": "26 Nov 2026",
+   "src": "https://www.livelaw.in/news-updates/kerala-high-court-public-information-officer-vacancy-district-judge-560040",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "headline": "राजस्थान उच्च न्यायालय की खंडपीठ ने जयपुर बार एसोसिएशन चुनाव में वोट के लिए प्रैक्टिस के सबूत की शर्तों पर रोक लगाई; चुनाव 11 दिसंबर को",
-     "text": "मुख्य न्यायाधीश Sanjay K. Agrawal और Justice Sameer Jain की खंडपीठ ने 20 नवंबर के एकल न्यायाधीश के आदेश के उस हिस्से पर रोक लगा दी, जिसमें जयपुर पीठ के सामने दो पेशियाँ या दो वकालतनामे दिखाने जैसी अतिरिक्त मतदान शर्तों को सही ठहराया गया था। प्रथम दृष्टया यह मानते हुए कि चुनाव प्रक्रिया 2 नवंबर की सूचना से शुरू हो चुकी थी, अदालत ने कहा कि Rajasthan High Court Bar Association, Jaipur का चुनाव मूल शर्तों पर ही होगा। अपीलकर्ताओं का कहना था कि इन शर्तों से लगभग 2,500 युवा वकील मतदान से वंचित हो जाते।",
-     "body": "राजस्थान उच्च न्यायालय"
+     "body": "Kerala High Court",
+     "headline": "केरल में जिला न्यायाधीश के 24 पद खाली, इनमें 11 POCSO अदालतों में: RTI जवाब",
+     "text": "केरल उच्च न्यायालय के जन सूचना अधिकारी के 21 नवंबर के RTI जवाब के अनुसार राज्य में जिला न्यायाधीश के 24 पद खाली हैं, जिनमें 11 POCSO फ़ास्ट-ट्रैक अदालतों में और 3 परिवार न्यायालय के पद हैं। एर्नाकुलम और त्रिशूर में पाँच-पाँच और थलस्सेरी में चार पद खाली हैं। जवाब में बताया गया कि 10 सेवानिवृत्त जिला न्यायाधीशों को फिर से न्यायिक पदों पर नियुक्त किया गया है, लेकिन कोई पद कितने समय से खाली है, इसका रिकॉर्ड नहीं रखा जाता।"
     },
     "mr": {
-     "headline": "राजस्थान उच्च न्यायालयाच्या खंडपीठाची जयपूर बार असोसिएशन निवडणुकीत मतदानासाठी प्रॅक्टिसच्या पुराव्याच्या अटींना स्थगिती; निवडणूक 11 डिसेंबरला",
-     "text": "मुख्य न्यायमूर्ती Sanjay K. Agrawal आणि Justice Sameer Jain यांच्या खंडपीठाने 20 नोव्हेंबरच्या एकल न्यायाधीशांच्या आदेशातील तो भाग स्थगित केला, ज्यात जयपूर खंडपीठासमोर दोन हजेऱ्या किंवा दोन वकालतनामे दाखवण्यासारख्या अतिरिक्त मतदान अटी योग्य ठरवल्या होत्या. निवडणूक प्रक्रिया 2 नोव्हेंबरच्या सूचनेनुसार आधीच सुरू झाली होती, असे प्रथमदर्शनी मत नोंदवत न्यायालयाने Rajasthan High Court Bar Association, Jaipur ची निवडणूक मूळ अटींवरच होईल असे सांगितले. या अटींमुळे सुमारे 2,500 तरुण वकील मतदानापासून वंचित राहतील, असा अपीलकर्त्यांचा युक्तिवाद होता.",
-     "body": "राजस्थान उच्च न्यायालय"
+     "body": "Kerala High Court",
+     "headline": "केरळमध्ये जिल्हा न्यायाधीशांची 24 पदे रिक्त, त्यापैकी 11 POCSO न्यायालयांत: RTI उत्तर",
+     "text": "केरळ उच्च न्यायालयाच्या जनमाहिती अधिकाऱ्याने 21 नोव्हेंबरला दिलेल्या RTI उत्तरानुसार राज्यात जिल्हा न्यायाधीशांची 24 पदे रिक्त आहेत, त्यात 11 POCSO फास्ट-ट्रॅक न्यायालयांतील आणि 3 कौटुंबिक न्यायालयांतील पदे आहेत. एर्नाकुलम आणि त्रिशूरमध्ये प्रत्येकी पाच आणि थलस्सेरीमध्ये चार पदे रिक्त आहेत. 10 निवृत्त जिल्हा न्यायाधीशांची पुन्हा न्यायिक पदांवर नेमणूक झाल्याचेही उत्तरात म्हटले आहे, मात्र प्रत्येक पद किती काळ रिक्त आहे याची नोंद ठेवली जात नाही."
+    }
+   }
+  },
+  {
+   "cat": "Judiciary",
+   "region": "Punjab and Haryana",
+   "body": "Punjab and Haryana High Court",
+   "headline": "P&H High Court judge asks Chief Justice to fix delays caused by late status reports in bail cases",
+   "text": "Justice Vikram Aggarwal of the Punjab and Haryana High Court said police and the State often fail to file status reports in regular bail matters, delaying decisions for people in custody. He suggested that the Advocate General offices of Punjab and Haryana and the Public Prosecutor for Chandigarh file at least a short affidavit with basic facts two days before the hearing, and sent the order to the Registrar (Judicial) so the Chief Justice can decide on the administrative side.",
+   "why": "If adopted, most regular bail pleas in the High Court could be decided at the first hearing.",
+   "date": "25 Nov 2026",
+   "src": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-seeks-chief-justices-administrative-intervention-states-failure-to-file-status-reports-delaying-bail-pleas-559963",
+   "srcName": "LiveLaw",
+   "i18n": {
+    "hi": {
+     "body": "Punjab and Haryana High Court",
+     "headline": "पंजाब-हरियाणा उच्च न्यायालय के न्यायाधीश ने ज़मानत मामलों में स्टेटस रिपोर्ट की देरी पर मुख्य न्यायाधीश से कदम उठाने को कहा",
+     "text": "पंजाब और हरियाणा उच्च न्यायालय के Justice Vikram Aggarwal ने कहा कि पुलिस और राज्य अक्सर नियमित ज़मानत मामलों में स्टेटस रिपोर्ट दाखिल नहीं करते, जिससे हिरासत में बंद लोगों के मामलों के निर्णय में देरी होती है। उन्होंने सुझाव दिया कि पंजाब और हरियाणा के महाधिवक्ता कार्यालय और चंडीगढ़ के लोक अभियोजक सुनवाई से दो दिन पहले कम से कम बुनियादी तथ्यों वाला संक्षिप्त हलफ़नामा दाखिल करें, और आदेश की प्रति Registrar (Judicial) को भेजी ताकि मुख्य न्यायाधीश प्रशासनिक स्तर पर निर्णय ले सकें।",
+     "why": "यदि यह सुझाव लागू हुआ, तो उच्च न्यायालय में ज़्यादातर नियमित ज़मानत याचिकाओं का निपटारा पहली सुनवाई में हो सकेगा।"
+    },
+    "mr": {
+     "body": "Punjab and Haryana High Court",
+     "headline": "पंजाब-हरियाणा उच्च न्यायालयाच्या न्यायमूर्तींनी जामीन प्रकरणांतील स्टेटस रिपोर्टच्या विलंबावर मुख्य न्यायमूर्तींना पाऊल उचलण्यास सांगितले",
+     "text": "पंजाब आणि हरियाणा उच्च न्यायालयाचे Justice Vikram Aggarwal म्हणाले की पोलीस आणि राज्य अनेकदा नियमित जामीन प्रकरणांत स्टेटस रिपोर्ट दाखल करत नाहीत, त्यामुळे कोठडीत असलेल्यांच्या प्रकरणांचा निर्णय लांबतो. पंजाब व हरियाणाचे महाधिवक्ता कार्यालय आणि चंडीगडचे सरकारी अभियोक्ता यांनी सुनावणीच्या दोन दिवस आधी किमान मूलभूत तथ्यांचे छोटे प्रतिज्ञापत्र दाखल करावे, असे त्यांनी सुचवले आणि मुख्य न्यायमूर्तींनी प्रशासकीय पातळीवर निर्णय घ्यावा म्हणून आदेशाची प्रत Registrar (Judicial) कडे पाठवली.",
+     "why": "ही सूचना लागू झाल्यास उच्च न्यायालयातील बहुतेक नियमित जामीन अर्जांचा निकाल पहिल्याच सुनावणीत लागू शकेल."
     }
    }
   },
   {
    "cat": "Bar & Bar Councils",
-   "region": "Uttar Pradesh",
-   "body": "Allahabad High Court",
-   "headline": "Allahabad HC orders UP to clear pending fees of Gram Sabha panel lawyers, some unpaid since 2020",
-   "text": "A bench of Justice Ajit Kumar and Justice Garima Prashad directed the Principal Secretary, Finance, to tell District Magistrates to clear the pending bills of panel lawyers who represent Gram Sabhas before the High Court and its Lucknow Bench. The petitioner, advocate Pradeep Singh, had not been paid for over three years for Mirzapur matters, and other panel lawyers said their bills had been withheld since 2020. The court warned it will take a serious view if a compliance affidavit is not filed by the next date.",
-   "why": "The court noted that unpaid government panel lawyers may not assist it, which delays cases.",
-   "date": "24 Nov 2026",
-   "src": "https://www.verdictum.in/allahabad-high-court/panel-lawyers-gram-sabha-not-paid-fees-despite-assisting-administration-justice-1626372",
-   "srcName": "Verdictum",
+   "region": "Delhi",
+   "headline": "Four young women advocates receive first Shashi Prabha Singh Memorial Awards in presence of CJI",
+   "text": "Senior Advocate Vikas Singh, former SCBA President, held the first Shashi Prabha Singh Memorial Cricket Tournament and Awards at Siri Fort Sports Complex, New Delhi, on 24 November. Monika Dhiman received the Nyaya Prabha Ratna, Huma Anjum and Priyanshi Kumari the Nyaya Prabha Gaurav, and Kavana Rao the Nyaya Prabha Samman. CJI Surya Kant and cricketer Kapil Dev presented the awards, with several Supreme Court and Delhi High Court judges present.",
+   "date": "25 Nov 2026",
+   "src": "https://www.livelaw.in/news-updates/bench-and-media-join-hands-for-inaugural-shashi-prabha-singh-memorial-cricket-tournament-559914",
+   "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "headline": "इलाहाबाद उच्च न्यायालय ने UP सरकार को ग्राम सभा पैनल वकीलों की बकाया फीस चुकाने का आदेश दिया; कुछ को 2020 से भुगतान नहीं",
-     "text": "Justice Ajit Kumar और Justice Garima Prashad की पीठ ने वित्त विभाग के प्रमुख सचिव को निर्देश दिया कि वे ज़िलाधिकारियों से उच्च न्यायालय और उसकी लखनऊ पीठ में ग्राम सभाओं की ओर से पैरवी करने वाले पैनल वकीलों के बकाया बिल चुकाने को कहें। याचिकाकर्ता वकील Pradeep Singh को मिर्ज़ापुर के मामलों के लिए तीन साल से ज़्यादा समय से भुगतान नहीं मिला था, और अन्य पैनल वकीलों ने बताया कि उनके बिल 2020 से रुके हैं। अदालत ने चेताया कि अगली तारीख तक अनुपालन हलफ़नामा दाखिल न होने पर वह सख़्त रुख अपनाएगी।",
-     "why": "अदालत ने कहा कि भुगतान न मिलने पर सरकारी पैनल वकील अदालत की मदद नहीं कर पाएँगे, जिससे मामलों में देरी होगी।",
-     "body": "इलाहाबाद उच्च न्यायालय"
+     "headline": "CJI की मौजूदगी में चार युवा महिला अधिवक्ताओं को पहला Shashi Prabha Singh Memorial पुरस्कार",
+     "text": "वरिष्ठ अधिवक्ता और SCBA के पूर्व अध्यक्ष Vikas Singh ने 24 नवंबर को नई दिल्ली के सीरी फ़ोर्ट स्पोर्ट्स कॉम्प्लेक्स में पहला Shashi Prabha Singh Memorial क्रिकेट टूर्नामेंट और पुरस्कार समारोह आयोजित किया। Monika Dhiman को Nyaya Prabha Ratna, Huma Anjum और Priyanshi Kumari को Nyaya Prabha Gaurav तथा Kavana Rao को Nyaya Prabha Samman मिला। CJI Surya Kant और क्रिकेटर Kapil Dev ने पुरस्कार दिए; सर्वोच्च न्यायालय और दिल्ली उच्च न्यायालय के कई न्यायाधीश उपस्थित थे।"
     },
     "mr": {
-     "headline": "ग्रामसभा पॅनल वकिलांचे थकीत शुल्क चुकवा, इलाहाबाद उच्च न्यायालयाचा UP सरकारला आदेश; काहींना 2020 पासून पैसे नाहीत",
-     "text": "Justice Ajit Kumar आणि Justice Garima Prashad यांच्या खंडपीठाने वित्त विभागाच्या प्रधान सचिवांना निर्देश दिले की त्यांनी जिल्हाधिकाऱ्यांना उच्च न्यायालय व त्याच्या लखनौ खंडपीठात ग्रामसभांची बाजू मांडणाऱ्या पॅनल वकिलांची थकीत बिले चुकवण्यास सांगावे. याचिकाकर्ते वकील Pradeep Singh यांना मिर्झापूरच्या प्रकरणांसाठी तीन वर्षांहून अधिक काळ पैसे मिळाले नव्हते, आणि इतर पॅनल वकिलांनी त्यांची बिले 2020 पासून अडकल्याचे सांगितले. पुढील तारखेपर्यंत अनुपालन प्रतिज्ञापत्र दाखल न झाल्यास कठोर भूमिका घेऊ, असा इशारा न्यायालयाने दिला.",
-     "why": "पैसे न मिळाल्यास सरकारी पॅनल वकील न्यायालयाला मदत करणार नाहीत आणि प्रकरणांना विलंब होईल, असे न्यायालयाने नमूद केले.",
-     "body": "इलाहाबाद उच्च न्यायालय"
+     "headline": "CJI यांच्या उपस्थितीत चार तरुण महिला वकिलांना पहिला Shashi Prabha Singh Memorial पुरस्कार",
+     "text": "ज्येष्ठ वकील आणि SCBA चे माजी अध्यक्ष Vikas Singh यांनी 24 नोव्हेंबरला नवी दिल्लीतील सिरी फोर्ट स्पोर्ट्स कॉम्प्लेक्समध्ये पहिली Shashi Prabha Singh Memorial क्रिकेट स्पर्धा आणि पुरस्कार सोहळा आयोजित केला. Monika Dhiman यांना Nyaya Prabha Ratna, Huma Anjum आणि Priyanshi Kumari यांना Nyaya Prabha Gaurav, तर Kavana Rao यांना Nyaya Prabha Samman मिळाला. CJI Surya Kant आणि क्रिकेटपटू Kapil Dev यांनी पुरस्कार दिले; सर्वोच्च न्यायालय आणि दिल्ली उच्च न्यायालयाचे अनेक न्यायमूर्ती उपस्थित होते."
     }
    }
   },
   {
-   "cat": "Bar & Bar Councils",
-   "region": "Uttar Pradesh",
-   "body": "Allahabad High Court",
-   "headline": "Citing a fabricated judgment may be professional misconduct, says Allahabad HC in Krishna Janmabhoomi suit",
-   "text": "Hearing a recall application in the Sri Krishna Janmabhoomi suit, Justice Avnish Saxena observed that a lawyer citing a fabricated judgment may amount to professional misconduct; the applicants had said two Supreme Court rulings cited by the first plaintiff's counsel did not exist. The court held that such citations do not undo an order that rests on sound legal grounds and dismissed the recall plea. No disciplinary direction against any lawyer was reported.",
-   "why": "The observation adds to growing judicial warnings against unverified citations in court filings.",
-   "date": "24 Nov 2026",
-   "src": "https://www.verdictum.in/allahabad-high-court/shri-bhagwan-shrikrishna-lala-virajman-v-up-sunni-central-waqf-board-fabricated-judgment-1626381",
-   "srcName": "Verdictum",
+   "cat": "Executive & Government",
+   "region": "All India",
+   "body": "Ministry of Parliamentary Affairs",
+   "headline": "Centre lines up nationwide Constitution Day events: Preamble reading in 23 languages, quiz and youth dialogues",
+   "text": "The Ministry of Parliamentary Affairs said Constitution Day will be observed on 26 November with an online Preamble reading on the MyGov portal in 22 Scheduled Languages and English, with a certificate for participants. A Constitution Quiz is running on MyGov and MyBharat from 18 to 26 November, and 'Viksit Bharat Yuva Samvad' events are being held in 786 districts across all 36 States and UTs from 24 to 26 November. Schools and colleges have been asked to hold special assemblies and discussions.",
+   "why": "26 November marks the day in 1949 when the Constituent Assembly adopted the Constitution; it has been observed as Constitution Day since 2015.",
+   "date": "25 Nov 2026",
+   "src": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341449&reg=48&lang=2",
+   "srcName": "PIB",
    "i18n": {
     "hi": {
-     "headline": "फ़र्ज़ी निर्णय का हवाला देना पेशेवर कदाचार हो सकता है: कृष्ण जन्मभूमि वाद में इलाहाबाद उच्च न्यायालय",
-     "text": "श्री कृष्ण जन्मभूमि वाद में एक रिकॉल आवेदन पर सुनवाई करते हुए Justice Avnish Saxena ने कहा कि वकील द्वारा फ़र्ज़ी निर्णय का हवाला देना पेशेवर कदाचार हो सकता है; आवेदकों का कहना था कि पहले वादी के वकील द्वारा बताए गए सर्वोच्च न्यायालय के दो निर्णय मौजूद ही नहीं हैं। अदालत ने कहा कि ठोस कानूनी आधार पर टिके आदेश को ऐसे हवालों से रद्द नहीं किया जा सकता, और रिकॉल आवेदन खारिज कर दिया। किसी वकील के विरुद्ध अनुशासनात्मक निर्देश की कोई जानकारी नहीं है।",
-     "why": "यह टिप्पणी अदालती दस्तावेज़ों में बिना जाँचे हवालों के ख़िलाफ़ न्यायालयों की बढ़ती चेतावनियों में शामिल है।",
-     "body": "इलाहाबाद उच्च न्यायालय"
+     "body": "Ministry of Parliamentary Affairs",
+     "headline": "केंद्र ने देशभर में संविधान दिवस कार्यक्रम तय किए: 23 भाषाओं में प्रस्तावना पाठ, क्विज़ और युवा संवाद",
+     "text": "संसदीय कार्य मंत्रालय ने बताया कि 26 नवंबर को संविधान दिवस मनाया जाएगा, जिसमें MyGov पोर्टल पर 22 अनुसूचित भाषाओं और अंग्रेज़ी में ऑनलाइन प्रस्तावना पाठ होगा और भाग लेने वालों को प्रमाणपत्र मिलेगा। MyGov और MyBharat पर 18 से 26 नवंबर तक संविधान क्विज़ चल रही है, और 24 से 26 नवंबर तक सभी 36 राज्यों और केंद्रशासित प्रदेशों के 786 जिलों में 'Viksit Bharat Yuva Samvad' कार्यक्रम हो रहे हैं। स्कूलों और कॉलेजों से विशेष प्रार्थना सभाएँ और चर्चाएँ आयोजित करने को कहा गया है।",
+     "why": "1949 में इसी दिन संविधान सभा ने संविधान अंगीकार किया था; 2015 से यह दिन संविधान दिवस के रूप में मनाया जाता है।"
     },
     "mr": {
-     "headline": "बनावट निकालाचा हवाला देणे हे व्यावसायिक गैरवर्तन ठरू शकते: कृष्ण जन्मभूमी दाव्यात इलाहाबाद उच्च न्यायालय",
-     "text": "श्री कृष्ण जन्मभूमी दाव्यातील रिकॉल अर्जावर सुनावणी करताना Justice Avnish Saxena यांनी नमूद केले की वकिलाने बनावट निकालाचा हवाला देणे हे व्यावसायिक गैरवर्तन ठरू शकते; पहिल्या वादीच्या वकिलांनी दिलेले सर्वोच्च न्यायालयाचे दोन निकाल अस्तित्वातच नाहीत, असे अर्जदारांचे म्हणणे होते. ठोस कायदेशीर आधारावर दिलेला आदेश अशा हवाल्यांमुळे रद्द होत नाही, असे सांगत न्यायालयाने रिकॉल अर्ज फेटाळला. कोणत्याही वकिलाविरुद्ध शिस्तभंगाचे निर्देश दिल्याची माहिती नाही.",
-     "why": "न्यायालयीन कागदपत्रांतील न तपासलेल्या हवाल्यांविरुद्ध न्यायालयांच्या वाढत्या इशाऱ्यांमध्ये ही टिप्पणी भर घालते.",
-     "body": "इलाहाबाद उच्च न्यायालय"
+     "body": "Ministry of Parliamentary Affairs",
+     "headline": "केंद्राने देशभर संविधान दिनाचे कार्यक्रम ठरवले: 23 भाषांत प्रास्ताविक वाचन, प्रश्नमंजूषा आणि युवा संवाद",
+     "text": "संसदीय कार्य मंत्रालयाने सांगितले की 26 नोव्हेंबरला संविधान दिन साजरा होईल; MyGov पोर्टलवर 22 अनुसूचित भाषा आणि इंग्रजीत ऑनलाइन प्रास्ताविक वाचन होईल आणि सहभागी होणाऱ्यांना प्रमाणपत्र मिळेल. MyGov आणि MyBharat वर 18 ते 26 नोव्हेंबरदरम्यान संविधान प्रश्नमंजूषा सुरू आहे, तसेच 24 ते 26 नोव्हेंबरदरम्यान सर्व 36 राज्ये व केंद्रशासित प्रदेशांतील 786 जिल्ह्यांत 'Viksit Bharat Yuva Samvad' कार्यक्रम होत आहेत. शाळा-महाविद्यालयांना विशेष परिपाठ आणि चर्चा आयोजित करण्यास सांगितले आहे.",
+     "why": "1949 मध्ये याच दिवशी संविधान सभेने संविधान स्वीकारले; 2015 पासून हा दिवस संविधान दिन म्हणून साजरा केला जातो."
     }
    }
   },
   {
    "cat": "Legal Education & Careers",
-   "region": "Maharashtra",
-   "body": "Maharashtra National Law University, Nagpur",
-   "headline": "MNLU Nagpur housekeeping staff end six-day strike after contractor agrees to ESI cover and minimum wages",
-   "text": "Outsourced housekeeping workers at Maharashtra National Law University, Nagpur, who stopped work on 18 November over low pay and unpaid PF and ESIC contributions, ended their protest after a meeting with the contractor and university administration on 23 November. The agreed terms include full 30 days' pay, ESI registration for all eligible workers, safety equipment, paid national holidays and wages as per Maharashtra minimum wage rules.",
-   "date": "24 Nov 2026",
-   "src": "https://www.barandbench.com/Law-School/housekeeping-staff-at-mnlu-nagpur-end-protest-after-contractor-agrees-to-esi-cover-minimum-wages",
+   "region": "Odisha",
+   "body": "KIIT School of Law",
+   "headline": "KIIT School of Law names its library after legal educationist Prof NL Mitra on his 90th birthday",
+   "text": "KIIT School of Law in Bhubaneswar formally renamed its library the Prof NL Mitra Library on 24 November, Prof Mitra's 90th birthday. Prof Mitra, a former Director of NLSIU Bengaluru and founder Vice-Chancellor of NLU Jodhpur, was KIIT's Chancellor from 2011 to 2017 and is now Professor Emeritus there.",
+   "date": "25 Nov 2026",
+   "src": "https://barandbench.com/Law-School/kiit-school-of-law-library-named-prof-nl-mitra-library",
    "srcName": "Bar & Bench",
    "i18n": {
     "hi": {
-     "headline": "ठेकेदार के ESI कवर और न्यूनतम वेतन पर सहमत होने के बाद MNLU Nagpur के सफ़ाई कर्मचारियों ने छह दिन की हड़ताल ख़त्म की",
-     "text": "Maharashtra National Law University, Nagpur के आउटसोर्स सफ़ाई कर्मचारी कम वेतन और PF व ESIC अंशदान जमा न होने के कारण 18 नवंबर से काम बंद किए हुए थे; 23 नवंबर को ठेकेदार और विश्वविद्यालय प्रशासन के साथ बैठक के बाद उन्होंने विरोध ख़त्म कर दिया। तय शर्तों में पूरे 30 दिन का वेतन, सभी पात्र कर्मचारियों का ESI पंजीकरण, सुरक्षा उपकरण, राष्ट्रीय छुट्टियों का वेतन और महाराष्ट्र के न्यूनतम वेतन नियमों के अनुसार मज़दूरी शामिल है।",
-     "body": "Maharashtra National Law University, Nagpur"
+     "body": "KIIT School of Law",
+     "headline": "KIIT School of Law ने विधि शिक्षाविद् Prof NL Mitra के 90वें जन्मदिन पर पुस्तकालय का नाम उनके नाम पर रखा",
+     "text": "भुवनेश्वर स्थित KIIT School of Law ने 24 नवंबर को, Prof Mitra के 90वें जन्मदिन पर, अपने पुस्तकालय का नाम औपचारिक रूप से Prof NL Mitra Library रखा। NLSIU बेंगलुरु के पूर्व निदेशक और NLU जोधपुर के संस्थापक कुलपति Prof Mitra 2011 से 2017 तक KIIT के कुलाधिपति रहे और अब वहाँ प्रोफ़ेसर एमेरिटस हैं।"
     },
     "mr": {
-     "headline": "ठेकेदाराने ESI संरक्षण आणि किमान वेतन मान्य केल्यानंतर MNLU Nagpur मधील स्वच्छता कर्मचाऱ्यांचा सहा दिवसांचा संप मागे",
-     "text": "Maharashtra National Law University, Nagpur मधील आउटसोर्स स्वच्छता कर्मचाऱ्यांनी कमी पगार आणि PF व ESIC अंशदान जमा न झाल्याने 18 नोव्हेंबरपासून काम थांबवले होते; 23 नोव्हेंबरला ठेकेदार व विद्यापीठ प्रशासनासोबतच्या बैठकीनंतर त्यांनी आंदोलन मागे घेतले. मान्य अटींमध्ये पूर्ण 30 दिवसांचा पगार, सर्व पात्र कर्मचाऱ्यांची ESI नोंदणी, सुरक्षा साधने, राष्ट्रीय सुट्ट्यांचा पगार आणि महाराष्ट्राच्या किमान वेतन नियमांनुसार मजुरी यांचा समावेश आहे.",
-     "body": "Maharashtra National Law University, Nagpur"
+     "body": "KIIT School of Law",
+     "headline": "KIIT School of Law ने विधी शिक्षणतज्ज्ञ Prof NL Mitra यांच्या 90व्या वाढदिवशी ग्रंथालयाला त्यांचे नाव दिले",
+     "text": "भुवनेश्वरमधील KIIT School of Law ने 24 नोव्हेंबरला, Prof Mitra यांच्या 90व्या वाढदिवशी, आपल्या ग्रंथालयाचे नाव औपचारिकपणे Prof NL Mitra Library असे ठेवले. NLSIU बंगळुरूचे माजी संचालक आणि NLU जोधपूरचे संस्थापक कुलगुरू Prof Mitra हे 2011 ते 2017 या काळात KIIT चे कुलपती होते आणि आता तेथे प्रोफेसर एमेरिटस आहेत."
     }
    }
   },
   {
    "cat": "Legal Education & Careers",
-   "region": "Uttar Pradesh",
-   "body": "Small Industries Development Bank of India",
-   "headline": "SIDBI invites applications for 6 Assistant Manager and Manager (Legal) posts; apply by 11 December",
-   "text": "The Small Industries Development Bank of India has 3 Assistant Manager (Legal) and 3 Manager (Legal) posts, located in Uttar Pradesh. An LLB is required, Assistant Manager candidates need at least two years' experience as a law officer, and the age limits are 21–30 years for Assistant Manager and 25–33 years for Manager. Listed pay is ₹1,20,000 a month for Assistant Manager and ₹1,45,000 for Manager; applications are to be made online on SIDBI's website.",
-   "date": "24 Nov 2026",
-   "src": "https://www.verdictum.in/job-updates/small-industries-development-bank-of-india-1626382",
+   "region": "Tamil Nadu",
+   "body": "SRM School of Law",
+   "headline": "SRM School of Law opens 2027 admissions and adds five new programmes",
+   "text": "SRM School of Law has opened admissions for 2027 and is adding five programmes, including four-year B.A. (Hons.) degrees in Technology and Law and in Criminology and Criminal Justice, and a one-year LL.M. in International Business Law. Law admissions will be through the SRMLET 2027 test, held on demand at over 300 centres from 5 January to 30 June 2027, followed by an interview; CLAT, LNAT-UK and CUET scores may also be considered. The last date to apply for law programmes is 25 June 2027.",
+   "date": "25 Nov 2026",
+   "src": "https://www.barandbench.com/Law-School/srm-school-of-law-opens-admissions-for-2027-introduces-5-new-programmes",
+   "srcName": "Bar & Bench",
+   "i18n": {
+    "hi": {
+     "body": "SRM School of Law",
+     "headline": "SRM School of Law ने 2027 के दाख़िले शुरू किए, पाँच नए पाठ्यक्रम जोड़े",
+     "text": "SRM School of Law ने 2027 के लिए दाख़िले शुरू किए हैं और पाँच नए पाठ्यक्रम जोड़े हैं, जिनमें Technology and Law तथा Criminology and Criminal Justice में चार वर्षीय B.A. (Hons.) और International Business Law में एक वर्षीय LL.M. शामिल हैं। विधि पाठ्यक्रमों में दाख़िला SRMLET 2027 परीक्षा से होगा, जो 5 जनवरी से 30 जून 2027 तक 300 से अधिक केंद्रों पर मांग पर होगी, उसके बाद साक्षात्कार होगा; CLAT, LNAT-UK और CUET के अंक भी माने जा सकते हैं। विधि पाठ्यक्रमों के लिए आवेदन की अंतिम तिथि 25 जून 2027 है।"
+    },
+    "mr": {
+     "body": "SRM School of Law",
+     "headline": "SRM School of Law ने 2027 चे प्रवेश सुरू केले, पाच नवे अभ्यासक्रम जोडले",
+     "text": "SRM School of Law ने 2027 साठी प्रवेश सुरू केले असून पाच नवे अभ्यासक्रम जोडले आहेत; त्यात Technology and Law आणि Criminology and Criminal Justice मधील चार वर्षांचे B.A. (Hons.) आणि International Business Law मधील एक वर्षाचा LL.M. यांचा समावेश आहे. विधी अभ्यासक्रमांचे प्रवेश SRMLET 2027 परीक्षेद्वारे होतील, जी 5 जानेवारी ते 30 जून 2027 दरम्यान 300 हून अधिक केंद्रांवर मागणीनुसार घेतली जाईल, त्यानंतर मुलाखत होईल; CLAT, LNAT-UK आणि CUET चे गुणही विचारात घेतले जाऊ शकतात. विधी अभ्यासक्रमांसाठी अर्जाची अंतिम तारीख 25 जून 2027 आहे."
+    }
+   }
+  },
+  {
+   "cat": "Legal Education & Careers",
+   "region": "All India",
+   "body": "Export-Import Bank of India",
+   "headline": "Exim Bank invites applications for 90 Management Trainee (Legal) posts; apply by 11 December",
+   "text": "The Export-Import Bank of India is recruiting 90 Management Trainees (Legal). Candidates need an LLB degree and must be 21 to 28 years old; no prior experience is required. The pay is listed as ₹65,000 and the last date to apply is 11 December 2026.",
+   "date": "25 Nov 2026",
+   "src": "https://www.verdictum.in/job-updates/export-import-bank-of-india-1626445",
    "srcName": "Verdictum",
    "i18n": {
     "hi": {
-     "headline": "SIDBI ने असिस्टेंट मैनेजर और मैनेजर (लीगल) के 6 पदों के लिए आवेदन माँगे; अंतिम तिथि 11 दिसंबर",
-     "text": "Small Industries Development Bank of India में असिस्टेंट मैनेजर (लीगल) के 3 और मैनेजर (लीगल) के 3 पद हैं, जिनका स्थान उत्तर प्रदेश है। LLB ज़रूरी है, असिस्टेंट मैनेजर के लिए विधि अधिकारी के रूप में कम से कम दो साल का अनुभव चाहिए, और आयु सीमा असिस्टेंट मैनेजर के लिए 21–30 वर्ष तथा मैनेजर के लिए 25–33 वर्ष है। असिस्टेंट मैनेजर का वेतन ₹1,20,000 प्रति माह और मैनेजर का ₹1,45,000 बताया गया है; आवेदन SIDBI की वेबसाइट पर ऑनलाइन करना है।",
-     "body": "Small Industries Development Bank of India"
+     "body": "Export-Import Bank of India",
+     "headline": "Exim Bank ने Management Trainee (Legal) के 90 पदों के लिए आवेदन मंगाए; 11 दिसंबर तक करें आवेदन",
+     "text": "Export-Import Bank of India में 90 Management Trainee (Legal) पदों पर भर्ती हो रही है। उम्मीदवार के पास LLB डिग्री होनी चाहिए और आयु 21 से 28 वर्ष के बीच हो; पहले के अनुभव की ज़रूरत नहीं है। वेतन ₹65,000 बताया गया है और आवेदन की अंतिम तिथि 11 दिसंबर 2026 है।"
     },
     "mr": {
-     "headline": "SIDBI कडून असिस्टंट मॅनेजर आणि मॅनेजर (लीगल) च्या 6 पदांसाठी अर्ज मागवले; शेवटची तारीख 11 डिसेंबर",
-     "text": "Small Industries Development Bank of India मध्ये असिस्टंट मॅनेजर (लीगल) ची 3 आणि मॅनेजर (लीगल) ची 3 पदे असून ती उत्तर प्रदेशात आहेत. LLB आवश्यक आहे, असिस्टंट मॅनेजरसाठी विधि अधिकारी म्हणून किमान दोन वर्षांचा अनुभव लागतो, आणि वयोमर्यादा असिस्टंट मॅनेजरसाठी 21–30 वर्षे व मॅनेजरसाठी 25–33 वर्षे आहे. असिस्टंट मॅनेजरचे वेतन ₹1,20,000 दरमहा आणि मॅनेजरचे ₹1,45,000 दाखवले आहे; अर्ज SIDBI च्या संकेतस्थळावर ऑनलाइन करायचा आहे.",
-     "body": "Small Industries Development Bank of India"
+     "body": "Export-Import Bank of India",
+     "headline": "Exim Bank ने Management Trainee (Legal) च्या 90 पदांसाठी अर्ज मागवले; 11 डिसेंबरपर्यंत अर्ज करा",
+     "text": "Export-Import Bank of India मध्ये 90 Management Trainee (Legal) पदांची भरती होत आहे. उमेदवाराकडे LLB पदवी असावी आणि वय 21 ते 28 वर्षे असावे; पूर्वानुभवाची गरज नाही. वेतन ₹65,000 असे नमूद आहे आणि अर्जाची अंतिम तारीख 11 डिसेंबर 2026 आहे."
+    }
+   }
+  },
+  {
+   "cat": "Legal Education & Careers",
+   "region": "Telangana",
+   "body": "High Court for the State of Telangana",
+   "headline": "Telangana High Court invites applications for 16 Research Assistant (Law) posts; last date 30 November",
+   "text": "The High Court for the State of Telangana is recruiting 16 Research Assistants (Law) on contract to assist judges and work at the Telangana State Judicial Academy, Secunderabad. Applicants need a 5-year or 3-year law degree obtained within two years before the notification and skills in legal databases. Applications must reach the Registrar General by registered post by 5 PM on 30 November 2026.",
+   "date": "26 Nov 2026",
+   "src": "https://www.livelaw.in/job-updates/research-assistants-law-vacancy-at-high-court-for-the-state-of-telangana-and-telangana-state-judicial-academy-secunderabad-560034",
+   "srcName": "LiveLaw",
+   "i18n": {
+    "hi": {
+     "body": "High Court for the State of Telangana",
+     "headline": "तेलंगाना उच्च न्यायालय ने Research Assistant (Law) के 16 पदों के लिए आवेदन मंगाए; अंतिम तिथि 30 नवंबर",
+     "text": "तेलंगाना उच्च न्यायालय न्यायाधीशों की सहायता और सिकंदराबाद स्थित Telangana State Judicial Academy में काम के लिए अनुबंध पर 16 Research Assistant (Law) नियुक्त कर रहा है। आवेदकों के पास अधिसूचना से पहले के दो वर्षों में प्राप्त 5 वर्षीय या 3 वर्षीय विधि डिग्री और कानूनी डेटाबेस चलाने का कौशल होना चाहिए। आवेदन 30 नवंबर 2026 को शाम 5 बजे तक रजिस्टर्ड डाक से Registrar General तक पहुँच जाने चाहिए।"
+    },
+    "mr": {
+     "body": "High Court for the State of Telangana",
+     "headline": "तेलंगणा उच्च न्यायालयाने Research Assistant (Law) च्या 16 पदांसाठी अर्ज मागवले; अंतिम तारीख 30 नोव्हेंबर",
+     "text": "तेलंगणा उच्च न्यायालय न्यायमूर्तींना सहाय्य करण्यासाठी आणि सिकंदराबाद येथील Telangana State Judicial Academy मध्ये काम करण्यासाठी करारावर 16 Research Assistant (Law) नेमत आहे. अर्जदारांकडे अधिसूचनेपूर्वीच्या दोन वर्षांत मिळवलेली 5 वर्षांची किंवा 3 वर्षांची विधी पदवी आणि कायदेविषयक डेटाबेस वापरण्याचे कौशल्य असावे. अर्ज 30 नोव्हेंबर 2026 रोजी संध्याकाळी 5 पर्यंत नोंदणीकृत टपालाने Registrar General कडे पोहोचले पाहिजेत."
+    }
+   }
+  },
+  {
+   "cat": "Legal Education & Careers",
+   "region": "Telangana",
+   "body": "NALSAR University of Law",
+   "headline": "NALSAR Hyderabad seeks 2 Research Assistants in law and economic regulation; ₹60,000 a month",
+   "text": "NALSAR University of Law, Hyderabad, has invited applications for two Research Assistant (Law and Economic Regulation) posts. Candidates need an undergraduate or master's degree in law with up to two years' experience and fluency in English. The consolidated pay is ₹60,000 a month and the last date is 28 November 2026.",
+   "date": "25 Nov 2026",
+   "src": "https://www.livelaw.in/job-updates/research-assistant-law-and-economic-regulation-vacancy-at-nalsar-university-of-law-hyderabad-559873",
+   "srcName": "LiveLaw",
+   "i18n": {
+    "hi": {
+     "body": "NALSAR University of Law",
+     "headline": "NALSAR हैदराबाद को विधि और आर्थिक विनियमन में 2 Research Assistant चाहिए; ₹60,000 प्रति माह",
+     "text": "NALSAR University of Law, हैदराबाद ने Research Assistant (Law and Economic Regulation) के दो पदों के लिए आवेदन मंगाए हैं। उम्मीदवार के पास विधि में स्नातक या स्नातकोत्तर डिग्री, अधिकतम दो वर्ष का अनुभव और अंग्रेज़ी में दक्षता होनी चाहिए। समेकित वेतन ₹60,000 प्रति माह है और अंतिम तिथि 28 नवंबर 2026 है।"
+    },
+    "mr": {
+     "body": "NALSAR University of Law",
+     "headline": "NALSAR हैदराबादला विधी व आर्थिक नियमन क्षेत्रात 2 Research Assistant हवेत; दरमहा ₹60,000",
+     "text": "NALSAR University of Law, हैदराबादने Research Assistant (Law and Economic Regulation) च्या दोन पदांसाठी अर्ज मागवले आहेत. उमेदवाराकडे विधी विषयातील पदवी किंवा पदव्युत्तर पदवी, जास्तीत जास्त दोन वर्षांचा अनुभव आणि इंग्रजीवर प्रभुत्व असावे. एकत्रित वेतन दरमहा ₹60,000 असून अंतिम तारीख 28 नोव्हेंबर 2026 आहे."
+    }
+   }
+  },
+  {
+   "cat": "Other Legal News",
+   "region": "Karnataka",
+   "body": "Karnataka High Court",
+   "headline": "Karnataka High Court tells courts to say 'parenting time' instead of 'visitation' in child custody cases",
+   "text": "In a custody case, Justice Lalitha Kanneganti of the Karnataka High Court directed courts and parties to use the term 'parenting time' rather than 'visitation' for a parent's time with a child. The court asked the Registrar General to circulate the order and issue a circular on the terminology.",
+   "why": "Once the circular is issued, family courts across Karnataka will be expected to adopt the new wording in custody orders.",
+   "date": "25 Nov 2026",
+   "src": "https://www.scconline.com/blog/post/2026/11/25/karnataka-hc-changes-visitation-to-parenting-time-child-custody-cases/",
+   "srcName": "SCC Online",
+   "i18n": {
+    "hi": {
+     "body": "Karnataka High Court",
+     "headline": "कर्नाटक उच्च न्यायालय: बच्चों की अभिरक्षा के मामलों में 'visitation' की जगह 'parenting time' कहें अदालतें",
+     "text": "एक अभिरक्षा मामले में कर्नाटक उच्च न्यायालय की Justice Lalitha Kanneganti ने अदालतों और पक्षकारों को निर्देश दिया कि माता-पिता के बच्चे के साथ बिताए जाने वाले समय के लिए 'visitation' के बजाय 'parenting time' शब्द का उपयोग करें। न्यायालय ने Registrar General से आदेश प्रसारित करने और इस शब्दावली पर परिपत्र जारी करने को कहा।",
+     "why": "परिपत्र जारी होने के बाद कर्नाटक भर के परिवार न्यायालयों से अभिरक्षा आदेशों में नई शब्दावली अपनाने की अपेक्षा होगी।"
+    },
+    "mr": {
+     "body": "Karnataka High Court",
+     "headline": "कर्नाटक उच्च न्यायालय: मुलांच्या ताब्याच्या प्रकरणांत न्यायालयांनी 'visitation' ऐवजी 'parenting time' म्हणावे",
+     "text": "एका ताबा प्रकरणात कर्नाटक उच्च न्यायालयाच्या Justice Lalitha Kanneganti यांनी न्यायालये आणि पक्षकारांना निर्देश दिले की पालकाने मुलासोबत घालवायच्या वेळेसाठी 'visitation' ऐवजी 'parenting time' हा शब्द वापरावा. न्यायालयाने Registrar General यांना आदेश सर्वत्र पाठवण्यास आणि या शब्दावलीबाबत परिपत्रक काढण्यास सांगितले.",
+     "why": "परिपत्रक निघाल्यानंतर कर्नाटकातील कौटुंबिक न्यायालयांनी ताबा आदेशांत नवी शब्दावली वापरणे अपेक्षित असेल."
+    }
+   }
+  },
+  {
+   "cat": "Other Legal News",
+   "region": "All India",
+   "body": "Indian Council of Arbitration",
+   "headline": "CJI Surya Kant to open India–Singapore legal symposium in Singapore on 27 November",
+   "text": "The Indian Council of Arbitration will hold a symposium titled 'India–Singapore: From Shared Legal Foundations to the Future' at The Fullerton Hotel, Singapore, on 27 November, with CJI Surya Kant giving the inaugural address. Singapore's Law Minister Edwin Tong SC and Solicitor General Tushar Mehta are among the speakers, and sessions will cover cross-border arbitration, mediation and the future of the legal profession.",
+   "why": "The event marks 200 years of Singapore's modern legal system and builds on the 2024 India–Singapore MoU on law and dispute resolution.",
+   "date": "25 Nov 2026",
+   "src": "https://www.scconline.com/blog/post/2026/11/25/ica-india-singapore-symposium-shared-legal-foundations-future-2026/",
+   "srcName": "SCC Online",
+   "i18n": {
+    "hi": {
+     "body": "Indian Council of Arbitration",
+     "headline": "CJI Surya Kant 27 नवंबर को सिंगापुर में भारत–सिंगापुर विधि संगोष्ठी का उद्घाटन करेंगे",
+     "text": "Indian Council of Arbitration 27 नवंबर को सिंगापुर के The Fullerton Hotel में 'India–Singapore: From Shared Legal Foundations to the Future' विषय पर संगोष्ठी आयोजित करेगी, जिसमें CJI Surya Kant उद्घाटन भाषण देंगे। वक्ताओं में सिंगापुर के विधि मंत्री Edwin Tong SC और सॉलिसिटर जनरल Tushar Mehta शामिल हैं; सत्रों में सीमापार मध्यस्थता (arbitration), सुलह (mediation) और विधि व्यवसाय के भविष्य पर चर्चा होगी।",
+     "why": "यह आयोजन सिंगापुर की आधुनिक विधि व्यवस्था के 200 वर्ष पूरे होने पर है और विधि व विवाद समाधान पर 2024 के भारत–सिंगापुर MoU को आगे बढ़ाता है।"
+    },
+    "mr": {
+     "body": "Indian Council of Arbitration",
+     "headline": "CJI Surya Kant 27 नोव्हेंबरला सिंगापूरमध्ये भारत–सिंगापूर विधी परिसंवादाचे उद्घाटन करणार",
+     "text": "Indian Council of Arbitration 27 नोव्हेंबरला सिंगापूरच्या The Fullerton Hotel मध्ये 'India–Singapore: From Shared Legal Foundations to the Future' या विषयावर परिसंवाद आयोजित करणार असून CJI Surya Kant उद्घाटनपर भाषण करतील. वक्त्यांमध्ये सिंगापूरचे विधी मंत्री Edwin Tong SC आणि सॉलिसिटर जनरल Tushar Mehta यांचा समावेश आहे; सत्रांत सीमापार लवाद, मध्यस्थी आणि वकिली व्यवसायाचे भविष्य यावर चर्चा होईल.",
+     "why": "हा कार्यक्रम सिंगापूरच्या आधुनिक कायदा व्यवस्थेला 200 वर्षे पूर्ण झाल्यानिमित्त असून कायदा व वाद निवारणावरील 2024 च्या भारत–सिंगापूर MoU चा पुढचा टप्पा आहे."
     }
    }
   }

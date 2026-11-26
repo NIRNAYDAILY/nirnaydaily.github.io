@@ -1,6 +1,184 @@
 [
  {
   "edition": {
+   "edition_id": "2026-11-25-am",
+   "iso": "2026-11-25",
+   "slot": "10 AM",
+   "dateShort": "25 Nov 2026",
+   "dateLong": "Wednesday, 25 November 2026 · Morning edition",
+   "window": "News from 10:00 AM IST, 24 November to 10:00 AM IST, 25 November 2026"
+  },
+  "items": [
+   {
+    "cat": "Judiciary",
+    "region": "All India",
+    "body": "Supreme Court Collegium",
+    "headline": "Supreme Court Collegium recommends Justice Vibhu Bakhru as Jharkhand HC Chief Justice and Justice M.S. Ramachandra Rao for Karnataka HC",
+    "text": "At its meeting on 24 November, the Collegium headed by CJI Surya Kant recommended transferring Karnataka High Court Chief Justice Vibhu Bakhru to head the Jharkhand High Court, where the present Chief Justice retires on 27 November. Tripura High Court Chief Justice M.S. Ramachandra Rao is to move to Karnataka as Chief Justice, and Himachal Pradesh High Court judge Justice Vivek Singh Thakur has been recommended as Chief Justice of the Tripura High Court.",
+    "why": "Three High Courts will get new Chief Justices once the Centre notifies these recommendations.",
+    "date": "24 Nov 2026",
+    "src": "https://www.livelaw.in/top-stories/supreme-court-collegium-recommends-justice-vibhu-bakhru-as-jharkhand-hc-chief-justice-justice-ramachandra-rao-for-karnataka-hc-559829",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "Supreme Court Collegium ने Justice Vibhu Bakhru को झारखंड उच्च न्यायालय और Justice M.S. Ramachandra Rao को कर्नाटक उच्च न्यायालय का मुख्य न्यायाधीश बनाने की सिफ़ारिश की",
+      "text": "24 नवंबर की बैठक में CJI Surya Kant की अध्यक्षता वाले Collegium ने कर्नाटक उच्च न्यायालय के मुख्य न्यायाधीश Vibhu Bakhru को झारखंड उच्च न्यायालय भेजने की सिफ़ारिश की, जहाँ मौजूदा मुख्य न्यायाधीश 27 नवंबर को सेवानिवृत्त हो रहे हैं। त्रिपुरा उच्च न्यायालय के मुख्य न्यायाधीश M.S. Ramachandra Rao को कर्नाटक का मुख्य न्यायाधीश बनाया जाएगा, और हिमाचल प्रदेश उच्च न्यायालय के न्यायाधीश Justice Vivek Singh Thakur को त्रिपुरा उच्च न्यायालय का मुख्य न्यायाधीश बनाने की सिफ़ारिश की गई है।",
+      "why": "केंद्र की अधिसूचना के बाद तीन उच्च न्यायालयों को नए मुख्य न्यायाधीश मिलेंगे।",
+      "body": "Supreme Court Collegium"
+     },
+     "mr": {
+      "headline": "Supreme Court Collegium ची Justice Vibhu Bakhru यांना झारखंड उच्च न्यायालयाचे आणि Justice M.S. Ramachandra Rao यांना कर्नाटक उच्च न्यायालयाचे मुख्य न्यायमूर्ती करण्याची शिफारस",
+      "text": "24 नोव्हेंबरच्या बैठकीत CJI Surya Kant यांच्या अध्यक्षतेखालील Collegium ने कर्नाटक उच्च न्यायालयाचे मुख्य न्यायमूर्ती Vibhu Bakhru यांची झारखंड उच्च न्यायालयात बदली करण्याची शिफारस केली; तेथील विद्यमान मुख्य न्यायमूर्ती 27 नोव्हेंबरला निवृत्त होत आहेत. त्रिपुरा उच्च न्यायालयाचे मुख्य न्यायमूर्ती M.S. Ramachandra Rao हे कर्नाटकचे मुख्य न्यायमूर्ती होतील, तर हिमाचल प्रदेश उच्च न्यायालयाचे न्यायमूर्ती Justice Vivek Singh Thakur यांची त्रिपुरा उच्च न्यायालयाचे मुख्य न्यायमूर्ती म्हणून शिफारस करण्यात आली आहे.",
+      "why": "केंद्राच्या अधिसूचनेनंतर तीन उच्च न्यायालयांना नवे मुख्य न्यायमूर्ती मिळतील.",
+      "body": "Supreme Court Collegium"
+     }
+    }
+   },
+   {
+    "cat": "Judiciary",
+    "region": "Bihar",
+    "body": "Supreme Court of India",
+    "headline": "Supreme Court tells Bihar sessions judge to stop acting like 'Bahubali' after he convicted an SP for not registering an FIR",
+    "text": "A bench of CJI Surya Kant, Justice Joymalya Bagchi and Justice V Mohana heard Additional Sessions Judge Anil Kumar's challenge to a Patna High Court order that stayed his conviction of the then Rohtas SP, whom he had fined Re 1 for not registering an FIR as directed. The bench said such non-compliance is not an offence committed in the face of the court and suggested the judge undergo training at the National Judicial Academy. It disposed of the plea and asked the Patna High Court to sympathetically consider his explanation-cum-apology in the proceedings pending against him.",
+    "why": "The remarks are a caution to trial judges against going beyond their powers.",
+    "date": "23 Nov 2026",
+    "src": "https://lawbeat.in/top-stories/stop-acting-like-baahubali-supreme-court-pulls-up-bihar-judge-over-conviction-of-sp-for-not-registering-fir-1654738",
+    "srcName": "LawBeat",
+    "i18n": {
+     "hi": {
+      "headline": "FIR दर्ज न करने पर SP को दोषी ठहराने वाले बिहार के सत्र न्यायाधीश से सर्वोच्च न्यायालय ने कहा, 'बाहुबली' जैसा व्यवहार न करें",
+      "text": "CJI Surya Kant, Justice Joymalya Bagchi और Justice V Mohana की पीठ ने अपर सत्र न्यायाधीश Anil Kumar की उस याचिका पर सुनवाई की, जिसमें पटना उच्च न्यायालय के आदेश को चुनौती दी गई थी; उच्च न्यायालय ने रोहतास के तत्कालीन SP को दोषी ठहराने के उनके निर्णय पर रोक लगाई थी, जिन पर निर्देश के बावजूद FIR दर्ज न करने के लिए ₹1 का जुर्माना लगाया गया था। पीठ ने कहा कि ऐसा पालन न करना अदालत के सामने किया गया अपराध नहीं है और न्यायाधीश को National Judicial Academy में प्रशिक्षण लेने का सुझाव दिया। याचिका निपटाते हुए पीठ ने पटना उच्च न्यायालय से उनके विरुद्ध लंबित कार्यवाही में उनके स्पष्टीकरण और माफ़ीनामे पर सहानुभूति से विचार करने को कहा।",
+      "why": "ये टिप्पणियाँ निचली अदालतों के न्यायाधीशों के लिए अपनी शक्तियों से आगे न जाने की चेतावनी हैं।",
+      "body": "सर्वोच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "FIR नोंदवली नाही म्हणून SP ला दोषी ठरवणाऱ्या बिहारमधील सत्र न्यायाधीशांना सर्वोच्च न्यायालयाने 'बाहुबली'सारखे वागू नका असे सांगितले",
+      "text": "CJI Surya Kant, Justice Joymalya Bagchi आणि Justice V Mohana यांच्या खंडपीठाने अपर सत्र न्यायाधीश Anil Kumar यांच्या याचिकेवर सुनावणी केली; पाटणा उच्च न्यायालयाने रोहतासच्या तत्कालीन SP ला दोषी ठरवण्याच्या त्यांच्या निकालाला स्थगिती दिली होती, ज्यांना निर्देश असूनही FIR न नोंदवल्याबद्दल ₹1 दंड ठोठावला होता. असे पालन न करणे हा न्यायालयासमोर केलेला गुन्हा नाही, असे खंडपीठाने सांगितले आणि न्यायाधीशांनी National Judicial Academy मध्ये प्रशिक्षण घ्यावे असे सुचवले. याचिका निकाली काढताना खंडपीठाने पाटणा उच्च न्यायालयाला त्यांच्याविरुद्ध प्रलंबित कार्यवाहीत त्यांच्या स्पष्टीकरण व माफीनाम्याचा सहानुभूतीने विचार करण्यास सांगितले.",
+      "why": "या टिप्पण्या कनिष्ठ न्यायालयांतील न्यायाधीशांना आपल्या अधिकारांच्या पलीकडे न जाण्याचा इशारा आहेत.",
+      "body": "सर्वोच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Bar & Bar Councils",
+    "region": "Rajasthan",
+    "body": "Rajasthan High Court",
+    "headline": "Rajasthan HC Division Bench stays proof-of-practice conditions for voting in Jaipur Bar Association polls; election on 11 December",
+    "text": "A Division Bench of Chief Justice Sanjay K. Agrawal and Justice Sameer Jain stayed the part of a 20 November single-judge order that had upheld extra voting conditions, such as showing two appearances or two vakalatnamas before the Jaipur Bench. Taking the prima facie view that the election process had already begun under the 2 November notice, the court said the Rajasthan High Court Bar Association, Jaipur, poll must go ahead on the original terms. The appellants had argued the conditions would keep about 2,500 young advocates from voting.",
+    "date": "25 Nov 2026",
+    "src": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-stays-single-judge-order-additional-voter-eligibility-559839",
+    "srcName": "LiveLaw",
+    "i18n": {
+     "hi": {
+      "headline": "राजस्थान उच्च न्यायालय की खंडपीठ ने जयपुर बार एसोसिएशन चुनाव में वोट के लिए प्रैक्टिस के सबूत की शर्तों पर रोक लगाई; चुनाव 11 दिसंबर को",
+      "text": "मुख्य न्यायाधीश Sanjay K. Agrawal और Justice Sameer Jain की खंडपीठ ने 20 नवंबर के एकल न्यायाधीश के आदेश के उस हिस्से पर रोक लगा दी, जिसमें जयपुर पीठ के सामने दो पेशियाँ या दो वकालतनामे दिखाने जैसी अतिरिक्त मतदान शर्तों को सही ठहराया गया था। प्रथम दृष्टया यह मानते हुए कि चुनाव प्रक्रिया 2 नवंबर की सूचना से शुरू हो चुकी थी, अदालत ने कहा कि Rajasthan High Court Bar Association, Jaipur का चुनाव मूल शर्तों पर ही होगा। अपीलकर्ताओं का कहना था कि इन शर्तों से लगभग 2,500 युवा वकील मतदान से वंचित हो जाते।",
+      "body": "राजस्थान उच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "राजस्थान उच्च न्यायालयाच्या खंडपीठाची जयपूर बार असोसिएशन निवडणुकीत मतदानासाठी प्रॅक्टिसच्या पुराव्याच्या अटींना स्थगिती; निवडणूक 11 डिसेंबरला",
+      "text": "मुख्य न्यायमूर्ती Sanjay K. Agrawal आणि Justice Sameer Jain यांच्या खंडपीठाने 20 नोव्हेंबरच्या एकल न्यायाधीशांच्या आदेशातील तो भाग स्थगित केला, ज्यात जयपूर खंडपीठासमोर दोन हजेऱ्या किंवा दोन वकालतनामे दाखवण्यासारख्या अतिरिक्त मतदान अटी योग्य ठरवल्या होत्या. निवडणूक प्रक्रिया 2 नोव्हेंबरच्या सूचनेनुसार आधीच सुरू झाली होती, असे प्रथमदर्शनी मत नोंदवत न्यायालयाने Rajasthan High Court Bar Association, Jaipur ची निवडणूक मूळ अटींवरच होईल असे सांगितले. या अटींमुळे सुमारे 2,500 तरुण वकील मतदानापासून वंचित राहतील, असा अपीलकर्त्यांचा युक्तिवाद होता.",
+      "body": "राजस्थान उच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Bar & Bar Councils",
+    "region": "Uttar Pradesh",
+    "body": "Allahabad High Court",
+    "headline": "Allahabad HC orders UP to clear pending fees of Gram Sabha panel lawyers, some unpaid since 2020",
+    "text": "A bench of Justice Ajit Kumar and Justice Garima Prashad directed the Principal Secretary, Finance, to tell District Magistrates to clear the pending bills of panel lawyers who represent Gram Sabhas before the High Court and its Lucknow Bench. The petitioner, advocate Pradeep Singh, had not been paid for over three years for Mirzapur matters, and other panel lawyers said their bills had been withheld since 2020. The court warned it will take a serious view if a compliance affidavit is not filed by the next date.",
+    "why": "The court noted that unpaid government panel lawyers may not assist it, which delays cases.",
+    "date": "24 Nov 2026",
+    "src": "https://www.verdictum.in/allahabad-high-court/panel-lawyers-gram-sabha-not-paid-fees-despite-assisting-administration-justice-1626372",
+    "srcName": "Verdictum",
+    "i18n": {
+     "hi": {
+      "headline": "इलाहाबाद उच्च न्यायालय ने UP सरकार को ग्राम सभा पैनल वकीलों की बकाया फीस चुकाने का आदेश दिया; कुछ को 2020 से भुगतान नहीं",
+      "text": "Justice Ajit Kumar और Justice Garima Prashad की पीठ ने वित्त विभाग के प्रमुख सचिव को निर्देश दिया कि वे ज़िलाधिकारियों से उच्च न्यायालय और उसकी लखनऊ पीठ में ग्राम सभाओं की ओर से पैरवी करने वाले पैनल वकीलों के बकाया बिल चुकाने को कहें। याचिकाकर्ता वकील Pradeep Singh को मिर्ज़ापुर के मामलों के लिए तीन साल से ज़्यादा समय से भुगतान नहीं मिला था, और अन्य पैनल वकीलों ने बताया कि उनके बिल 2020 से रुके हैं। अदालत ने चेताया कि अगली तारीख तक अनुपालन हलफ़नामा दाखिल न होने पर वह सख़्त रुख अपनाएगी।",
+      "why": "अदालत ने कहा कि भुगतान न मिलने पर सरकारी पैनल वकील अदालत की मदद नहीं कर पाएँगे, जिससे मामलों में देरी होगी।",
+      "body": "इलाहाबाद उच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "ग्रामसभा पॅनल वकिलांचे थकीत शुल्क चुकवा, इलाहाबाद उच्च न्यायालयाचा UP सरकारला आदेश; काहींना 2020 पासून पैसे नाहीत",
+      "text": "Justice Ajit Kumar आणि Justice Garima Prashad यांच्या खंडपीठाने वित्त विभागाच्या प्रधान सचिवांना निर्देश दिले की त्यांनी जिल्हाधिकाऱ्यांना उच्च न्यायालय व त्याच्या लखनौ खंडपीठात ग्रामसभांची बाजू मांडणाऱ्या पॅनल वकिलांची थकीत बिले चुकवण्यास सांगावे. याचिकाकर्ते वकील Pradeep Singh यांना मिर्झापूरच्या प्रकरणांसाठी तीन वर्षांहून अधिक काळ पैसे मिळाले नव्हते, आणि इतर पॅनल वकिलांनी त्यांची बिले 2020 पासून अडकल्याचे सांगितले. पुढील तारखेपर्यंत अनुपालन प्रतिज्ञापत्र दाखल न झाल्यास कठोर भूमिका घेऊ, असा इशारा न्यायालयाने दिला.",
+      "why": "पैसे न मिळाल्यास सरकारी पॅनल वकील न्यायालयाला मदत करणार नाहीत आणि प्रकरणांना विलंब होईल, असे न्यायालयाने नमूद केले.",
+      "body": "इलाहाबाद उच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Bar & Bar Councils",
+    "region": "Uttar Pradesh",
+    "body": "Allahabad High Court",
+    "headline": "Citing a fabricated judgment may be professional misconduct, says Allahabad HC in Krishna Janmabhoomi suit",
+    "text": "Hearing a recall application in the Sri Krishna Janmabhoomi suit, Justice Avnish Saxena observed that a lawyer citing a fabricated judgment may amount to professional misconduct; the applicants had said two Supreme Court rulings cited by the first plaintiff's counsel did not exist. The court held that such citations do not undo an order that rests on sound legal grounds and dismissed the recall plea. No disciplinary direction against any lawyer was reported.",
+    "why": "The observation adds to growing judicial warnings against unverified citations in court filings.",
+    "date": "24 Nov 2026",
+    "src": "https://www.verdictum.in/allahabad-high-court/shri-bhagwan-shrikrishna-lala-virajman-v-up-sunni-central-waqf-board-fabricated-judgment-1626381",
+    "srcName": "Verdictum",
+    "i18n": {
+     "hi": {
+      "headline": "फ़र्ज़ी निर्णय का हवाला देना पेशेवर कदाचार हो सकता है: कृष्ण जन्मभूमि वाद में इलाहाबाद उच्च न्यायालय",
+      "text": "श्री कृष्ण जन्मभूमि वाद में एक रिकॉल आवेदन पर सुनवाई करते हुए Justice Avnish Saxena ने कहा कि वकील द्वारा फ़र्ज़ी निर्णय का हवाला देना पेशेवर कदाचार हो सकता है; आवेदकों का कहना था कि पहले वादी के वकील द्वारा बताए गए सर्वोच्च न्यायालय के दो निर्णय मौजूद ही नहीं हैं। अदालत ने कहा कि ठोस कानूनी आधार पर टिके आदेश को ऐसे हवालों से रद्द नहीं किया जा सकता, और रिकॉल आवेदन खारिज कर दिया। किसी वकील के विरुद्ध अनुशासनात्मक निर्देश की कोई जानकारी नहीं है।",
+      "why": "यह टिप्पणी अदालती दस्तावेज़ों में बिना जाँचे हवालों के ख़िलाफ़ न्यायालयों की बढ़ती चेतावनियों में शामिल है।",
+      "body": "इलाहाबाद उच्च न्यायालय"
+     },
+     "mr": {
+      "headline": "बनावट निकालाचा हवाला देणे हे व्यावसायिक गैरवर्तन ठरू शकते: कृष्ण जन्मभूमी दाव्यात इलाहाबाद उच्च न्यायालय",
+      "text": "श्री कृष्ण जन्मभूमी दाव्यातील रिकॉल अर्जावर सुनावणी करताना Justice Avnish Saxena यांनी नमूद केले की वकिलाने बनावट निकालाचा हवाला देणे हे व्यावसायिक गैरवर्तन ठरू शकते; पहिल्या वादीच्या वकिलांनी दिलेले सर्वोच्च न्यायालयाचे दोन निकाल अस्तित्वातच नाहीत, असे अर्जदारांचे म्हणणे होते. ठोस कायदेशीर आधारावर दिलेला आदेश अशा हवाल्यांमुळे रद्द होत नाही, असे सांगत न्यायालयाने रिकॉल अर्ज फेटाळला. कोणत्याही वकिलाविरुद्ध शिस्तभंगाचे निर्देश दिल्याची माहिती नाही.",
+      "why": "न्यायालयीन कागदपत्रांतील न तपासलेल्या हवाल्यांविरुद्ध न्यायालयांच्या वाढत्या इशाऱ्यांमध्ये ही टिप्पणी भर घालते.",
+      "body": "इलाहाबाद उच्च न्यायालय"
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Maharashtra",
+    "body": "Maharashtra National Law University, Nagpur",
+    "headline": "MNLU Nagpur housekeeping staff end six-day strike after contractor agrees to ESI cover and minimum wages",
+    "text": "Outsourced housekeeping workers at Maharashtra National Law University, Nagpur, who stopped work on 18 November over low pay and unpaid PF and ESIC contributions, ended their protest after a meeting with the contractor and university administration on 23 November. The agreed terms include full 30 days' pay, ESI registration for all eligible workers, safety equipment, paid national holidays and wages as per Maharashtra minimum wage rules.",
+    "date": "24 Nov 2026",
+    "src": "https://www.barandbench.com/Law-School/housekeeping-staff-at-mnlu-nagpur-end-protest-after-contractor-agrees-to-esi-cover-minimum-wages",
+    "srcName": "Bar & Bench",
+    "i18n": {
+     "hi": {
+      "headline": "ठेकेदार के ESI कवर और न्यूनतम वेतन पर सहमत होने के बाद MNLU Nagpur के सफ़ाई कर्मचारियों ने छह दिन की हड़ताल ख़त्म की",
+      "text": "Maharashtra National Law University, Nagpur के आउटसोर्स सफ़ाई कर्मचारी कम वेतन और PF व ESIC अंशदान जमा न होने के कारण 18 नवंबर से काम बंद किए हुए थे; 23 नवंबर को ठेकेदार और विश्वविद्यालय प्रशासन के साथ बैठक के बाद उन्होंने विरोध ख़त्म कर दिया। तय शर्तों में पूरे 30 दिन का वेतन, सभी पात्र कर्मचारियों का ESI पंजीकरण, सुरक्षा उपकरण, राष्ट्रीय छुट्टियों का वेतन और महाराष्ट्र के न्यूनतम वेतन नियमों के अनुसार मज़दूरी शामिल है।",
+      "body": "Maharashtra National Law University, Nagpur"
+     },
+     "mr": {
+      "headline": "ठेकेदाराने ESI संरक्षण आणि किमान वेतन मान्य केल्यानंतर MNLU Nagpur मधील स्वच्छता कर्मचाऱ्यांचा सहा दिवसांचा संप मागे",
+      "text": "Maharashtra National Law University, Nagpur मधील आउटसोर्स स्वच्छता कर्मचाऱ्यांनी कमी पगार आणि PF व ESIC अंशदान जमा न झाल्याने 18 नोव्हेंबरपासून काम थांबवले होते; 23 नोव्हेंबरला ठेकेदार व विद्यापीठ प्रशासनासोबतच्या बैठकीनंतर त्यांनी आंदोलन मागे घेतले. मान्य अटींमध्ये पूर्ण 30 दिवसांचा पगार, सर्व पात्र कर्मचाऱ्यांची ESI नोंदणी, सुरक्षा साधने, राष्ट्रीय सुट्ट्यांचा पगार आणि महाराष्ट्राच्या किमान वेतन नियमांनुसार मजुरी यांचा समावेश आहे.",
+      "body": "Maharashtra National Law University, Nagpur"
+     }
+    }
+   },
+   {
+    "cat": "Legal Education & Careers",
+    "region": "Uttar Pradesh",
+    "body": "Small Industries Development Bank of India",
+    "headline": "SIDBI invites applications for 6 Assistant Manager and Manager (Legal) posts; apply by 11 December",
+    "text": "The Small Industries Development Bank of India has 3 Assistant Manager (Legal) and 3 Manager (Legal) posts, located in Uttar Pradesh. An LLB is required, Assistant Manager candidates need at least two years' experience as a law officer, and the age limits are 21–30 years for Assistant Manager and 25–33 years for Manager. Listed pay is ₹1,20,000 a month for Assistant Manager and ₹1,45,000 for Manager; applications are to be made online on SIDBI's website.",
+    "date": "24 Nov 2026",
+    "src": "https://www.verdictum.in/job-updates/small-industries-development-bank-of-india-1626382",
+    "srcName": "Verdictum",
+    "i18n": {
+     "hi": {
+      "headline": "SIDBI ने असिस्टेंट मैनेजर और मैनेजर (लीगल) के 6 पदों के लिए आवेदन माँगे; अंतिम तिथि 11 दिसंबर",
+      "text": "Small Industries Development Bank of India में असिस्टेंट मैनेजर (लीगल) के 3 और मैनेजर (लीगल) के 3 पद हैं, जिनका स्थान उत्तर प्रदेश है। LLB ज़रूरी है, असिस्टेंट मैनेजर के लिए विधि अधिकारी के रूप में कम से कम दो साल का अनुभव चाहिए, और आयु सीमा असिस्टेंट मैनेजर के लिए 21–30 वर्ष तथा मैनेजर के लिए 25–33 वर्ष है। असिस्टेंट मैनेजर का वेतन ₹1,20,000 प्रति माह और मैनेजर का ₹1,45,000 बताया गया है; आवेदन SIDBI की वेबसाइट पर ऑनलाइन करना है।",
+      "body": "Small Industries Development Bank of India"
+     },
+     "mr": {
+      "headline": "SIDBI कडून असिस्टंट मॅनेजर आणि मॅनेजर (लीगल) च्या 6 पदांसाठी अर्ज मागवले; शेवटची तारीख 11 डिसेंबर",
+      "text": "Small Industries Development Bank of India मध्ये असिस्टंट मॅनेजर (लीगल) ची 3 आणि मॅनेजर (लीगल) ची 3 पदे असून ती उत्तर प्रदेशात आहेत. LLB आवश्यक आहे, असिस्टंट मॅनेजरसाठी विधि अधिकारी म्हणून किमान दोन वर्षांचा अनुभव लागतो, आणि वयोमर्यादा असिस्टंट मॅनेजरसाठी 21–30 वर्षे व मॅनेजरसाठी 25–33 वर्षे आहे. असिस्टंट मॅनेजरचे वेतन ₹1,20,000 दरमहा आणि मॅनेजरचे ₹1,45,000 दाखवले आहे; अर्ज SIDBI च्या संकेतस्थळावर ऑनलाइन करायचा आहे.",
+      "body": "Small Industries Development Bank of India"
+     }
+    }
+   }
+  ]
+ },
+ {
+  "edition": {
    "edition_id": "2026-11-24-am",
    "iso": "2026-11-24",
    "slot": "10 AM",
