@@ -1,18 +1,10 @@
 {
- "ran": "2026-11-27T07:24+05:30",
+ "ran": "2026-11-27T10:29+05:30",
  "processed": [
-  "sc_2026-11-19-auto.json: supreme court full texts: 0 added, 2 could not be verified",
-  "sc_2026-11-20-auto.json: supreme court full texts: 0 added, 5 could not be verified",
-  "sc_2026-11-23-auto.json: supreme court full texts: 0 added, 1 could not be verified",
-  "sc_2026-11-25-auto.json: supreme court full texts: 0 added, 10 could not be verified",
-  "sc_2026-11-26-auto.json: supreme court full texts: 0 added, 5 could not be verified"
+  "digest_2026-11-27.json: judgments & orders 27 Nov 2026: 25 items",
+  "news_2026-11-27-am.json: legal news 2026-11-27-am: 7 items",
+  "tribunals_2026-11-27.json: tribunals 27 Nov 2026: 12 items"
  ],
  "errors": [],
- "notes": [
-  "Supreme Court judgments not hosted: Subrata Bhattacharya v. Securities and Exchange Board of India: download is not a PDF (the site may have refused it) | Subhasindu Das v. Bacchu Ranjan Das: download is not a PDF (the site may have refused it)",
-  "Supreme Court judgments not hosted: Khursheed Ahmad Chowhan v. Union Territory of J and K: download is not a PDF (the site may have refused it) | Okhla Enclave Plot Holders Wel. Ason v. Union of India: download is not a PDF (the site may have refused it) | Jc 377745m Ex Sub Maj and Hony Lt Devi Singh v. Union of India: download is not a PDF (the site may have refused it) | Mohammad Sabir v. Ramesh Prasad: download is not a PDF (the site may have refused it) | Delhi Development Authority v. Sudarshan Manjhi: download is not a PDF (the site may have refused it)",
-  "Supreme Court judgments not hosted: J.Sakthi Devi @ Chriti v. Joseph Charles: download is not a PDF (the site may have refused it)",
-  "Supreme Court judgments not hosted: Uv Asset Reconstruction Company Ltd v. Gautam Sinha: download is not a PDF (the site may have refused it) | B. Prema v. B. Rajkumar: download is not a PDF (the site may have refused it) | Sukumarbai v. United India Insurance Company Ltd: download is not a PDF (the site may have refused it) | Brij Kumar Mishra v. Nilamber Pitambar University: download is not a PDF (the site may have refused it) | Ajit Patel v. Evita Co-operative Housing Society Ltd: download is not a PDF (the site may have refused it) | Prabhu Singh v. State of Uttar Pradesh: download is not a PDF (the site may have refused it) | State of Karnataka v. Vinay Rajashekharappa Kulkarni: download is not a PDF (the site may have refused it) | Deepti Singh v. State of U.P: download is not a PDF (the site may have refused it) | Pawankumar Fakirchand Uike v. State of Maharashtra: download is not a PDF (the site may have refused it) | Subodh Agarwal v. State of Rajasthan: download is not a PDF (the site may have refused it)",
-  "Supreme Court judgments not hosted: P. Kathirvel v. State: download is not a PDF (the site may have refused it) | M/s Fenkin Infotech Llp v. Aniruddh Nikhil Makhecha: download is not a PDF (the site may have refused it) | Union of India v. J. Sekar: download is not a PDF (the site may have refused it) | Ramsakhi Gupta v. Icici Lombard General Insurance Co. Ltd: download is not a PDF (the site may have refused it) | 3s and Our Health Society v. Union of India: download is not a PDF (the site may have refused it)"
- ]
+ "notes": []
 }

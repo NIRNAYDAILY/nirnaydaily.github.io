@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-27T07:24+05:30",
+ "updated": "2026-11-27T10:29+05:30",
  "news": [
+  {
+   "edition": "2026-11-27-am",
+   "headline": "Constitution Day: CJI Surya Kant says Supreme Court must not stay a court for the privileged few, lists access measures",
+   "src": "https://www.livelaw.in/top-stories/supreme-court-must-not-remain-a-court-of-privileged-few-cji-surya-kant-on-constitution-day-560176"
+  },
+  {
+   "edition": "2026-11-27-am",
+   "headline": "Criticism of courts driven by political agendas is wrong, CJI says at SCBA's Constitution Day event",
+   "src": "https://lawbeat.in/top-stories/cji-surya-kant-at-scba-constitution-day-celebrations-judicial-criticism-should-not-be-motivated-by-political-agendas-1655248"
+  },
+  {
+   "edition": "2026-11-27-am",
+   "headline": "Two judges resigned after CJI intervened during my tenure, says Justice SK Kaul; backs a modified NJAC",
+   "src": "https://www.barandbench.com/news/two-judges-resigned-after-intervention-by-chief-justice-of-india-during-my-tenure-justice-sk-kaul"
+  },
+  {
+   "edition": "2026-11-27-am",
+   "headline": "Parliament to sit again from 30 November to 3 December for 'essential government business'",
+   "src": "https://www.livelaw.in/top-stories/parliament-to-have-special-session-from-november-30-to-december-3-for-essential-govt-business-560188"
+  },
+  {
+   "edition": "2026-11-27-am",
+   "headline": "Delhi amends prison rules: up to eight weeks' emergency parole and two-week deadline for police verification",
+   "src": "https://www.scconline.com/blog/post/2026/11/26/delhi-prisons-amendment-rules-2026-emergency-parole-updates/"
+  },
+  {
+   "edition": "2026-11-27-am",
+   "headline": "NLU Odisha opens short course on the three new criminal laws; register by 1 December",
+   "src": "https://www.barandbench.com/Law-School/ccjhr-at-nluo-announces-single-credit-course-on-new-criminal-laws-in-india-register-by-december-1"
+  },
+  {
+   "edition": "2026-11-27-am",
+   "headline": "Attorney General says judges are under strain from 'mindless' attacks on courts, urges Centre to invest more in justice",
+   "src": "https://lawbeat.in/top-stories/judges-minds-under-stress-courts-being-denigrated-due-to-mindless-freedom-of-expression-ag-venkataramani-1655503"
+  },
   {
    "edition": "2026-11-26-am",
    "headline": "CJI Surya Kant asks for fact-finding report on complaints against Jharkhand HC's senior-most puisne judge",
@@ -300,19 +335,69 @@
    "edition": "2026-10-21-am",
    "headline": "Meghalaya High Court Legal Services Committee invites applications for a Legal Assistant post",
    "src": "https://www.livelaw.in/job-updates/legal-assistant-vacancy-at-high-court-legal-services-committee-high-court-of-meghalaya-shillong-555433"
-  },
-  {
-   "edition": "2026-10-20-pm",
-   "headline": "High Court holds ceremonial sitting in Leh for its new Ladakh bench; Full Court backs safe hostels for girl students",
-   "src": "https://www.livelaw.in/news-updates/jk-and-ladakh-high-court-marks-ladakh-bench-inauguration-with-ceremonial-sitting-at-leh-555357"
-  },
-  {
-   "edition": "2026-10-20-pm",
-   "headline": "Former Supreme Court judge Abhay S. Oka takes over as President of the Indian Law Society, Pune",
-   "src": "https://www.barandbench.com/Law-School/justice-abhay-oka-becomes-president-of-indian-law-society"
   }
  ],
  "tribunals": [
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Pashupati Corporation v. Rakesh Dugar & Uttam Tekriwal",
+   "src": "https://livelawbiz.com/ibc/rp-cannot-use-cirp-proceedings-of-a-cd-to-collaterally-challenge-sale-conducted-in-separate-liquidation-nclat-560152"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Microtek International Pvt. Ltd. v. Anil Gupta & Ors.",
+   "src": "https://livelawbiz.com/company-law/taking-ey-benchmarking-report-on-record-in-microtek-oppression-case-causes-no-prejudice-nclat-560170"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Jineshwar Siddagouda Patil v. Jamakhandi Sugars Ltd. & Ors.",
+   "src": "https://livelawbiz.com/company-law/nclt/national-company-law-tribunal-bengaluru-allows-jamakhandi-sugars-egm-keeps-resolution-abeyance-share-payment-verification-560112"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Neyveli Lignite Corporation v. Commissioner of GST & Central Excise",
+   "src": "https://www.livelawbiz.com/service-tax/cestat/service-tax-not-payable-on-free-accommodation-and-other-facilities-provided-to-cisf-personnel-cestat-chennai-560155"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Tirumala Tirupati Devasthanams v. Commissioner of Central Tax, Tirupati - CGST",
+   "src": "https://www.livelawbiz.com/custom-excise-service-tax/cestat-hyderabad-sets-aside-225-crore-service-tax-demand-against-tirumala-tirupati-devasthanam-560164"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Maruti Suzuki India Limited",
+   "src": "https://www.taxscan.in/excise-customs/natural-gas-short-off-take-compensation-eligible-for-cenvat-credit-cestat-allows-maruti-suzukis-appeal-read-order"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Vera Display and Storage Products Private Limited v. The Commissioner of Keralam State GST, Thiruvananthapuram",
+   "src": "https://www.livelawbiz.com/gstat/non-generation-of-e-way-bill-for-igst-paid-imported-goods-a-procedural-lapse-not-tax-evasion-gstat-ernakulam-560189"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Rajnish Jha & Anr. v. Maharashtra Real Estate Regulatory Authority & Ors.",
+   "src": "https://www.livelawbiz.com/rera/two-thirds-homebuyer-consent-not-required-for-promoters-conversion-into-company-if-ownership-remains-unchanged-maharashtra-reat-560144"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Kavita Jalan",
+   "src": "https://www.taxscan.in/income-tax/sale-proceeds-of-flat-given-to-director-by-company-not-taxable-as-other-income-itat-deletes-220-cr-income-tax-addition-read-order"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Kamlesh Chandra",
+   "src": "https://www.taxscan.in/income-tax/advance-payment-by-cheque-before-agreement-itat-directs-adoption-of-stamp-duty-value-on-agreement-date-us-562x-of-income-tax-act-read-order"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "Jyotsna Lamps Caps Private Limited",
+   "src": "https://www.taxscan.in/income-tax/capital-gain-taxation-on-sale-of-agri-land-itat-orders-to-reassess-distance-of-land-from-municipal-limits-based-on-rti-record-read-order"
+  },
+  {
+   "edition": "27 Nov 2026",
+   "caseName": "The Institution Management Committee of ITI",
+   "src": "https://www.taxscan.in/income-tax/wrong-itr-form-cannot-deny-s-1023ciiiad-exemption-to-registered-society-itat-allows-2258-lakh-claim-under-income-tax-act-read-order"
+  },
   {
    "edition": "26 Nov 2026",
    "caseName": "Shree Varun Infratech v. Jigar Pradipchandra Shah & Ors.",
@@ -737,72 +822,12 @@
    "edition": "21 Nov 2026",
    "caseName": "Ghulam Nabi Magray v. Executive Engineer, KPDCL, Division Handwara",
    "src": "https://www.livelaw.in/consumer-cases/new-house-saddled-with-21-lakh-joint-family-electricity-dues-kupwara-consumer-commission-quashes-bill-559362"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Mrinal Harsh Vardhan v. Hynite Farms Pvt. Ltd. & Anr.",
-   "src": "https://www.livelawbiz.com/ibc/nclat-expunges-adverse-remarks-against-advocate-over-email-seeking-upload-of-nclt-order-555565"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Beacon Trusteeship Limited v. Vatika IT Parks Private Limited",
-   "src": "https://www.livelawbiz.com/ibc/nclt-delhi-admits-beacon-trusteeships-insolvency-plea-against-vatika-it-parks-for-rs-23375-crore-debenture-default-555612"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Vivek Khanna & Ors. v. Gaurav Katiyar",
-   "src": "https://www.livelawbiz.com/amp/ibc/allegations-of-proxy-claims-family-ties-not-enough-to-exclude-creditors-from-coc-nclt-delhi-555608"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Vivek Khanna & Ors. v. Gaurav Katiyar",
-   "src": "https://www.livelawbiz.com/ibc/homebuyers-cant-demand-other-creditors-account-statements-over-suspected-false-claims-nclt-delhi-555632"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Srinivasan PR (Liquidator) in the matter of Asten Realtors Private Limited",
-   "src": "https://www.livelawbiz.com/nclt/national-company-law-tribunal-kochi-successful-auction-bidder-no-vested-right-to-property-before-sale-concluded-555613"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Cornell University v. Deputy Commissioner of Income Tax (International Taxation)",
-   "src": "https://www.livelawbiz.com/amp/income-tax/cornell-universitys-1723-crore-educational-course-receipts-not-taxable-as-fees-for-included-services-555563"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Cornerstone OnDemand International Limited v. Assistant Commissioner of Income Tax (International Taxation)",
-   "src": "https://www.livelawbiz.com/income-tax/pe-of-foreign-enterprise-cannot-be-presumed-from-indian-associates-activities-555597"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Ritu Rajesh Gohil",
-   "src": "https://www.taxscan.in/income-tax/woman-holds-two-pans-before-and-after-marriage-faces-rs-569-crore-income-addition-over-bank-transactions-itat-orders-fresh-verification-read-order"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Natasha Automobiles Private Limited",
-   "src": "https://www.taxscan.in/gst/hyundai-creta-alcazar-and-tucson-qualify-as-suvs-for-22-compensation-cess-gstat-restores-gst-demand"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Smt. Parul v. Metro Heart Institute with Multi Speciality & Ors.",
-   "src": "https://www.livelaw.in/consumer-cases/ncdrc-finds-hospital-and-treating-doctor-negligent-in-post-operative-care-awards-20-lakh-compensation-555598"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "M/s. Five Mount Villa Owners Welfare Association v. M/s. Bahri Estates Pvt. Ltd. & Anr.",
-   "src": "https://www.livelawbiz.com/rera/limitation-act-applies-to-rera-compensation-claims-delay-in-handing-over-possession-does-not-create-fresh-cause-of-action-tamil-nadu-reat-555609"
-  },
-  {
-   "edition": "23 Oct 2026",
-   "caseName": "Case title not yet reported",
-   "src": "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-clears-maybach-asia-holdings-acquisition-sahrudaaya-health-care-private-limited-555564"
   }
  ],
  "latest": {
-  "digest": "26 Nov 2026",
-  "tribunals": "26 Nov 2026",
-  "news": "2026-11-26-am",
+  "digest": "27 Nov 2026",
+  "tribunals": "27 Nov 2026",
+  "news": "2026-11-27-am",
   "careersBooklet": "2026-11-21",
   "careersPool": "2026-11-21"
  }
