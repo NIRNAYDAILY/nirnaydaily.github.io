@@ -1,0 +1,123 @@
+{
+ "edition": {
+  "dateLong": "Saturday, 28 November 2026",
+  "dateShort": "28 Nov 2026",
+  "window": "Orders and decisions passed or reported between 10:00 AM IST on 27 November 2026 and 10:00 AM IST on 28 November 2026"
+ },
+ "items": [
+  {
+   "tribunal": "NCLAT",
+   "bench": "NCLAT, New Delhi",
+   "caseName": "Santu Karar v. Stemztech Industries Private Limited & Raj Singhania",
+   "citation": "2026 LLBiz NCLAT 449",
+   "caseNo": "Company Appeal (AT) (Insolvency) 1568/2026",
+   "coram": "Justice Mohammad Faiz Alam Khan (Judicial Member), Naresh Salecha (Technical Member)",
+   "date": "Reported 27 Nov 2026",
+   "headline": "Money put into a loss-sharing joint project is not a 'financial debt' under the IBC",
+   "kind": "Held",
+   "text": "The NCLAT set aside the admission of Stemztech's Section 7 insolvency plea against Oscorp Industries, holding that the ₹2.25 crore advanced under a joint railway project was not a financial debt because Stemztech also shared half the project's losses. A funder taking a profit share can still be a lender, but only if the principal is repayable whatever happens to the project. Disputes over recovery or set-off must go to a civil court or arbitrator.",
+   "tag": "Insolvency (IBC)",
+   "src": "https://www.livelawbiz.com/ibc/funder-sharing-project-profits-can-be-a-financial-creditor-if-principal-is-repayable-regardless-of-outcome-nclat-560308",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "NCLT",
+   "bench": "NCLT, Mumbai",
+   "caseName": "Ram Singh Setia, RP of Bombay Rayon Clothing Limited v. Committee of Creditors of Bombay Rayon Clothing Limited",
+   "citation": "2026 LLBiz NCLT (MUM) 1191",
+   "caseNo": "IA (I.B.C.) (Plan) No. 124/MB/2025 in CP (IB) No. 646/MB/2024",
+   "coram": "Ashish Kalia (Judicial Member), Banwari Lal Meena (Technical Member)",
+   "date": "Decided 26 Nov 2026",
+   "headline": "KVN Enterprises' ₹176.50 crore plan to revive Bombay Rayon Clothing approved",
+   "kind": "Held",
+   "text": "The NCLT Mumbai approved KVN Enterprises LLP's resolution plan for Bombay Rayon Clothing, which had 100% CoC backing, against admitted claims of about ₹353 crore. The CoC's decision to let the company keep recoveries from fraudulent-transaction applications was accepted, following the Supreme Court's Piramal v. 63 Moons ruling. The Bench added that approval does not automatically grant the reliefs the applicant sought; statutory approvals must still be obtained.",
+   "tag": "Insolvency (IBC)",
+   "src": "https://www.livelawbiz.com/nclt/nclt-approves-kvn-enterprises-resolution-plan-for-bombay-rayon-clothing-allows-distribution-of-pufe-recoveries-between-sra-and-secured-creditor-560281",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "NCLT",
+   "bench": "NCLT, Mumbai",
+   "caseName": "Priority Commotrade Private Limited & Anr. v. Ram Singh Setia & Anr.",
+   "citation": "2026 LLBiz NCLT (MUM) 1190",
+   "caseNo": "IA (IB.C) Nos. 5241/MB/2025 and 5415/MB/2025 in CP (IB) No. 646/MB/2024",
+   "coram": "Ashish Kalia (Judicial Member), Banwari Lal Meena (Technical Member)",
+   "date": "Decided 26 Nov 2026",
+   "headline": "Late bidders cannot demand equal footing in Bombay Rayon CIRP",
+   "kind": "Held",
+   "text": "The NCLT Mumbai dismissed pleas by Priority Commotrade and Advantech Technology against their exclusion from the Bombay Rayon Clothing insolvency process. A revised plan filed after the final deadline could not be treated on par with timely bids, and the CoC was entitled to negotiate only with the top two bidders as the bid document allowed. Advantech's challenge was premature, and an unsuccessful resolution applicant has no standing to challenge a plan.",
+   "tag": "Insolvency (IBC)",
+   "src": "https://www.livelawbiz.com/nclt/nclt-dismisses-challenges-to-exclusion-from-resolution-process-of-bombay-rayon-clothing-560301",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "SAT",
+   "bench": "SAT, Mumbai",
+   "caseName": "Madhav Power Private Limited v. Securities and Exchange Board of India & Anr.",
+   "citation": "2026 LLBiz SAT 39",
+   "caseNo": "Appeal No. 949 of 2023",
+   "coram": "Justice P.S. Dinesh Kumar (Presiding Officer), Meera Swarup and Dr. Dheeraj Bhatnagar (Technical Members)",
+   "date": "Reported 27 Nov 2026",
+   "headline": "Merged company must pay ₹1 crore SEBI penalty despite later demerger",
+   "kind": "Held",
+   "text": "The SAT held Madhav Power liable for a ₹1 crore takeover-code penalty that SEBI imposed in 2015 on Shankeshwar Metals, which later merged into it. A subsequent demerger scheme did not shift that statutory liability, since both schemes said statutory liabilities would not be wiped out. The tribunal also found the demand notice had been served by email.",
+   "tag": "Securities Law",
+   "src": "https://www.livelawbiz.com/securities-law/sat/securities-appellate-tribunal-madhav-power-liable-for-shankeshwar-metals-1-crore-sebi-penalty-despite-subsequent-demerger-560312",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "RERA",
+   "bench": "Haryana RERA, Panchkula",
+   "caseName": "Sham Lal Goel v. TDI Infrastructure Ltd.",
+   "citation": "2026 LLBiz RERA (HR) 167",
+   "caseNo": "Complaint No. 889 of 2024",
+   "coram": "Chander Shekhar (Member)",
+   "date": "Reported 27 Nov 2026",
+   "headline": "Developer cannot swap an allotted plot for a vague 'alternative plot'",
+   "kind": "Held",
+   "text": "The Haryana RERA held that TDI Infrastructure could not escape its duty to hand over an allotted plot by offering an unspecified alternative, made almost ten years late and with no plot, location or size named. Failure to give possession was a continuing wrong, so the limitation objection failed. The buyer was awarded about ₹31.38 lakh in delay interest plus monthly interest until a valid possession offer.",
+   "tag": "Real Estate (RERA)",
+   "src": "https://www.livelawbiz.com/rera/developer-cannot-substitute-allotted-plot-with-unspecified-alternative-plot-haryana-rera-560317",
+   "srcName": "LiveLaw Biz"
+  },
+  {
+   "tribunal": "ITAT",
+   "bench": "ITAT, Rajkot",
+   "caseName": "M/s Biogen Pharmachem Industries Ltd. (earlier Sun Techno Overseas Ltd.)",
+   "citation": "2026 TAXSCAN (ITAT) 1611",
+   "date": "Reported 27 Nov 2026",
+   "headline": "Later transfer order cannot save a reopening notice issued by an officer without jurisdiction",
+   "kind": "Held",
+   "text": "The ITAT Rajkot quashed a ₹5 crore unexplained-credit addition for AY 2014-15 because the Section 148 notice was issued by an Ahmedabad officer who had no jurisdiction over the company. A jurisdiction transfer order passed afterwards could not cure the defective notice. The tribunal first condoned a 703-day delay in filing the appeal.",
+   "tag": "Income Tax",
+   "src": "https://www.taxscan.in/income-tax/itat-quashes-5-crore-addition-holds-post-reassessment-jurisdictional-transfer-order-fails-to-justify-notice-us-148-read-order",
+   "srcName": "Taxscan"
+  },
+  {
+   "tribunal": "ITAT",
+   "bench": "ITAT, Raipur",
+   "caseName": "Pradeep Kumar Gupta",
+   "citation": "2026 TAXSCAN (ITAT) 1617",
+   "date": "Reported 27 Nov 2026",
+   "headline": "Reassessment quashed as assessee got 30 days, not three months, to file return",
+   "kind": "Held",
+   "text": "The ITAT Raipur quashed the AY 2020-21 reassessment because the Section 148 notice gave the assessee only 30 days to file a return. The law requires three months from the end of the month in which the notice is issued. The defect made the notice invalid from the start.",
+   "tag": "Income Tax",
+   "src": "https://www.taxscan.in/income-tax/failure-to-allow-three-months-to-file-return-renders-s-148-notice-void-ab-initio-itat-quashes-reassessment-under-income-tax-act-read-order",
+   "srcName": "Taxscan"
+  },
+  {
+   "tribunal": "GSTAT",
+   "bench": "GSTAT, Kolkata",
+   "caseName": "Optival Health Solutions Private Limited",
+   "citation": "2026 TAXSCAN (GSTAT) 365",
+   "date": "Reported 27 Nov 2026",
+   "headline": "Transitional credit cannot be allowed on a random sample of invoices",
+   "kind": "Held",
+   "text": "The GSTAT Kolkata held that transitional input tax credit under Section 140(3) cannot be granted just by checking randomly picked invoices. Claims must be verified against returns, stock records, ledgers and other financial documents. The dispute concerned transitional credits of about ₹65.9 lakh and ₹36.9 lakh claimed by a pharmacy retail chain.",
+   "tag": "GST",
+   "src": "https://www.taxscan.in/gst/transitional-itc-claims-cannot-be-allowed-solely-on-randomly-selected-invoices-without-corroborating-financial-records-gstat-read-order",
+   "srcName": "Taxscan"
+  }
+ ]
+}
