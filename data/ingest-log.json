@@ -1,11 +1,16 @@
 {
- "ran": "2026-11-28T07:09+05:30",
+ "ran": "2026-11-28T10:36+05:30",
  "processed": [
+  "booklet_2026-11-28.json: careers booklet 2026-11-28",
+  "digest_2026-11-28.json: judgments & orders 28 Nov 2026: 26 items",
+  "news_2026-11-28-am.json: legal news 2026-11-28-am: 6 items",
+  "pool_2026-11-28.json: careers portal: 12 listings (0 closed removed)",
   "sc_2026-11-20-auto.json: supreme court full texts: 0 added, 2 could not be verified",
   "sc_2026-11-23-auto.json: supreme court full texts: 0 added, 1 could not be verified",
   "sc_2026-11-25-auto.json: supreme court full texts: 0 added, 10 could not be verified",
   "sc_2026-11-26-auto.json: supreme court full texts: 0 added, 6 could not be verified",
-  "sc_2026-11-27-auto.json: supreme court full texts: 0 added, 4 could not be verified"
+  "sc_2026-11-27-auto.json: supreme court full texts: 0 added, 4 could not be verified",
+  "tribunals_2026-11-28.json: tribunals 28 Nov 2026: 8 items"
  ],
  "errors": [],
  "notes": [

@@ -1,48 +1,48 @@
 {
  "edition": {
   "title": "Nirnay Daily",
-  "vol": "Vol. I · No. 4",
+  "vol": "Vol. I · No. 5",
   "badge": "",
-  "iso": "2026-11-21",
-  "dateLong": "Saturday, 21 November 2026",
-  "dateShort": "21 Nov 2026",
-  "window": "Openings and exams found between 14 November and 21 November 2026, plus anything with a last date in the next 30 days",
+  "iso": "2026-11-28",
+  "dateLong": "Saturday, 28 November 2026",
+  "dateShort": "28 Nov 2026",
+  "window": "Openings and exams found between 21 November and 28 November 2026, plus anything with a last date in the next 30 days",
   "next": "Next edition: Saturday at 10:00 AM IST",
   "audience": "Law jobs, exams and LLM admissions for final-year students and fresh graduates of 3-year LLB and 5-year integrated law programmes",
   "subtitle": "Careers Edition · Weekly",
   "script": "निर्णय"
  },
  "feature": {
-  "kicker": "Judiciary",
-  "headline": "Fresh graduates have until 31 March 2027 to use the Civil Judge exemption",
-  "text": "Under the Supreme Court's Bhumika Trust judgment (21 Aug 2026), Civil Judge (Junior Division) notifications issued up to 31 March 2027 are open to law graduates, with one year of practice deemed. Notifications from 1 April 2027 will need one year of actual, certified practice. Andhra Pradesh's 119-post exam, now open until 30 November, falls inside that window.",
+  "kicker": "Judiciary eligibility",
+  "headline": "Four months left in the Supreme Court's no-practice window for Civil Judge exams",
+  "text": "Under the Supreme Court's Bhumika Trust judgment of 21 August 2026, all law graduates may apply to Civil Judge (Junior Division) notifications issued up to 31 March 2027 and are deemed to have one year of practice. Notifications issued from 1 April 2027 will require one year of actual practice in the District Courts, so the transition window matters for this year's final-year students and new graduates. Some notifications set their own cut-off on the date of the law degree, so read each notification's eligibility clause before applying.",
   "points": [
-   "Notifications up to 31 Mar 2027: law graduates may apply, and selected candidates do one year of academy training plus a one-year clerkship.",
-   "From 1 Apr 2027: applications only with a certificate of one year's actual practice.",
-   "Each High Court's notification still sets its own conditions, so read the eligibility clause, including the date by which your degree must be obtained."
+   "Notifications up to 31 Mar 2027: all law graduates eligible, deemed one year of practice, no separate practice certificate (para 73(i)).",
+   "Selected candidates serve one year as Trainee Judicial Officers at the State Judicial Academy, then one year of structured law clerkship, before regular appointment (paras 73(ii)-(iv)).",
+   "Notifications on or after 1 Apr 2027: a certificate of one year of actual practice is required (para 74)."
   ],
   "src": "https://api.sci.gov.in/supremecourt/2025/62949/62949_2025_1_1501_73791_Judgement_21-Aug-2026.pdf",
-  "srcName": "Supreme Court of India: Bhumika Trust v. Union of India, 2026 INSC 904"
+  "srcName": "Supreme Court of India, Bhumika Trust v. Union of India, 2026 INSC 904 (21 Aug 2026)"
  },
  "highlights": [
   {
    "label": "Closing 30 Nov",
-   "text": "Andhra Pradesh High Court extended its Civil Judge (Junior Division) applications, 119 posts, to 30 November 2026.",
+   "text": "Last days for the Andhra Pradesh High Court's Civil Judge (Junior Division) exam (119 posts) and the Telangana High Court's Research Assistant (Law) posts.",
    "ref": "judiciary"
   },
   {
    "label": "New",
-   "text": "Telangana High Court wants 16 Research Assistants (Law) who graduated in the last two years; applications by post reach by 30 November.",
-   "ref": "judiciary"
+   "text": "NLSIU Bengaluru wants a Research Associate (LLB/BA LLB, 55%) for its 'Freedom from Violence' project; apply by 3 December, 5 PM.",
+   "ref": "private"
   },
   {
    "label": "LL.M.",
-   "text": "Symbiosis LL.M. 2027–28 applications close 4 December (AIAT on 19 December); MIT-WPU takes LL.M. applications until 14 December.",
+   "text": "Symbiosis LL.M. applications close 4 December; MIT-WPU takes LL.M. applications until 14 December.",
    "ref": "llm"
   },
   {
    "label": "Fellowship",
-   "text": "PRS LAMP Fellowship 2027–28 applications open on 29 November.",
+   "text": "PRS LAMP Fellowship 2027–28 applications open on 29 November and close on 19 December.",
    "ref": "private"
   }
  ],
@@ -57,7 +57,7 @@
      "name": "Civil Judge (Junior Division), 2026",
      "org": "High Court of Andhra Pradesh, Amaravati",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>Law graduates</b>. Check the official notification for the practice requirement, age limit and fee before applying.",
      "facts": [
       {
@@ -78,7 +78,7 @@
        "iso": "2026-11-30"
       }
      ],
-     "note": "The High Court extended the online application deadline a second time, to 30 November 2026, by a notice dated 6 November 2026. Read the notification's eligibility clause, including the date by which your law degree must have been obtained, before applying.",
+     "note": "The High Court extended the online application deadline a second time, to 30 November 2026, by a notice dated 6 November 2026; its recruitment page shows no further extension as of 28 November. Read the notification's eligibility clause, including the date by which your law degree must have been obtained, before applying.",
      "links": [
       {
        "label": "Recruitment page",
@@ -96,7 +96,7 @@
      "name": "Research Assistant (Law), High Court and State Judicial Academy",
      "org": "High Court for the State of Telangana, Hyderabad · Notification No. 29/S0/2026",
      "sector": "Government",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "<b>3-year or 5-year law degree passed within the 2 years before 27 Oct 2026</b>; under 30 years of age as on 1 July; working knowledge of legal databases (Manupatra, SCC Online and similar).",
      "facts": [
       {
@@ -136,7 +136,7 @@
      "org": "Odisha Public Service Commission",
      "sector": "Government",
      "status": "Awaited",
-     "eligibility": "LLB; Odia language proficiency. Under the Supreme Court's August 2026 ruling, <b>fresh graduates are now eligible</b> during the transition period.",
+     "eligibility": "LLB; Odia language proficiency. The Supreme Court's Bhumika Trust judgment (21 Aug 2026) lets <b>all law graduates apply to notifications issued up to 31 March 2027</b>; check OPSC's revised notice for any degree-date cut-off.",
      "facts": [
       {
        "k": "Posts",
@@ -151,7 +151,7 @@
        "v": "₹700 (SC/ST/PwBD exempt)"
       }
      ],
-     "note": "OPSC put the closing date and the prelims on hold after the Supreme Court's order in Bhumika Trust; its notices up to 20 November 2026 still show no new dates. Watch the OPSC site.",
+     "note": "OPSC put the closing date and the prelims on hold after the Supreme Court's order in Bhumika Trust; its website still showed no new dates or corrigendum for this recruitment on 28 November 2026. Watch the OPSC site.",
      "links": [
       {
        "label": "OPSC website",
@@ -163,7 +163,7 @@
      "i18n": {
       "hi": {
        "name": "सिविल न्यायाधीश (कनिष्ठ खंड): ओडिशा न्यायिक सेवा",
-       "eligibility": "LLB; ओड़िया भाषा का ज्ञान। सर्वोच्च न्यायालय के अगस्त 2026 के निर्णय के अनुसार संक्रमण अवधि में <b>नए स्नातक अब पात्र हैं</b>।",
+       "eligibility": "LLB; ओड़िया भाषा का ज्ञान। सर्वोच्च न्यायालय के भूमिका ट्रस्ट निर्णय (21 अगस्त 2026) के अनुसार <b>31 मार्च 2027 तक जारी अधिसूचनाओं में सभी विधि स्नातक आवेदन कर सकते हैं</b>; डिग्री-तिथि की किसी शर्त के लिए OPSC की संशोधित सूचना देखें।",
        "note": "भूमिका ट्रस्ट मामले में सर्वोच्च न्यायालय के आदेश के बाद OPSC ने अंतिम तिथि और प्रारंभिक परीक्षा रोक दी है; इस सप्ताह कोई नई तिथि नहीं आई। OPSC की वेबसाइट देखते रहें।",
        "facts": [
         {
@@ -182,7 +182,7 @@
       },
       "mr": {
        "name": "दिवाणी न्यायाधीश (कनिष्ठ स्तर): ओडिशा न्यायिक सेवा",
-       "eligibility": "LLB; ओडिया भाषेचे ज्ञान. सर्वोच्च न्यायालयाच्या ऑगस्ट 2026 च्या निकालानुसार संक्रमण कालावधीत <b>नवे पदवीधर आता पात्र आहेत</b>.",
+       "eligibility": "LLB; ओडिया भाषेचे ज्ञान. सर्वोच्च न्यायालयाच्या भूमिका ट्रस्ट निकालानुसार (21 ऑगस्ट 2026) <b>31 मार्च 2027 पर्यंत निघणाऱ्या अधिसूचनांसाठी सर्व विधी पदवीधर अर्ज करू शकतात</b>; पदवीच्या तारखेच्या कोणत्याही अटीसाठी OPSC ची सुधारित सूचना पाहा.",
        "note": "भूमिका ट्रस्ट प्रकरणातील सर्वोच्च न्यायालयाच्या आदेशानंतर OPSC ने शेवटची तारीख व पूर्वपरीक्षा स्थगित केली आहे; या आठवड्यात नवीन तारखा आल्या नाहीत. OPSC चे संकेतस्थळ पाहत राहा.",
        "facts": [
         {
@@ -206,7 +206,7 @@
     "title": "Also open, but they need practice experience",
     "list": [
      {
-      "text": "High Court of Jammu & Kashmir and Ladakh: District Judge (Entry Level), 16 posts by direct recruitment from the Bar (practice required); last date for online applications further extended by notice dated 12 Nov 2026, check the notice for the current date",
+      "text": "High Court of Jammu & Kashmir and Ladakh: District Judge (Entry Level), 16 posts by direct recruitment from the Bar (practice required); last date for online applications extended again by Notice No. 284 of 2026 dated 21 Nov 2026, check the notice for the current date",
       "url": "https://jkhighcourt.nic.in/notice.php"
      }
     ]
@@ -320,7 +320,7 @@
      "name": "LL.M. at Symbiosis Law School, Pune",
      "org": "Symbiosis International (Deemed University) · private",
      "sector": "Private",
-     "status": "Open",
+     "status": "Closing soon",
      "eligibility": "3-year or 5-year LLB with 50% (SC/ST 45%); <b>final-year students may apply</b>. Selection: Symbiosis AIAT (70%) plus an online personal interaction (30%).",
      "facts": [
       {
@@ -402,7 +402,7 @@
        "v": "Not yet published"
       }
      ],
-     "note": "The university usually runs its LL.M. CET in the first half of the year. Watch the university's admissions notices.",
+     "note": "The university usually runs its LL.M. CET in the first half of the year; no 2027–28 notice had appeared on its Department of Law announcements page by 28 November 2026. Watch the university's admissions notices.",
      "links": [
       {
        "label": "University of Mumbai",
@@ -452,7 +452,7 @@
        "v": "Not yet published"
       }
      ],
-     "note": "The official portal still shows the 2026 cycle.",
+     "note": "The official portal still showed the 2026 cycle on 28 November 2026.",
      "links": [
       {
        "label": "Official LLM portal",
@@ -507,39 +507,47 @@
    "intro": "Private jobs, fellowships and internships, taken only from the employer's own website. Big firms do not always post fresher roles publicly, so their official application portals are listed below.",
    "items": [
     {
-     "name": "Research Associate, Broiler Chicken Welfare Scoping Study",
-     "org": "NALSAR University of Law, Hyderabad (Animal Law Centre) · Advt. dated 13 Nov 2026",
+     "name": "Research Associate, 'Freedom from Violence' project",
+     "org": "National Law School of India University, Bengaluru",
      "sector": "Fellowship",
      "status": "Closing soon",
-     "eligibility": "<b>Bachelor's degree in any field</b>; life sciences, social sciences, agriculture or veterinary backgrounds and Hindi or other regional languages are preferred. <b>No animal-welfare expertise needed</b>; training is given.",
+     "eligibility": "<b>BA LLB, BBA LLB or LLB</b>, or a master's in social sciences, gender studies, public policy or an allied field, <b>with at least 55% marks</b>. An LL.M. gets added weightage; research experience is preferred, not required.",
      "facts": [
       {
-       "k": "Pay",
-       "v": "₹60,000–70,000 / month"
+       "k": "Posts",
+       "v": "1, full-time contract"
       },
       {
        "k": "Tenure",
-       "v": "4 months, joining 7 Dec 2026"
+       "v": "6 months, based in Bengaluru"
       },
       {
-       "k": "Based in",
-       "v": "Remote, with travel across six states (about 60 farm visits)"
+       "k": "Funded by",
+       "v": "Ministry of Panchayati Raj, under the Nirbhaya Fund"
+      },
+      {
+       "k": "Pay",
+       "v": "As per qualifications and University norms (not stated)"
       },
       {
        "k": "Last date",
-       "v": "22 Nov 2026, 11:59 PM",
-       "iso": "2026-11-22"
+       "v": "3 Dec 2026, 5 PM IST",
+       "iso": "2026-12-03"
       }
      ],
-     "note": "Apply through the Google form named in the advertisement; only shortlisted candidates are interviewed. Queries to the Animal Law Centre at NALSAR.",
+     "note": "The project trains elected women representatives on legal protections for women and girls; work includes legal research, training modules and 15 Master Trainer workshops. Apply through the Google form linked on the official notice with a CV, writing sample, statement of purpose (up to 250 words) and two references.",
      "links": [
       {
-       "label": "Official advertisement (PDF)",
-       "url": "https://nalsar.ac.in/wp-content/uploads/2026/11/Advertisement-for-the-post-of-Research-Associate-for-the-project-on-Broiler-Scoping-Study-13-11-2026.pdf",
+       "label": "Official call for applications",
+       "url": "https://www.nls.ac.in/news-events/call-for-applications-research-associate-freedom-from-violence-capacity-building-of-elected-women-representatives-project/",
        "primary": true
+      },
+      {
+       "label": "NLSIU: Work with us",
+       "url": "https://www.nls.ac.in/news-and-events/work-with-us/"
       }
      ],
-     "added": "2026-11-21"
+     "added": "2026-11-28"
     },
     {
      "name": "Internships, Vidhi Bengal (Kolkata)",
@@ -579,15 +587,16 @@
      "eligibility": "Indian citizens <b>aged 25 or below with a bachelor's degree</b> in any field; you work with a Member of Parliament for a year.",
      "facts": [
       {
-       "k": "2027–28 applications open",
+       "k": "Applications open",
        "v": "29 Nov 2026"
       },
       {
        "k": "Deadline",
-       "v": "Not yet announced"
+       "v": "19 Dec 2026, 11:59 PM (online application)",
+       "iso": "2026-12-19"
       }
      ],
-     "note": "PRS says applications for the 2027–28 LAMP Fellowship open on 29 November. The official page has a form to get an alert when they open.",
+     "note": "PRS says applications for the 2027–28 LAMP Fellowship open on 29 November and the online application must be submitted by 19 December 2026, 11:59 PM. Apply only through the PRS website.",
      "links": [
       {
        "label": "Official how-to-apply page",
@@ -657,64 +666,52 @@
  ],
  "sources": [
   {
-   "title": "High Court of Andhra Pradesh: Recruitments 2026",
-   "url": "https://aphc.gov.in/recruitments.php?year=2026"
-  },
-  {
-   "title": "Supreme Court of India: Bhumika Trust v. Union of India (21 Aug 2026)",
+   "title": "Supreme Court of India: Bhumika Trust v. Union of India, judgment dated 21 Aug 2026",
    "url": "https://api.sci.gov.in/supremecourt/2025/62949/62949_2025_1_1501_73791_Judgement_21-Aug-2026.pdf"
   },
   {
-   "title": "High Court for the State of Telangana: Research Assistant (Law) notification",
-   "url": "https://tg.tshc.gov.in/documents/splofficer_2026_10_28T17_09_48.pdf"
+   "title": "High Court of Andhra Pradesh: Recruitment notifications 2026",
+   "url": "https://aphc.gov.in/recruitments.php?year=2026"
   },
   {
-   "title": "Odisha Public Service Commission",
-   "url": "https://opsc.gov.in"
+   "title": "Odisha Public Service Commission: home and What's New",
+   "url": "https://www.opsc.gov.in/"
   },
   {
    "title": "High Court of J&K and Ladakh: Notices",
    "url": "https://jkhighcourt.nic.in/notice.php"
   },
   {
-   "title": "NITI Aayog: Internship",
-   "url": "https://www.niti.gov.in/internship"
+   "title": "PRS Legislative Research: LAMP Fellowship, how to apply",
+   "url": "https://prsindia.org/lamp/how-to-apply"
   },
   {
-   "title": "NLSIU: NLSAT 2027 notice",
-   "url": "https://www.nls.ac.in/news-events/nlsat-2027-admissions-notification/"
-  },
-  {
-   "title": "NLSIU: Master's in Public Policy",
-   "url": "https://www.nls.ac.in/programme/master-of-public-policy/"
-  },
-  {
-   "title": "Symbiosis Law School Pune: LL.M. admissions",
+   "title": "Symbiosis Law School Pune: LL.M. admission process",
    "url": "https://www.symlaw.ac.in/llm-admissions-process.php"
   },
   {
-   "title": "MIT-WPU: LL.M.",
+   "title": "MIT-WPU: LL.M. programme",
    "url": "https://mitwpu.edu.in/programme/llm"
   },
   {
-   "title": "NMIMS Kirit P. Mehta School of Law: Admissions",
-   "url": "https://law.nmims.edu/admissions/"
+   "title": "NMIMS: LL.M. portal",
+   "url": "https://llm.nmims.edu/"
   },
   {
    "title": "University of Mumbai: Department announcements",
    "url": "https://mu.ac.in/department-announcements"
   },
   {
-   "title": "NALSAR: Research Associate advertisement (13 Nov 2026)",
-   "url": "https://nalsar.ac.in/wp-content/uploads/2026/11/Advertisement-for-the-post-of-Research-Associate-for-the-project-on-Broiler-Scoping-Study-13-11-2026.pdf"
+   "title": "Vidhi Centre for Legal Policy: Careers",
+   "url": "https://vidhilegalpolicy.in/careers/"
   },
   {
-   "title": "PRS Legislative Research: LAMP how to apply",
-   "url": "https://prsindia.org/lamp/how-to-apply"
+   "title": "NLSIU: Call for applications, Research Associate, Freedom from Violence project",
+   "url": "https://www.nls.ac.in/news-events/call-for-applications-research-associate-freedom-from-violence-capacity-building-of-elected-women-representatives-project/"
   },
   {
-   "title": "Vidhi Centre for Legal Policy: Internships",
-   "url": "https://vidhilegalpolicy.in/careers/internships-6/"
+   "title": "NLSIU: Work with us",
+   "url": "https://www.nls.ac.in/news-and-events/work-with-us/"
   }
  ]
 }

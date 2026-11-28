@@ -1,176 +1,148 @@
 {
  "edition": {
-  "edition_id": "2026-11-27-am",
-  "iso": "2026-11-27",
+  "edition_id": "2026-11-28-am",
+  "iso": "2026-11-28",
   "slot": "10 AM",
-  "dateShort": "27 Nov 2026",
-  "dateLong": "Friday, 27 November 2026 · Morning edition",
-  "window": "News from 10:00 AM IST, 26 November to 10:00 AM IST, 27 November 2026"
+  "dateShort": "28 Nov 2026",
+  "dateLong": "Saturday, 28 November 2026 · Morning edition",
+  "window": "News from 10:00 AM IST, 27 November to 10:00 AM IST, 28 November 2026"
  },
  "items": [
   {
    "cat": "Judiciary",
    "region": "All India",
-   "body": "Supreme Court of India",
-   "headline": "Constitution Day: CJI Surya Kant says Supreme Court must not stay a court for the privileged few, lists access measures",
-   "text": "Speaking at the Supreme Court's Constitution Day function, CJI Surya Kant set out steps meant to open the Court to ordinary litigants. These include automatic listing of fresh matters, liberty and urgent cases reaching a bench within two working days, and advance priority criteria for persons with disabilities, acid attack survivors, people over 80, BPL and legal-aid litigants. He also pointed to AI translation of judgments through SUAS, the 'One Case, One Data' record system and an AI-powered assistant to guide litigants through procedure.",
-   "why": "Sets out the Court's own priorities on listing and access to justice.",
-   "date": "26 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/supreme-court-must-not-remain-a-court-of-privileged-few-cji-surya-kant-on-constitution-day-560176",
+   "body": "Supreme Court Collegium",
+   "headline": "Former CJI BR Gavai writes to the President, says recent collegium picks favour one community and ignore diversity",
+   "text": "In a letter dated 27 November to President Droupadi Murmu, former CJI BR Gavai alleged that recent Supreme Court Collegium recommendations for appointments and transfers favour one community, which he says has under 5% of the population but over 40% of seats in the Supreme Court. He said SC, ST, OBC, minority and women candidates are being left out, questioned two recent High Court Chief Justice transfers without naming the judges, and urged the President to step in. Copies went to the Prime Minister and Law Minister Arjun Ram Meghwal.",
+   "why": "A former CJI publicly questioning the collegium's choices adds pressure on how judges are selected.",
+   "date": "27 Nov 2026",
+   "src": "https://www.livelaw.in/top-stories/one-community-being-appeased-ex-cji-gavai-writes-to-president-complaining-of-lack-of-diversity-in-judges-appointments-560264",
    "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "body": "भारत का सर्वोच्च न्यायालय",
-     "headline": "संविधान दिवस: CJI Surya Kant ने कहा, सर्वोच्च न्यायालय कुछ विशेषाधिकार-प्राप्त लोगों का न्यायालय नहीं बना रहना चाहिए; न्याय तक पहुँच के उपाय गिनाए",
-     "text": "सर्वोच्च न्यायालय के संविधान दिवस समारोह में CJI Surya Kant ने आम पक्षकारों के लिए न्यायालय तक पहुँच आसान करने के कदम बताए। इनमें नए मामलों की स्वतः सूचीबद्धता, व्यक्तिगत स्वतंत्रता और अत्यावश्यक मामलों का दो कार्य-दिवसों में पीठ के सामने आना, और दिव्यांगजन, एसिड हमले से बचे लोग, 80 वर्ष से अधिक आयु के लोग, BPL तथा विधिक सहायता वाले पक्षकारों के लिए प्राथमिकता के मानदंड शामिल हैं। उन्होंने SUAS के ज़रिए निर्णयों के AI अनुवाद, 'One Case, One Data' रिकॉर्ड प्रणाली और पक्षकारों को प्रक्रिया समझाने वाले AI सहायक का भी उल्लेख किया।",
-     "why": "सूचीबद्धता और न्याय तक पहुँच पर न्यायालय की अपनी प्राथमिकताएँ इससे स्पष्ट होती हैं।"
+     "body": "सर्वोच्च न्यायालय कॉलेजियम",
+     "headline": "पूर्व CJI BR Gavai ने राष्ट्रपति को पत्र लिखा, कहा- हाल की कॉलेजियम सिफ़ारिशें एक समुदाय के पक्ष में, विविधता की अनदेखी",
+     "text": "27 नवंबर के पत्र में पूर्व CJI BR Gavai ने राष्ट्रपति Droupadi Murmu से कहा कि न्यायाधीशों की नियुक्ति और स्थानांतरण पर सर्वोच्च न्यायालय कॉलेजियम की हाल की सिफ़ारिशें एक समुदाय के पक्ष में हैं, जिसकी आबादी 5% से कम है पर सर्वोच्च न्यायालय में हिस्सेदारी 40% से अधिक है। उन्होंने कहा कि SC, ST, OBC, अल्पसंख्यक और महिला उम्मीदवार पीछे छूट रहे हैं, बिना नाम लिए उच्च न्यायालयों के मुख्य न्यायाधीशों के दो हाल के स्थानांतरणों पर सवाल उठाए और राष्ट्रपति से हस्तक्षेप का आग्रह किया। पत्र की प्रतियाँ प्रधानमंत्री और विधि मंत्री Arjun Ram Meghwal को भी भेजी गईं।",
+     "why": "एक पूर्व CJI का कॉलेजियम के चयन पर सार्वजनिक रूप से सवाल उठाना न्यायाधीशों के चयन की प्रक्रिया पर दबाव बढ़ाता है।"
     },
     "mr": {
-     "body": "भारताचे सर्वोच्च न्यायालय",
-     "headline": "संविधान दिन: सर्वोच्च न्यायालय मोजक्या विशेषाधिकारप्राप्त लोकांचे न्यायालय राहू नये, असे CJI Surya Kant म्हणाले; न्यायापर्यंत पोहोचण्याचे उपाय सांगितले",
-     "text": "सर्वोच्च न्यायालयाच्या संविधान दिन कार्यक्रमात CJI Surya Kant यांनी सामान्य पक्षकारांसाठी न्यायालय सुलभ करण्याची पावले सांगितली. यात नवीन प्रकरणांची आपोआप सूचीबद्धता, वैयक्तिक स्वातंत्र्य व तातडीची प्रकरणे दोन कामकाजाच्या दिवसांत खंडपीठासमोर येणे, आणि दिव्यांग व्यक्ती, ॲसिड हल्ल्यातून वाचलेले, 80 वर्षांवरील लोक, BPL व विधी सहाय्य घेणारे पक्षकार यांच्यासाठी प्राधान्याचे निकष यांचा समावेश आहे. त्यांनी SUAS द्वारे निकालांचे AI भाषांतर, 'One Case, One Data' नोंद प्रणाली आणि पक्षकारांना प्रक्रिया समजावणारा AI सहाय्यक यांचाही उल्लेख केला.",
-     "why": "सूचीबद्धता आणि न्यायापर्यंत पोहोच यांबाबत न्यायालयाचे स्वतःचे प्राधान्यक्रम यातून स्पष्ट होतात."
+     "body": "सर्वोच्च न्यायालय कॉलेजियम",
+     "headline": "माजी CJI BR Gavai यांचे राष्ट्रपतींना पत्र; अलीकडील कॉलेजियम शिफारशी एका समुदायाच्या बाजूने, विविधतेकडे दुर्लक्ष असल्याचा आरोप",
+     "text": "27 नोव्हेंबरच्या पत्रात माजी CJI BR Gavai यांनी राष्ट्रपती Droupadi Murmu यांना कळवले की न्यायाधीशांच्या नियुक्ती व बदल्यांबाबत सर्वोच्च न्यायालय कॉलेजियमच्या अलीकडील शिफारशी एका समुदायाच्या बाजूने आहेत; या समुदायाची लोकसंख्या 5% पेक्षा कमी असूनही सर्वोच्च न्यायालयात त्यांचा वाटा 40% पेक्षा जास्त आहे. SC, ST, OBC, अल्पसंख्याक आणि महिला उमेदवार मागे पडत असल्याचे सांगत त्यांनी नावे न घेता उच्च न्यायालयांच्या मुख्य न्यायमूर्तींच्या दोन अलीकडील बदल्यांवर प्रश्न उपस्थित केले आणि राष्ट्रपतींनी हस्तक्षेप करावा अशी विनंती केली. पत्राच्या प्रती पंतप्रधान आणि विधी मंत्री Arjun Ram Meghwal यांनाही पाठवल्या आहेत.",
+     "why": "माजी CJI यांनी कॉलेजियमच्या निवडीवर जाहीर प्रश्न उपस्थित केल्याने न्यायाधीश निवड प्रक्रियेवरील दबाव वाढतो."
     }
    }
   },
   {
    "cat": "Judiciary",
-   "region": "All India",
-   "body": "Supreme Court Bar Association",
-   "headline": "Criticism of courts driven by political agendas is wrong, CJI says at SCBA's Constitution Day event",
-   "text": "At the Supreme Court Bar Association's Constitution Day function on the Supreme Court lawns, CJI Surya Kant condemned criticism of the judiciary that is driven by political agendas or personal gain. He also said a confident institution should engage with criticism rather than treat every disagreement as a challenge to its authority. Union Law Minister Arjun Ram Meghwal attended as guest of honour.",
-   "date": "26 Nov 2026",
-   "src": "https://lawbeat.in/top-stories/cji-surya-kant-at-scba-constitution-day-celebrations-judicial-criticism-should-not-be-motivated-by-political-agendas-1655248",
-   "srcName": "LawBeat",
+   "region": "Jharkhand",
+   "body": "Jharkhand High Court",
+   "headline": "Justice Sujit Narayan Prasad to act as Chief Justice of Jharkhand High Court from 28 November",
+   "text": "The Department of Justice notified under Article 223 of the Constitution that Justice Sujit Narayan Prasad will perform the duties of Chief Justice of the Jharkhand High Court from 28 November 2026. Chief Justice Mahesh Sharadchandra Sonak retired on 27 November. The Supreme Court Collegium had on 24 November recommended Karnataka HC Chief Justice Vibhu Bakhru for the post.",
+   "date": "27 Nov 2026",
+   "src": "https://www.scconline.com/blog/post/2026/11/27/jharkhand-high-court-chief-justice-appointment-sujit-narayan-prasad/",
+   "srcName": "SCC Online",
    "i18n": {
     "hi": {
-     "body": "Supreme Court Bar Association",
-     "headline": "राजनीतिक एजेंडे से प्रेरित न्यायालयों की आलोचना गलत: SCBA के संविधान दिवस कार्यक्रम में CJI",
-     "text": "सर्वोच्च न्यायालय परिसर में Supreme Court Bar Association के संविधान दिवस कार्यक्रम में CJI Surya Kant ने राजनीतिक एजेंडे या निजी लाभ से प्रेरित न्यायपालिका की आलोचना की निंदा की। उन्होंने यह भी कहा कि आत्मविश्वासी संस्था को आलोचना से संवाद करना चाहिए, न कि हर असहमति को अपने अधिकार के लिए चुनौती मानना चाहिए। केंद्रीय विधि मंत्री Arjun Ram Meghwal विशिष्ट अतिथि के रूप में उपस्थित थे।"
+     "body": "झारखंड उच्च न्यायालय",
+     "headline": "Justice Sujit Narayan Prasad 28 नवंबर से झारखंड उच्च न्यायालय के कार्यवाहक मुख्य न्यायाधीश होंगे",
+     "text": "न्याय विभाग ने संविधान के अनुच्छेद 223 के तहत अधिसूचना जारी की कि Justice Sujit Narayan Prasad 28 नवंबर 2026 से झारखंड उच्च न्यायालय के मुख्य न्यायाधीश के कर्तव्य निभाएँगे। मुख्य न्यायाधीश Mahesh Sharadchandra Sonak 27 नवंबर को सेवानिवृत्त हुए। सर्वोच्च न्यायालय कॉलेजियम ने 24 नवंबर को इस पद के लिए कर्नाटक उच्च न्यायालय के मुख्य न्यायाधीश Vibhu Bakhru के नाम की सिफ़ारिश की थी।"
     },
     "mr": {
-     "body": "Supreme Court Bar Association",
-     "headline": "राजकीय हेतूने प्रेरित न्यायालयांवरील टीका चुकीची: SCBA च्या संविधान दिन कार्यक्रमात CJI",
-     "text": "सर्वोच्च न्यायालयाच्या आवारात Supreme Court Bar Association च्या संविधान दिन कार्यक्रमात CJI Surya Kant यांनी राजकीय हेतू किंवा वैयक्तिक फायद्यासाठी न्यायव्यवस्थेवर होणाऱ्या टीकेचा निषेध केला. आत्मविश्वास असलेल्या संस्थेने टीकेशी संवाद साधावा, प्रत्येक मतभेदाला आपल्या अधिकाराला आव्हान मानू नये, असेही ते म्हणाले. केंद्रीय कायदा मंत्री Arjun Ram Meghwal सन्माननीय अतिथी म्हणून उपस्थित होते."
-    }
-   }
-  },
-  {
-   "cat": "Judiciary",
-   "region": "All India",
-   "body": "Former Supreme Court judge",
-   "headline": "Two judges resigned after CJI intervened during my tenure, says Justice SK Kaul; backs a modified NJAC",
-   "text": "Speaking at the launch of his memoir 'Without Fear or Favour' in New Delhi, former Supreme Court judge Sanjay Kishan Kaul said that during his tenure, two judges quit after the Chief Justice of India stepped in, instead of facing a formal process. He supported a modified National Judicial Appointments Commission of three judges, the Law Minister and an independent member, deciding by majority. He also said adding judges alone may not cut pendency.",
-   "why": "It is rare for a former judge to say publicly that judges have been eased out without a formal process.",
-   "date": "26 Nov 2026",
-   "src": "https://www.barandbench.com/news/two-judges-resigned-after-intervention-by-chief-justice-of-india-during-my-tenure-justice-sk-kaul",
-   "srcName": "Bar & Bench",
-   "i18n": {
-    "hi": {
-     "body": "सर्वोच्च न्यायालय के पूर्व न्यायाधीश",
-     "headline": "मेरे कार्यकाल में CJI के हस्तक्षेप के बाद दो न्यायाधीशों ने इस्तीफ़ा दिया: Justice SK Kaul; संशोधित NJAC का समर्थन",
-     "text": "नई दिल्ली में अपने संस्मरण 'Without Fear or Favour' के विमोचन पर सर्वोच्च न्यायालय के पूर्व न्यायाधीश Sanjay Kishan Kaul ने कहा कि उनके कार्यकाल में भारत के मुख्य न्यायाधीश के हस्तक्षेप के बाद दो न्यायाधीशों ने औपचारिक प्रक्रिया का सामना करने के बजाय पद छोड़ दिया। उन्होंने तीन न्यायाधीशों, विधि मंत्री और एक स्वतंत्र सदस्य वाले, बहुमत से निर्णय लेने वाले संशोधित National Judicial Appointments Commission का समर्थन किया। उन्होंने यह भी कहा कि केवल न्यायाधीश बढ़ाने से लंबित मामले कम नहीं हो सकते।",
-     "why": "किसी पूर्व न्यायाधीश का सार्वजनिक रूप से यह कहना दुर्लभ है कि न्यायाधीशों को औपचारिक प्रक्रिया के बिना हटाया गया।"
-    },
-    "mr": {
-     "body": "सर्वोच्च न्यायालयाचे माजी न्यायमूर्ती",
-     "headline": "माझ्या कार्यकाळात CJI यांच्या हस्तक्षेपानंतर दोन न्यायमूर्तींनी राजीनामा दिला: Justice SK Kaul; सुधारित NJAC चे समर्थन",
-     "text": "नवी दिल्लीत आपल्या 'Without Fear or Favour' या आठवणींच्या पुस्तकाच्या प्रकाशनप्रसंगी सर्वोच्च न्यायालयाचे माजी न्यायमूर्ती Sanjay Kishan Kaul म्हणाले की त्यांच्या कार्यकाळात भारताच्या मुख्य न्यायमूर्तींनी हस्तक्षेप केल्यानंतर दोन न्यायमूर्तींनी औपचारिक प्रक्रियेला सामोरे जाण्याऐवजी पद सोडले. तीन न्यायमूर्ती, कायदा मंत्री आणि एक स्वतंत्र सदस्य असलेल्या आणि बहुमताने निर्णय घेणाऱ्या सुधारित National Judicial Appointments Commission ला त्यांनी पाठिंबा दिला. केवळ न्यायमूर्तींची संख्या वाढवून प्रलंबित प्रकरणे कमी होतीलच असे नाही, असेही ते म्हणाले.",
-     "why": "न्यायमूर्तींना औपचारिक प्रक्रियेशिवाय पद सोडायला लावले गेले, असे माजी न्यायमूर्तींनी जाहीरपणे सांगणे दुर्मीळ आहे."
-    }
-   }
-  },
-  {
-   "cat": "Legislature",
-   "region": "All India",
-   "body": "Parliament",
-   "headline": "Parliament to sit again from 30 November to 3 December for 'essential government business'",
-   "text": "Parliamentary Affairs Minister Kiren Rijiju announced that the Lok Sabha will meet again on 30 November and the Rajya Sabha on 2 December 2026, at the government's request. The sittings may end on 3 December. They continue the Monsoon Session, which was adjourned sine die on 13 August but never prorogued. No specific bills had been announced.",
-   "why": "New legislation could be taken up at short notice; the bills to be listed are not yet known.",
-   "date": "26 Nov 2026",
-   "src": "https://www.livelaw.in/top-stories/parliament-to-have-special-session-from-november-30-to-december-3-for-essential-govt-business-560188",
-   "srcName": "LiveLaw",
-   "i18n": {
-    "hi": {
-     "body": "संसद",
-     "headline": "'आवश्यक सरकारी कामकाज' के लिए संसद 30 नवंबर से 3 दिसंबर तक फिर बैठेगी",
-     "text": "संसदीय कार्य मंत्री Kiren Rijiju ने घोषणा की कि सरकार के अनुरोध पर लोकसभा 30 नवंबर और राज्यसभा 2 दिसंबर 2026 को फिर बैठेगी। बैठकें 3 दिसंबर को समाप्त हो सकती हैं। ये मानसून सत्र का ही विस्तार हैं, जिसे 13 अगस्त को अनिश्चितकाल के लिए स्थगित किया गया था, पर सत्रावसान नहीं हुआ था। अभी किसी विशेष विधेयक की घोषणा नहीं हुई है।",
-     "why": "कम समय की सूचना पर नया कानून लाया जा सकता है; कौन-से विधेयक सूचीबद्ध होंगे, यह अभी ज्ञात नहीं है।"
-    },
-    "mr": {
-     "body": "संसद",
-     "headline": "'आवश्यक सरकारी कामकाजा'साठी संसद 30 नोव्हेंबर ते 3 डिसेंबर पुन्हा भरणार",
-     "text": "संसदीय कामकाज मंत्री Kiren Rijiju यांनी जाहीर केले की सरकारच्या विनंतीवरून लोकसभा 30 नोव्हेंबरला आणि राज्यसभा 2 डिसेंबर 2026 रोजी पुन्हा भरेल. बैठका 3 डिसेंबरला संपू शकतात. या बैठका पावसाळी अधिवेशनाचाच भाग आहेत; ते अधिवेशन 13 ऑगस्टला अनिश्चित काळासाठी तहकूब झाले होते, पण त्याचे सत्रावसान झाले नव्हते. अद्याप कोणत्याही विशिष्ट विधेयकाची घोषणा झालेली नाही.",
-     "why": "अल्प सूचनेवर नवीन कायदा आणला जाऊ शकतो; कोणती विधेयके घेतली जातील हे अद्याप माहीत नाही."
+     "body": "झारखंड उच्च न्यायालय",
+     "headline": "Justice Sujit Narayan Prasad 28 नोव्हेंबरपासून झारखंड उच्च न्यायालयाचे प्रभारी मुख्य न्यायमूर्ती",
+     "text": "न्याय विभागाने संविधानाच्या अनुच्छेद 223 अंतर्गत अधिसूचना काढली की Justice Sujit Narayan Prasad 28 नोव्हेंबर 2026 पासून झारखंड उच्च न्यायालयाच्या मुख्य न्यायमूर्तींची कर्तव्ये पार पाडतील. मुख्य न्यायमूर्ती Mahesh Sharadchandra Sonak 27 नोव्हेंबरला निवृत्त झाले. सर्वोच्च न्यायालय कॉलेजियमने 24 नोव्हेंबरला या पदासाठी कर्नाटक उच्च न्यायालयाचे मुख्य न्यायमूर्ती Vibhu Bakhru यांच्या नावाची शिफारस केली होती."
     }
    }
   },
   {
    "cat": "Executive & Government",
-   "region": "Delhi",
-   "body": "Lieutenant Governor of Delhi",
-   "headline": "Delhi amends prison rules: up to eight weeks' emergency parole and two-week deadline for police verification",
-   "text": "The Delhi Prisons (Amendment) Rules, 2026, in force from 6 November, allow the government to grant up to eight weeks of emergency parole in one spell during epidemics or disasters, or to inmates over 70 or terminally ill. Police, investigating agencies and probation officers must now file parole verification reports within two weeks. A first-time parolee who cannot furnish surety within four weeks can seek relaxation of the condition.",
-   "why": "Faster parole decisions and a standing emergency-release mechanism for Delhi's crowded jails.",
-   "date": "26 Nov 2026",
-   "src": "https://www.scconline.com/blog/post/2026/11/26/delhi-prisons-amendment-rules-2026-emergency-parole-updates/",
-   "srcName": "SCC Online",
+   "region": "Jammu and Kashmir",
+   "body": "Government of Jammu and Kashmir",
+   "headline": "Jammu and Kashmir gets an Advocate General after two years: Senior Advocate Syed Faisal Qadri appointed",
+   "text": "Senior Advocate Syed Faisal Qadri has been notified as the new Advocate General of Jammu and Kashmir. The post had been empty since DC Raina resigned in October 2024, and a PIL had said the vacancy was hurting justice delivery and the Advocates' Welfare Fund committee that the Advocate General heads. On 5 November the administration had told the High Court the post would be filled within a month.",
+   "why": "Fills the UT's top law officer post, which also chairs the advocates' welfare fund committee.",
+   "date": "27 Nov 2026",
+   "src": "https://www.barandbench.com/news/jammu-and-kashmir-finally-gets-advocate-general-after-two-year-wait",
+   "srcName": "Bar & Bench",
    "i18n": {
     "hi": {
-     "body": "दिल्ली के उपराज्यपाल",
-     "headline": "दिल्ली ने जेल नियमों में संशोधन किया: आठ सप्ताह तक आपात पैरोल और पुलिस सत्यापन के लिए दो सप्ताह की समय-सीमा",
-     "text": "6 नवंबर से लागू Delhi Prisons (Amendment) Rules, 2026 के तहत सरकार महामारी या आपदा के समय, या 70 वर्ष से अधिक आयु अथवा असाध्य रूप से बीमार क़ैदियों को एक बार में आठ सप्ताह तक आपात पैरोल दे सकती है। पुलिस, जाँच एजेंसियों और परिवीक्षा अधिकारियों को अब पैरोल सत्यापन रिपोर्ट दो सप्ताह में देनी होगी। पहली बार पैरोल पाने वाला क़ैदी चार सप्ताह में ज़मानतदार न दे पाए तो वह इस शर्त में छूट माँग सकता है।",
-     "why": "दिल्ली की भीड़भाड़ वाली जेलों के लिए पैरोल पर तेज़ निर्णय और स्थायी आपात-रिहाई व्यवस्था।"
+     "body": "जम्मू-कश्मीर सरकार",
+     "headline": "दो साल बाद जम्मू-कश्मीर को महाधिवक्ता मिला: वरिष्ठ अधिवक्ता Syed Faisal Qadri नियुक्त",
+     "text": "वरिष्ठ अधिवक्ता Syed Faisal Qadri को जम्मू-कश्मीर का नया महाधिवक्ता (Advocate General) अधिसूचित किया गया है। अक्टूबर 2024 में DC Raina के इस्तीफ़े के बाद से यह पद खाली था, और एक जनहित याचिका में कहा गया था कि इससे न्याय-व्यवस्था और महाधिवक्ता की अध्यक्षता वाली अधिवक्ता कल्याण कोष समिति का काम प्रभावित हो रहा है। 5 नवंबर को प्रशासन ने उच्च न्यायालय को बताया था कि पद एक महीने में भरा जाएगा।",
+     "why": "केंद्र शासित प्रदेश के सर्वोच्च विधि अधिकारी का पद भरा गया, जो अधिवक्ता कल्याण कोष समिति का भी अध्यक्ष होता है।"
     },
     "mr": {
-     "body": "दिल्लीचे उपराज्यपाल",
-     "headline": "दिल्लीने तुरुंग नियमांत सुधारणा केली: आठ आठवड्यांपर्यंत आपत्कालीन पॅरोल आणि पोलीस पडताळणीसाठी दोन आठवड्यांची मुदत",
-     "text": "6 नोव्हेंबरपासून लागू Delhi Prisons (Amendment) Rules, 2026 नुसार सरकार साथरोग किंवा आपत्तीच्या काळात, किंवा 70 वर्षांवरील अथवा असाध्य आजार असलेल्या कैद्यांना एका वेळी आठ आठवड्यांपर्यंत आपत्कालीन पॅरोल देऊ शकते. पोलीस, तपास यंत्रणा आणि परिवीक्षा अधिकाऱ्यांना आता पॅरोल पडताळणी अहवाल दोन आठवड्यांत द्यावा लागेल. पहिल्यांदा पॅरोल मिळालेला कैदी चार आठवड्यांत जामीनदार देऊ शकला नाही, तर तो या अटीत सवलत मागू शकतो.",
-     "why": "दिल्लीतील गर्दीच्या तुरुंगांसाठी पॅरोलवर जलद निर्णय आणि कायमस्वरूपी आपत्कालीन सुटकेची व्यवस्था."
+     "body": "जम्मू-काश्मीर सरकार",
+     "headline": "दोन वर्षांनंतर जम्मू-काश्मीरला महाधिवक्ता: ज्येष्ठ वकील Syed Faisal Qadri यांची नियुक्ती",
+     "text": "ज्येष्ठ वकील Syed Faisal Qadri यांची जम्मू-काश्मीरचे नवे महाधिवक्ता (Advocate General) म्हणून अधिसूचना निघाली आहे. ऑक्टोबर 2024 मध्ये DC Raina यांनी राजीनामा दिल्यापासून हे पद रिक्त होते, आणि यामुळे न्यायदान तसेच महाधिवक्ता अध्यक्ष असलेल्या वकील कल्याण निधी समितीचे काम अडत असल्याचे एका जनहित याचिकेत म्हटले होते. 5 नोव्हेंबरला प्रशासनाने उच्च न्यायालयाला महिनाभरात पद भरले जाईल असे सांगितले होते.",
+     "why": "केंद्रशासित प्रदेशाच्या सर्वोच्च विधी अधिकाऱ्याचे पद भरले गेले; हा अधिकारी वकील कल्याण निधी समितीचाही अध्यक्ष असतो."
+    }
+   }
+  },
+  {
+   "cat": "Judiciary",
+   "region": "All India",
+   "body": "Supreme Court of India",
+   "headline": "A society that treats women unequally cannot be healthy, says Justice Manmohan at Sunanda Bhandare lecture",
+   "text": "Delivering the 31st Justice Sunanda Bhandare Memorial Lecture on 27 November, Supreme Court judge Justice Manmohan said women are often the last in a household to eat, rest or see a doctor, and that this has to change. He cited a sex ratio of 929 girls per 1,000 boys, nearly 30% of women facing marital violence and nearly 25% of girls married before 18. He called for a change of mindset across society, including in courts and the police.",
+   "date": "27 Nov 2026",
+   "src": "https://www.barandbench.com/news/lady-in-the-house-is-last-person-to-eat-rest-go-to-doctor-it-has-to-change-justice-manmohan",
+   "srcName": "Bar & Bench",
+   "i18n": {
+    "hi": {
+     "body": "भारत का सर्वोच्च न्यायालय",
+     "headline": "महिलाओं से असमान व्यवहार करने वाला समाज स्वस्थ नहीं हो सकता: Sunanda Bhandare व्याख्यान में Justice Manmohan",
+     "text": "27 नवंबर को 31वाँ Justice Sunanda Bhandare स्मृति व्याख्यान देते हुए सर्वोच्च न्यायालय के न्यायाधीश Justice Manmohan ने कहा कि घर में महिलाएँ अक्सर सबसे आख़िर में खाती, आराम करती या डॉक्टर के पास जाती हैं, और यह बदलना होगा। उन्होंने बताया कि लिंगानुपात 1,000 लड़कों पर 929 लड़कियाँ है, लगभग 30% महिलाएँ वैवाहिक हिंसा झेलती हैं और लगभग 25% लड़कियों की शादी 18 वर्ष से पहले हो जाती है। उन्होंने न्यायालयों और पुलिस सहित पूरे समाज की सोच में बदलाव का आह्वान किया।"
+    },
+    "mr": {
+     "body": "भारताचे सर्वोच्च न्यायालय",
+     "headline": "महिलांशी असमान वागणाऱ्या समाजाला निरोगी म्हणता येणार नाही: Sunanda Bhandare व्याख्यानात Justice Manmohan",
+     "text": "27 नोव्हेंबरला 31वे Justice Sunanda Bhandare स्मृती व्याख्यान देताना सर्वोच्च न्यायालयाचे न्यायमूर्ती Justice Manmohan म्हणाले की घरात महिला बहुतेक वेळा सर्वात शेवटी जेवतात, विश्रांती घेतात किंवा डॉक्टरकडे जातात, आणि हे बदलले पाहिजे. त्यांनी सांगितले की लिंगगुणोत्तर 1,000 मुलांमागे 929 मुली आहे, जवळपास 30% महिलांना वैवाहिक हिंसाचार सहन करावा लागतो आणि जवळपास 25% मुलींची लग्ने 18 वर्षांआधी होतात. न्यायालये आणि पोलिसांसह संपूर्ण समाजाची मानसिकता बदलण्याचे आवाहन त्यांनी केले."
+    }
+   }
+  },
+  {
+   "cat": "Judiciary",
+   "region": "West Bengal",
+   "body": "Calcutta High Court",
+   "headline": "Former Calcutta High Court judge Justice Ranjit Kumar Bag passes away at 71",
+   "text": "Former Calcutta High Court judge Justice Ranjit Kumar Bag died on Friday at the age of 71. He joined the West Bengal Judicial Service in 1983, served as Chief Judge of the City Sessions Court, Calcutta, and was elevated to the High Court on 1 October 2013. After retirement he headed the special committee that probed the 2022 West Bengal School Service Commission recruitment scam and sat on a Supreme Court-appointed tribunal of retired judges on voter-list revision in the State.",
+   "date": "27 Nov 2026",
+   "src": "https://www.barandbench.com/news/former-calcutta-high-court-justice-ranjit-kumar-bag-passes-away",
+   "srcName": "Bar & Bench",
+   "i18n": {
+    "hi": {
+     "body": "कलकत्ता उच्च न्यायालय",
+     "headline": "कलकत्ता उच्च न्यायालय के पूर्व न्यायाधीश Justice Ranjit Kumar Bag का 71 वर्ष की आयु में निधन",
+     "text": "कलकत्ता उच्च न्यायालय के पूर्व न्यायाधीश Justice Ranjit Kumar Bag का शुक्रवार को 71 वर्ष की आयु में निधन हो गया। वे 1983 में पश्चिम बंगाल न्यायिक सेवा में आए, कलकत्ता सिटी सेशंस कोर्ट के मुख्य न्यायाधीश रहे और 1 अक्टूबर 2013 को उच्च न्यायालय में पदोन्नत हुए। सेवानिवृत्ति के बाद उन्होंने 2022 के पश्चिम बंगाल स्कूल सर्विस कमीशन भर्ती घोटाले की जाँच करने वाली विशेष समिति की अध्यक्षता की और राज्य में मतदाता सूची पुनरीक्षण पर सर्वोच्च न्यायालय द्वारा गठित सेवानिवृत्त न्यायाधीशों के न्यायाधिकरण में भी रहे।"
+    },
+    "mr": {
+     "body": "कलकत्ता उच्च न्यायालय",
+     "headline": "कलकत्ता उच्च न्यायालयाचे माजी न्यायमूर्ती Justice Ranjit Kumar Bag यांचे 71 व्या वर्षी निधन",
+     "text": "कलकत्ता उच्च न्यायालयाचे माजी न्यायमूर्ती Justice Ranjit Kumar Bag यांचे शुक्रवारी वयाच्या 71 व्या वर्षी निधन झाले. 1983 मध्ये ते पश्चिम बंगाल न्यायिक सेवेत रुजू झाले, कलकत्ता सिटी सेशन्स कोर्टाचे मुख्य न्यायाधीश राहिले आणि 1 ऑक्टोबर 2013 रोजी उच्च न्यायालयात पदोन्नत झाले. निवृत्तीनंतर त्यांनी 2022 च्या पश्चिम बंगाल स्कूल सर्व्हिस कमिशन भरती घोटाळ्याची चौकशी करणाऱ्या विशेष समितीचे अध्यक्षपद भूषवले आणि राज्यातील मतदार यादी पुनरीक्षणासाठी सर्वोच्च न्यायालयाने नेमलेल्या निवृत्त न्यायमूर्तींच्या न्यायाधिकरणातही काम केले."
     }
    }
   },
   {
    "cat": "Legal Education & Careers",
-   "region": "Odisha",
-   "body": "National Law University Odisha",
-   "headline": "NLU Odisha opens short course on the three new criminal laws; register by 1 December",
-   "text": "NLUO's Centre for Criminal Justice and Human Rights is offering a single-credit course on the BNS, BNSS and BSA, running from 5 to 27 December 2026. It is open to students, advocates, academics and other professionals. Fees range from Rs 500 to Rs 1,000.",
-   "date": "26 Nov 2026",
-   "src": "https://www.barandbench.com/Law-School/ccjhr-at-nluo-announces-single-credit-course-on-new-criminal-laws-in-india-register-by-december-1",
-   "srcName": "Bar & Bench",
-   "i18n": {
-    "hi": {
-     "body": "National Law University Odisha",
-     "headline": "NLU Odisha ने तीन नए आपराधिक कानूनों पर लघु पाठ्यक्रम शुरू किया; 1 दिसंबर तक पंजीकरण",
-     "text": "NLUO का Centre for Criminal Justice and Human Rights BNS, BNSS और BSA पर एक-क्रेडिट का पाठ्यक्रम चला रहा है, जो 5 से 27 दिसंबर 2026 तक होगा। यह विद्यार्थियों, अधिवक्ताओं, शिक्षाविदों और अन्य पेशेवरों के लिए खुला है। शुल्क Rs 500 से Rs 1,000 तक है।"
-    },
-    "mr": {
-     "body": "National Law University Odisha",
-     "headline": "NLU Odisha ने तीन नवीन फौजदारी कायद्यांवर अल्पकालीन अभ्यासक्रम सुरू केला; 1 डिसेंबरपर्यंत नोंदणी",
-     "text": "NLUO चे Centre for Criminal Justice and Human Rights BNS, BNSS आणि BSA वर एक-क्रेडिटचा अभ्यासक्रम घेत आहे, जो 5 ते 27 डिसेंबर 2026 दरम्यान चालेल. तो विद्यार्थी, वकील, शिक्षणतज्ज्ञ आणि इतर व्यावसायिकांसाठी खुला आहे. शुल्क Rs 500 ते Rs 1,000 आहे."
-    }
-   }
-  },
-  {
-   "cat": "Other Legal News",
    "region": "All India",
-   "body": "Attorney General for India",
-   "headline": "Attorney General says judges are under strain from 'mindless' attacks on courts, urges Centre to invest more in justice",
-   "text": "Speaking at the Supreme Court's Constitution Day event, Attorney General R Venkataramani said abusive public comment on courts is not protected expression and is putting judges' freedom of thought under strain. He asked the government to put more money into the justice system, especially in rural areas, rather than leaving the task to the Supreme Court.",
-   "date": "26 Nov 2026",
-   "src": "https://lawbeat.in/top-stories/judges-minds-under-stress-courts-being-denigrated-due-to-mindless-freedom-of-expression-ag-venkataramani-1655503",
-   "srcName": "LawBeat",
+   "body": "GAIL (India) Limited",
+   "headline": "GAIL invites applications for Chief General Manager (Law); apply by 2 December",
+   "text": "GAIL (India) Limited is recruiting one Chief General Manager (Law). Candidates need a graduate degree and an LL.B. with at least 50% marks and at least 24 years of executive experience, 16 of them in legal work; up to 8 years as an advocate in a large law firm can count. Applications are online on gailonline.com until 2 December 2026.",
+   "date": "27 Nov 2026",
+   "src": "https://www.livelaw.in/job-updates/chief-general-manager-law-vacancy-at-gail-india-limited-560227",
+   "srcName": "LiveLaw",
    "i18n": {
     "hi": {
-     "body": "भारत के महान्यायवादी",
-     "headline": "महान्यायवादी ने कहा, न्यायालयों पर 'विवेकहीन' हमलों से न्यायाधीश दबाव में; केंद्र से न्याय व्यवस्था में अधिक निवेश का आग्रह",
-     "text": "सर्वोच्च न्यायालय के संविधान दिवस कार्यक्रम में महान्यायवादी R Venkataramani ने कहा कि न्यायालयों पर अपमानजनक सार्वजनिक टिप्पणियाँ संरक्षित अभिव्यक्ति नहीं हैं और इनसे न्यायाधीशों की विचार-स्वतंत्रता पर दबाव पड़ रहा है। उन्होंने सरकार से कहा कि यह काम केवल सर्वोच्च न्यायालय पर न छोड़कर न्याय व्यवस्था में, ख़ासकर ग्रामीण क्षेत्रों में, अधिक धन लगाए।"
+     "body": "GAIL (India) Limited",
+     "headline": "GAIL ने मुख्य महाप्रबंधक (विधि) पद के लिए आवेदन माँगे; अंतिम तिथि 2 दिसंबर",
+     "text": "GAIL (India) Limited मुख्य महाप्रबंधक (विधि) के एक पद पर भर्ती कर रहा है। उम्मीदवारों के पास कम से कम 50% अंकों के साथ स्नातक डिग्री और LL.B. तथा कम से कम 24 वर्ष का कार्यकारी अनुभव होना चाहिए, जिसमें 16 वर्ष विधि कार्य के हों; किसी बड़ी लॉ फ़र्म में अधिवक्ता के रूप में अधिकतम 8 वर्ष गिने जा सकते हैं। आवेदन gailonline.com पर 2 दिसंबर 2026 तक ऑनलाइन किए जा सकते हैं।"
     },
     "mr": {
-     "body": "भारताचे महान्यायवादी",
-     "headline": "न्यायालयांवरील 'विवेकशून्य' हल्ल्यांमुळे न्यायमूर्ती दबावाखाली, असे महान्यायवादी म्हणाले; न्यायव्यवस्थेत अधिक गुंतवणुकीचे केंद्राला आवाहन",
-     "text": "सर्वोच्च न्यायालयाच्या संविधान दिन कार्यक्रमात महान्यायवादी R Venkataramani म्हणाले की न्यायालयांवरील अपमानास्पद सार्वजनिक टिप्पण्या संरक्षित अभिव्यक्ती नाहीत आणि त्यामुळे न्यायमूर्तींच्या विचारस्वातंत्र्यावर ताण येत आहे. हे काम केवळ सर्वोच्च न्यायालयावर न सोडता सरकारने न्यायव्यवस्थेत, विशेषतः ग्रामीण भागात, अधिक निधी गुंतवावा, असे त्यांनी सांगितले."
+     "body": "GAIL (India) Limited",
+     "headline": "GAIL कडून मुख्य महाव्यवस्थापक (विधी) पदासाठी अर्ज मागवले; अंतिम तारीख 2 डिसेंबर",
+     "text": "GAIL (India) Limited मुख्य महाव्यवस्थापक (विधी) या एका पदासाठी भरती करत आहे. उमेदवाराकडे किमान 50% गुणांसह पदवी आणि LL.B. तसेच किमान 24 वर्षांचा कार्यकारी अनुभव हवा, त्यापैकी 16 वर्षे विधी कामाचा; मोठ्या लॉ फर्ममध्ये वकील म्हणून जास्तीत जास्त 8 वर्षे ग्राह्य धरली जाऊ शकतात. gailonline.com वर 2 डिसेंबर 2026 पर्यंत ऑनलाइन अर्ज करता येईल."
     }
    }
   }

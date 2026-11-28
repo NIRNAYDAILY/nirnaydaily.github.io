@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-28T07:09+05:30",
+ "updated": "2026-11-28T10:36+05:30",
  "news": [
+  {
+   "edition": "2026-11-28-am",
+   "headline": "Former CJI BR Gavai writes to the President, says recent collegium picks favour one community and ignore diversity",
+   "src": "https://www.livelaw.in/top-stories/one-community-being-appeased-ex-cji-gavai-writes-to-president-complaining-of-lack-of-diversity-in-judges-appointments-560264"
+  },
+  {
+   "edition": "2026-11-28-am",
+   "headline": "Justice Sujit Narayan Prasad to act as Chief Justice of Jharkhand High Court from 28 November",
+   "src": "https://www.scconline.com/blog/post/2026/11/27/jharkhand-high-court-chief-justice-appointment-sujit-narayan-prasad/"
+  },
+  {
+   "edition": "2026-11-28-am",
+   "headline": "Jammu and Kashmir gets an Advocate General after two years: Senior Advocate Syed Faisal Qadri appointed",
+   "src": "https://www.barandbench.com/news/jammu-and-kashmir-finally-gets-advocate-general-after-two-year-wait"
+  },
+  {
+   "edition": "2026-11-28-am",
+   "headline": "A society that treats women unequally cannot be healthy, says Justice Manmohan at Sunanda Bhandare lecture",
+   "src": "https://www.barandbench.com/news/lady-in-the-house-is-last-person-to-eat-rest-go-to-doctor-it-has-to-change-justice-manmohan"
+  },
+  {
+   "edition": "2026-11-28-am",
+   "headline": "Former Calcutta High Court judge Justice Ranjit Kumar Bag passes away at 71",
+   "src": "https://www.barandbench.com/news/former-calcutta-high-court-justice-ranjit-kumar-bag-passes-away"
+  },
+  {
+   "edition": "2026-11-28-am",
+   "headline": "GAIL invites applications for Chief General Manager (Law); apply by 2 December",
+   "src": "https://www.livelaw.in/job-updates/chief-general-manager-law-vacancy-at-gail-india-limited-560227"
+  },
   {
    "edition": "2026-11-27-am",
    "headline": "Constitution Day: CJI Surya Kant says Supreme Court must not stay a court for the privileged few, lists access measures",
@@ -320,24 +350,49 @@
    "edition": "2026-10-21-pm",
    "headline": "Centre amends government housing allotment rules: 10 days to accept, 3-month debarment for default",
    "src": "https://www.scconline.com/blog/post/2026/10/21/gpra-amendment-rules-2026-allotment-deadlines-penalties-licence-fees/"
-  },
-  {
-   "edition": "2026-10-21-am",
-   "headline": "Madras High Court launches online dashboard to track unclaimed accident and labour court compensation",
-   "src": "https://www.livelaw.in/news-updates/madras-high-court-digital-dashboard-unclaimed-motor-accident-labour-court-awards-555405"
-  },
-  {
-   "edition": "2026-10-21-am",
-   "headline": "Ahead of Oudh Bar Association polls, High Court asks UP Bar Council whether lawyers can change their place of practice",
-   "src": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-cop-changed-place-of-practice-555414"
-  },
-  {
-   "edition": "2026-10-21-am",
-   "headline": "Meghalaya High Court Legal Services Committee invites applications for a Legal Assistant post",
-   "src": "https://www.livelaw.in/job-updates/legal-assistant-vacancy-at-high-court-legal-services-committee-high-court-of-meghalaya-shillong-555433"
   }
  ],
  "tribunals": [
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "Santu Karar v. Stemztech Industries Private Limited & Raj Singhania",
+   "src": "https://www.livelawbiz.com/ibc/funder-sharing-project-profits-can-be-a-financial-creditor-if-principal-is-repayable-regardless-of-outcome-nclat-560308"
+  },
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "Ram Singh Setia, RP of Bombay Rayon Clothing Limited v. Committee of Creditors of Bombay Rayon Clothing Limited",
+   "src": "https://www.livelawbiz.com/nclt/nclt-approves-kvn-enterprises-resolution-plan-for-bombay-rayon-clothing-allows-distribution-of-pufe-recoveries-between-sra-and-secured-creditor-560281"
+  },
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "Priority Commotrade Private Limited & Anr. v. Ram Singh Setia & Anr.",
+   "src": "https://www.livelawbiz.com/nclt/nclt-dismisses-challenges-to-exclusion-from-resolution-process-of-bombay-rayon-clothing-560301"
+  },
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "Madhav Power Private Limited v. Securities and Exchange Board of India & Anr.",
+   "src": "https://www.livelawbiz.com/securities-law/sat/securities-appellate-tribunal-madhav-power-liable-for-shankeshwar-metals-1-crore-sebi-penalty-despite-subsequent-demerger-560312"
+  },
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "Sham Lal Goel v. TDI Infrastructure Ltd.",
+   "src": "https://www.livelawbiz.com/rera/developer-cannot-substitute-allotted-plot-with-unspecified-alternative-plot-haryana-rera-560317"
+  },
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "M/s Biogen Pharmachem Industries Ltd. (earlier Sun Techno Overseas Ltd.)",
+   "src": "https://www.taxscan.in/income-tax/itat-quashes-5-crore-addition-holds-post-reassessment-jurisdictional-transfer-order-fails-to-justify-notice-us-148-read-order"
+  },
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "Pradeep Kumar Gupta",
+   "src": "https://www.taxscan.in/income-tax/failure-to-allow-three-months-to-file-return-renders-s-148-notice-void-ab-initio-itat-quashes-reassessment-under-income-tax-act-read-order"
+  },
+  {
+   "edition": "28 Nov 2026",
+   "caseName": "Optival Health Solutions Private Limited",
+   "src": "https://www.taxscan.in/gst/transitional-itc-claims-cannot-be-allowed-solely-on-randomly-selected-invoices-without-corroborating-financial-records-gstat-read-order"
+  },
   {
    "edition": "27 Nov 2026",
    "caseName": "Pashupati Corporation v. Rakesh Dugar & Uttam Tekriwal",
@@ -772,63 +827,13 @@
    "edition": "22 Nov 2026",
    "caseName": "Jitendrabhai Kacharabhai Thakor",
    "src": "https://www.taxscan.in/income-tax/closing-cash-balance-disclosed-in-pre-demonetisation-itr-cannot-be-disregarded-merely-on-apprehension-itat-deletes-66-lakh-addition-us-68-of-income-tax-act-read-order"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "Rossi Gearmotors (India) Pvt. Ltd. v. Spartan Engineering Industries Pvt. Ltd.",
-   "src": "https://www.livelawbiz.com/nclt/pending-cheque-bounce-cases-no-bar-to-insolvency-proceedings-nclt-mumbai-559310"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "In the matter of Narendra Mithailal Agarwal",
-   "src": "https://www.livelawbiz.com/nclt/co-borrower-liabilities-cannot-be-treated-as-personal-guarantees-to-reject-personal-insolvency-plea-nclt-mumbai-559313"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "Dilipkumar Natvarlal Jagad, Liquidator of Naturell (India) Private Limited",
-   "src": "https://www.livelawbiz.com/ibc/nclt-ahmedabad-declines-dissolution-of-ritebite-max-protein-manufacturer-naturell-india-559328"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "Rajendra Dallaram Choudhary v. Kiran Shah",
-   "src": "https://www.livelawbiz.com/ibc/going-concern-sale-during-liquidation-cannot-be-equated-to-revival-under-resolution-plan-nclt-ahmedabad-559337"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "In the Matter of L&T Power Development Limited and Larsen & Toubro Limited",
-   "src": "https://www.livelawbiz.com/nclt/nclt-mumbai-dispenses-with-lt-shareholder-creditor-meetings-for-subsidiary-merger-559364"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "GRICL Rail Bridge Development Authority Company Ltd",
-   "src": "https://www.livelawbiz.com/company-law/nclt-ahmedabad-orders-winding-up-of-il-fs-subsidiary-gricl-rail-bridge-development-company-559334"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "Vishal Chaudhary v. Bangla Foods Private Limited",
-   "src": "https://www.livelawbiz.com/gst-vat-cst/gstat-delhi-dismisses-departments-136-lakh-gst-appeal-for-falling-below-20-lakh-monetary-limit-559331"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "Shailendra Kumar Singh v. Kamlesh Trading Company",
-   "src": "https://www.livelawbiz.com/gst-vat-cst/unaccounted-stock-found-during-inspection-cannot-be-confiscated-without-tax-determination-proceedings-559309"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "Commissioner State Tax, U.P. (Through Amit Kumar Singh) v. Tempsens Instruments India Limited",
-   "src": "https://www.livelawbiz.com/gstat/mere-failure-to-update-part-b-of-e-way-bill-cannot-attract-gst-penalty-without-intent-to-evade-tax-gstat-agra-559312"
-  },
-  {
-   "edition": "21 Nov 2026",
-   "caseName": "Ghulam Nabi Magray v. Executive Engineer, KPDCL, Division Handwara",
-   "src": "https://www.livelaw.in/consumer-cases/new-house-saddled-with-21-lakh-joint-family-electricity-dues-kupwara-consumer-commission-quashes-bill-559362"
   }
  ],
  "latest": {
-  "digest": "27 Nov 2026",
-  "tribunals": "27 Nov 2026",
-  "news": "2026-11-27-am",
-  "careersBooklet": "2026-11-21",
-  "careersPool": "2026-11-21"
+  "digest": "28 Nov 2026",
+  "tribunals": "28 Nov 2026",
+  "news": "2026-11-28-am",
+  "careersBooklet": "2026-11-28",
+  "careersPool": "2026-11-28"
  }
 }
